@@ -1,0 +1,16 @@
+# Blacklist — postings to permanently hide (e.g. ones you found already filled).
+#
+# HOW TO USE (phone-only):
+#   1. When you spot a dead/filled posting in your README, copy its Apply link.
+#   2. Open this file on GitHub, tap edit (pencil), and paste the link on its
+#      own new line below.
+#   3. Commit. The next run will skip it.
+#
+# Notes:
+#   - One entry per line.
+#   - Lines starting with # are comments and are ignored.
+#   - Matching is "contains", so you can paste the whole URL OR just a unique
+#     piece of it (like the job ID). Example: both of these would work for the
+#     same posting:
+#
+# Add your entries below this line:
