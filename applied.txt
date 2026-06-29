@@ -1,0 +1,19 @@
+# Applied — jobs you've already applied to.
+#
+# Listing a job here doesn't hide it. It marks the row with a ✅ in the
+# "Applied" column of your README, and sorts it below the unapplied roles, so
+# your fresh targets stay at the top. Anything NOT in this file defaults to
+# unapplied (—).
+#
+# Bonus: applied jobs are kept even if they'd normally be hidden by the age
+# cutoff, so you never lose track of something you've already submitted.
+#
+# HOW TO USE (phone-only):
+#   1. After you apply to a role, copy its Apply link from the README.
+#   2. Open this file on GitHub, tap edit, paste the link on a new line.
+#   3. Commit. Next run marks it ✅.
+#
+# Same matching rules as the blacklist: one entry per line, # = comment,
+# and partial/substring matches work (a job ID is enough).
+#
+# Add your entries below this line:
