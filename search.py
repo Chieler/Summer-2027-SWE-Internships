@@ -29,6 +29,9 @@ KEYWORDS = ("software", "swe", "engineer", "developer", "data", "ml", "infra", "
 # Set to 0 to disable the age cutoff entirely.
 MAX_AGE_DAYS = 90
 
+# PRIORITY.md highlights explicit Summer-2027 roles posted within this window.
+PRIORITY_DAYS = 14
+
 UA = "Mozilla/5.0 (compatible; internship-tracker/1.0)"
 
 
@@ -142,6 +145,25 @@ SIMPLIFY_SCHEMA_SOURCES = [
 ]
 
 
+def detect_season(season_field, terms_field, title):
+    """Return a normalized season label like 'Summer 2027' when we can tell,
+    else ''. These repos are all 2027-cycle, so a bare 'Summer' means
+    Summer 2027. We check the structured season field first, then terms,
+    then the title text as a fallback."""
+    blob = " ".join(filter(None, [
+        str(season_field or ""),
+        " ".join(terms_field) if isinstance(terms_field, list) else str(terms_field or ""),
+        title or "",
+    ])).lower()
+    for season in ("summer", "fall", "winter", "spring"):
+        if season in blob:
+            # capture an explicit year if present, else assume 2027 cycle
+            m = re.search(r'20(2[6-9]|3\d)', blob)
+            year = m.group(0) if m else "2027"
+            return f"{season.capitalize()} {year}"
+    return ""
+
+
 def parse_simplify_schema(data):
     """Extract matching rows from a Simplify-schema listings.json blob."""
     rows = []
@@ -155,7 +177,8 @@ def parse_simplify_schema(data):
         url = job.get("url", "")
         if url:
             posted = fmt_date(job.get("date_posted"))
-            rows.append((company, title, url, posted))
+            season = detect_season(job.get("season"), job.get("terms"), title)
+            rows.append((company, title, url, posted, season))
     return rows
 
 
@@ -215,7 +238,8 @@ def source_markdown_table(label, url):
         # strip emoji/flags and markdown from the visible fields
         role = re.sub(r'[🔒🛂🇺🇸]', '', role).strip()
         company = re.sub(r'\[([^\]]+)\]\([^)]+\)', r'\1', company).strip()
-        rows.append((company, role, link, ""))  # no posted date
+        season = detect_season("", "", role)  # season is embedded in role text
+        rows.append((company, role, link, "", season))  # no posted date
     print(f"  [{label}] {len(rows)} matches")
     return rows
 
@@ -237,7 +261,7 @@ def source_greenhouse():
                 raw = job.get("first_published") or job.get("updated_at") or ""
                 if raw:
                     posted = raw[:10]  # 'YYYY-MM-DD...' -> 'YYYY-MM-DD'
-                results.append((board.capitalize(), title, job.get("absolute_url", ""), posted))
+                results.append((board.capitalize(), title, job.get("absolute_url", ""), posted, detect_season("", "", title)))
         time.sleep(0.3)
     return results
 
@@ -256,7 +280,7 @@ def source_lever():
             if matches(title):
                 # Lever gives createdAt as Unix milliseconds
                 posted = fmt_date(job.get("createdAt"))
-                results.append((board.capitalize(), title, job.get("hostedUrl", ""), posted))
+                results.append((board.capitalize(), title, job.get("hostedUrl", ""), posted, detect_season("", "", title)))
         time.sleep(0.3)
     return results
 
@@ -282,15 +306,19 @@ def dedupe(rows):
     """Collapse duplicate listings across sources.
 
     Two rows are duplicates if they share the same apply URL, OR the same
-    normalized (company, role) pair. When duplicates collide we keep the one
-    with a posted date (more informative), preferring earlier-listed sources
-    on ties. Input/return: list of (company, role, url, posted) tuples.
+    normalized (company, role) pair. When duplicates collide we keep the most
+    informative version (prefers one that has a posted date and/or a detected
+    season). Rows are (company, role, url, posted, season) tuples.
     """
+    def score(r):
+        # higher = more informative
+        return (1 if r[3] else 0) + (1 if len(r) > 4 and r[4] else 0)
+
     seen_url = {}
     seen_pair = {}
     out = []
     for row in rows:
-        company, role, url, posted = row
+        company, role, url, posted = row[0], row[1], row[2], row[3]
         url_key = (url or "").strip().lower().rstrip("/")
         pair_key = (_norm(company), _norm(role))
 
@@ -307,8 +335,7 @@ def dedupe(rows):
                 seen_url[url_key] = idx
             seen_pair[pair_key] = idx
         else:
-            kept = out[prior_idx]
-            if not kept[3] and posted:   # upgrade undated -> dated
+            if score(row) > score(out[prior_idx]):
                 out[prior_idx] = row
                 if url_key:
                     seen_url[url_key] = prior_idx
@@ -365,7 +392,8 @@ def build_readme(buckets, linkedin_url, applied=None):
             key=lambda r: (is_applied(r[2], applied), _neg_date_key(r[3])),
         )
         seen = set()
-        for company, role, link, posted in rows_sorted:
+        for row in rows_sorted:
+            company, role, link, posted = row[0], row[1], row[2], row[3]
             key = (company, role)
             if key in seen:
                 continue
@@ -387,6 +415,69 @@ def build_readme(buckets, linkedin_url, applied=None):
         f"Add filled roles to `blacklist.txt` to hide them. "
         f"Generated automatically by GitHub Actions._"
     )
+    return "\n".join(lines)
+
+
+def is_summer_2027(season, role):
+    """True if this role is specifically a Summer 2027 posting."""
+    text = f"{season or ''} {role or ''}".lower()
+    if "summer" not in text:
+        return False
+    # exclude if some other year is explicitly named and it isn't 2027
+    years = re.findall(r'20(2[0-9]|3\d)', text)
+    if years and "27" not in years:
+        return False
+    return True
+
+
+def recent_within(posted, days):
+    if not posted:
+        return False
+    try:
+        d = datetime.strptime(posted, "%Y-%m-%d").replace(tzinfo=timezone.utc)
+    except ValueError:
+        return False
+    return (datetime.now(timezone.utc) - d) <= timedelta(days=days)
+
+
+def build_priority(rows, applied=None):
+    """Render PRIORITY.md: explicit Summer 2027 roles posted very recently,
+    newest first. `rows` is the deduped, already-filtered pool."""
+    applied = applied or []
+    now = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
+    hits = [
+        r for r in rows
+        if is_summer_2027(r[4] if len(r) > 4 else "", r[1])
+        and recent_within(r[3], PRIORITY_DAYS)
+    ]
+    hits.sort(key=lambda r: _neg_date_key(r[3]))
+
+    lines = [
+        "# 🔥 Priority — Fresh Summer 2027 Roles",
+        "",
+        f"_**Pulled:** {now}  —  {len(hits)} role(s) explicitly tagged Summer 2027 "
+        f"and posted within the last {PRIORITY_DAYS} days._",
+        "",
+    ]
+    if not hits:
+        lines += [
+            "> Nothing here yet. The Summer 2027 cycle mostly opens from ~August 2026, "
+            "so explicit Summer-2027 postings are scarce until then. This page fills "
+            "automatically as fresh roles land. See `README.md` for the full list "
+            "(including off-season and pipeline roles open now).",
+            "",
+        ]
+    else:
+        lines += ["| Company | Role | Posted | Applied | Link |", "|---|---|---|---|---|"]
+        for row in hits:
+            company, role, link, posted = row[0], row[1], row[2], row[3]
+            role = role.replace("|", "\\|")
+            company = company.replace("|", "\\|")
+            mark = "✅" if is_applied(link, applied) else "—"
+            lines.append(f"| {company} | {role} | {posted} | {mark} | [Apply]({link}) |")
+        lines.append("")
+    lines.append("---")
+    lines.append(f"_Auto-generated. Window: {PRIORITY_DAYS} days (edit `PRIORITY_DAYS` in `search.py`). See `README.md` for everything._")
     return "\n".join(lines)
 
 
@@ -466,6 +557,11 @@ def main():
     with open("README.md", "w", encoding="utf-8") as f:
         f.write(readme)
     print(f"Wrote README.md ({sum(len(v) for v in buckets.values())} total across {len(buckets)} sources)")
+
+    priority = build_priority(deduped, applied=applied)
+    with open("PRIORITY.md", "w", encoding="utf-8") as f:
+        f.write(priority)
+    print("Wrote PRIORITY.md")
 
 
 if __name__ == "__main__":
