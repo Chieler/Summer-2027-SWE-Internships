@@ -46,6 +46,20 @@ def matches(title):
     return has_kw and is_intern
 
 
+def fmt_date(ts):
+    """Turn a Unix timestamp (int or numeric str) into YYYY-MM-DD. '' if missing."""
+    if not ts:
+        return ""
+    try:
+        ts = float(ts)
+        # some feeds give milliseconds; normalize anything implausibly large
+        if ts > 1e12:
+            ts /= 1000.0
+        return datetime.fromtimestamp(ts, tz=timezone.utc).strftime("%Y-%m-%d")
+    except (ValueError, TypeError, OSError):
+        return ""
+
+
 # ---------- Source 1: community GitHub internship list ----------
 def source_github_list():
     """
@@ -77,7 +91,8 @@ def source_github_list():
             continue
         url = job.get("url", "")
         if url:
-            results.append((company, title, url))
+            posted = fmt_date(job.get("date_posted"))
+            results.append((company, title, url, posted))
     return results[:60]
 
 
@@ -93,7 +108,12 @@ def source_greenhouse():
         for job in data["jobs"]:
             title = job.get("title", "")
             if matches(title):
-                results.append((board.capitalize(), title, job.get("absolute_url", "")))
+                # Greenhouse gives an ISO date string in updated_at / first_published
+                posted = ""
+                raw = job.get("first_published") or job.get("updated_at") or ""
+                if raw:
+                    posted = raw[:10]  # 'YYYY-MM-DD...' -> 'YYYY-MM-DD'
+                results.append((board.capitalize(), title, job.get("absolute_url", ""), posted))
         time.sleep(0.3)
     return results
 
@@ -110,7 +130,9 @@ def source_lever():
         for job in data:
             title = job.get("text", "")
             if matches(title):
-                results.append((board.capitalize(), title, job.get("hostedUrl", "")))
+                # Lever gives createdAt as Unix milliseconds
+                posted = fmt_date(job.get("createdAt"))
+                results.append((board.capitalize(), title, job.get("hostedUrl", ""), posted))
         time.sleep(0.3)
     return results
 
@@ -127,7 +149,7 @@ def build_readme(buckets, linkedin_url):
     lines = []
     lines.append(f"# {YEAR} SWE / Software-Adjacent Internships")
     lines.append("")
-    lines.append(f"_Last updated: **{now}** — {total} matching roles found this run._")
+    lines.append(f"_**Pulled:** {now}  —  {total} matching roles found this run._")
     lines.append("")
     lines.append(f"**[Open live LinkedIn search]({linkedin_url})** (LinkedIn can't be scraped reliably from CI, so this is a one-tap live link instead.)")
     lines.append("")
@@ -139,17 +161,20 @@ def build_readme(buckets, linkedin_url):
             continue
         lines.append(f"## {source_name} ({len(rows)})")
         lines.append("")
-        lines.append("| Company | Role | Link |")
-        lines.append("|---|---|---|")
+        lines.append("| Company | Role | Posted | Link |")
+        lines.append("|---|---|---|---|")
+        # newest first; rows with no date sink to the bottom
+        rows_sorted = sorted(rows, key=lambda r: r[3] or "", reverse=True)
         seen = set()
-        for company, role, link in rows:
+        for company, role, link, posted in rows_sorted:
             key = (company, role)
             if key in seen:
                 continue
             seen.add(key)
             role = role.replace("|", "\\|")
             company = company.replace("|", "\\|")
-            lines.append(f"| {company} | {role} | [Apply]({link}) |")
+            posted = posted or "—"
+            lines.append(f"| {company} | {role} | {posted} | [Apply]({link}) |")
         lines.append("")
     lines.append("---")
     lines.append("_Generated automatically by GitHub Actions. Edit `search.py` to add sources or change keywords._")
