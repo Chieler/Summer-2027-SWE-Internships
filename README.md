@@ -1,6 +1,6 @@
 # 2027 SWE / Software-Adjacent Internships
 
-_**Pulled:** 2026-06-29 16:38 UTC  —  455 matching roles found this run._
+_**Pulled:** 2026-06-29 23:58 UTC  —  457 matching roles found this run._
 
 **[Open live LinkedIn search](https://www.linkedin.com/jobs/search/?keywords=software%20engineer%20intern%202027&f_E=1&f_JT=I)** (LinkedIn can't be scraped reliably from CI, so this is a one-tap live link instead.)
 
@@ -75,10 +75,12 @@ _**Pulled:** 2026-06-29 16:38 UTC  —  455 matching roles found this run._
 | Tesla | Software Engineer Intern, Vehicle Engineering | 2026-04-20 | — | [Apply](https://www.tesla.com/careers/search/job/267767?jr_id=69dd6930bc6f6622c9912106) |
 | Point72 | Quantitative Developer Intern | 2026-04-19 | — | [Apply](https://careers.point72.com/CSJobDetail?jobName=summer-2027-quantitative-developer-internship&jobCode=CSS-0012293) |
 
-## Simplify/pittcsc (375)
+## Simplify/pittcsc (377)
 
 | Company | Role | Posted | Applied | Link |
 |---|---|---|---|---|
+| Palantir | Software Engineer Intern - Infrastructure | 2026-06-29 | — | [Apply](https://jobs.lever.co/palantir/f221738b-e97c-4ce3-a12a-17ada2b855e4/apply) |
+| Palantir | Software Engineer Intern - Defense Tech | 2026-06-29 | — | [Apply](https://jobs.lever.co/palantir/f17e98d0-046a-4e6e-9d65-ed0b12dd0ff7/apply) |
 | Applied Intuition | Research Intern - Robotic Hardware - Simulation and Data | 2026-06-27 | — | [Apply](https://jobs.ashbyhq.com/applied/5bb0567a-8d07-4cc4-be7c-c06b31361883/application) |
 | Xaira Therapeutics | Lab Automation Vision AI Engineer Intern | 2026-06-27 | — | [Apply](https://job-boards.greenhouse.io/xairatherapeutics/jobs/5170708007) |
 | TDS | Software Engineer Intern | 2026-06-26 | — | [Apply](https://external-telecom-teldta.icims.com/jobs/29561/job?mobile=true&needsRedirect=false) |
