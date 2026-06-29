@@ -18,12 +18,16 @@ import re
 import sys
 import time
 import urllib.parse
-from datetime import datetime, timezone
+from datetime import datetime, timezone, timedelta
 from urllib.request import Request, urlopen
 from urllib.error import URLError, HTTPError
 
 YEAR = "2027"
 KEYWORDS = ("software", "swe", "engineer", "developer", "data", "ml", "infra", "backend", "frontend", "full stack", "full-stack")
+
+# Hide postings older than this many days (auto-filter for likely-filled roles).
+# Set to 0 to disable the age cutoff entirely.
+MAX_AGE_DAYS = 90
 
 UA = "Mozilla/5.0 (compatible; internship-tracker/1.0)"
 
@@ -44,6 +48,66 @@ def matches(title):
     has_kw = any(k in t for k in KEYWORDS)
     is_intern = "intern" in t
     return has_kw and is_intern
+
+
+def load_blacklist(path="blacklist.txt"):
+    """
+    Read URLs (or any URL fragment) you've manually marked as filled/dead.
+    One entry per line. Blank lines and lines starting with # are ignored.
+    Matching is substring-based, so you can paste a full URL or just a unique
+    chunk of it (e.g. a job ID).
+    """
+    entries = []
+    try:
+        with open(path, encoding="utf-8") as f:
+            for line in f:
+                line = line.strip()
+                if line and not line.startswith("#"):
+                    entries.append(line.lower())
+    except FileNotFoundError:
+        pass  # no blacklist yet — that's fine
+    return entries
+
+
+def is_blacklisted(url, blacklist):
+    u = (url or "").lower()
+    return any(entry in u for entry in blacklist)
+
+
+def load_applied(path="applied.txt"):
+    """
+    URLs (or unique fragments) of jobs you've already applied to. Same format
+    as blacklist.txt. These aren't hidden — they're marked 'Applied' in the
+    README so you can tell them apart at a glance. Default for everything not
+    listed here is 'unapplied'.
+    """
+    entries = []
+    try:
+        with open(path, encoding="utf-8") as f:
+            for line in f:
+                line = line.strip()
+                if line and not line.startswith("#"):
+                    entries.append(line.lower())
+    except FileNotFoundError:
+        pass
+    return entries
+
+
+def is_applied(url, applied):
+    u = (url or "").lower()
+    return any(entry in u for entry in applied)
+
+
+def too_old(posted, max_age_days=MAX_AGE_DAYS):
+    """True if a YYYY-MM-DD posted date is older than the cutoff. Undated rows
+    are never dropped (we can't prove they're old)."""
+    if max_age_days <= 0 or not posted:
+        return False
+    try:
+        d = datetime.strptime(posted, "%Y-%m-%d").replace(tzinfo=timezone.utc)
+    except ValueError:
+        return False
+    return (datetime.now(timezone.utc) - d) > timedelta(days=max_age_days)
 
 
 def fmt_date(ts):
@@ -143,7 +207,20 @@ def linkedin_search_link():
     return f"https://www.linkedin.com/jobs/search/?keywords={q}&f_E=1&f_JT=I"
 
 
-def build_readme(buckets, linkedin_url):
+def _neg_date_key(posted):
+    """Sort key so newer dates come first in an ascending sort, and undated
+    rows land at the bottom. Returns a tuple: (has_no_date, negated_ordinal)."""
+    if not posted:
+        return (1, 0)  # undated -> after all dated rows
+    try:
+        d = datetime.strptime(posted, "%Y-%m-%d")
+        return (0, -d.toordinal())  # negate so most recent sorts first
+    except ValueError:
+        return (1, 0)
+
+
+def build_readme(buckets, linkedin_url, applied=None):
+    applied = applied or []
     now = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
     total = sum(len(v) for v in buckets.values())
     lines = []
@@ -154,17 +231,30 @@ def build_readme(buckets, linkedin_url):
     lines.append(f"**[Open live LinkedIn search]({linkedin_url})** (LinkedIn can't be scraped reliably from CI, so this is a one-tap live link instead.)")
     lines.append("")
     if total == 0:
-        lines.append("> No matches this run. Sources may be rate-limited or the 2027 lists may not be populated yet — it will retry on the next scheduled run.")
+        lines.append(
+            f"> No matches this run. Likely because the 2027 list isn't live yet "
+            f"(the script auto-falls back to the current cycle's list) **and** the "
+            f"{MAX_AGE_DAYS}-day age cutoff hides older off-season postings. This "
+            f"resolves on its own once fresh 2027 roles appear. To see older roles "
+            f"meanwhile, lower `MAX_AGE_DAYS` in `search.py` (set 0 to disable)."
+            if MAX_AGE_DAYS > 0 else
+            "> No matches this run. Sources may be rate-limited or the 2027 list "
+            "may not be populated yet — it will retry on the next scheduled run."
+        )
         lines.append("")
     for source_name, rows in buckets.items():
         if not rows:
             continue
         lines.append(f"## {source_name} ({len(rows)})")
         lines.append("")
-        lines.append("| Company | Role | Posted | Link |")
-        lines.append("|---|---|---|---|")
-        # newest first; rows with no date sink to the bottom
-        rows_sorted = sorted(rows, key=lambda r: r[3] or "", reverse=True)
+        lines.append("| Company | Role | Posted | Applied | Link |")
+        lines.append("|---|---|---|---|---|")
+        # sort: unapplied first, then newest-first within each group
+        # (undated rows sink to the bottom of their group)
+        rows_sorted = sorted(
+            rows,
+            key=lambda r: (is_applied(r[2], applied), _neg_date_key(r[3])),
+        )
         seen = set()
         for company, role, link, posted in rows_sorted:
             key = (company, role)
@@ -173,15 +263,31 @@ def build_readme(buckets, linkedin_url):
             seen.add(key)
             role = role.replace("|", "\\|")
             company = company.replace("|", "\\|")
+            applied_mark = "✅" if is_applied(link, applied) else "—"
             posted = posted or "—"
-            lines.append(f"| {company} | {role} | {posted} | [Apply]({link}) |")
+            lines.append(f"| {company} | {role} | {posted} | {applied_mark} | [Apply]({link}) |")
         lines.append("")
     lines.append("---")
-    lines.append("_Generated automatically by GitHub Actions. Edit `search.py` to add sources or change keywords._")
+    cutoff_note = (
+        f"Postings older than {MAX_AGE_DAYS} days are auto-hidden as likely-filled. "
+        if MAX_AGE_DAYS > 0 else ""
+    )
+    lines.append(
+        f"_✅ = applied (tracked in `applied.txt`). {cutoff_note}"
+        f"Add filled roles to `blacklist.txt` to hide them permanently. "
+        f"Generated automatically by GitHub Actions._"
+    )
     return "\n".join(lines)
 
 
 def main():
+    blacklist = load_blacklist()
+    applied = load_applied()
+    if blacklist:
+        print(f"Loaded {len(blacklist)} blacklist entries")
+    if applied:
+        print(f"Loaded {len(applied)} applied entries")
+
     print("Searching GitHub community list...")
     gh = source_github_list()
     print(f"  {len(gh)} matches")
@@ -199,7 +305,30 @@ def main():
         "Greenhouse company boards": ghouse,
         "Lever company boards": lever,
     }
-    readme = build_readme(buckets, linkedin_search_link())
+
+    # Filter 1: drop blacklisted listings (link is index 2 in each tuple)
+    if blacklist:
+        removed = 0
+        for name, rows in buckets.items():
+            kept = [r for r in rows if not is_blacklisted(r[2], blacklist)]
+            removed += len(rows) - len(kept)
+            buckets[name] = kept
+        print(f"Blacklist removed {removed} listing(s)")
+
+    # Filter 2: drop postings older than the age cutoff (posted is index 3).
+    # Applied jobs are kept regardless, so an old-but-applied row stays visible.
+    if MAX_AGE_DAYS > 0:
+        aged = 0
+        for name, rows in buckets.items():
+            kept = [
+                r for r in rows
+                if is_applied(r[2], applied) or not too_old(r[3])
+            ]
+            aged += len(rows) - len(kept)
+            buckets[name] = kept
+        print(f"Age cutoff ({MAX_AGE_DAYS}d) removed {aged} listing(s)")
+
+    readme = build_readme(buckets, linkedin_search_link(), applied=applied)
     with open("README.md", "w", encoding="utf-8") as f:
         f.write(readme)
     print(f"Wrote README.md ({sum(len(v) for v in buckets.values())} total)")
