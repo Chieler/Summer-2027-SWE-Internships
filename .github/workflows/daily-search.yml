@@ -1,0 +1,38 @@
+name: Daily Internship Search
+
+on:
+  schedule:
+    # Runs every day at 13:00 UTC (~9am ET / 6am PT).
+    # Adjust the hour to whenever you want the daily refresh.
+    - cron: "0 13 * * *"
+  workflow_dispatch:   # lets you trigger it manually from the Actions tab
+
+permissions:
+  contents: write       # required so the action can commit README.md back
+
+jobs:
+  search:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Run search
+        run: python search.py
+
+      - name: Commit updated README
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Update internship listings ($(date -u +%Y-%m-%d))"
+            git push
+          fi
