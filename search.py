@@ -124,28 +124,27 @@ def fmt_date(ts):
         return ""
 
 
-# ---------- Source 1: community GitHub internship list ----------
-def source_github_list():
-    """
-    The SimplifyJobs / pittcsc Summer-internships repos store every listing as
-    structured JSON at .github/scripts/listings.json -- far more reliable than
-    parsing the 27k-line README. We try the 2027 repo first; when it doesn't
-    exist yet (it's created partway through the prior year) we fall back to the
-    current 2026 list automatically.
-    """
-    results = []
-    candidates = [
+# ---------- Source 1: community GitHub lists (Simplify-schema JSON) ----------
+# Several popular internship repos share the same listings.json schema
+# (company_name / title / url / date_posted / active / is_visible). We pull
+# each one with the same parser. Order matters only for the "source" label;
+# dedupe later collapses the same role appearing in multiple repos.
+SIMPLIFY_SCHEMA_SOURCES = [
+    # (label, [url candidates tried in order until one returns data])
+    ("vanshb03 2027", [
+        "https://raw.githubusercontent.com/vanshb03/Summer2027-Internships/dev/.github/scripts/listings.json",
+        "https://raw.githubusercontent.com/vanshb03/Summer2027-Internships/main/.github/scripts/listings.json",
+    ]),
+    ("Simplify/pittcsc", [
         "https://raw.githubusercontent.com/SimplifyJobs/Summer2027-Internships/dev/.github/scripts/listings.json",
         "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/.github/scripts/listings.json",
-    ]
-    data = None
-    for url in candidates:
-        data = fetch(url, is_json=True)
-        if data:
-            print(f"  using {url.split('/Summer')[1].split('-')[0]} list")
-            break
-    if not data:
-        return results
+    ]),
+]
+
+
+def parse_simplify_schema(data):
+    """Extract matching rows from a Simplify-schema listings.json blob."""
+    rows = []
     for job in data:
         if not job.get("active", True) or not job.get("is_visible", True):
             continue
@@ -156,8 +155,69 @@ def source_github_list():
         url = job.get("url", "")
         if url:
             posted = fmt_date(job.get("date_posted"))
-            results.append((company, title, url, posted))
-    return results[:60]
+            rows.append((company, title, url, posted))
+    return rows
+
+
+def source_simplify_schema(label, candidates):
+    """Fetch the first working URL for a Simplify-schema repo and parse it."""
+    for url in candidates:
+        data = fetch(url, is_json=True)
+        if data:
+            rows = parse_simplify_schema(data)
+            print(f"  [{label}] {len(rows)} matches from {url.split('/')[4]}")
+            return rows
+    print(f"  [{label}] no data (all URLs failed)")
+    return []
+
+
+# ---------- Source: markdown-table repos (e.g. sndsh404) ----------
+# Some lists are hand-maintained markdown tables, not JSON. Columns:
+#   | Company | Role | Location | Apply |
+# where Apply holds a [apply](url) link. No posted dates available.
+MARKDOWN_TABLE_SOURCES = [
+    ("sndsh404 2027", "https://raw.githubusercontent.com/sndsh404/summer-2027-internships/main/README.md"),
+]
+
+_MD_LINK = re.compile(r'\[[^\]]*\]\((https?://[^)\s]+)\)')
+
+
+def source_markdown_table(label, url):
+    raw = fetch(url)
+    if not raw:
+        print(f"  [{label}] no data")
+        return []
+    rows = []
+    in_list = False
+    for line in raw.splitlines():
+        # Only parse the main "the list" table: rows with a Company|Role|Loc|Apply
+        if not line.startswith("|"):
+            continue
+        cells = [c.strip() for c in line.split("|")[1:-1]]
+        if len(cells) < 4:
+            continue
+        company, role = cells[0], cells[1]
+        low = (company + role).lower()
+        if "company" in company.lower() and "role" in role.lower():
+            in_list = True   # header row of the target table
+            continue
+        if set(company) <= {"-", ":", " "}:  # separator row |---|---|
+            continue
+        if not in_list:
+            continue
+        # stop if we've wandered into a different table (e.g. "org"/"program")
+        if not matches(role) and not matches(company + " " + role):
+            continue
+        m = _MD_LINK.search(cells[3])
+        if not m:
+            continue
+        link = m.group(1)
+        # strip emoji/flags and markdown from the visible fields
+        role = re.sub(r'[🔒🛂🇺🇸]', '', role).strip()
+        company = re.sub(r'\[([^\]]+)\]\([^)]+\)', r'\1', company).strip()
+        rows.append((company, role, link, ""))  # no posted date
+    print(f"  [{label}] {len(rows)} matches")
+    return rows
 
 
 # ---------- Source 2: Greenhouse public boards ----------
@@ -205,6 +265,55 @@ def source_lever():
 def linkedin_search_link():
     q = urllib.parse.quote(f"software engineer intern {YEAR}")
     return f"https://www.linkedin.com/jobs/search/?keywords={q}&f_E=1&f_JT=I"
+
+
+def _norm(s):
+    """Normalize a string for fuzzy matching: lowercase, strip punctuation/extra
+    whitespace, drop common noise words."""
+    s = (s or "").lower()
+    s = re.sub(r'\(.*?\)', '', s)            # drop parenthetical notes
+    s = re.sub(r'[^a-z0-9 ]', ' ', s)         # punctuation -> space
+    s = re.sub(r'\b(20\d\d|summer|fall|winter|spring|intern|internship|the)\b', ' ', s)
+    s = re.sub(r'\s+', ' ', s).strip()
+    return s
+
+
+def dedupe(rows):
+    """Collapse duplicate listings across sources.
+
+    Two rows are duplicates if they share the same apply URL, OR the same
+    normalized (company, role) pair. When duplicates collide we keep the one
+    with a posted date (more informative), preferring earlier-listed sources
+    on ties. Input/return: list of (company, role, url, posted) tuples.
+    """
+    seen_url = {}
+    seen_pair = {}
+    out = []
+    for row in rows:
+        company, role, url, posted = row
+        url_key = (url or "").strip().lower().rstrip("/")
+        pair_key = (_norm(company), _norm(role))
+
+        prior_idx = None
+        if url_key and url_key in seen_url:
+            prior_idx = seen_url[url_key]
+        elif pair_key in seen_pair:
+            prior_idx = seen_pair[pair_key]
+
+        if prior_idx is None:
+            idx = len(out)
+            out.append(row)
+            if url_key:
+                seen_url[url_key] = idx
+            seen_pair[pair_key] = idx
+        else:
+            kept = out[prior_idx]
+            if not kept[3] and posted:   # upgrade undated -> dated
+                out[prior_idx] = row
+                if url_key:
+                    seen_url[url_key] = prior_idx
+                seen_pair[pair_key] = prior_idx
+    return out
 
 
 def _neg_date_key(posted):
@@ -274,7 +383,8 @@ def build_readme(buckets, linkedin_url, applied=None):
     )
     lines.append(
         f"_✅ = applied (tracked in `applied.txt`). {cutoff_note}"
-        f"Add filled roles to `blacklist.txt` to hide them permanently. "
+        f"Pulled from multiple community lists and company boards, deduplicated. "
+        f"Add filled roles to `blacklist.txt` to hide them. "
         f"Generated automatically by GitHub Actions._"
     )
     return "\n".join(lines)
@@ -288,50 +398,74 @@ def main():
     if applied:
         print(f"Loaded {len(applied)} applied entries")
 
-    print("Searching GitHub community list...")
-    gh = source_github_list()
-    print(f"  {len(gh)} matches")
+    # Collect from every source, tagging each row with the source label it
+    # came from so we can show provenance and dedupe across them.
+    labeled = []  # list of (label, (company, role, url, posted))
 
-    print("Searching Greenhouse boards...")
-    ghouse = source_greenhouse()
-    print(f"  {len(ghouse)} matches")
+    print("Community lists (JSON):")
+    for label, candidates in SIMPLIFY_SCHEMA_SOURCES:
+        for row in source_simplify_schema(label, candidates):
+            labeled.append((label, row))
 
-    print("Searching Lever boards...")
-    lever = source_lever()
-    print(f"  {len(lever)} matches")
+    print("Community lists (markdown):")
+    for label, url in MARKDOWN_TABLE_SOURCES:
+        for row in source_markdown_table(label, url):
+            labeled.append((label, row))
 
-    buckets = {
-        "Community list (Simplify/pittcsc)": gh,
-        "Greenhouse company boards": ghouse,
-        "Lever company boards": lever,
-    }
+    print("Company boards:")
+    for row in source_greenhouse():
+        labeled.append(("Greenhouse boards", row))
+    print(f"  [Greenhouse] done")
+    for row in source_lever():
+        labeled.append(("Lever boards", row))
+    print(f"  [Lever] done")
 
-    # Filter 1: drop blacklisted listings (link is index 2 in each tuple)
+    raw_total = len(labeled)
+
+    # ---- Global dedupe across ALL sources ----
+    # dedupe() works on bare rows, so we run it on the rows while keeping a
+    # parallel label map keyed by row identity (url or normalized pair).
+    rows_only = [r for _, r in labeled]
+    deduped = dedupe(rows_only)
+    print(f"Dedupe: {raw_total} -> {len(deduped)} ({raw_total - len(deduped)} duplicates removed)")
+
+    # Re-attach the source label to each surviving row (first source wins,
+    # matching dedupe's keep-first behavior).
+    label_for = {}
+    for label, row in labeled:
+        url_key = (row[2] or "").strip().lower().rstrip("/")
+        pair_key = (_norm(row[0]), _norm(row[1]))
+        label_for.setdefault(url_key, label)
+        label_for.setdefault(pair_key, label)
+
+    def lookup_label(row):
+        url_key = (row[2] or "").strip().lower().rstrip("/")
+        pair_key = (_norm(row[0]), _norm(row[1]))
+        return label_for.get(url_key) or label_for.get(pair_key) or "Other"
+
+    # ---- Filters ----
     if blacklist:
-        removed = 0
-        for name, rows in buckets.items():
-            kept = [r for r in rows if not is_blacklisted(r[2], blacklist)]
-            removed += len(rows) - len(kept)
-            buckets[name] = kept
-        print(f"Blacklist removed {removed} listing(s)")
+        before = len(deduped)
+        deduped = [r for r in deduped if not is_blacklisted(r[2], blacklist)]
+        print(f"Blacklist removed {before - len(deduped)} listing(s)")
 
-    # Filter 2: drop postings older than the age cutoff (posted is index 3).
-    # Applied jobs are kept regardless, so an old-but-applied row stays visible.
     if MAX_AGE_DAYS > 0:
-        aged = 0
-        for name, rows in buckets.items():
-            kept = [
-                r for r in rows
-                if is_applied(r[2], applied) or not too_old(r[3])
-            ]
-            aged += len(rows) - len(kept)
-            buckets[name] = kept
-        print(f"Age cutoff ({MAX_AGE_DAYS}d) removed {aged} listing(s)")
+        before = len(deduped)
+        deduped = [
+            r for r in deduped
+            if is_applied(r[2], applied) or not too_old(r[3])
+        ]
+        print(f"Age cutoff ({MAX_AGE_DAYS}d) removed {before - len(deduped)} listing(s)")
+
+    # ---- Bucket by source for display ----
+    buckets = {}
+    for row in deduped:
+        buckets.setdefault(lookup_label(row), []).append(row)
 
     readme = build_readme(buckets, linkedin_search_link(), applied=applied)
     with open("README.md", "w", encoding="utf-8") as f:
         f.write(readme)
-    print(f"Wrote README.md ({sum(len(v) for v in buckets.values())} total)")
+    print(f"Wrote README.md ({sum(len(v) for v in buckets.values())} total across {len(buckets)} sources)")
 
 
 if __name__ == "__main__":
