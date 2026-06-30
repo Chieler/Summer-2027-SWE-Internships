@@ -1,6 +1,6 @@
 # 2027 SWE / Software-Adjacent Internships
 
-_**Pulled:** 2026-06-30 14:10 UTC  —  454 matching roles found this run._
+_**Pulled:** 2026-06-30 15:26 UTC  —  454 matching roles found this run._
 
 **[Open live LinkedIn search](https://www.linkedin.com/jobs/search/?keywords=software%20engineer%20intern%202027&f_E=1&f_JT=I)** (LinkedIn can't be scraped reliably from CI, so this is a one-tap live link instead.)
 
@@ -88,7 +88,6 @@ _**Pulled:** 2026-06-30 14:10 UTC  —  454 matching roles found this run._
 | Phamily | Business Intelligence & Data Analytics Intern - Undergraduate | 2026-06-25 | — | [Apply](https://job-boards.greenhouse.io/jobsatphamily/jobs/5281446008) |
 | BCBST | Provider Data Reporting Intern | 2026-06-25 | — | [Apply](https://bcbst.wd1.myworkdayjobs.com/external/job/USA-TN-Chattanooga-Remote/Intern---Provider-Data-Reporting_R-49815) |
 | Rivian and Volkswagen Group Technologies | Software Engineering Intern - Vehicle Controls | 2026-06-24 | — | [Apply](https://jobs.ashbyhq.com/rivianvw.tech/89feb2fe-c28c-4dad-846f-09594632ba55) |
-| Mindsmith | Software Engineering Intern | 2026-06-24 | — | [Apply](https://app.dover.com/apply/mindsmith/e0ca8149-6811-4de9-ba38-65a0244a2b7e) |
 | VetsEZ | Full Stack Developer Intern | 2026-06-24 | — | [Apply](https://vetsez.breezy.hr/p/a4010fdb3a7001-full-stack-developer-intern-remote-opportunity) |
 | HARMAN | Intern – Software Engineering | 2026-06-24 | — | [Apply](https://jobsearch.harman.com/en_US/careers/JobDetail/Intern-Software-Engineering/31931) |
 | Markem-Imaje | Software Engineer Intern | 2026-06-24 | — | [Apply](https://careers.dovercorporation.com/job/Keene-Software-Engineer-Intern-NH-03431/1404722033) |
@@ -453,6 +452,7 @@ _**Pulled:** 2026-06-30 14:10 UTC  —  454 matching roles found this run._
 | Impulse Space | Radio Frequency Engineering Intern | 2026-04-06 | — | [Apply](https://impulsespace.pinpointhq.com/en/postings/89b783a7-a1be-4aa4-8e3d-117e03d175cd?ats=pinpointhq) |
 | SoloPulse | Systems Engineering Intern | 2026-04-02 | — | [Apply](https://jobs.lever.co/solopulseco/418b3949-3b21-48f9-b7a0-1c036ca0ba51/apply) |
 | Haize Labs | Software Engineer Intern | 2026-04-02 | — | [Apply](https://job-boards.greenhouse.io/haizelabs/jobs/4685944008) |
+| Mindsmith | Software Engineering Intern | 2026-06-24 | ✅ | [Apply](https://app.dover.com/apply/mindsmith/e0ca8149-6811-4de9-ba38-65a0244a2b7e) |
 
 ## sndsh404 2027 (12)
 
