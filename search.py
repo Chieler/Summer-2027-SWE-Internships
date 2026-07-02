@@ -13,8 +13,11 @@ Reliability note:
        so you still get a one-tap way to view live LinkedIn results.
 """
 
+import http.client
 import json
+import os
 import re
+import shutil
 import sys
 import time
 import urllib.parse
@@ -24,6 +27,9 @@ from urllib.error import URLError, HTTPError
 
 YEAR = "2027"
 KEYWORDS = ("software", "swe", "engineer", "developer", "data", "ml", "infra", "backend", "frontend", "full stack", "full-stack")
+
+# Where the GitHub Pages site lives. Used to link out from README.md.
+PAGES_URL = "https://chieler.github.io/Summer-2027-SWE/"
 
 # Hide postings older than this many days (auto-filter for likely-filled roles).
 # Set to 0 to disable the age cutoff entirely.
@@ -41,7 +47,7 @@ def fetch(url, is_json=False, timeout=30):
         with urlopen(req, timeout=timeout) as r:
             data = r.read().decode("utf-8", errors="replace")
         return json.loads(data) if is_json else data
-    except (URLError, HTTPError, json.JSONDecodeError, TimeoutError) as e:
+    except (URLError, HTTPError, json.JSONDecodeError, TimeoutError, http.client.HTTPException, OSError) as e:
         print(f"  ! fetch failed for {url}: {e}", file=sys.stderr)
         return None
 
@@ -355,7 +361,105 @@ def _neg_date_key(posted):
         return (1, 0)
 
 
-def build_readme(buckets, linkedin_url, applied=None):
+def slugify(label):
+    """Turn a source label into a filesystem/URL-safe slug, e.g.
+    'Simplify/pittcsc' -> 'simplify-pittcsc'. Pages are named (and linked)
+    from this slug, so any brand-new source label that shows up in the
+    buckets (e.g. once pittcsc/Simplify publish a dedicated 2027 list)
+    automatically gets its own page — no code changes needed."""
+    s = label.lower().strip()
+    s = re.sub(r'[^a-z0-9]+', '-', s)
+    return s.strip('-') or "source"
+
+
+def build_source_page(label, rows, applied=None):
+    """Render a single GitHub Pages entry (docs/sources/<slug>.md) for one
+    source's listings."""
+    applied = applied or []
+    lines = [
+        "---",
+        "layout: default",
+        f'title: "{label} ({len(rows)})"',
+        f"permalink: /sources/{slugify(label)}/",
+        "---",
+        "",
+        f"# {label} ({len(rows)})",
+        "",
+        "[← Back to all sources]({{ '/' | relative_url }})",
+        "",
+        "| Company | Role | Posted | Applied | Link |",
+        "|---|---|---|---|---|",
+    ]
+    rows_sorted = sorted(
+        rows,
+        key=lambda r: (is_applied(r[2], applied), _neg_date_key(r[3])),
+    )
+    seen = set()
+    for row in rows_sorted:
+        company, role, link, posted = row[0], row[1], row[2], row[3]
+        key = (company, role)
+        if key in seen:
+            continue
+        seen.add(key)
+        role = role.replace("|", "\\|")
+        company = company.replace("|", "\\|")
+        applied_mark = "✅" if is_applied(link, applied) else "—"
+        posted = posted or "—"
+        lines.append(f"| {company} | {role} | {posted} | {applied_mark} | [Apply]({link}) |")
+    lines.append("")
+    return "\n".join(lines)
+
+
+def build_pages_index(buckets, linkedin_url, total):
+    """Render the GitHub Pages homepage (docs/index.md): one link per
+    source page, counts included."""
+    now = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
+    lines = [
+        "---",
+        "layout: default",
+        "title: Home",
+        "permalink: /",
+        "---",
+        "",
+        f"# {YEAR} SWE / Software-Adjacent Internships",
+        "",
+        f"_**Pulled:** {now}  —  {total} matching roles found this run._",
+        "",
+        f"**[Open live LinkedIn search]({linkedin_url})**",
+        "",
+        "## Sources",
+        "",
+    ]
+    for label, rows in buckets.items():
+        if not rows:
+            continue
+        lines.append(f"- [{label} ({len(rows)})](sources/{slugify(label)}/)")
+    lines.append("")
+    lines.append("_Generated automatically by GitHub Actions on every run — new sources appear here as soon as they produce matches._")
+    return "\n".join(lines)
+
+
+def write_pages_site(buckets, linkedin_url, total, docs_dir="docs"):
+    """Write the docs/ GitHub Pages site: one page per current source plus
+    an index linking to them. The sources dir is rebuilt from scratch each
+    run so pages for sources that stopped returning results don't linger."""
+    sources_dir = os.path.join(docs_dir, "sources")
+    if os.path.isdir(sources_dir):
+        shutil.rmtree(sources_dir)
+    os.makedirs(sources_dir, exist_ok=True)
+
+    with open(os.path.join(docs_dir, "index.md"), "w", encoding="utf-8") as f:
+        f.write(build_pages_index(buckets, linkedin_url, total))
+
+    for label, rows in buckets.items():
+        if not rows:
+            continue
+        path = os.path.join(sources_dir, f"{slugify(label)}.md")
+        with open(path, "w", encoding="utf-8") as f:
+            f.write(build_source_page(label, rows))
+
+
+def build_readme(buckets, linkedin_url, applied=None, pages_url=PAGES_URL):
     applied = applied or []
     now = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
     total = sum(len(v) for v in buckets.values())
@@ -363,6 +467,8 @@ def build_readme(buckets, linkedin_url, applied=None):
     lines.append(f"# {YEAR} SWE / Software-Adjacent Internships")
     lines.append("")
     lines.append(f"_**Pulled:** {now}  —  {total} matching roles found this run._")
+    lines.append("")
+    lines.append(f"**[Browse the full list, split by source]({pages_url})**")
     lines.append("")
     lines.append(f"**[Open live LinkedIn search]({linkedin_url})** (LinkedIn can't be scraped reliably from CI, so this is a one-tap live link instead.)")
     lines.append("")
@@ -378,31 +484,18 @@ def build_readme(buckets, linkedin_url, applied=None):
             "may not be populated yet — it will retry on the next scheduled run."
         )
         lines.append("")
-    for source_name, rows in buckets.items():
-        if not rows:
-            continue
-        lines.append(f"## {source_name} ({len(rows)})")
+    else:
+        lines.append("## Sources")
         lines.append("")
-        lines.append("| Company | Role | Posted | Applied | Link |")
-        lines.append("|---|---|---|---|---|")
-        # sort: unapplied first, then newest-first within each group
-        # (undated rows sink to the bottom of their group)
-        rows_sorted = sorted(
-            rows,
-            key=lambda r: (is_applied(r[2], applied), _neg_date_key(r[3])),
-        )
-        seen = set()
-        for row in rows_sorted:
-            company, role, link, posted = row[0], row[1], row[2], row[3]
-            key = (company, role)
-            if key in seen:
+        for source_name, rows in buckets.items():
+            if not rows:
                 continue
-            seen.add(key)
-            role = role.replace("|", "\\|")
-            company = company.replace("|", "\\|")
-            applied_mark = "✅" if is_applied(link, applied) else "—"
-            posted = posted or "—"
-            lines.append(f"| {company} | {role} | {posted} | {applied_mark} | [Apply]({link}) |")
+            lines.append(f"- [{source_name} ({len(rows)})]({pages_url}sources/{slugify(source_name)}/)")
+        lines.append("")
+        lines.append(
+            "New sources (e.g. once pittcsc/Simplify publish a dedicated 2027 list) "
+            "get their own page automatically — no manual updates needed."
+        )
         lines.append("")
     lines.append("---")
     cutoff_note = (
@@ -557,6 +650,9 @@ def main():
     with open("README.md", "w", encoding="utf-8") as f:
         f.write(readme)
     print(f"Wrote README.md ({sum(len(v) for v in buckets.values())} total across {len(buckets)} sources)")
+
+    write_pages_site(buckets, linkedin_search_link(), total=sum(len(v) for v in buckets.values()))
+    print(f"Wrote docs/ Pages site ({len(buckets)} source page(s))")
 
     priority = build_priority(deduped, applied=applied)
     with open("PRIORITY.md", "w", encoding="utf-8") as f:
