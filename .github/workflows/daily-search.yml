@@ -9,12 +9,6 @@ on:
 
 permissions:
   contents: write       # required so the action can commit README.md back
-  pages: write          # required to publish the GitHub Pages site
-  id-token: write       # required by actions/deploy-pages
-
-concurrency:
-  group: "pages"
-  cancel-in-progress: false
 
 jobs:
   search:
@@ -35,38 +29,10 @@ jobs:
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add README.md PRIORITY.md docs/
+          git add README.md PRIORITY.md sources/
           if git diff --staged --quiet; then
             echo "No changes to commit."
           else
             git commit -m "Update internship listings ($(date -u +%Y-%m-%d))"
             git push
           fi
-
-      - name: Setup Pages
-        uses: actions/configure-pages@v5
-
-      - name: Build site with Jekyll
-        uses: actions/jekyll-build-pages@v1
-        with:
-          source: ./docs
-          destination: ./_site
-
-      - name: Upload Pages artifact
-        uses: actions/upload-pages-artifact@v3
-        with:
-          path: ./_site
-
-  deploy:
-    needs: search
-    permissions:
-      pages: write
-      id-token: write
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    runs-on: ubuntu-latest
-    steps:
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v4

@@ -28,8 +28,9 @@ from urllib.error import URLError, HTTPError
 YEAR = "2027"
 KEYWORDS = ("software", "swe", "engineer", "developer", "data", "ml", "infra", "backend", "frontend", "full stack", "full-stack")
 
-# Where the GitHub Pages site lives. Used to link out from README.md.
-PAGES_URL = "https://chieler.github.io/Summer-2027-SWE/"
+# Per-source listings live here as plain .md files, one per source, so they
+# render natively on github.com (no Pages/Jekyll involved).
+SOURCES_DIR = "sources"
 
 # Hide postings older than this many days (auto-filter for likely-filled roles).
 # Set to 0 to disable the age cutoff entirely.
@@ -362,27 +363,47 @@ def _neg_date_key(posted):
 
 
 def slugify(label):
-    """Turn a source label into a filesystem/URL-safe slug, e.g.
-    'Simplify/pittcsc' -> 'simplify-pittcsc'. Pages are named (and linked)
-    from this slug, so any brand-new source label that shows up in the
-    buckets (e.g. once pittcsc/Simplify publish a dedicated 2027 list)
-    automatically gets its own page — no code changes needed."""
+    """Turn a source label into a filesystem-safe slug, e.g.
+    'Simplify/pittcsc' -> 'simplify-pittcsc'. Source pages are named from
+    this slug, so any brand-new source label that shows up in the buckets
+    (e.g. once pittcsc/Simplify publish a dedicated 2027 list) automatically
+    gets its own file — no code changes needed."""
     s = label.lower().strip()
     s = re.sub(r'[^a-z0-9]+', '-', s)
     return s.strip('-') or "source"
 
 
-def build_source_page(label, rows, applied=None):
-    """Render a single GitHub Pages entry (docs/sources/<slug>.md) for one
-    source's listings. Switching sources happens via the dropdown in
-    docs/_layouts/default.html, not an in-page link."""
+def build_source_nav(buckets, current_label):
+    """A row of links at the top of a source page: back to README, plus
+    every other source. The current page's own entry is bolded rather than
+    linked, so it reads like a row of tabs. Clicking a link on github.com
+    jumps straight to that file."""
+    items = ["[Home](../README.md)"]
+    for label, rows in buckets.items():
+        if not rows:
+            continue
+        if label == current_label:
+            items.append(f"**{label}**")
+        else:
+            items.append(f"[{label}]({slugify(label)}.md)")
+    return " · ".join(items)
+
+
+def build_readme_nav(buckets):
+    """Same tab row for the top of README.md, linking down into sources/."""
+    items = ["**Home**"]
+    for label, rows in buckets.items():
+        if not rows:
+            continue
+        items.append(f"[{label}]({SOURCES_DIR}/{slugify(label)}.md)")
+    return " · ".join(items)
+
+
+def build_source_page(label, rows, buckets, applied=None):
+    """Render a single sources/<slug>.md file for one source's listings."""
     applied = applied or []
     lines = [
-        "---",
-        "layout: default",
-        f'title: "{label} ({len(rows)})"',
-        f"permalink: /sources/{slugify(label)}/",
-        "---",
+        build_source_nav(buckets, label),
         "",
         f"# {label} ({len(rows)})",
         "",
@@ -409,83 +430,33 @@ def build_source_page(label, rows, applied=None):
     return "\n".join(lines)
 
 
-def build_pages_index(buckets, linkedin_url, total):
-    """Render the GitHub Pages homepage (docs/index.md). Source-to-source
-    navigation happens via the dropdown in the shared layout, so this page
-    is just the landing summary."""
-    now = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
-    lines = [
-        "---",
-        "layout: default",
-        "title: Home",
-        "permalink: /",
-        "---",
-        "",
-        f"# {YEAR} SWE / Software-Adjacent Internships",
-        "",
-        f"_**Pulled:** {now}  —  {total} matching roles found this run._",
-        "",
-        f"**[Open live LinkedIn search]({linkedin_url})**",
-        "",
-        "Use the dropdown above to pick a source.",
-        "",
-    ]
-    return "\n".join(lines)
-
-
-def build_sources_data(buckets):
-    """Render docs/_data/sources.yml, the list the layout's dropdown reads
-    to build its options. Regenerated every run, so a brand-new source
-    (e.g. once pittcsc/Simplify publish a dedicated 2027 list) shows up in
-    the dropdown automatically, and one that stops returning data drops
-    out of it."""
-    lines = []
-    for label, rows in buckets.items():
-        if not rows:
-            continue
-        safe_label = label.replace('"', '\\"')
-        lines.append(f'- label: "{safe_label}"')
-        lines.append(f'  slug: "{slugify(label)}"')
-        lines.append(f"  count: {len(rows)}")
-    return "\n".join(lines) + ("\n" if lines else "")
-
-
-def write_pages_site(buckets, linkedin_url, total, docs_dir="docs"):
-    """Write the docs/ GitHub Pages site: one page per current source, an
-    index, and the dropdown's data source. The sources dir is rebuilt from
-    scratch each run so pages for sources that stopped returning results
-    don't linger."""
-    sources_dir = os.path.join(docs_dir, "sources")
-    data_dir = os.path.join(docs_dir, "_data")
+def write_source_pages(buckets, applied=None, sources_dir=SOURCES_DIR):
+    """Write sources/<slug>.md, one file per current source. The dir is
+    rebuilt from scratch each run so files for sources that stopped
+    returning results don't linger."""
     if os.path.isdir(sources_dir):
         shutil.rmtree(sources_dir)
     os.makedirs(sources_dir, exist_ok=True)
-    os.makedirs(data_dir, exist_ok=True)
-
-    with open(os.path.join(docs_dir, "index.md"), "w", encoding="utf-8") as f:
-        f.write(build_pages_index(buckets, linkedin_url, total))
-
-    with open(os.path.join(data_dir, "sources.yml"), "w", encoding="utf-8") as f:
-        f.write(build_sources_data(buckets))
 
     for label, rows in buckets.items():
         if not rows:
             continue
         path = os.path.join(sources_dir, f"{slugify(label)}.md")
         with open(path, "w", encoding="utf-8") as f:
-            f.write(build_source_page(label, rows))
+            f.write(build_source_page(label, rows, buckets, applied=applied))
 
 
-def build_readme(buckets, linkedin_url, applied=None, pages_url=PAGES_URL):
+def build_readme(buckets, linkedin_url, applied=None):
     applied = applied or []
     now = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
     total = sum(len(v) for v in buckets.values())
     lines = []
+    if total > 0:
+        lines.append(build_readme_nav(buckets))
+        lines.append("")
     lines.append(f"# {YEAR} SWE / Software-Adjacent Internships")
     lines.append("")
     lines.append(f"_**Pulled:** {now}  —  {total} matching roles found this run._")
-    lines.append("")
-    lines.append(f"**[Browse the full list, split by source]({pages_url})**")
     lines.append("")
     lines.append(f"**[Open live LinkedIn search]({linkedin_url})** (LinkedIn can't be scraped reliably from CI, so this is a one-tap live link instead.)")
     lines.append("")
@@ -507,7 +478,7 @@ def build_readme(buckets, linkedin_url, applied=None, pages_url=PAGES_URL):
         for source_name, rows in buckets.items():
             if not rows:
                 continue
-            lines.append(f"- [{source_name} ({len(rows)})]({pages_url}sources/{slugify(source_name)}/)")
+            lines.append(f"- [{source_name} ({len(rows)})]({SOURCES_DIR}/{slugify(source_name)}.md)")
         lines.append("")
         lines.append(
             "New sources (e.g. once pittcsc/Simplify publish a dedicated 2027 list) "
@@ -668,8 +639,8 @@ def main():
         f.write(readme)
     print(f"Wrote README.md ({sum(len(v) for v in buckets.values())} total across {len(buckets)} sources)")
 
-    write_pages_site(buckets, linkedin_search_link(), total=sum(len(v) for v in buckets.values()))
-    print(f"Wrote docs/ Pages site ({len(buckets)} source page(s))")
+    write_source_pages(buckets, applied=applied)
+    print(f"Wrote {SOURCES_DIR}/ ({len(buckets)} source page(s))")
 
     priority = build_priority(deduped, applied=applied)
     with open("PRIORITY.md", "w", encoding="utf-8") as f:
