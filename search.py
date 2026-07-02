@@ -42,15 +42,23 @@ PRIORITY_DAYS = 14
 UA = "Mozilla/5.0 (compatible; internship-tracker/1.0)"
 
 
-def fetch(url, is_json=False, timeout=30):
+def fetch(url, is_json=False, timeout=30, retries=3):
+    """Fetch a URL, retrying on transient transport errors (some of the
+    community lists are multi-MB JSON blobs, and a truncated read there
+    shouldn't silently drop an entire source for the run)."""
     req = Request(url, headers={"User-Agent": UA, "Accept": "application/json" if is_json else "*/*"})
-    try:
-        with urlopen(req, timeout=timeout) as r:
-            data = r.read().decode("utf-8", errors="replace")
-        return json.loads(data) if is_json else data
-    except (URLError, HTTPError, json.JSONDecodeError, TimeoutError, http.client.HTTPException, OSError) as e:
-        print(f"  ! fetch failed for {url}: {e}", file=sys.stderr)
-        return None
+    last_err = None
+    for attempt in range(retries):
+        try:
+            with urlopen(req, timeout=timeout) as r:
+                data = r.read().decode("utf-8", errors="replace")
+            return json.loads(data) if is_json else data
+        except (URLError, HTTPError, json.JSONDecodeError, TimeoutError, http.client.HTTPException, OSError) as e:
+            last_err = e
+            if attempt < retries - 1:
+                time.sleep(1.5 * (attempt + 1))
+    print(f"  ! fetch failed for {url}: {last_err}", file=sys.stderr)
+    return None
 
 
 def matches(title):
