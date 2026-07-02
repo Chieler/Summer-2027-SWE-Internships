@@ -374,7 +374,8 @@ def slugify(label):
 
 def build_source_page(label, rows, applied=None):
     """Render a single GitHub Pages entry (docs/sources/<slug>.md) for one
-    source's listings."""
+    source's listings. Switching sources happens via the dropdown in
+    docs/_layouts/default.html, not an in-page link."""
     applied = applied or []
     lines = [
         "---",
@@ -384,8 +385,6 @@ def build_source_page(label, rows, applied=None):
         "---",
         "",
         f"# {label} ({len(rows)})",
-        "",
-        "[← Back to all sources]({{ '/' | relative_url }})",
         "",
         "| Company | Role | Posted | Applied | Link |",
         "|---|---|---|---|---|",
@@ -411,8 +410,9 @@ def build_source_page(label, rows, applied=None):
 
 
 def build_pages_index(buckets, linkedin_url, total):
-    """Render the GitHub Pages homepage (docs/index.md): one link per
-    source page, counts included."""
+    """Render the GitHub Pages homepage (docs/index.md). Source-to-source
+    navigation happens via the dropdown in the shared layout, so this page
+    is just the landing summary."""
     now = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
     lines = [
         "---",
@@ -427,29 +427,46 @@ def build_pages_index(buckets, linkedin_url, total):
         "",
         f"**[Open live LinkedIn search]({linkedin_url})**",
         "",
-        "## Sources",
+        "Use the dropdown above to pick a source.",
         "",
     ]
-    for label, rows in buckets.items():
-        if not rows:
-            continue
-        lines.append(f"- [{label} ({len(rows)})](sources/{slugify(label)}/)")
-    lines.append("")
-    lines.append("_Generated automatically by GitHub Actions on every run — new sources appear here as soon as they produce matches._")
     return "\n".join(lines)
 
 
+def build_sources_data(buckets):
+    """Render docs/_data/sources.yml, the list the layout's dropdown reads
+    to build its options. Regenerated every run, so a brand-new source
+    (e.g. once pittcsc/Simplify publish a dedicated 2027 list) shows up in
+    the dropdown automatically, and one that stops returning data drops
+    out of it."""
+    lines = []
+    for label, rows in buckets.items():
+        if not rows:
+            continue
+        safe_label = label.replace('"', '\\"')
+        lines.append(f'- label: "{safe_label}"')
+        lines.append(f'  slug: "{slugify(label)}"')
+        lines.append(f"  count: {len(rows)}")
+    return "\n".join(lines) + ("\n" if lines else "")
+
+
 def write_pages_site(buckets, linkedin_url, total, docs_dir="docs"):
-    """Write the docs/ GitHub Pages site: one page per current source plus
-    an index linking to them. The sources dir is rebuilt from scratch each
-    run so pages for sources that stopped returning results don't linger."""
+    """Write the docs/ GitHub Pages site: one page per current source, an
+    index, and the dropdown's data source. The sources dir is rebuilt from
+    scratch each run so pages for sources that stopped returning results
+    don't linger."""
     sources_dir = os.path.join(docs_dir, "sources")
+    data_dir = os.path.join(docs_dir, "_data")
     if os.path.isdir(sources_dir):
         shutil.rmtree(sources_dir)
     os.makedirs(sources_dir, exist_ok=True)
+    os.makedirs(data_dir, exist_ok=True)
 
     with open(os.path.join(docs_dir, "index.md"), "w", encoding="utf-8") as f:
         f.write(build_pages_index(buckets, linkedin_url, total))
+
+    with open(os.path.join(data_dir, "sources.yml"), "w", encoding="utf-8") as f:
+        f.write(build_sources_data(buckets))
 
     for label, rows in buckets.items():
         if not rows:
