@@ -1,6 +1,6 @@
 # 2027 SWE / Software-Adjacent Internships
 
-_**Pulled:** 2026-07-05 03:43 UTC  —  459 matching roles found this run._
+_**Pulled:** 2026-07-05 14:42 UTC  —  457 matching roles found this run._
 
 **[Open live LinkedIn search](https://www.linkedin.com/jobs/search/?keywords=software%20engineer%20intern%202027&f_E=1&f_JT=I)** (LinkedIn can't be scraped reliably from CI, so this is a one-tap live link instead.)
 
@@ -75,7 +75,7 @@ _**Pulled:** 2026-07-05 03:43 UTC  —  459 matching roles found this run._
 | Tesla | Software Engineer Intern, Vehicle Engineering | 2026-04-20 | — | [Apply](https://www.tesla.com/careers/search/job/267767?jr_id=69dd6930bc6f6622c9912106) |
 | Point72 | Quantitative Developer Intern | 2026-04-19 | — | [Apply](https://careers.point72.com/CSJobDetail?jobName=summer-2027-quantitative-developer-internship&jobCode=CSS-0012293) |
 
-## Simplify/pittcsc (378)
+## Simplify/pittcsc (376)
 
 | Company | Role | Posted | Applied | Link |
 |---|---|---|---|---|
@@ -119,7 +119,6 @@ _**Pulled:** 2026-07-05 03:43 UTC  —  459 matching roles found this run._
 | IMC Trading | Hardware Engineer Intern | 2026-07-01 | — | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4823945101) |
 | NOX METALS | Software Engineer Intern | 2026-07-01 | — | [Apply](https://jobs.ashbyhq.com/nox-metals/6edc2dff-7c4b-44b8-abba-32d5953b8c5f/application) |
 | Human Computer Lab | Software/ML Engineering Intern | 2026-07-01 | — | [Apply](https://jobs.ashbyhq.com/human-computer-lab/7d13ae27-1f02-4d9b-8d39-e3d9d67df705/application) |
-| KLA | Algorithm Engineer Intern | 2026-06-30 | — | [Apply](https://kla.wd1.myworkdayjobs.com/search/job/Milpitas-CA/Algorithm-Engineer-Intern_2637300) |
 | Tesla | Thermal Controls Engineer Intern - Thermal Controls Engineer - Vehicle Controls | 2026-06-30 | — | [Apply](https://www.tesla.com/careers/search/job/275327) |
 | Tesla | Machine Learning Engineer Intern - Machine Learning Engineer - Factory Software | 2026-06-30 | — | [Apply](https://www.tesla.com/careers/search/job/275380) |
 | Generac | Manufacturing Test Engineer Intern | 2026-06-30 | — | [Apply](https://generac.wd5.myworkdayjobs.com/en-US/external/job/Reno-NV---USA/Intern--Manufacturing-Test-Engineering_JR15204) |
@@ -206,6 +205,7 @@ _**Pulled:** 2026-07-05 03:43 UTC  —  459 matching roles found this run._
 | Tesla | Systems Modeling & Optimization Intern - Robotaxi Simulation Engineer - Systems Modeling & Optimization | 2026-06-16 | — | [Apply](https://www.tesla.com/careers/search/job/273933) |
 | Tesla | Embedded Software Engineer Intern - Embedded Software Engineer - Steering,Chassis Systems | 2026-06-16 | — | [Apply](https://www.tesla.com/careers/search/job/274047) |
 | Cotiviti | Generative AI Research Engineer Intern | 2026-06-16 | — | [Apply](https://careers-cotiviti.icims.com/jobs/19341/job?mobile=true&needsRedirect=false) |
+| Magna | Infrared Imaging & Algorithms Intern | 2026-06-16 | — | [Apply](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Goleta-California-US/Intern---Infrared-Imaging---Algorithms_R00247602) |
 | TikTok | Data Scientist Intern | 2026-06-15 | — | [Apply](https://lifeattiktok.com/search/7532238337198622983) |
 | TikTok | Data Analyst Intern - TikTok Shop AMS Data Science | 2026-06-15 | — | [Apply](https://lifeattiktok.com/search/7532267134924867847) |
 | TikTok | Data Scientist Intern - TikTok Shop User Product DS | 2026-06-15 | — | [Apply](https://lifeattiktok.com/search/7532254890627696903) |
@@ -221,7 +221,6 @@ _**Pulled:** 2026-07-05 03:43 UTC  —  459 matching roles found this run._
 | OfferUp | Software Engineer Intern | 2026-06-13 | — | [Apply](https://job-boards.greenhouse.io/offerup/jobs/8004171) |
 | Harbinger Motors | Production Data Analytics Intern | 2026-06-13 | — | [Apply](https://job-boards.greenhouse.io/harbingermotors/jobs/5164341007) |
 | Illinois Tool Works | Software Engineer Intern | 2026-06-13 | — | [Apply](https://careers.itw.com/global/en/job/JR4585) |
-| Magna | Systems Engineer Intern | 2026-06-12 | — | [Apply](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Southfield-Michigan-US/Intern---Engineering_R00235413) |
 | Kepler Communications | Embedded Software Engineer Intern | 2026-06-12 | — | [Apply](https://jobs.lever.co/kepler/afe34c63-ab6d-42a6-8571-dab052ee9c41/apply) |
 | Tesla | Software Engineer Intern - Residential Energy Device Software Engineer - Energy Engineering | 2026-06-12 | — | [Apply](https://www.tesla.com/careers/search/job/273810) |
 | Together AI | Systems Research Engineer Intern - GPU Programming | 2026-06-12 | — | [Apply](https://job-boards.greenhouse.io/togetherai/jobs/5157559007) |
@@ -293,7 +292,6 @@ _**Pulled:** 2026-07-05 03:43 UTC  —  459 matching roles found this run._
 | Tesla | Energy Engineering Intern - Cost Reduction | 2026-06-07 | — | [Apply](https://www.tesla.com/careers/search/job/270511) |
 | Tesla | Embedded Software Engineer Intern - Embedded Software Engineer - Body Controls Firmware | 2026-06-07 | — | [Apply](https://www.tesla.com/careers/search/job/270618) |
 | Tesla | Reinforcement Learning Engineer Intern - Reinforcement Learning Engineer - Optimus | 2026-06-07 | — | [Apply](https://www.tesla.com/careers/search/job/253454) |
-| Tesla | Systems Integration Engineer Intern - Body Controls | 2026-06-07 | — | [Apply](https://www.tesla.com/careers/search/job/270617) |
 | Tesla | Embedded Systems Software Engineer Intern - Embedded Systems Software Engineer - AI Platforms | 2026-06-07 | — | [Apply](https://www.tesla.com/careers/search/job/270778) |
 | Tesla | Firmware Integration Engineer Intern - Software Integration Engineer - Factory Firmware | 2026-06-07 | — | [Apply](https://www.tesla.com/careers/search/job/270509) |
 | Tesla | Automated Diagnostics Intern - Software Engineer | 2026-06-07 | — | [Apply](https://www.tesla.com/careers/search/job/270521) |
@@ -334,6 +332,7 @@ _**Pulled:** 2026-07-05 03:43 UTC  —  459 matching roles found this run._
 | Base Power | Quantitative Developer Intern | 2026-05-27 | — | [Apply](https://jobs.ashbyhq.com/base-power/b6b2332e-1226-4575-b2c9-9e5258f2540e/application) |
 | PlusAI | Systems Engineer Intern | 2026-05-27 | — | [Apply](https://jobs.lever.co/plus-2/1864b1be-25e5-424f-9626-09e58f6147f2/apply) |
 | Meshy | Data Infra Engineer Intern | 2026-05-27 | — | [Apply](https://jobs.ashbyhq.com/meshy/2f33b2eb-b76d-4618-b299-497471f263b9) |
+| Smiths Detection Group | Technical Service Engineer Intern | 2026-05-27 | — | [Apply](https://jobs.smartrecruiters.com/SmithsGroup2/744000128739981) |
 | Magna | Engineering ADAS Perception Features Intern | 2026-05-27 | — | [Apply](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Auburn-Hills-Michigan-US/Intern---Engineering_R00235438) |
 | Astera Labs | Platform Applications Engineer Intern Co-op | 2026-05-27 | — | [Apply](https://job-boards.greenhouse.io/asteraearlycareer2026/jobs/4562833005) |
 | Black Box | AI Engineer Intern | 2026-05-26 | — | [Apply](https://eoje.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/6315) |
@@ -402,7 +401,6 @@ _**Pulled:** 2026-07-05 03:43 UTC  —  459 matching roles found this run._
 | Super | Payments Engineer Intern | 2026-05-11 | — | [Apply](https://jobs.ashbyhq.com/super.com/6a0dc25b-6eb2-411e-a862-6b083d9bad3c/application) |
 | Samsung Research America | ML/NLP Research Intern | 2026-05-08 | — | [Apply](https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8541339002) |
 | Cresta | Data Science Intern - Customer Success | 2026-05-07 | — | [Apply](https://job-boards.greenhouse.io/cresta/jobs/5213417008) |
-| Smiths Detection Group | Depot Service Engineer Intern | 2026-05-07 | — | [Apply](https://jobs.smartrecruiters.com/SmithsGroup2/744000125196499) |
 | Tesla | Embedded Software Engineer Intern - AI Platforms - Embedded Software Engineer | 2026-05-06 | — | [Apply](https://www.tesla.com/careers/search/job/269819) |
 | Tesla | Software Engineer Intern - Integration Tools | 2026-05-06 | — | [Apply](https://www.tesla.com/careers/search/job/269445) |
 | Tesla | Software Integration Engineer Intern - Software Integration Engineer - Optimus | 2026-05-06 | — | [Apply](https://www.tesla.com/careers/search/job/269809) |
