@@ -1,6 +1,6 @@
 # 2027 SWE / Software-Adjacent Internships
 
-_**Pulled:** 2026-07-04 14:28 UTC  —  463 matching roles found this run._
+_**Pulled:** 2026-07-05 03:43 UTC  —  459 matching roles found this run._
 
 **[Open live LinkedIn search](https://www.linkedin.com/jobs/search/?keywords=software%20engineer%20intern%202027&f_E=1&f_JT=I)** (LinkedIn can't be scraped reliably from CI, so this is a one-tap live link instead.)
 
@@ -75,10 +75,13 @@ _**Pulled:** 2026-07-04 14:28 UTC  —  463 matching roles found this run._
 | Tesla | Software Engineer Intern, Vehicle Engineering | 2026-04-20 | — | [Apply](https://www.tesla.com/careers/search/job/267767?jr_id=69dd6930bc6f6622c9912106) |
 | Point72 | Quantitative Developer Intern | 2026-04-19 | — | [Apply](https://careers.point72.com/CSJobDetail?jobName=summer-2027-quantitative-developer-internship&jobCode=CSS-0012293) |
 
-## Simplify/pittcsc (382)
+## Simplify/pittcsc (378)
 
 | Company | Role | Posted | Applied | Link |
 |---|---|---|---|---|
+| CTGT | Software Engineer Intern | 2026-07-04 | — | [Apply](https://jobs.ashbyhq.com/ctgt/f657c2f5-125e-42b6-a68a-646bbea3d155/application) |
+| Verne Robotics | Engineering Intern | 2026-07-04 | — | [Apply](https://jobs.ashbyhq.com/Verne%20Robotics/bb78cdd4-449b-49f0-bd10-2c62fc85f83b/application) |
+| Droyd Robotics | Software Engineer Intern | 2026-07-04 | — | [Apply](https://jobs.ashbyhq.com/droyd/8d46ed05-1b38-4c68-938e-f10b4c7d4694/application) |
 | Tesla | Energy Engineering Intern - Software Engineer Diagnostics - Energy Engineering | 2026-07-03 | — | [Apply](https://www.tesla.com/careers/search/job/275805) |
 | ByteDance | Research Scientist Intern - AI Infrastructure | 2026-07-03 | — | [Apply](https://jobs.bytedance.com/en/position/7553916190126524680/detail) |
 | Travelers | Engineering Development Program Intern - Engineering Development Program | 2026-07-03 | — | [Apply](https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Engineering-Development-Program--EDP----Intern_R-51185) |
@@ -136,7 +139,6 @@ _**Pulled:** 2026-07-04 14:28 UTC  —  463 matching roles found this run._
 | T.D. Williamson | Engineering Intern | 2026-06-29 | — | [Apply](https://tdwilliamson.wd1.myworkdayjobs.com/en-US/TDWCareers/job/USA-OK-Tulsa/Engineering-Intern_REQ-03578) |
 | Saronic | Software Engineer Intern | 2026-06-29 | — | [Apply](https://jobs.ashbyhq.com/saronic/1c74957f-0895-415b-9324-08b0994747d7/application) |
 | Palantir | Privacy and Civil Liberties Software Engineer Intern | 2026-06-29 | — | [Apply](https://jobs.lever.co/palantir/09846827-b931-4a9f-bd64-c3bb8860187b/apply) |
-| Zipline | Software Engineer Intern | 2026-06-27 | — | [Apply](https://www.zipline.com/open-roles?gh_jid=7787509003) |
 | Clera | Founding Engineer Intern | 2026-06-26 | — | [Apply](https://jobs.ashbyhq.com/clera/d3c69268-3324-4a84-b911-7a4303672767/application) |
 | Outmarket AI | AI Software Engineer Intern | 2026-06-26 | — | [Apply](https://jobs.ashbyhq.com/outmarket/8d192421-2422-42f5-854f-6a0765a949da/application) |
 | Maxima | Software Engineer Intern | 2026-06-26 | — | [Apply](https://jobs.ashbyhq.com/maxima/c0204f04-af26-4a57-9658-64ee6d4beb74/application) |
@@ -219,7 +221,6 @@ _**Pulled:** 2026-07-04 14:28 UTC  —  463 matching roles found this run._
 | OfferUp | Software Engineer Intern | 2026-06-13 | — | [Apply](https://job-boards.greenhouse.io/offerup/jobs/8004171) |
 | Harbinger Motors | Production Data Analytics Intern | 2026-06-13 | — | [Apply](https://job-boards.greenhouse.io/harbingermotors/jobs/5164341007) |
 | Illinois Tool Works | Software Engineer Intern | 2026-06-13 | — | [Apply](https://careers.itw.com/global/en/job/JR4585) |
-| General Motors | Research and Development Intern - Research & Development: AI/ML | 2026-06-12 | — | [Apply](https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2026-Fall-Intern---Research---Development--AI-ML_JR-202612795) |
 | Magna | Systems Engineer Intern | 2026-06-12 | — | [Apply](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Southfield-Michigan-US/Intern---Engineering_R00235413) |
 | Kepler Communications | Embedded Software Engineer Intern | 2026-06-12 | — | [Apply](https://jobs.lever.co/kepler/afe34c63-ab6d-42a6-8571-dab052ee9c41/apply) |
 | Tesla | Software Engineer Intern - Residential Energy Device Software Engineer - Energy Engineering | 2026-06-12 | — | [Apply](https://www.tesla.com/careers/search/job/273810) |
@@ -239,7 +240,6 @@ _**Pulled:** 2026-07-04 14:28 UTC  —  463 matching roles found this run._
 | Rivian and Volkswagen Group Technologies | Android Developer Intern | 2026-06-11 | — | [Apply](https://jobs.ashbyhq.com/rivianvw.tech/5633bb03-cc16-47fc-af02-db9dc355eddd/application) |
 | Rivian and Volkswagen Group Technologies | Software Engineer Intern Co-op - Android Connectivity | 2026-06-11 | — | [Apply](https://jobs.ashbyhq.com/rivianvw.tech/75874976-540a-4e5c-aa72-1b23669c5211/application) |
 | Intel | AI Software Engineer Intern | 2026-06-11 | — | [Apply](https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Arizona-Phoenix/AI-Software-Engineering-Intern_JR0282641) |
-| Zipline | Enterprise Systems Software Engineer Intern | 2026-06-10 | — | [Apply](https://www.zipline.com/careers?gh_jid=7767667003#open-roles) |
 | 1Password | Developer Intern - Trust Platforms | 2026-06-10 | — | [Apply](https://jobs.ashbyhq.com/1password/8f8774dc-e400-48b1-8100-c6840b8eaed1/application) |
 | Walleye Capital | Volatility Trading Developer Intern | 2026-06-10 | — | [Apply](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679434006) |
 | Meshy | Fullstack Engineer Intern | 2026-06-10 | — | [Apply](https://jobs.ashbyhq.com/meshy/262d74c7-8aab-474e-9fc6-8c8c48ec6572/application) |
@@ -298,7 +298,6 @@ _**Pulled:** 2026-07-04 14:28 UTC  —  463 matching roles found this run._
 | Tesla | Firmware Integration Engineer Intern - Software Integration Engineer - Factory Firmware | 2026-06-07 | — | [Apply](https://www.tesla.com/careers/search/job/270509) |
 | Tesla | Automated Diagnostics Intern - Software Engineer | 2026-06-07 | — | [Apply](https://www.tesla.com/careers/search/job/270521) |
 | XPENG Motors | AI Infrastructure Onboard Performance Intern | 2026-06-06 | — | [Apply](https://job-boards.greenhouse.io/xpengmotors/jobs/8581353002) |
-| Zipline | Embedded Software Engineer Intern | 2026-06-06 | — | [Apply](https://www.zipline.com/careers?gh_jid=7765240003#open-roles) |
 | Tesla | Service Engineering Intern - Product Support Engineer - Service Engineering | 2026-06-06 | — | [Apply](https://www.tesla.com/careers/search/job/271630) |
 | Tesla | Failure Analysis Engineer Intern - Failure Analysis Engineer - Energy Engineering | 2026-06-06 | — | [Apply](https://www.tesla.com/careers/search/job/271544) |
 | Tesla | Solar Hardware Engineer Intern - Solar Hardware Engineer - Energy Engineering | 2026-06-06 | — | [Apply](https://www.tesla.com/careers/search/job/271539) |
@@ -457,9 +456,6 @@ _**Pulled:** 2026-07-04 14:28 UTC  —  463 matching roles found this run._
 | Nokia | DSP Firmware Engineering Co-op/Intern | 2026-04-08 | — | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/34226) |
 | Eulerity | Mobile iOS Developer Intern | 2026-04-07 | — | [Apply](https://job-boards.greenhouse.io/eulerity/jobs/4671025006) |
 | Eulerity | Android Developer Intern | 2026-04-07 | — | [Apply](https://job-boards.greenhouse.io/eulerity/jobs/4671031006) |
-| Veeva | Intern Software Engineer | 2026-04-06 | — | [Apply](https://careers.veeva.com/job/4df9c2ca-d702-4d41-af82-290deff66564/intern-software-engineer-summer-2026-pleasanton-ca/) |
-| Omnis | Software Engineering Internship/Co-Op | 2026-04-06 | — | [Apply](https://ats.rippling.com/omnis-corporation/jobs/e389ff2d-5be5-4571-8cc1-f361a139b753) |
-| Impulse Space | Radio Frequency Engineering Intern | 2026-04-06 | — | [Apply](https://impulsespace.pinpointhq.com/en/postings/89b783a7-a1be-4aa4-8e3d-117e03d175cd?ats=pinpointhq) |
 | Mindsmith | Software Engineering Intern | 2026-06-24 | ✅ | [Apply](https://app.dover.com/apply/mindsmith/e0ca8149-6811-4de9-ba38-65a0244a2b7e) |
 
 ## sndsh404 2027 (13)
