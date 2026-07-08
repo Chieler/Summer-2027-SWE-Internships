@@ -1,9 +1,10 @@
 # 🔥 Priority — Fresh Summer 2027 Roles
 
-_**Pulled:** 2026-07-08 00:36 UTC  —  17 role(s) explicitly tagged Summer 2027 and posted within the last 14 days._
+_**Pulled:** 2026-07-08 15:20 UTC  —  18 role(s) explicitly tagged Summer 2027 and posted within the last 14 days._
 
 | Company | Role | Posted | Applied | Link |
 |---|---|---|---|---|
+| Northrop Grumman | Software Engineer Intern | 2026-07-08 | — | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10239275) |
 | Tower Research | Quantitative Developer Intern | 2026-07-07 | — | [Apply](https://tower-research.com/open-positions/?gh_jid=8044334) |
 | Citadel | Software Engineer Intern | 2026-07-07 | — | [Apply](https://www.citadel.com/careers/details/software-engineer-intern-us/) |
 | Capital One | Data Analyst Intern | 2026-07-07 | — | [Apply](https://www.capitalonecareers.com/job/mclean/data-analyst-intern-summer-2027/31238/97421687472) |
