@@ -1,6 +1,6 @@
 # 2027 SWE / Software-Adjacent Internships
 
-_**Pulled:** 2026-07-11 14:21 UTC  —  473 matching roles found this run._
+_**Pulled:** 2026-07-11 23:24 UTC  —  475 matching roles found this run._
 
 **[Open live LinkedIn search](https://www.linkedin.com/jobs/search/?keywords=software%20engineer%20intern%202027&f_E=1&f_JT=I)** (LinkedIn can't be scraped reliably from CI, so this is a one-tap live link instead.)
 
@@ -88,13 +88,12 @@ _**Pulled:** 2026-07-11 14:21 UTC  —  473 matching roles found this run._
 | Tesla | Software Engineer Intern, Vehicle Engineering | 2026-04-20 | — | [Apply](https://www.tesla.com/careers/search/job/267767?jr_id=69dd6930bc6f6622c9912106) |
 | Point72 | Quantitative Developer Intern | 2026-04-19 | — | [Apply](https://careers.point72.com/CSJobDetail?jobName=summer-2027-quantitative-developer-internship&jobCode=CSS-0012293) |
 
-## Simplify/pittcsc (375)
+## Simplify/pittcsc (377)
 
 | Company | Role | Posted | Applied | Link |
 |---|---|---|---|---|
 | DiDi Global | Motion Planning Engineer Intern | 2026-07-11 | — | [Apply](https://job-boards.greenhouse.io/didi/jobs/8056492) |
 | Tesla | Software Engineer Intern - Energy Engineering | 2026-07-10 | — | [Apply](https://www.tesla.com/careers/search/job/276333) |
-| LexisNexis Risk Solutions | Editorial Data Reporting Intern | 2026-07-10 | — | [Apply](https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Home-based-Washington-DC/Editorial-Data-Reporting-Intern_R112971-1) |
 | Exowatt | Software Engineer Intern - Agent Platform - AI | 2026-07-10 | — | [Apply](https://jobs.lever.co/exowatt/2623555d-8b81-4f95-8bca-de9fafd2381c/apply) |
 | Xsolla | AI-First Engineer Intern | 2026-07-10 | — | [Apply](https://jobs.lever.co/xsolla/5d5fd6b3-d82f-437a-b251-abf4674ac874/apply) |
 | Xsolla | AI Engineer Intern | 2026-07-10 | — | [Apply](https://jobs.lever.co/xsolla/5ec8e8f7-ed75-4697-a1c0-28a026f2e571/apply) |
@@ -142,6 +141,7 @@ _**Pulled:** 2026-07-11 14:21 UTC  —  473 matching roles found this run._
 | Eight Sleep | Prototype & Test Engineer Intern - New Product Development | 2026-07-02 | — | [Apply](https://jobs.ashbyhq.com/eightsleep/26d71b34-8a04-45e4-8c39-980688779dc3/application) |
 | TikTok | Frontend Software Engineer Project Intern - Global CRM | 2026-07-02 | — | [Apply](https://lifeattiktok.com/search/7654431844394322229) |
 | NVIDIA | PhD Research Intern - System Software and I/O Architecture | 2026-07-02 | — | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--System-Software-and-I-O-Architecture---Fall-2026_JR2019667) |
+| NVIDIA | Java Engineer Intern | 2026-07-02 | — | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Java-Engineering-Intern---Fall-2026_JR2019769) |
 | Bosch Home Comfort | Hardware Prototyping Intern - Data Center Rack | 2026-07-02 | — | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000134543799) |
 | Bosch Home Comfort | Foreign Trade Data Analytics Intern | 2026-07-02 | — | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000134542009) |
 | Palantir | Forward Deployed Software Engineer Intern - Intel | 2026-07-02 | — | [Apply](https://jobs.lever.co/palantir/9e40d77f-b07c-437b-98e7-def9b0184d89/apply) |
@@ -226,7 +226,6 @@ _**Pulled:** 2026-07-11 14:21 UTC  —  473 matching roles found this run._
 | Formlabs | Hardware R&D Engineer Intern | 2026-06-18 | — | [Apply](https://careers.formlabs.com/job/7890746/apply/?gh_jid=7890746) |
 | Nelnet | AI Engineer Intern | 2026-06-18 | — | [Apply](https://nelnet.wd1.myworkdayjobs.com/MyNelnet/job/Lincoln-NE/Intern---AI-Engineer_R22763) |
 | Generac | Firmware Engineering Intern | 2026-06-18 | — | [Apply](https://generac.wd5.myworkdayjobs.com/en-US/external/job/Reno-NV---USA/Intern-Firmware-Engineering_JR14674) |
-| Copart | Software Engineer Intern | 2026-06-18 | — | [Apply](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109441) |
 | Texas Instruments | Engineering Technician Intern | 2026-06-17 | — | [Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25010550) |
 | Marvell | Design Verification Engineer Intern | 2026-06-17 | — | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Ottawa-Canada/Design-Verification-Engineer-Intern---Fall-2026_2602706) |
 | Viridien | Software Engineer Intern | 2026-06-17 | — | [Apply](https://cgg.wd103.myworkdayjobs.com/viridiencareers/job/Crawley-United-Kingdom/Software-Engineering-Intern_JR101336-1) |
@@ -259,6 +258,7 @@ _**Pulled:** 2026-07-11 14:21 UTC  —  473 matching roles found this run._
 | TikTok | Software Engineer Intern - Capital Platform | 2026-06-15 | — | [Apply](https://lifeattiktok.com/search/7534536157456058632) |
 | TikTok | Machine Learning Engineer Intern - Monetization Technology | 2026-06-15 | — | [Apply](https://lifeattiktok.com/search/7562342433721862405) |
 | OfferUp | Software Engineer Intern | 2026-06-13 | — | [Apply](https://job-boards.greenhouse.io/offerup/jobs/8004171) |
+| General Motors | Research and Development Intern - Research & Development: AI/ML | 2026-06-12 | — | [Apply](https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2026-Fall-Intern---Research---Development--AI-ML_JR-202612795) |
 | Kepler Communications | Embedded Software Engineer Intern | 2026-06-12 | — | [Apply](https://jobs.lever.co/kepler/afe34c63-ab6d-42a6-8571-dab052ee9c41/apply) |
 | Tesla | Software Engineer Intern - Residential Energy Device Software Engineer - Energy Engineering | 2026-06-12 | — | [Apply](https://www.tesla.com/careers/search/job/273810) |
 | Together AI | Systems Research Engineer Intern - GPU Programming | 2026-06-12 | — | [Apply](https://job-boards.greenhouse.io/togetherai/jobs/5157559007) |
@@ -284,6 +284,7 @@ _**Pulled:** 2026-07-11 14:21 UTC  —  473 matching roles found this run._
 | iSpot.tv | Data Science Intern | 2026-06-09 | — | [Apply](https://job-boards.greenhouse.io/ispottv/jobs/4703297005) |
 | Centerfield | Software Engineer Intern | 2026-06-09 | — | [Apply](https://jobs.ashbyhq.com/centerfield/3279e803-56ab-4e12-8168-c2fd60bc8e60/application) |
 | Tesla | Embedded Software Intern - Embedded Software Engineer - Optimus | 2026-06-09 | — | [Apply](https://www.tesla.com/careers/search/job/273272) |
+| Copart | Software Engineer Intern | 2026-06-08 | — | [Apply](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109393) |
 | Astera Labs | Design Verification Engineer Intern | 2026-06-08 | — | [Apply](https://job-boards.greenhouse.io/asteraearlycareer2026/jobs/4611422005) |
 | Tesla | Software Engineer Intern - Software Engineer - Information Security | 2026-06-07 | — | [Apply](https://www.tesla.com/careers/search/job/270497) |
 | Tesla | Software Engineer Intern - Software Engineer Opticaster - Energy Engineering | 2026-06-07 | — | [Apply](https://www.tesla.com/careers/search/job/272937) |
@@ -359,6 +360,7 @@ _**Pulled:** 2026-07-11 14:21 UTC  —  473 matching roles found this run._
 | PlusAI | Systems Engineer Intern | 2026-05-27 | — | [Apply](https://jobs.lever.co/plus-2/1864b1be-25e5-424f-9626-09e58f6147f2/apply) |
 | Meshy | Data Infra Engineer Intern | 2026-05-27 | — | [Apply](https://jobs.ashbyhq.com/meshy/2f33b2eb-b76d-4618-b299-497471f263b9) |
 | Smiths Detection Group | Technical Service Engineer Intern | 2026-05-27 | — | [Apply](https://jobs.smartrecruiters.com/SmithsGroup2/744000128739981) |
+| Magna | Engineering ADAS Perception Features Intern | 2026-05-27 | — | [Apply](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Auburn-Hills-Michigan-US/Intern---Engineering_R00235438) |
 | Astera Labs | Platform Applications Engineer Intern Co-op | 2026-05-27 | — | [Apply](https://job-boards.greenhouse.io/asteraearlycareer2026/jobs/4562833005) |
 | Black Box | AI Engineer Intern | 2026-05-26 | — | [Apply](https://eoje.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/6315) |
 | PlusAI | Computer Vision Engineer Intern | 2026-05-26 | — | [Apply](https://jobs.lever.co/plus-2/c143df6e-66c2-4498-b19b-8323f9954ca9/apply) |
