@@ -34,6 +34,60 @@ PRIORITY_DAYS = 14
 
 UA = "Mozilla/5.0 (compatible; internship-tracker/1.0)"
 
+# ---------------------------------------------------------------------------
+# "Most Influential Tech Companies" highlight (see TOP_COMPANIES.md).
+# A curated list combining TIME's 100 Most Influential Companies (2025, tech
+# subset) with the largest technology companies by market cap, plus the most
+# prominent AI labs, fintech/quant firms, dev-infra companies, and space/
+# defense tech. Any pulled role at one of these companies is surfaced in a
+# dedicated section at the very top of the README.
+#
+# Tokens are matched as whole words/phrases against the normalized company
+# name, so "amazon" matches "Amazon", "Amazon Web Services" and "Amazon.com"
+# but not unrelated substrings.
+INFLUENTIAL_COMPANIES = {
+    # Mega-cap / Big Tech
+    "apple", "microsoft", "google", "alphabet", "deepmind", "amazon", "aws",
+    "meta", "facebook", "instagram", "nvidia", "tesla", "broadcom", "oracle",
+    "salesforce", "adobe", "netflix", "amd", "advanced micro devices", "intel",
+    "ibm", "qualcomm", "cisco", "sap", "servicenow", "dell", "hp", "hewlett",
+    # Semiconductors / hardware
+    "tsmc", "taiwan semiconductor", "asml", "micron", "texas instruments",
+    "applied materials", "analog devices", "arm", "samsung", "sony",
+    # AI labs
+    "openai", "anthropic", "scale ai", "databricks", "hugging face", "cohere",
+    "mistral", "perplexity", "xai", "deepseek",
+    # Fintech / payments
+    "stripe", "paypal", "block", "square", "coinbase", "robinhood", "plaid",
+    "ramp", "brex", "chime", "shopify",
+    # Quant / trading
+    "citadel", "jane street", "two sigma", "jump trading", "hudson river",
+    "de shaw", "d e shaw", "optiver", "imc", "imc trading", "drw",
+    "susquehanna", "sig", "point72", "tower research", "akuna",
+    # Developer infra / SaaS
+    "snowflake", "palantir", "crowdstrike", "datadog", "mongodb", "workday",
+    "atlassian", "zoom", "cloudflare", "hashicorp", "gitlab", "github",
+    "confluent", "elastic", "twilio", "okta", "rippling", "notion", "figma",
+    "canva",
+    # Consumer internet
+    "uber", "lyft", "airbnb", "booking", "doordash", "instacart", "spotify",
+    "discord", "reddit", "pinterest", "snap", "linkedin", "tiktok", "bytedance",
+    "roblox", "unity", "electronic arts", "activision", "roku", "alibaba",
+    "tencent", "baidu", "huawei", "nintendo", "coursera", "substack", "deepl",
+    # Space / defense / autonomy
+    "spacex", "anduril", "rivian", "waymo", "cruise", "zoox", "boston dynamics",
+    "northrop grumman", "lockheed", "raytheon",
+}
+
+
+def is_influential(company):
+    """True if a company name matches the curated influential-companies list.
+    Matching is whole-word/phrase on the normalized name to avoid spurious
+    substring hits (e.g. 'arm' must not match 'pharma')."""
+    c = re.sub(r'[^a-z0-9 ]', ' ', (company or "").lower())
+    c = " " + re.sub(r'\s+', ' ', c).strip() + " "
+    return any(f" {tok} " in c for tok in INFLUENTIAL_COMPANIES)
+
 
 def fetch(url, is_json=False, timeout=30):
     req = Request(url, headers={"User-Agent": UA, "Accept": "application/json" if is_json else "*/*"})
@@ -355,7 +409,53 @@ def _neg_date_key(posted):
         return (1, 0)
 
 
-def build_readme(buckets, linkedin_url, applied=None):
+def build_influential_section(rows, applied=None):
+    """Render the 'Most Influential Tech Companies' highlight table: every
+    pulled role at a company on INFLUENTIAL_COMPANIES, unapplied-first then
+    newest-first. `rows` is the deduped, already-filtered pool. Also appears
+    in the per-source lists further down the README."""
+    applied = applied or []
+    hits = [r for r in rows if is_influential(r[0])]
+    hits.sort(key=lambda r: (is_applied(r[2], applied), _neg_date_key(r[3])))
+
+    n_companies = len({_norm(r[0]) for r in hits})
+    lines = [f"## 🏆 Most Influential Tech Companies — {YEAR} Internships ({len(hits)})", ""]
+    lines.append(
+        "_Open roles at companies on our curated **Most Influential Tech "
+        "Companies** list (TIME100 Most Influential Companies 2025 — tech "
+        "subset — plus the largest tech companies by market cap; see "
+        "[`TOP_COMPANIES.md`](TOP_COMPANIES.md)). These roles also appear in "
+        "the per-source lists below._"
+    )
+    lines.append("")
+    if not hits:
+        lines.append(
+            "> No influential-company roles matched in this run. This section "
+            "fills in automatically as fresh roles are pulled."
+        )
+        lines.append("")
+        return "\n".join(lines)
+    lines.append(f"_{len(hits)} role(s) across {n_companies} influential companies._")
+    lines.append("")
+    lines.append("| Company | Role | Posted | Applied | Link |")
+    lines.append("|---|---|---|---|---|")
+    seen = set()
+    for row in hits:
+        company, role, link, posted = row[0], row[1], row[2], row[3]
+        key = (company, role)
+        if key in seen:
+            continue
+        seen.add(key)
+        role = role.replace("|", "\\|")
+        company = company.replace("|", "\\|")
+        mark = "✅" if is_applied(link, applied) else "—"
+        posted = posted or "—"
+        lines.append(f"| {company} | {role} | {posted} | {mark} | [Apply]({link}) |")
+    lines.append("")
+    return "\n".join(lines)
+
+
+def build_readme(buckets, linkedin_url, applied=None, influential_rows=None):
     applied = applied or []
     now = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
     total = sum(len(v) for v in buckets.values())
@@ -378,13 +478,10 @@ def build_readme(buckets, linkedin_url, applied=None):
             "may not be populated yet — it will retry on the next scheduled run."
         )
         lines.append("")
-    for source_name, rows in buckets.items():
-        if not rows:
-            continue
-        lines.append(f"## {source_name} ({len(rows)})")
-        lines.append("")
-        lines.append("| Company | Role | Posted | Applied | Link |")
-        lines.append("|---|---|---|---|---|")
+    def render_bucket(source_name, rows):
+        out = [f"## {source_name} ({len(rows)})", "",
+               "| Company | Role | Posted | Applied | Link |",
+               "|---|---|---|---|---|"]
         # sort: unapplied first, then newest-first within each group
         # (undated rows sink to the bottom of their group)
         rows_sorted = sorted(
@@ -402,8 +499,22 @@ def build_readme(buckets, linkedin_url, applied=None):
             company = company.replace("|", "\\|")
             applied_mark = "✅" if is_applied(link, applied) else "—"
             posted = posted or "—"
-            lines.append(f"| {company} | {role} | {posted} | {applied_mark} | [Apply]({link}) |")
-        lines.append("")
+            out.append(f"| {company} | {role} | {posted} | {applied_mark} | [Apply]({link}) |")
+        out.append("")
+        return out
+
+    # Ordering: Simplify/pittcsc (the largest community list) first, then the
+    # Most Influential Tech Companies highlight, then every other source in its
+    # original collection order.
+    TOP_SOURCE = "Simplify/pittcsc"
+    if buckets.get(TOP_SOURCE):
+        lines += render_bucket(TOP_SOURCE, buckets[TOP_SOURCE])
+    if influential_rows is not None:
+        lines.append(build_influential_section(influential_rows, applied=applied))
+    for source_name, rows in buckets.items():
+        if source_name == TOP_SOURCE or not rows:
+            continue
+        lines += render_bucket(source_name, rows)
     lines.append("---")
     cutoff_note = (
         f"Postings older than {MAX_AGE_DAYS} days are auto-hidden as likely-filled. "
@@ -553,7 +664,8 @@ def main():
     for row in deduped:
         buckets.setdefault(lookup_label(row), []).append(row)
 
-    readme = build_readme(buckets, linkedin_search_link(), applied=applied)
+    readme = build_readme(buckets, linkedin_search_link(), applied=applied,
+                          influential_rows=deduped)
     with open("README.md", "w", encoding="utf-8") as f:
         f.write(readme)
     print(f"Wrote README.md ({sum(len(v) for v in buckets.values())} total across {len(buckets)} sources)")
