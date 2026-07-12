@@ -478,15 +478,10 @@ def build_readme(buckets, linkedin_url, applied=None, influential_rows=None):
             "may not be populated yet — it will retry on the next scheduled run."
         )
         lines.append("")
-    if influential_rows is not None:
-        lines.append(build_influential_section(influential_rows, applied=applied))
-    for source_name, rows in buckets.items():
-        if not rows:
-            continue
-        lines.append(f"## {source_name} ({len(rows)})")
-        lines.append("")
-        lines.append("| Company | Role | Posted | Applied | Link |")
-        lines.append("|---|---|---|---|---|")
+    def render_bucket(source_name, rows):
+        out = [f"## {source_name} ({len(rows)})", "",
+               "| Company | Role | Posted | Applied | Link |",
+               "|---|---|---|---|---|"]
         # sort: unapplied first, then newest-first within each group
         # (undated rows sink to the bottom of their group)
         rows_sorted = sorted(
@@ -504,8 +499,22 @@ def build_readme(buckets, linkedin_url, applied=None, influential_rows=None):
             company = company.replace("|", "\\|")
             applied_mark = "✅" if is_applied(link, applied) else "—"
             posted = posted or "—"
-            lines.append(f"| {company} | {role} | {posted} | {applied_mark} | [Apply]({link}) |")
-        lines.append("")
+            out.append(f"| {company} | {role} | {posted} | {applied_mark} | [Apply]({link}) |")
+        out.append("")
+        return out
+
+    # Ordering: Simplify/pittcsc (the largest community list) first, then the
+    # Most Influential Tech Companies highlight, then every other source in its
+    # original collection order.
+    TOP_SOURCE = "Simplify/pittcsc"
+    if buckets.get(TOP_SOURCE):
+        lines += render_bucket(TOP_SOURCE, buckets[TOP_SOURCE])
+    if influential_rows is not None:
+        lines.append(build_influential_section(influential_rows, applied=applied))
+    for source_name, rows in buckets.items():
+        if source_name == TOP_SOURCE or not rows:
+            continue
+        lines += render_bucket(source_name, rows)
     lines.append("---")
     cutoff_note = (
         f"Postings older than {MAX_AGE_DAYS} days are auto-hidden as likely-filled. "
