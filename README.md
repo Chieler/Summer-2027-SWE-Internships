@@ -1,20 +1,20 @@
 # 2027 SWE / Software-Adjacent Internships
 
-_**Pulled:** 2026-07-13 23:53 UTC  —  479 matching roles found this run._
+_**Pulled:** 2026-07-14 06:18 UTC  —  477 matching roles found this run._
 
 **[Open live LinkedIn search](https://www.linkedin.com/jobs/search/?keywords=software%20engineer%20intern%202027&f_E=1&f_JT=I)** (LinkedIn can't be scraped reliably from CI, so this is a one-tap live link instead.)
 
-## Simplify/pittcsc (381)
+## Simplify/pittcsc (379)
 
 | Company | Role | Posted | Applied | Link |
 |---|---|---|---|---|
+| Jane Street | Data Engineering Intern | 2026-07-14 | — | [Apply](https://job-boards.greenhouse.io/janestreet/jobs/8631973002) |
 | DRW | Software Developer Intern | 2026-07-13 | — | [Apply](https://job-boards.greenhouse.io/drweng/jobs/7942281) |
 | Jump Trading | Campus FPGA Engineer Intern | 2026-07-13 | — | [Apply](https://boards.greenhouse.io/embed/job_app?token=7974391) |
 | Jump Trading | Campus ML Research Engineer Intern | 2026-07-13 | — | [Apply](https://boards.greenhouse.io/embed/job_app?token=7977145) |
 | Jump Trading | Campus ASIC Engineer Intern | 2026-07-13 | — | [Apply](https://boards.greenhouse.io/embed/job_app?token=7974837) |
 | Akuna Capital University | Software Engineer Intern - C++ | 2026-07-13 | — | [Apply](https://www.akunacapital.com/careers/job/8018847/?gh_jid=8018847) |
 | Akuna Capital University | Software Engineer Intern - Full Stack Web | 2026-07-13 | — | [Apply](https://www.akunacapital.com/careers/job/8018893/?gh_jid=8018893) |
-| CVS Health | Associate Data Engineer – UG Intern Conversion | 2026-07-13 | — | [Apply](https://cvshealth.wd1.myworkdayjobs.com/Private_Postings_Intern_Conversion_ONLY/job/NY---New-York/Associate-Data-Engineer---UG-Intern-Conversion_R0972899) |
 | Akuna Capital University | Software Engineer Intern - Python | 2026-07-13 | — | [Apply](https://www.akunacapital.com/careers/job/8018853/?gh_jid=8018853) |
 | GE Aerospace | Engineer Intern | 2026-07-13 | — | [Apply](https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Jacksonville/Unison-Engineering-Intern---Spring-2027_R5037093-1) |
 | GE Aerospace | Unison Engineer Intern | 2026-07-13 | — | [Apply](https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Jacksonville/Unison-Engineering-Intern---Fall-2027_R5037092-1) |
@@ -67,7 +67,6 @@ _**Pulled:** 2026-07-13 23:53 UTC  —  479 matching roles found this run._
 | Droyd Robotics | Software Engineer Intern | 2026-07-04 | — | [Apply](https://jobs.ashbyhq.com/droyd/8d46ed05-1b38-4c68-938e-f10b4c7d4694/application) |
 | Tesla | Energy Engineering Intern - Software Engineer Diagnostics - Energy Engineering | 2026-07-03 | — | [Apply](https://www.tesla.com/careers/search/job/275805) |
 | ByteDance | Research Scientist Intern - AI Infrastructure | 2026-07-03 | — | [Apply](https://jobs.bytedance.com/en/position/7553916190126524680/detail) |
-| Travelers | Data Science Leadership Development Program Intern - Dsldp | 2026-07-03 | — | [Apply](https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Data-Science-Leadership-Development-Program--DSLDP--Intern_R-51337) |
 | Arlington County VA | Utility Engineering Intern | 2026-07-03 | — | [Apply](https://fa-exkk-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1624) |
 | Eight Sleep | Prototype & Test Engineer Intern - New Product Development | 2026-07-02 | — | [Apply](https://jobs.ashbyhq.com/eightsleep/26d71b34-8a04-45e4-8c39-980688779dc3/application) |
 | TikTok | Frontend Software Engineer Project Intern - Global CRM | 2026-07-02 | — | [Apply](https://lifeattiktok.com/search/7654431844394322229) |
@@ -344,7 +343,6 @@ _**Pulled:** 2026-07-13 23:53 UTC  —  479 matching roles found this run._
 | Metropolitan Transportation Authority | Data Analyst Intern - Power Control Center | 2026-05-13 | — | [Apply](https://jobs.jobvite.com/metropolitantransportationauthority/job/onr7zfwe?nl=1&nl=1&fr=false) |
 | Astranis | Software Engineer-Backend Intern | 2026-05-13 | — | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4681183006) |
 | Astera | Software Engineer Intern - Distributed Simulation Systems | 2026-05-13 | — | [Apply](https://jobs.ashbyhq.com/astera/c2a48c1b-c4c4-4333-addf-313c47e26066/application) |
-| Astranis | CAD Engineer/Librarian Intern | 2026-05-13 | — | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4681155006) |
 | Neuralink | Machine Learning Engineer Intern | 2026-05-12 | — | [Apply](https://boards.greenhouse.io/neuralink/jobs/6594261003) |
 | SOTI | Data Scientist Intern | 2026-05-12 | — | [Apply](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Data-Scientist--Intern--September-2026-12-Months-_R10065) |
 | Super | Software Engineer Intern - Product - Full-Stack | 2026-05-11 | — | [Apply](https://jobs.ashbyhq.com/super.com/8179b5ad-9074-4d96-aa92-366cf12ab5d5/application) |
@@ -390,14 +388,15 @@ _**Pulled:** 2026-07-13 23:53 UTC  —  479 matching roles found this run._
 | Primetals Technologies | Software Development & Data Science Analyst Intern - Month contract | 2026-04-16 | — | [Apply](https://mhicareers.com/job/Boisbriand-Software-Development-&-Data-Science-Analyst-(12-Month-contract)-Queb-J7H-0E2/1384663333/?ats=successfactors) |
 | Mindsmith | Software Engineering Intern | 2026-06-24 | ✅ | [Apply](https://app.dover.com/apply/mindsmith/e0ca8149-6811-4de9-ba38-65a0244a2b7e) |
 
-## 🏆 Most Influential Tech Companies — 2027 Internships (212)
+## 🏆 Most Influential Tech Companies — 2027 Internships (213)
 
 _Open roles at companies on our curated **Most Influential Tech Companies** list (TIME100 Most Influential Companies 2025 — tech subset — plus the largest tech companies by market cap; see [`TOP_COMPANIES.md`](TOP_COMPANIES.md)). These roles also appear in the per-source lists below._
 
-_212 role(s) across 46 influential companies._
+_213 role(s) across 46 influential companies._
 
 | Company | Role | Posted | Applied | Link |
 |---|---|---|---|---|
+| Jane Street | Data Engineering Intern | 2026-07-14 | — | [Apply](https://job-boards.greenhouse.io/janestreet/jobs/8631973002) |
 | DRW | Software Developer Intern | 2026-07-13 | — | [Apply](https://job-boards.greenhouse.io/drweng/jobs/7942281) |
 | Jump Trading | Campus FPGA Engineer Intern | 2026-07-13 | — | [Apply](https://boards.greenhouse.io/embed/job_app?token=7974391) |
 | Jump Trading | Campus ML Research Engineer Intern | 2026-07-13 | — | [Apply](https://boards.greenhouse.io/embed/job_app?token=7977145) |

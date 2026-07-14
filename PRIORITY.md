@@ -1,6 +1,6 @@
 # 🔥 Priority — Fresh Summer 2027 Roles
 
-_**Pulled:** 2026-07-13 23:53 UTC  —  27 role(s) explicitly tagged Summer 2027 and posted within the last 14 days._
+_**Pulled:** 2026-07-14 06:18 UTC  —  26 role(s) explicitly tagged Summer 2027 and posted within the last 14 days._
 
 | Company | Role | Posted | Applied | Link |
 |---|---|---|---|---|
@@ -30,7 +30,6 @@ _**Pulled:** 2026-07-13 23:53 UTC  —  27 role(s) explicitly tagged Summer 2027
 | IMC Trading | Software Engineer Intern | 2026-07-01 | — | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4823924101) |
 | IMC Trading | Hardware Engineer Intern | 2026-07-01 | — | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4823945101) |
 | NOX METALS | Software Engineer Intern | 2026-07-01 | — | [Apply](https://jobs.ashbyhq.com/nox-metals/6edc2dff-7c4b-44b8-abba-32d5953b8c5f/application) |
-| Palantir | Forward Deployed Software Engineer Intern - Commercial | 2026-06-30 | — | [Apply](https://jobs.lever.co/palantir/d5486403-c050-4920-b2e0-91b69b61ebb2/apply) |
 
 ---
 _Auto-generated. Window: 14 days (edit `PRIORITY_DAYS` in `search.py`). See `README.md` for everything._
