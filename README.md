@@ -1,10 +1,10 @@
 # 2027 SWE / Software-Adjacent Internships
 
-_**Pulled:** 2026-07-14 14:49 UTC  —  476 matching roles found this run._
+_**Pulled:** 2026-07-14 16:19 UTC  —  475 matching roles found this run._
 
 **[Open live LinkedIn search](https://www.linkedin.com/jobs/search/?keywords=software%20engineer%20intern%202027&f_E=1&f_JT=I)** (LinkedIn can't be scraped reliably from CI, so this is a one-tap live link instead.)
 
-## Simplify/pittcsc (378)
+## Simplify/pittcsc (377)
 
 | Company | Role | Posted | Applied | Link |
 |---|---|---|---|---|
@@ -375,7 +375,6 @@ _**Pulled:** 2026-07-14 14:49 UTC  —  476 matching roles found this run._
 | AI Fund | Visiting Engineer: Research Coach Intern | 2026-04-27 | — | [Apply](https://jobs.lever.co/AIFund/655b44a2-1e23-453f-b708-07e412701507/apply) |
 | AI Fund | Engineer in Residence: Enterprise Agent Infrastructure Intern | 2026-04-27 | — | [Apply](https://jobs.lever.co/AIFund/0b219991-32db-4827-b052-7207faac151d/apply) |
 | TIFIN | AI Engineering Intern | 2026-04-24 | — | [Apply](https://tifin.com/careers/apply/?gh_jid=5981740004) |
-| Nokia | Support Software Developer Co-op/Intern | 2026-04-24 | — | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/34551) |
 | Anduril | Software Engineer Intern - Warfighter Systems | 2026-04-23 | — | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5117558007) |
 | Susquehanna International Group (SIG) | Trading System Engineering Intern | 2026-04-23 | — | [Apply](https://careers-sig.icims.com/jobs/10837/job?mobile=true&needsRedirect=false) |
 | Susquehanna International Group (SIG) | Quantitative Strategy Developer Intern | 2026-04-23 | — | [Apply](https://careers-sig.icims.com/jobs/10838/job?mobile=true&needsRedirect=false) |
