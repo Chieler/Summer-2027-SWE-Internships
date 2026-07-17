@@ -1,10 +1,10 @@
 # 2027 SWE / Software-Adjacent Internships
 
-_**Pulled:** 2026-07-17 14:42 UTC  —  493 matching roles found this run._
+_**Pulled:** 2026-07-17 21:38 UTC  —  490 matching roles found this run._
 
 **[Open live LinkedIn search](https://www.linkedin.com/jobs/search/?keywords=software%20engineer%20intern%202027&f_E=1&f_JT=I)** (LinkedIn can't be scraped reliably from CI, so this is a one-tap live link instead.)
 
-## Simplify/pittcsc (387)
+## Simplify/pittcsc (384)
 
 | Company | Role | Posted | Applied | Link |
 |---|---|---|---|---|
@@ -22,7 +22,6 @@ _**Pulled:** 2026-07-17 14:42 UTC  —  493 matching roles found this run._
 | Tesla | Energy Battery Firmware Intern - Software Engineer - Energy Engineering | 2026-07-16 | — | [Apply](https://www.tesla.com/careers/search/job/276987) |
 | CAE | Data Specialist Intern | 2026-07-16 | — | [Apply](https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/C-IT-105--Data-Specialist-intern_122741) |
 | CuspAI | Chemistry Intern - MLFF Distillation & GCMC Integration | 2026-07-16 | — | [Apply](https://jobs.ashbyhq.com/cuspai/d7b80299-ed98-4dfe-b306-729cd10d3f04/application?embed=true) |
-| GeoComply | Full Stack Developer Intern | 2026-07-16 | — | [Apply](https://jobs.lever.co/geocomply-2/a3131ad8-06ec-4c6e-b27c-81aa4c02cc40/apply) |
 | Aptiv | Engineer Intern | 2026-07-16 | — | [Apply](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Engineering-Intern---CD1_J000700250) |
 | Chevron Corporation | Software Engineer Intern - Information Technology - Software Engineer | 2026-07-16 | — | [Apply](https://chevron.wd5.myworkdayjobs.com/University/job/Houston-Texas-United-States-of-America/XMLNAME-2026-2027-Information-Technology---Software-Engineer---Intern_R000072398-1) |
 | Cloudflare | Software Engineer Intern | 2026-07-15 | — | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8052785) |
@@ -48,7 +47,6 @@ _**Pulled:** 2026-07-17 14:42 UTC  —  493 matching roles found this run._
 | Five Rings Capital | Software Developer Intern - Software Developer | 2026-07-14 | — | [Apply](https://job-boards.greenhouse.io/fiveringsllc/jobs/5349707008) |
 | Custom Computer Specialists | Developer Intern | 2026-07-14 | — | [Apply](https://job-boards.greenhouse.io/customcomputerspecialists/jobs/4221846009) |
 | Formlabs | Test Software Intern | 2026-07-14 | — | [Apply](https://careers.formlabs.com/job/8065543/apply/?gh_jid=8065543) |
-| RTX | Digital Project Engineer Intern - Digital Project Engineering | 2026-07-14 | — | [Apply](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/CA-ON-MISSISSAUGA-P22M01--1801-Courtney-Park-Dr--P22M01-BLDG/Internship-Fall-2026---Digital-Project-Engineering_01837887-1) |
 | DRW | Software Developer Intern | 2026-07-13 | — | [Apply](https://job-boards.greenhouse.io/drweng/jobs/7942281) |
 | Jump Trading | Campus FPGA Engineer Intern | 2026-07-13 | — | [Apply](https://boards.greenhouse.io/embed/job_app?token=7974391) |
 | Jump Trading | Campus ML Research Engineer Intern | 2026-07-13 | — | [Apply](https://boards.greenhouse.io/embed/job_app?token=7977145) |
@@ -298,7 +296,6 @@ _**Pulled:** 2026-07-17 14:42 UTC  —  493 matching roles found this run._
 | Nightwing Intelligence Solutions | Software / Hardware Engineering Intern | 2026-06-03 | — | [Apply](https://nwis.wd12.myworkdayjobs.com/NW/job/Annapolis-Junction-MD/Software---Hardware-Engineering---Intern_JR101733) |
 | Clerkie | Software Engineer Intern | 2026-06-02 | — | [Apply](http://getfiber.ai/careers?gh_jid=5152467007) |
 | Fluxergy | Firmware Engineer Intern | 2026-06-02 | — | [Apply](https://jobs.lever.co/fluxergy-2/c592763e-56ba-4d20-b751-3a4574470eec/apply) |
-| ByteDance | Research Intern - Video Data Compression and Application | 2026-06-02 | — | [Apply](https://jobs.bytedance.com/en/position/7538674634397813010/detail) |
 | PsiQuantum | Optical Packaging and Characterization Engineer Intern | 2026-06-02 | — | [Apply](https://www.psiquantum.com/apply?gh_jid=7761881003) |
 | QuEra Computing | Photonics Data Engineer Intern - Data Management | 2026-06-02 | — | [Apply](https://job-boards.greenhouse.io/queracomputinginc/jobs/5239489008) |
 | Astera Labs | Firmware Engineer Intern | 2026-06-02 | — | [Apply](https://job-boards.greenhouse.io/asteraearlycareer2026/jobs/4609356005) |
@@ -396,11 +393,11 @@ _**Pulled:** 2026-07-17 14:42 UTC  —  493 matching roles found this run._
 | Blockhouse | Rust Developer Intern | 2026-04-21 | — | [Apply](https://jobs.ashbyhq.com/blockhouse/42a3066f-683c-4b32-b097-5047e89dd12c/application) |
 | Mindsmith | Software Engineering Intern | 2026-06-24 | ✅ | [Apply](https://app.dover.com/apply/mindsmith/e0ca8149-6811-4de9-ba38-65a0244a2b7e) |
 
-## 🏆 Most Influential Tech Companies — 2027 Internships (209)
+## 🏆 Most Influential Tech Companies — 2027 Internships (208)
 
 _Open roles at companies on our curated **Most Influential Tech Companies** list (TIME100 Most Influential Companies 2025 — tech subset — plus the largest tech companies by market cap; see [`TOP_COMPANIES.md`](TOP_COMPANIES.md)). These roles also appear in the per-source lists below._
 
-_209 role(s) across 47 influential companies._
+_208 role(s) across 47 influential companies._
 
 | Company | Role | Posted | Applied | Link |
 |---|---|---|---|---|
@@ -563,7 +560,6 @@ _209 role(s) across 47 influential companies._
 | ByteDance | Machine Learning Engineer Intern - E-Commerce Knowledge Graph - Computer Vision/Multimodal/Natural Language Processing | 2026-06-03 | — | [Apply](https://jobs.bytedance.com/en/position/7543005612200970503/detail) |
 | ByteDance | Network Software Development Engineer Intern - Network Switch | 2026-06-03 | — | [Apply](https://jobs.bytedance.com/en/position/7537117266451171592/detail) |
 | ByteDance | Machine Learning Engineer Intern - Global E-commerce Risk Control | 2026-06-03 | — | [Apply](https://jobs.bytedance.com/en/position/7535953226975054098/detail) |
-| ByteDance | Research Intern - Video Data Compression and Application | 2026-06-02 | — | [Apply](https://jobs.bytedance.com/en/position/7538674634397813010/detail) |
 | TikTok | Data Science Intern - Tiktok Shop-Supply Chain & Logistics | 2026-05-28 | — | [Apply](https://lifeattiktok.com/search/7644719084681234741) |
 | NVIDIA | PhD Software Engineer Intern - Decision Intelligence | 2026-05-23 | — | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Software-Engineering-Intern--Decision-Intelligence---Fall-2026_JR2017522) |
 | Susquehanna | Trading System Engineering Intern | 2026-05-22 | — | [Apply](https://careers.sig.com/jobs/10837?lang=en-us&mode=apply&iis=LinkedIn&jr_id=69f3d11158b23a2329da8088) |
