@@ -27,7 +27,7 @@ KEYWORDS = ("software", "swe", "engineer", "developer", "data", "ml", "infra", "
 
 # Hide postings older than this many days (auto-filter for likely-filled roles).
 # Set to 0 to disable the age cutoff entirely.
-MAX_AGE_DAYS = 90
+MAX_AGE_DAYS = 45
 
 # PRIORITY.md highlights explicit Summer-2027 roles posted within this window.
 PRIORITY_DAYS = 14
@@ -340,8 +340,116 @@ def source_jobs_object(label, candidates):
     return []
 
 
+# ---------- Source: Ashby public job boards ----------
+# Ashby exposes a clean public posting API per org:
+#   https://api.ashbyhq.com/posting-api/job-board/{org}?includeCompensation=false
+# -> {"jobs": [{"title","location","team","employmentType","jobUrl","applyUrl",
+#               "publishedDate"?, ...}]}
+# Popular with AI labs and modern startups. Unknown/private orgs just 404 and
+# are skipped. Keys are org slugs; values are display names.
+ASHBY_BOARDS = {
+    "openai": "OpenAI", "ramp": "Ramp", "notion": "Notion", "linear": "Linear",
+    "cursor": "Cursor", "anysphere": "Cursor", "perplexity-ai": "Perplexity",
+    "vercel": "Vercel", "clay": "Clay", "sierra": "Sierra", "mercor": "Mercor",
+    "runwayml": "Runway", "cohere": "Cohere", "huggingface": "Hugging Face",
+    "scaleai": "Scale AI", "deel": "Deel", "gong": "Gong", "ashby": "Ashby",
+    "watershed": "Watershed", "modal": "Modal", "baseten": "Baseten",
+    "together-ai": "Together AI", "harvey": "Harvey", "glean": "Glean",
+    "rox": "Rox", "decagon": "Decagon", "hebbia": "Hebbia", "sardine": "Sardine",
+    "openstore": "OpenStore", "eightsleep": "Eight Sleep", "ironclad": "Ironclad",
+    "applied-intuition": "Applied Intuition", "physical-intelligence": "Physical Intelligence",
+    "skild-ai": "Skild AI", "figure": "Figure", "suno": "Suno", "elevenlabs": "ElevenLabs",
+}
+
+
+def source_ashby():
+    results = []
+    for org, display in ASHBY_BOARDS.items():
+        data = fetch(f"https://api.ashbyhq.com/posting-api/job-board/{org}?includeCompensation=false", is_json=True)
+        if not data or "jobs" not in data:
+            continue
+        for job in data["jobs"]:
+            title = job.get("title", "")
+            if not matches(title):
+                continue
+            url = job.get("jobUrl") or job.get("applyUrl") or ""
+            if not url:
+                continue
+            posted = _iso_to_date(job.get("publishedDate") or job.get("publishedAt") or "")
+            company = job.get("organizationName") or display
+            results.append((company, title, url, posted, detect_season("", "", title)))
+        time.sleep(0.3)
+    return results
+
+
+# ---------- Source: SmartRecruiters public postings ----------
+# https://api.smartrecruiters.com/v1/companies/{company}/postings?limit=100
+# -> {"content": [{"id","name","releasedDate","company":{"name"},
+#                  "location":{...}}]}
+SMARTRECRUITERS_BOARDS = ["Verkada", "Square", "Blizzard", "Ubisoft", "Zalando", "Nianticinc"]
+
+
+def source_smartrecruiters():
+    results = []
+    for company in SMARTRECRUITERS_BOARDS:
+        data = fetch(f"https://api.smartrecruiters.com/v1/companies/{company}/postings?limit=100", is_json=True)
+        if not data or "content" not in data:
+            continue
+        for job in data["content"]:
+            title = job.get("name", "")
+            if not matches(title):
+                continue
+            jid = job.get("id", "")
+            if not jid:
+                continue
+            url = f"https://jobs.smartrecruiters.com/{company}/{jid}"
+            posted = _iso_to_date(job.get("releasedDate") or "")
+            display = (job.get("company") or {}).get("name") or company
+            results.append((display, title, url, posted, detect_season("", "", title)))
+        time.sleep(0.3)
+    return results
+
+
+# ---------- Source: Workable public widget API ----------
+# https://apply.workable.com/api/v1/widget/accounts/{account}?details=true
+# -> {"name":..., "jobs":[{"title","shortcode","url","application_url",
+#                          "created_at","country","city"}]}
+WORKABLE_BOARDS = ["mistral", "helsing"]
+
+
+def source_workable():
+    results = []
+    for account in WORKABLE_BOARDS:
+        data = fetch(f"https://apply.workable.com/api/v1/widget/accounts/{account}?details=true", is_json=True)
+        if not data or "jobs" not in data:
+            continue
+        name = data.get("name") or account.capitalize()
+        for job in data["jobs"]:
+            title = job.get("title", "")
+            if not matches(title):
+                continue
+            url = job.get("url") or job.get("application_url") or ""
+            if not url:
+                continue
+            posted = _iso_to_date(job.get("created_at") or "")
+            results.append((name, title, url, posted, detect_season("", "", title)))
+        time.sleep(0.3)
+    return results
+
+
+# NOTE: Workday and Oracle Cloud recruiting have no universal public job API —
+# each employer is a separate tenant with its own host and site path, so a
+# generic connector isn't possible. Those roles still reach us via the
+# community JSON lists (which resolve the per-tenant URLs upstream).
+
+
 # ---------- Source 2: Greenhouse public boards ----------
-GREENHOUSE_BOARDS = ["stripe", "databricks", "robinhood", "coinbase", "airbnb", "doordash", "plaid", "rippling"]
+GREENHOUSE_BOARDS = [
+    "stripe", "databricks", "robinhood", "coinbase", "airbnb", "doordash",
+    "plaid", "rippling", "cloudflare", "discord", "reddit", "instacart",
+    "gitlab", "samsara", "flexport", "benchling", "affirm", "airtable",
+    "twitch", "gusto", "sofi", "brex",
+]
 
 def source_greenhouse():
     results = []
@@ -363,7 +471,7 @@ def source_greenhouse():
 
 
 # ---------- Source 3: Lever public boards ----------
-LEVER_BOARDS = ["ramp", "anduril", "scale", "figma"]
+LEVER_BOARDS = ["ramp", "anduril", "scale", "figma", "palantir", "attentive", "kraken"]
 
 def source_lever():
     results = []
@@ -548,16 +656,17 @@ def build_readme(buckets, linkedin_url, applied=None, influential_rows=None):
             "may not be populated yet — it will retry on the next scheduled run."
         )
         lines.append("")
-    # Ordering: Simplify/pittcsc (the largest community list) first, then the
-    # Most Influential Tech Companies highlight, then every other source in its
-    # original collection order.
-    TOP_SOURCE = "Simplify/pittcsc"
-    if buckets.get(TOP_SOURCE):
-        lines += render_source_bucket(TOP_SOURCE, buckets[TOP_SOURCE], applied)
+    # Ordering: Simplify/pittcsc (largest community list) first, then the Ashby
+    # boards, then the Most Influential Tech Companies highlight; every other
+    # source follows in its original collection order.
+    TOP_SOURCES = ["Simplify/pittcsc", "Ashby boards"]
+    for name in TOP_SOURCES:
+        if buckets.get(name):
+            lines += render_source_bucket(name, buckets[name], applied)
     if influential_rows is not None:
         lines.append(build_influential_section(influential_rows, applied=applied))
     for source_name, rows in buckets.items():
-        if source_name == TOP_SOURCE or not rows:
+        if source_name in TOP_SOURCES or not rows:
             continue
         lines += render_source_bucket(source_name, rows, applied)
     lines.append("---")
@@ -665,12 +774,21 @@ def main():
             labeled.append((label, row))
 
     print("Company boards:")
+    for row in source_ashby():
+        labeled.append(("Ashby boards", row))
+    print(f"  [Ashby] done")
     for row in source_greenhouse():
         labeled.append(("Greenhouse boards", row))
     print(f"  [Greenhouse] done")
     for row in source_lever():
         labeled.append(("Lever boards", row))
     print(f"  [Lever] done")
+    for row in source_smartrecruiters():
+        labeled.append(("SmartRecruiters boards", row))
+    print(f"  [SmartRecruiters] done")
+    for row in source_workable():
+        labeled.append(("Workable boards", row))
+    print(f"  [Workable] done")
 
     raw_total = len(labeled)
 
