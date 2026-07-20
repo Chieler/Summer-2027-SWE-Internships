@@ -27,7 +27,7 @@ KEYWORDS = ("software", "swe", "engineer", "developer", "data", "ml", "infra", "
 
 # Hide postings older than this many days (auto-filter for likely-filled roles).
 # Set to 0 to disable the age cutoff entirely.
-MAX_AGE_DAYS = 90
+MAX_AGE_DAYS = 45
 
 # PRIORITY.md highlights explicit Summer-2027 roles posted within this window.
 PRIORITY_DAYS = 14
@@ -100,10 +100,15 @@ def fetch(url, is_json=False, timeout=30):
         return None
 
 
+# "intern" as a whole word only — so full-time roles like "...Internal
+# Applications" or "Software Engineer, International" don't slip through.
+_INTERN_RE = re.compile(r"\bintern(ship)?s?\b")
+
+
 def matches(title):
     t = title.lower()
     has_kw = any(k in t for k in KEYWORDS)
-    is_intern = "intern" in t
+    is_intern = bool(_INTERN_RE.search(t))
     return has_kw and is_intern
 
 
@@ -298,8 +303,158 @@ def source_markdown_table(label, url):
     return rows
 
 
+# ---------- Source: jobs-object repos (e.g. zshah101 automated list) ----------
+# Some trackers publish a clean JSON API shaped as {"jobs": [ {...}, ... ]}
+# where each job has company / title / url / posted_at (ISO 8601) / season /
+# category. We consume that feed directly.
+JOBS_OBJECT_SOURCES = [
+    ("zshah101 (2027 + Fall 2026)", [
+        "https://raw.githubusercontent.com/zshah101/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/main/docs/api/jobs.json",
+        "https://raw.githubusercontent.com/zshah101/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/main/data/jobs.json",
+    ]),
+]
+
+
+def _iso_to_date(s):
+    """'2026-07-16T00:00:00Z' -> '2026-07-16'. '' if missing/unparseable."""
+    s = s or ""
+    return s[:10] if re.match(r"\d{4}-\d{2}-\d{2}", s) else ""
+
+
+def source_jobs_object(label, candidates):
+    """Fetch the first working URL for a {'jobs': [...]} feed and parse it."""
+    for url in candidates:
+        data = fetch(url, is_json=True)
+        if not data:
+            continue
+        jobs = data.get("jobs", []) if isinstance(data, dict) else data
+        rows = []
+        for job in jobs:
+            title = job.get("title", "")
+            if not matches(title):
+                continue
+            u = job.get("url", "")
+            if not u:
+                continue
+            posted = _iso_to_date(job.get("posted_at") or job.get("date_posted"))
+            season = job.get("season") or detect_season("", "", title)
+            rows.append((job.get("company", ""), title, u, posted, season))
+        print(f"  [{label}] {len(rows)} matches")
+        return rows
+    print(f"  [{label}] no data (all URLs failed)")
+    return []
+
+
+# ---------- Source: Ashby public job boards ----------
+# Ashby exposes a clean public posting API per org:
+#   https://api.ashbyhq.com/posting-api/job-board/{org}?includeCompensation=false
+# -> {"jobs": [{"title","location","team","employmentType","jobUrl","applyUrl",
+#               "publishedDate"?, ...}]}
+# Popular with AI labs and modern startups. Unknown/private orgs just 404 and
+# are skipped. Keys are org slugs; values are display names.
+ASHBY_BOARDS = {
+    "openai": "OpenAI", "ramp": "Ramp", "notion": "Notion", "linear": "Linear",
+    "cursor": "Cursor", "anysphere": "Cursor", "perplexity-ai": "Perplexity",
+    "vercel": "Vercel", "clay": "Clay", "sierra": "Sierra", "mercor": "Mercor",
+    "runwayml": "Runway", "cohere": "Cohere", "huggingface": "Hugging Face",
+    "scaleai": "Scale AI", "deel": "Deel", "gong": "Gong", "ashby": "Ashby",
+    "watershed": "Watershed", "modal": "Modal", "baseten": "Baseten",
+    "together-ai": "Together AI", "harvey": "Harvey", "glean": "Glean",
+    "rox": "Rox", "decagon": "Decagon", "hebbia": "Hebbia", "sardine": "Sardine",
+    "openstore": "OpenStore", "eightsleep": "Eight Sleep", "ironclad": "Ironclad",
+    "applied-intuition": "Applied Intuition", "physical-intelligence": "Physical Intelligence",
+    "skild-ai": "Skild AI", "figure": "Figure", "suno": "Suno", "elevenlabs": "ElevenLabs",
+}
+
+
+def source_ashby():
+    results = []
+    for org, display in ASHBY_BOARDS.items():
+        data = fetch(f"https://api.ashbyhq.com/posting-api/job-board/{org}?includeCompensation=false", is_json=True)
+        if not data or "jobs" not in data:
+            continue
+        for job in data["jobs"]:
+            title = job.get("title", "")
+            if not matches(title):
+                continue
+            url = job.get("jobUrl") or job.get("applyUrl") or ""
+            if not url:
+                continue
+            posted = _iso_to_date(job.get("publishedDate") or job.get("publishedAt") or "")
+            company = job.get("organizationName") or display
+            results.append((company, title, url, posted, detect_season("", "", title)))
+        time.sleep(0.3)
+    return results
+
+
+# ---------- Source: SmartRecruiters public postings ----------
+# https://api.smartrecruiters.com/v1/companies/{company}/postings?limit=100
+# -> {"content": [{"id","name","releasedDate","company":{"name"},
+#                  "location":{...}}]}
+SMARTRECRUITERS_BOARDS = ["Verkada", "Square", "Blizzard", "Ubisoft", "Zalando", "Nianticinc"]
+
+
+def source_smartrecruiters():
+    results = []
+    for company in SMARTRECRUITERS_BOARDS:
+        data = fetch(f"https://api.smartrecruiters.com/v1/companies/{company}/postings?limit=100", is_json=True)
+        if not data or "content" not in data:
+            continue
+        for job in data["content"]:
+            title = job.get("name", "")
+            if not matches(title):
+                continue
+            jid = job.get("id", "")
+            if not jid:
+                continue
+            url = f"https://jobs.smartrecruiters.com/{company}/{jid}"
+            posted = _iso_to_date(job.get("releasedDate") or "")
+            display = (job.get("company") or {}).get("name") or company
+            results.append((display, title, url, posted, detect_season("", "", title)))
+        time.sleep(0.3)
+    return results
+
+
+# ---------- Source: Workable public widget API ----------
+# https://apply.workable.com/api/v1/widget/accounts/{account}?details=true
+# -> {"name":..., "jobs":[{"title","shortcode","url","application_url",
+#                          "created_at","country","city"}]}
+WORKABLE_BOARDS = ["mistral", "helsing"]
+
+
+def source_workable():
+    results = []
+    for account in WORKABLE_BOARDS:
+        data = fetch(f"https://apply.workable.com/api/v1/widget/accounts/{account}?details=true", is_json=True)
+        if not data or "jobs" not in data:
+            continue
+        name = data.get("name") or account.capitalize()
+        for job in data["jobs"]:
+            title = job.get("title", "")
+            if not matches(title):
+                continue
+            url = job.get("url") or job.get("application_url") or ""
+            if not url:
+                continue
+            posted = _iso_to_date(job.get("created_at") or "")
+            results.append((name, title, url, posted, detect_season("", "", title)))
+        time.sleep(0.3)
+    return results
+
+
+# NOTE: Workday and Oracle Cloud recruiting have no universal public job API —
+# each employer is a separate tenant with its own host and site path, so a
+# generic connector isn't possible. Those roles still reach us via the
+# community JSON lists (which resolve the per-tenant URLs upstream).
+
+
 # ---------- Source 2: Greenhouse public boards ----------
-GREENHOUSE_BOARDS = ["stripe", "databricks", "robinhood", "coinbase", "airbnb", "doordash", "plaid", "rippling"]
+GREENHOUSE_BOARDS = [
+    "stripe", "databricks", "robinhood", "coinbase", "airbnb", "doordash",
+    "plaid", "rippling", "cloudflare", "discord", "reddit", "instacart",
+    "gitlab", "samsara", "flexport", "benchling", "affirm", "airtable",
+    "twitch", "gusto", "sofi", "brex",
+]
 
 def source_greenhouse():
     results = []
@@ -321,7 +476,7 @@ def source_greenhouse():
 
 
 # ---------- Source 3: Lever public boards ----------
-LEVER_BOARDS = ["ramp", "anduril", "scale", "figma"]
+LEVER_BOARDS = ["ramp", "anduril", "scale", "figma", "palantir", "attentive", "kraken"]
 
 def source_lever():
     results = []
@@ -409,6 +564,34 @@ def _neg_date_key(posted):
         return (1, 0)
 
 
+def render_source_bucket(source_name, rows, applied=None):
+    """Render one '## Source (N)' section with a sorted, deduped job table.
+    Unapplied roles first, then newest-first (undated rows sink to the bottom).
+    Returns a list of markdown lines."""
+    applied = applied or []
+    out = [f"## {source_name} ({len(rows)})", "",
+           "| Company | Role | Posted | Applied | Link |",
+           "|---|---|---|---|---|"]
+    rows_sorted = sorted(
+        rows,
+        key=lambda r: (is_applied(r[2], applied), _neg_date_key(r[3])),
+    )
+    seen = set()
+    for row in rows_sorted:
+        company, role, link, posted = row[0], row[1], row[2], row[3]
+        key = (company, role)
+        if key in seen:
+            continue
+        seen.add(key)
+        role = role.replace("|", "\\|")
+        company = company.replace("|", "\\|")
+        applied_mark = "✅" if is_applied(link, applied) else "—"
+        posted = posted or "—"
+        out.append(f"| {company} | {role} | {posted} | {applied_mark} | [Apply]({link}) |")
+    out.append("")
+    return out
+
+
 def build_influential_section(rows, applied=None):
     """Render the 'Most Influential Tech Companies' highlight table: every
     pulled role at a company on INFLUENTIAL_COMPANIES, unapplied-first then
@@ -478,43 +661,19 @@ def build_readme(buckets, linkedin_url, applied=None, influential_rows=None):
             "may not be populated yet — it will retry on the next scheduled run."
         )
         lines.append("")
-    def render_bucket(source_name, rows):
-        out = [f"## {source_name} ({len(rows)})", "",
-               "| Company | Role | Posted | Applied | Link |",
-               "|---|---|---|---|---|"]
-        # sort: unapplied first, then newest-first within each group
-        # (undated rows sink to the bottom of their group)
-        rows_sorted = sorted(
-            rows,
-            key=lambda r: (is_applied(r[2], applied), _neg_date_key(r[3])),
-        )
-        seen = set()
-        for row in rows_sorted:
-            company, role, link, posted = row[0], row[1], row[2], row[3]
-            key = (company, role)
-            if key in seen:
-                continue
-            seen.add(key)
-            role = role.replace("|", "\\|")
-            company = company.replace("|", "\\|")
-            applied_mark = "✅" if is_applied(link, applied) else "—"
-            posted = posted or "—"
-            out.append(f"| {company} | {role} | {posted} | {applied_mark} | [Apply]({link}) |")
-        out.append("")
-        return out
-
-    # Ordering: Simplify/pittcsc (the largest community list) first, then the
-    # Most Influential Tech Companies highlight, then every other source in its
-    # original collection order.
-    TOP_SOURCE = "Simplify/pittcsc"
-    if buckets.get(TOP_SOURCE):
-        lines += render_bucket(TOP_SOURCE, buckets[TOP_SOURCE])
+    # Ordering: Simplify/pittcsc (largest community list) first, then the Ashby
+    # boards, then the Most Influential Tech Companies highlight; every other
+    # source follows in its original collection order.
+    TOP_SOURCES = ["Simplify/pittcsc", "Ashby boards"]
+    for name in TOP_SOURCES:
+        if buckets.get(name):
+            lines += render_source_bucket(name, buckets[name], applied)
     if influential_rows is not None:
         lines.append(build_influential_section(influential_rows, applied=applied))
     for source_name, rows in buckets.items():
-        if source_name == TOP_SOURCE or not rows:
+        if source_name in TOP_SOURCES or not rows:
             continue
-        lines += render_bucket(source_name, rows)
+        lines += render_source_bucket(source_name, rows, applied)
     lines.append("---")
     cutoff_note = (
         f"Postings older than {MAX_AGE_DAYS} days are auto-hidden as likely-filled. "
@@ -614,13 +773,27 @@ def main():
         for row in source_markdown_table(label, url):
             labeled.append((label, row))
 
+    print("Community lists (jobs-object JSON):")
+    for label, candidates in JOBS_OBJECT_SOURCES:
+        for row in source_jobs_object(label, candidates):
+            labeled.append((label, row))
+
     print("Company boards:")
+    for row in source_ashby():
+        labeled.append(("Ashby boards", row))
+    print(f"  [Ashby] done")
     for row in source_greenhouse():
         labeled.append(("Greenhouse boards", row))
     print(f"  [Greenhouse] done")
     for row in source_lever():
         labeled.append(("Lever boards", row))
     print(f"  [Lever] done")
+    for row in source_smartrecruiters():
+        labeled.append(("SmartRecruiters boards", row))
+    print(f"  [SmartRecruiters] done")
+    for row in source_workable():
+        labeled.append(("Workable boards", row))
+    print(f"  [Workable] done")
 
     raw_total = len(labeled)
 
