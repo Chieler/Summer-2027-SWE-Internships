@@ -1,14 +1,11 @@
 # 🔥 Priority — Fresh Summer 2027 Roles
 
-_**Pulled:** 2026-07-21 07:18 UTC  —  40 role(s) explicitly tagged Summer 2027 and posted within the last 14 days._
+_**Pulled:** 2026-07-21 13:55 UTC  —  36 role(s) explicitly tagged Summer 2027 and posted within the last 14 days._
 
 | Company | Role | Posted | Applied | Link |
 |---|---|---|---|---|
-| Gitar, Inc. | Software Engineer Intern | 2026-07-21 | — | [Apply](https://ats.rippling.com/gitar-careers/jobs/76868d2c-10f0-4c43-8f47-c541f1d41e49) |
 | Capital One | Master's Data Science Internship | 2026-07-20 | — | [Apply](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Current-Master-s---Data-Science-Internship---Summer-2027_R244285-1) |
 | Capital One | Data Science Intern | 2026-07-20 | — | [Apply](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Current-PhD---Data-Science-Internship---Summer-2027_R244287-1) |
-| GE Healthcare | Engineering Development Program Intern - Hardware | 2026-07-20 | — | [Apply](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Waukesha/Edison-Engineering-Development-Program-Internship---Hardware_R4043923-1) |
-| GE Healthcare | Engineering Development Program Intern - Software | 2026-07-20 | — | [Apply](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Waukesha/Edison-Engineering-Development-Program-Intern---Software_R4043933-2) |
 | Western Digital | Software Engineer Intern | 2026-07-20 | — | [Apply](https://jobs.smartrecruiters.com/WesternDigital/744000138727213) |
 | Chicago Trading Company | Software Engineering Intern | 2026-07-20 | — | [Apply](https://job-boards.greenhouse.io/ctccampusboard/jobs/4708230005) |
 | Google | Software Engineer Intern - MS | 2026-07-20 | — | [Apply](https://www.google.com/about/careers/applications/jobs/results/95141459539174086) |
@@ -40,7 +37,6 @@ _**Pulled:** 2026-07-21 07:18 UTC  —  40 role(s) explicitly tagged Summer 2027
 | Rakuten International | Software Engineer Intern | 2026-07-09 | — | [Apply](https://rakuten.wd1.myworkdayjobs.com/en-US/RakutenAmericas/job/San-Mateo-California/Intern---Software-Engineer--AI-User-Experience_1033171) |
 | Jump Trading | Software Engineer Intern | 2026-07-09 | — | [Apply](https://www.jumptrading.com/hr/job?gh_jid=8002989) |
 | Jump Trading Group | Campus UI Software Engineer Intern | 2026-07-09 | — | [Apply](https://www.jumptrading.com/hr/job?gh_jid=8003019) |
-| Pylon | Software Engineer Intern | 2026-07-09 | — | [Apply](https://jobs.ashbyhq.com/pylon-labs/fcea8b52-81f1-4b0c-b575-d7b180faec4d/application) |
 | Jump Trading | Campus AI Research Engineer (Intern) | 2026-07-08 | — | [Apply](https://www.jumptrading.com/hr/job?gh_jid=8052281) |
 | Jump Trading | Campus AI Research Engineer – Research Automation (Intern) | 2026-07-08 | — | [Apply](https://www.jumptrading.com/hr/job?gh_jid=8052351) |
 | Copart | DevOps Engineering Intern | 2026-07-08 | — | [Apply](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/DevOps-Engineering-Intern_JR109490) |
