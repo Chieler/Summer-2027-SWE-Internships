@@ -724,22 +724,24 @@ def build_aggregate_readme(aggregate, linkedin_url, applied, today):
     )
     lines.append("")
 
+    # All Internships first (the full consolidated list), then the Most
+    # Influential highlight second.
+    lines.append(f"## 📋 All Internships ({len(visible)})")
+    lines.append("")
+    lines += _render_agg_table(visible, applied)
+
     lines.append(f"## 🏆 Most Influential Tech Companies ({len(influential)})")
     lines.append("")
     lines.append(
         f"_Roles at companies on the curated influential-companies list "
         f"({n_comp} companies represented; see [`TOP_COMPANIES.md`](TOP_COMPANIES.md)). "
-        f"Also included in the full list below._"
+        f"A highlight view of the list above._"
     )
     lines.append("")
     if influential:
         lines += _render_agg_table(influential, applied)
     else:
         lines += ["> None of the influential companies have a role in the current window.", ""]
-
-    lines.append(f"## 📋 All Internships — Consolidated & Deduped ({len(visible)})")
-    lines.append("")
-    lines += _render_agg_table(visible, applied)
 
     lines.append("---")
     cutoff_note = (
