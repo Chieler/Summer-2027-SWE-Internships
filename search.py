@@ -1,7 +1,14 @@
 #!/usr/bin/env python3
 """
 Internship tracker: searches reliable sources for 2027 SWE / software-adjacent
-internships and writes the results into README.md.
+internships and maintains ONE consolidated, de-duplicated list.
+
+Aggregate model:
+  Rather than rebuilding the list every run, results accumulate in a persistent
+  store (aggregate.json). Each run pulls all sources, dedupes, and MERGES the
+  fresh pull into the store (new roles appended, known roles refreshed). The
+  README is rendered as a single consolidated table from the store, with a
+  Location column (and a Most Influential highlight view on top).
 
 Reliability note:
   LinkedIn blocks datacenter IPs (GitHub Actions runners), so scraping it
@@ -186,6 +193,23 @@ def fmt_date(ts):
         return ""
 
 
+def _loc(val):
+    """Coerce a location value from any source into a display string. Handles
+    plain strings, dicts ({name} or {city,region/state,country}), and lists."""
+    if not val:
+        return ""
+    if isinstance(val, str):
+        return val.strip()
+    if isinstance(val, dict):
+        if val.get("name"):
+            return str(val["name"]).strip()
+        parts = [val.get("city"), val.get("region") or val.get("state"), val.get("country")]
+        return ", ".join(str(p).strip() for p in parts if p)
+    if isinstance(val, (list, tuple)):
+        return ", ".join(filter(None, (_loc(v) for v in val)))
+    return str(val).strip()
+
+
 # ---------- Source 1: community GitHub lists (Simplify-schema JSON) ----------
 # Several popular internship repos share the same listings.json schema
 # (company_name / title / url / date_posted / active / is_visible). We pull
@@ -237,7 +261,8 @@ def parse_simplify_schema(data):
         if url:
             posted = fmt_date(job.get("date_posted"))
             season = detect_season(job.get("season"), job.get("terms"), title)
-            rows.append((company, title, url, posted, season))
+            location = _loc(job.get("locations")) or _loc(job.get("location"))
+            rows.append((company, title, url, posted, season, location))
     return rows
 
 
@@ -298,7 +323,9 @@ def source_markdown_table(label, url):
         role = re.sub(r'[🔒🛂🇺🇸]', '', role).strip()
         company = re.sub(r'\[([^\]]+)\]\([^)]+\)', r'\1', company).strip()
         season = detect_season("", "", role)  # season is embedded in role text
-        rows.append((company, role, link, "", season))  # no posted date
+        # 3rd column is Location in this table shape
+        location = re.sub(r'\[([^\]]+)\]\([^)]+\)', r'\1', cells[2]).strip()
+        rows.append((company, role, link, "", season, location))  # no posted date
     print(f"  [{label}] {len(rows)} matches")
     return rows
 
@@ -338,7 +365,8 @@ def source_jobs_object(label, candidates):
                 continue
             posted = _iso_to_date(job.get("posted_at") or job.get("date_posted"))
             season = job.get("season") or detect_season("", "", title)
-            rows.append((job.get("company", ""), title, u, posted, season))
+            location = _loc(job.get("location"))
+            rows.append((job.get("company", ""), title, u, posted, season, location))
         print(f"  [{label}] {len(rows)} matches")
         return rows
     print(f"  [{label}] no data (all URLs failed)")
@@ -382,7 +410,8 @@ def source_ashby():
                 continue
             posted = _iso_to_date(job.get("publishedDate") or job.get("publishedAt") or "")
             company = job.get("organizationName") or display
-            results.append((company, title, url, posted, detect_season("", "", title)))
+            location = _loc(job.get("location")) or _loc(job.get("locationName")) or _loc(job.get("address"))
+            results.append((company, title, url, posted, detect_season("", "", title), location))
         time.sleep(0.3)
     return results
 
@@ -410,7 +439,8 @@ def source_smartrecruiters():
             url = f"https://jobs.smartrecruiters.com/{company}/{jid}"
             posted = _iso_to_date(job.get("releasedDate") or "")
             display = (job.get("company") or {}).get("name") or company
-            results.append((display, title, url, posted, detect_season("", "", title)))
+            location = _loc(job.get("location"))
+            results.append((display, title, url, posted, detect_season("", "", title), location))
         time.sleep(0.3)
     return results
 
@@ -437,7 +467,8 @@ def source_workable():
             if not url:
                 continue
             posted = _iso_to_date(job.get("created_at") or "")
-            results.append((name, title, url, posted, detect_season("", "", title)))
+            location = _loc(job.get("location")) or _loc({"city": job.get("city"), "country": job.get("country")})
+            results.append((name, title, url, posted, detect_season("", "", title), location))
         time.sleep(0.3)
     return results
 
@@ -470,7 +501,8 @@ def source_greenhouse():
                 raw = job.get("first_published") or job.get("updated_at") or ""
                 if raw:
                     posted = raw[:10]  # 'YYYY-MM-DD...' -> 'YYYY-MM-DD'
-                results.append((board.capitalize(), title, job.get("absolute_url", ""), posted, detect_season("", "", title)))
+                location = _loc(job.get("location"))
+                results.append((board.capitalize(), title, job.get("absolute_url", ""), posted, detect_season("", "", title), location))
         time.sleep(0.3)
     return results
 
@@ -489,7 +521,8 @@ def source_lever():
             if matches(title):
                 # Lever gives createdAt as Unix milliseconds
                 posted = fmt_date(job.get("createdAt"))
-                results.append((board.capitalize(), title, job.get("hostedUrl", ""), posted, detect_season("", "", title)))
+                location = _loc((job.get("categories") or {}).get("location"))
+                results.append((board.capitalize(), title, job.get("hostedUrl", ""), posted, detect_season("", "", title), location))
         time.sleep(0.3)
     return results
 
@@ -564,125 +597,158 @@ def _neg_date_key(posted):
         return (1, 0)
 
 
-def render_source_bucket(source_name, rows, applied=None):
-    """Render one '## Source (N)' section with a sorted, deduped job table.
-    Unapplied roles first, then newest-first (undated rows sink to the bottom).
-    Returns a list of markdown lines."""
-    applied = applied or []
-    out = [f"## {source_name} ({len(rows)})", "",
-           "| Company | Role | Posted | Applied | Link |",
-           "|---|---|---|---|---|"]
-    rows_sorted = sorted(
-        rows,
-        key=lambda r: (is_applied(r[2], applied), _neg_date_key(r[3])),
+# ---------------------------------------------------------------------------
+# Persistent aggregate store. Instead of rebuilding the list from scratch each
+# run, we keep one de-duplicated JSON file that ACCUMULATES every role we've
+# ever seen. Each run merges the fresh pull into it (new roles appended, known
+# roles get their last_seen bumped and any missing fields filled). The README
+# is rendered as a single consolidated table from this store.
+AGGREGATE_PATH = "aggregate.json"
+
+
+def load_aggregate(path=AGGREGATE_PATH):
+    try:
+        with open(path, encoding="utf-8") as f:
+            data = json.load(f)
+        return data if isinstance(data, list) else []
+    except (FileNotFoundError, json.JSONDecodeError):
+        return []
+
+
+def save_aggregate(records, path=AGGREGATE_PATH):
+    with open(path, "w", encoding="utf-8") as f:
+        json.dump(records, f, ensure_ascii=False, indent=1)
+        f.write("\n")
+
+
+def merge_into_aggregate(aggregate, rows, today):
+    """Add fresh rows into `aggregate` in place. A row matches an existing
+    record by apply URL or by normalized (company, role) pair — same identity
+    rule as dedupe(). New roles are appended with first_seen=today; matched
+    roles get last_seen=today and any blank fields filled in. Returns the count
+    of newly-added roles. Rows are (company, role, url, posted, season, location)."""
+    by_url, by_pair = {}, {}
+    for i, rec in enumerate(aggregate):
+        uk = (rec.get("url") or "").strip().lower().rstrip("/")
+        pk = (_norm(rec.get("company")), _norm(rec.get("role")))
+        if uk:
+            by_url[uk] = i
+        by_pair.setdefault(pk, i)
+
+    added = 0
+    for row in rows:
+        company, role, url, posted = row[0], row[1], row[2], row[3]
+        season = row[4] if len(row) > 4 else ""
+        location = row[5] if len(row) > 5 else ""
+        uk = (url or "").strip().lower().rstrip("/")
+        pk = (_norm(company), _norm(role))
+        idx = by_url.get(uk) if uk else None
+        if idx is None:
+            idx = by_pair.get(pk)
+        if idx is None:
+            aggregate.append({
+                "company": company, "role": role, "url": url,
+                "posted": posted, "season": season, "location": location,
+                "first_seen": today, "last_seen": today,
+            })
+            j = len(aggregate) - 1
+            if uk:
+                by_url[uk] = j
+            by_pair.setdefault(pk, j)
+            added += 1
+        else:
+            rec = aggregate[idx]
+            rec["last_seen"] = today
+            if not rec.get("posted") and posted:
+                rec["posted"] = posted
+            if not rec.get("location") and location:
+                rec["location"] = location
+            if not rec.get("season") and season:
+                rec["season"] = season
+    return added
+
+
+def _render_agg_table(records, applied):
+    """Render a consolidated job table (Company | Role | Location | Posted |
+    Link) from aggregate records, newest-first, deduped by (company, role)."""
+    lines = ["| Company | Role | Location | Posted | Link |", "|---|---|---|---|---|"]
+    ordered = sorted(
+        records,
+        key=lambda r: (is_applied(r.get("url", ""), applied), _neg_date_key(r.get("posted", ""))),
     )
     seen = set()
-    for row in rows_sorted:
-        company, role, link, posted = row[0], row[1], row[2], row[3]
+    for rec in ordered:
+        company = (rec.get("company") or "").replace("|", "\\|")
+        role = (rec.get("role") or "").replace("|", "\\|")
         key = (company, role)
         if key in seen:
             continue
         seen.add(key)
-        role = role.replace("|", "\\|")
-        company = company.replace("|", "\\|")
-        applied_mark = "✅" if is_applied(link, applied) else "—"
-        posted = posted or "—"
-        out.append(f"| {company} | {role} | {posted} | {applied_mark} | [Apply]({link}) |")
-    out.append("")
-    return out
-
-
-def build_influential_section(rows, applied=None):
-    """Render the 'Most Influential Tech Companies' highlight table: every
-    pulled role at a company on INFLUENTIAL_COMPANIES, unapplied-first then
-    newest-first. `rows` is the deduped, already-filtered pool. Also appears
-    in the per-source lists further down the README."""
-    applied = applied or []
-    hits = [r for r in rows if is_influential(r[0])]
-    hits.sort(key=lambda r: (is_applied(r[2], applied), _neg_date_key(r[3])))
-
-    n_companies = len({_norm(r[0]) for r in hits})
-    lines = [f"## 🏆 Most Influential Tech Companies — {YEAR} Internships ({len(hits)})", ""]
-    lines.append(
-        "_Open roles at companies on our curated **Most Influential Tech "
-        "Companies** list (TIME100 Most Influential Companies 2025 — tech "
-        "subset — plus the largest tech companies by market cap; see "
-        "[`TOP_COMPANIES.md`](TOP_COMPANIES.md)). These roles also appear in "
-        "the per-source lists below._"
-    )
+        location = (rec.get("location") or "").replace("|", "\\|") or "—"
+        posted = rec.get("posted") or "—"
+        url = rec.get("url") or ""
+        lines.append(f"| {company} | {role} | {location} | {posted} | [Apply]({url}) |")
     lines.append("")
-    if not hits:
+    return lines
+
+
+def build_aggregate_readme(aggregate, linkedin_url, applied, today):
+    """Render the README as ONE consolidated, deduped list from the aggregate
+    store, with a Most Influential highlight view on top. The Location column
+    replaces the old Applied column."""
+    applied = applied or []
+    if MAX_AGE_DAYS > 0:
+        visible = [r for r in aggregate
+                   if is_applied(r.get("url", ""), applied) or not too_old(r.get("posted", ""))]
+    else:
+        visible = list(aggregate)
+    influential = [r for r in visible if is_influential(r.get("company", ""))]
+    n_comp = len({_norm(r.get("company")) for r in influential})
+
+    lines = [f"# {YEAR} SWE / Software-Adjacent Internships — Aggregate List", ""]
+    if MAX_AGE_DAYS > 0:
         lines.append(
-            "> No influential-company roles matched in this run. This section "
-            "fills in automatically as fresh roles are pulled."
+            f"_**Updated:** {today} · **{len(aggregate)}** unique roles in the aggregate "
+            f"(all-time) · **{len(visible)}** shown after the {MAX_AGE_DAYS}-day freshness filter._"
         )
-        lines.append("")
-        return "\n".join(lines)
-    lines.append(f"_{len(hits)} role(s) across {n_companies} influential companies._")
-    lines.append("")
-    lines.append("| Company | Role | Posted | Applied | Link |")
-    lines.append("|---|---|---|---|---|")
-    seen = set()
-    for row in hits:
-        company, role, link, posted = row[0], row[1], row[2], row[3]
-        key = (company, role)
-        if key in seen:
-            continue
-        seen.add(key)
-        role = role.replace("|", "\\|")
-        company = company.replace("|", "\\|")
-        mark = "✅" if is_applied(link, applied) else "—"
-        posted = posted or "—"
-        lines.append(f"| {company} | {role} | {posted} | {mark} | [Apply]({link}) |")
-    lines.append("")
-    return "\n".join(lines)
-
-
-def build_readme(buckets, linkedin_url, applied=None, influential_rows=None):
-    applied = applied or []
-    now = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
-    total = sum(len(v) for v in buckets.values())
-    lines = []
-    lines.append(f"# {YEAR} SWE / Software-Adjacent Internships")
-    lines.append("")
-    lines.append(f"_**Pulled:** {now}  —  {total} matching roles found this run._")
+    else:
+        lines.append(f"_**Updated:** {today} · **{len(aggregate)}** unique roles in the aggregate._")
     lines.append("")
     lines.append(f"**[Open live LinkedIn search]({linkedin_url})** (LinkedIn can't be scraped reliably from CI, so this is a one-tap live link instead.)")
     lines.append("")
-    if total == 0:
-        lines.append(
-            f"> No matches this run. Likely because the 2027 list isn't live yet "
-            f"(the script auto-falls back to the current cycle's list) **and** the "
-            f"{MAX_AGE_DAYS}-day age cutoff hides older off-season postings. This "
-            f"resolves on its own once fresh 2027 roles appear. To see older roles "
-            f"meanwhile, lower `MAX_AGE_DAYS` in `search.py` (set 0 to disable)."
-            if MAX_AGE_DAYS > 0 else
-            "> No matches this run. Sources may be rate-limited or the 2027 list "
-            "may not be populated yet — it will retry on the next scheduled run."
-        )
-        lines.append("")
-    # Ordering: Simplify/pittcsc (largest community list) first, then the Ashby
-    # boards, then the Most Influential Tech Companies highlight; every other
-    # source follows in its original collection order.
-    TOP_SOURCES = ["Simplify/pittcsc", "Ashby boards"]
-    for name in TOP_SOURCES:
-        if buckets.get(name):
-            lines += render_source_bucket(name, buckets[name], applied)
-    if influential_rows is not None:
-        lines.append(build_influential_section(influential_rows, applied=applied))
-    for source_name, rows in buckets.items():
-        if source_name in TOP_SOURCES or not rows:
-            continue
-        lines += render_source_bucket(source_name, rows, applied)
+    lines.append(
+        "_One consolidated, de-duplicated list built from every source (community "
+        "lists + company boards). Each run **adds onto** this aggregate rather than "
+        "rebuilding it — the persistent store is [`aggregate.json`](aggregate.json). "
+        "The **Location** column replaces the old Applied column._"
+    )
+    lines.append("")
+
+    lines.append(f"## 🏆 Most Influential Tech Companies ({len(influential)})")
+    lines.append("")
+    lines.append(
+        f"_Roles at companies on the curated influential-companies list "
+        f"({n_comp} companies represented; see [`TOP_COMPANIES.md`](TOP_COMPANIES.md)). "
+        f"Also included in the full list below._"
+    )
+    lines.append("")
+    if influential:
+        lines += _render_agg_table(influential, applied)
+    else:
+        lines += ["> None of the influential companies have a role in the current window.", ""]
+
+    lines.append(f"## 📋 All Internships — Consolidated & Deduped ({len(visible)})")
+    lines.append("")
+    lines += _render_agg_table(visible, applied)
+
     lines.append("---")
     cutoff_note = (
-        f"Postings older than {MAX_AGE_DAYS} days are auto-hidden as likely-filled. "
-        if MAX_AGE_DAYS > 0 else ""
+        f"Roles older than {MAX_AGE_DAYS} days are hidden from this view but kept in "
+        f"`aggregate.json`. " if MAX_AGE_DAYS > 0 else ""
     )
     lines.append(
-        f"_✅ = applied (tracked in `applied.txt`). {cutoff_note}"
-        f"Pulled from multiple community lists and company boards, deduplicated. "
-        f"Add filled roles to `blacklist.txt` to hide them. "
+        f"_Single consolidated aggregate, deduplicated across all sources. {cutoff_note}"
+        f"Add filled roles to `blacklist.txt` to purge them permanently. "
         f"Generated automatically by GitHub Actions._"
     )
     return "\n".join(lines)
@@ -710,22 +776,21 @@ def recent_within(posted, days):
     return (datetime.now(timezone.utc) - d) <= timedelta(days=days)
 
 
-def build_priority(rows, applied=None):
-    """Render PRIORITY.md: explicit Summer 2027 roles posted very recently,
-    newest first. `rows` is the deduped, already-filtered pool."""
+def build_priority_agg(aggregate, applied, today):
+    """Render PRIORITY.md from the aggregate store: explicit Summer 2027 roles
+    posted within the last PRIORITY_DAYS, newest first."""
     applied = applied or []
-    now = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
     hits = [
-        r for r in rows
-        if is_summer_2027(r[4] if len(r) > 4 else "", r[1])
-        and recent_within(r[3], PRIORITY_DAYS)
+        r for r in aggregate
+        if is_summer_2027(r.get("season", ""), r.get("role", ""))
+        and recent_within(r.get("posted", ""), PRIORITY_DAYS)
     ]
-    hits.sort(key=lambda r: _neg_date_key(r[3]))
+    hits.sort(key=lambda r: _neg_date_key(r.get("posted", "")))
 
     lines = [
         "# 🔥 Priority — Fresh Summer 2027 Roles",
         "",
-        f"_**Pulled:** {now}  —  {len(hits)} role(s) explicitly tagged Summer 2027 "
+        f"_**Updated:** {today}  —  {len(hits)} role(s) explicitly tagged Summer 2027 "
         f"and posted within the last {PRIORITY_DAYS} days._",
         "",
     ]
@@ -738,114 +803,90 @@ def build_priority(rows, applied=None):
             "",
         ]
     else:
-        lines += ["| Company | Role | Posted | Applied | Link |", "|---|---|---|---|---|"]
-        for row in hits:
-            company, role, link, posted = row[0], row[1], row[2], row[3]
-            role = role.replace("|", "\\|")
-            company = company.replace("|", "\\|")
-            mark = "✅" if is_applied(link, applied) else "—"
-            lines.append(f"| {company} | {role} | {posted} | {mark} | [Apply]({link}) |")
-        lines.append("")
+        lines += _render_agg_table(hits, applied)
     lines.append("---")
-    lines.append(f"_Auto-generated. Window: {PRIORITY_DAYS} days (edit `PRIORITY_DAYS` in `search.py`). See `README.md` for everything._")
+    lines.append(f"_Auto-generated from `aggregate.json`. Window: {PRIORITY_DAYS} days (edit `PRIORITY_DAYS` in `search.py`). See `README.md` for everything._")
     return "\n".join(lines)
+
+
+def collect_fresh():
+    """Pull every source and return a deduped list of fresh rows
+    (company, role, url, posted, season, location)."""
+    fresh = []
+
+    print("Community lists (JSON):")
+    for label, candidates in SIMPLIFY_SCHEMA_SOURCES:
+        fresh += source_simplify_schema(label, candidates)
+
+    print("Community lists (markdown):")
+    for label, url in MARKDOWN_TABLE_SOURCES:
+        fresh += source_markdown_table(label, url)
+
+    print("Community lists (jobs-object JSON):")
+    for label, candidates in JOBS_OBJECT_SOURCES:
+        fresh += source_jobs_object(label, candidates)
+
+    print("Company boards:")
+    fresh += source_ashby()
+    print("  [Ashby] done")
+    fresh += source_greenhouse()
+    print("  [Greenhouse] done")
+    fresh += source_lever()
+    print("  [Lever] done")
+    fresh += source_smartrecruiters()
+    print("  [SmartRecruiters] done")
+    fresh += source_workable()
+    print("  [Workable] done")
+
+    raw_total = len(fresh)
+    fresh = dedupe(fresh)
+    print(f"Fresh pull: {raw_total} rows -> {len(fresh)} unique this run")
+    return fresh
 
 
 def main():
     blacklist = load_blacklist()
     applied = load_applied()
+    today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
     if blacklist:
         print(f"Loaded {len(blacklist)} blacklist entries")
     if applied:
         print(f"Loaded {len(applied)} applied entries")
 
-    # Collect from every source, tagging each row with the source label it
-    # came from so we can show provenance and dedupe across them.
-    labeled = []  # list of (label, (company, role, url, posted))
-
-    print("Community lists (JSON):")
-    for label, candidates in SIMPLIFY_SCHEMA_SOURCES:
-        for row in source_simplify_schema(label, candidates):
-            labeled.append((label, row))
-
-    print("Community lists (markdown):")
-    for label, url in MARKDOWN_TABLE_SOURCES:
-        for row in source_markdown_table(label, url):
-            labeled.append((label, row))
-
-    print("Community lists (jobs-object JSON):")
-    for label, candidates in JOBS_OBJECT_SOURCES:
-        for row in source_jobs_object(label, candidates):
-            labeled.append((label, row))
-
-    print("Company boards:")
-    for row in source_ashby():
-        labeled.append(("Ashby boards", row))
-    print(f"  [Ashby] done")
-    for row in source_greenhouse():
-        labeled.append(("Greenhouse boards", row))
-    print(f"  [Greenhouse] done")
-    for row in source_lever():
-        labeled.append(("Lever boards", row))
-    print(f"  [Lever] done")
-    for row in source_smartrecruiters():
-        labeled.append(("SmartRecruiters boards", row))
-    print(f"  [SmartRecruiters] done")
-    for row in source_workable():
-        labeled.append(("Workable boards", row))
-    print(f"  [Workable] done")
-
-    raw_total = len(labeled)
-
-    # ---- Global dedupe across ALL sources ----
-    # dedupe() works on bare rows, so we run it on the rows while keeping a
-    # parallel label map keyed by row identity (url or normalized pair).
-    rows_only = [r for _, r in labeled]
-    deduped = dedupe(rows_only)
-    print(f"Dedupe: {raw_total} -> {len(deduped)} ({raw_total - len(deduped)} duplicates removed)")
-
-    # Re-attach the source label to each surviving row (first source wins,
-    # matching dedupe's keep-first behavior).
-    label_for = {}
-    for label, row in labeled:
-        url_key = (row[2] or "").strip().lower().rstrip("/")
-        pair_key = (_norm(row[0]), _norm(row[1]))
-        label_for.setdefault(url_key, label)
-        label_for.setdefault(pair_key, label)
-
-    def lookup_label(row):
-        url_key = (row[2] or "").strip().lower().rstrip("/")
-        pair_key = (_norm(row[0]), _norm(row[1]))
-        return label_for.get(url_key) or label_for.get(pair_key) or "Other"
-
-    # ---- Filters ----
+    # 1. Pull fresh rows from every source, dropping blacklisted ones up front
+    #    so they never enter the store (avoids add-then-purge churn each run).
+    fresh = collect_fresh()
     if blacklist:
-        before = len(deduped)
-        deduped = [r for r in deduped if not is_blacklisted(r[2], blacklist)]
-        print(f"Blacklist removed {before - len(deduped)} listing(s)")
+        before = len(fresh)
+        fresh = [r for r in fresh if not is_blacklisted(r[2], blacklist)]
+        if before != len(fresh):
+            print(f"Blacklist skipped {before - len(fresh)} fresh row(s)")
 
-    if MAX_AGE_DAYS > 0:
-        before = len(deduped)
-        deduped = [
-            r for r in deduped
-            if is_applied(r[2], applied) or not too_old(r[3])
-        ]
-        print(f"Age cutoff ({MAX_AGE_DAYS}d) removed {before - len(deduped)} listing(s)")
+    # 2. Merge into the persistent aggregate (accumulate, don't rebuild).
+    aggregate = load_aggregate()
+    print(f"Loaded aggregate: {len(aggregate)} existing roles")
+    added = merge_into_aggregate(aggregate, fresh, today)
+    print(f"Merged fresh pull: +{added} new roles (aggregate now {len(aggregate)})")
 
-    # ---- Bucket by source for display ----
-    buckets = {}
-    for row in deduped:
-        buckets.setdefault(lookup_label(row), []).append(row)
+    # 3. Also purge any roles blacklisted AFTER they were added (retroactive).
+    before = len(aggregate)
+    aggregate = [r for r in aggregate if not is_blacklisted(r.get("url", ""), blacklist)]
+    if before != len(aggregate):
+        print(f"Blacklist purged {before - len(aggregate)} already-stored role(s)")
 
-    readme = build_readme(buckets, linkedin_search_link(), applied=applied,
-                          influential_rows=deduped)
+    # 4. Persist the aggregate.
+    save_aggregate(aggregate)
+    print(f"Wrote {AGGREGATE_PATH} ({len(aggregate)} roles)")
+
+    # 5. Render the consolidated README + PRIORITY from the aggregate.
+    readme = build_aggregate_readme(aggregate, linkedin_search_link(), applied, today)
     with open("README.md", "w", encoding="utf-8") as f:
-        f.write(readme)
-    print(f"Wrote README.md ({sum(len(v) for v in buckets.values())} total across {len(buckets)} sources)")
+        f.write(readme + "\n")
+    print("Wrote README.md")
 
-    priority = build_priority(deduped, applied=applied)
+    priority = build_priority_agg(aggregate, applied, today)
     with open("PRIORITY.md", "w", encoding="utf-8") as f:
-        f.write(priority)
+        f.write(priority + "\n")
     print("Wrote PRIORITY.md")
 
 
