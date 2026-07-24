@@ -1,6 +1,6 @@
 # 🔥 Priority — Fresh Summer 2027 Roles
 
-_**Pulled:** 2026-07-24 20:04 UTC  —  52 role(s) explicitly tagged Summer 2027 and posted within the last 14 days._
+_**Pulled:** 2026-07-24 22:32 UTC  —  49 role(s) explicitly tagged Summer 2027 and posted within the last 14 days._
 
 | Company | Role | Posted | Applied | Link |
 |---|---|---|---|---|
@@ -31,8 +31,6 @@ _**Pulled:** 2026-07-24 20:04 UTC  —  52 role(s) explicitly tagged Summer 2027
 | Appian | Software Engineering Intern | 2026-07-24 | — | [Apply](https://careers.appian.com/jobs/8041237-software-engineering-intern) |
 | Quadrillion | Software Engineering Intern | 2026-07-24 | — | [Apply](https://jobs.ashbyhq.com/quadrillion-labs/a4acc44c-31ce-41a0-ab44-2500487b4d05/application?embed=true) |
 | Core & Main | Intern - AI/ML Data Engineering  -  Onsite - St. Louis | 2026-07-24 | — | [Apply](https://coreandmain.wd1.myworkdayjobs.com/coreandmain/job/Saint-Louis-MO-63146/Intern---Data-Engineering----Corp_45804) |
-| Northwell Health | Data Analytics / Data Science Intern | 2026-07-24 | — | [Apply](https://eppr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/192734) |
-| Robert Bosch Venture Capital | Powertrain Controls Software Engineering Intern | 2026-07-24 | — | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000139639579) |
 | Magna International | R&D- Computer Vision Engineering Intern | 2026-07-24 | — | [Apply](https://magna.wd3.myworkdayjobs.com/Magna/job/Troy-Michigan-US/R-D--Computer-Vision-Engineering-Intern_R00253444-1) |
 | G-Research | Data Science Intern | 2026-07-23 | — | [Apply](https://gresearch.wd103.myworkdayjobs.com/G-Research/job/London-UK/Data-Science-Internship_R3679) |
 | Tenstorrent | Software Engineer Intern - Power Modeling & AI Tools | 2026-07-23 | — | [Apply](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5186916007) |
@@ -50,7 +48,6 @@ _**Pulled:** 2026-07-24 20:04 UTC  —  52 role(s) explicitly tagged Summer 2027
 | Hyperlight | Software Engineer Intern | 2026-07-20 | — | [Apply](https://apply.workable.com/hyperlight/j/5581EA0668/) |
 | AVEVA | Software Developer Intern- Drexel Co-op US | 2026-07-20 | — | [Apply](https://aveva.wd3.myworkdayjobs.com/AVEVA_careers/job/Philadelphia-Pennsylvania-United-States-of-America/Software-Developer-Intern--Drexel-Co-op-US_R014478) |
 | Chicago Trading Company | Software Engineering Internship - Summer 2027 | 2026-07-20 | — | [Apply](https://job-boards.greenhouse.io/ctccampusboard/jobs/4708230005) |
-| Altera Corporation | AI Software Development Engineer - Intern | 2026-07-17 | — | [Apply](https://altera.wd1.myworkdayjobs.com/altera/job/San-Jose-California-United-States/AI-Software-Development-Engineer---Intern_R02707) |
 | Circleback | Software Engineer Intern | 2026-07-15 | — | [Apply](https://jobs.ashbyhq.com/circleback/2bb6be67-d1a8-42f7-bb1b-64ee36bf613f/application?embed=true) |
 | The Trade Desk | 2027 North America Software Engineering Internship | 2026-07-15 | — | [Apply](https://job-boards.greenhouse.io/thetradedesk/jobs/5187605007) |
 | Tencent | Research Intern – Video World Models (Research & ML Systems) | 2026-07-15 | — | [Apply](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Research-Intern---Video-World-Models--Research---ML-Systems-_R107752-1) |
