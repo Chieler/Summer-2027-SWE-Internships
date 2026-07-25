@@ -1,9 +1,10 @@
 # 🔥 Priority — Fresh Summer 2027 Roles
 
-_**Pulled:** 2026-07-25 14:36 UTC  —  50 role(s) explicitly tagged Summer 2027 and posted within the last 14 days._
+_**Pulled:** 2026-07-25 22:58 UTC  —  51 role(s) explicitly tagged Summer 2027 and posted within the last 14 days._
 
 | Company | Role | Posted | Applied | Link |
 |---|---|---|---|---|
+| Northrop Grumman | Software Engineer Intern | 2026-07-25 | — | [Apply](https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10239275) |
 | Google | Software Engineering Intern | 2026-07-24 | — | [Apply](https://www.google.com/about/careers/applications/jobs/results/85564713261245126-software-engineering-intern-bs-summer-2027) |
 | Five Rings | Software Developer Intern | 2026-07-24 | — | [Apply](https://job-boards.greenhouse.io/fiveringsllc/jobs/5349707008) |
 | Akuna Capital | Software Engineer Intern, C++ | 2026-07-24 | — | [Apply](https://akunacapital.com/careers/job/8018847/?gh_jid=8018847) |

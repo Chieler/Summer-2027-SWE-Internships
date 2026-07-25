@@ -1,6 +1,6 @@
 # 2027 SWE / Software-Adjacent Internships
 
-_**Pulled:** 2026-07-25 14:36 UTC  —  349 matching roles found this run._
+_**Pulled:** 2026-07-25 22:58 UTC  —  350 matching roles found this run._
 
 **[Open live LinkedIn search](https://www.linkedin.com/jobs/search/?keywords=software%20engineer%20intern%202027&f_E=1&f_JT=I)** (LinkedIn can't be scraped reliably from CI, so this is a one-tap live link instead.)
 
@@ -249,14 +249,15 @@ _**Pulled:** 2026-07-25 14:36 UTC  —  349 matching roles found this run._
 | Rivian and Volkswagen Group Technologies | Software Engineer Intern Co-op - Android Connectivity | 2026-06-11 | — | [Apply](https://jobs.ashbyhq.com/rivianvw.tech/75874976-540a-4e5c-aa72-1b23669c5211/application) |
 | Mindsmith | Software Engineering Intern | 2026-06-24 | ✅ | [Apply](https://app.dover.com/apply/mindsmith/e0ca8149-6811-4de9-ba38-65a0244a2b7e) |
 
-## 🏆 Most Influential Tech Companies — 2027 Internships (134)
+## 🏆 Most Influential Tech Companies — 2027 Internships (135)
 
 _Open roles at companies on our curated **Most Influential Tech Companies** list (TIME100 Most Influential Companies 2025 — tech subset — plus the largest tech companies by market cap; see [`TOP_COMPANIES.md`](TOP_COMPANIES.md)). These roles also appear in the per-source lists below._
 
-_134 role(s) across 36 influential companies._
+_135 role(s) across 37 influential companies._
 
 | Company | Role | Posted | Applied | Link |
 |---|---|---|---|---|
+| Northrop Grumman | Software Engineer Intern | 2026-07-25 | — | [Apply](https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10239275) |
 | Google | Software Engineering Intern | 2026-07-24 | — | [Apply](https://www.google.com/about/careers/applications/jobs/results/85564713261245126-software-engineering-intern-bs-summer-2027) |
 | Akuna Capital | Software Engineer Intern, C++ | 2026-07-24 | — | [Apply](https://akunacapital.com/careers/job/8018847/?gh_jid=8018847) |
 | Akuna Capital | Platform Engineer Intern | 2026-07-24 | — | [Apply](https://akunacapital.com/careers/job/8018856/?gh_jid=8018856) |
@@ -392,10 +393,11 @@ _134 role(s) across 36 influential companies._
 | Susquehanna | Quantitative Strategy Developer Intern | — | — | [Apply](https://careers.sig.com/jobs/10838) |
 | Salesforce | Software Engineer Intern (Futureforce) | — | — | [Apply](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer_JR340771-1) |
 
-## vanshb03 2027 (58)
+## vanshb03 2027 (59)
 
 | Company | Role | Posted | Applied | Link |
 |---|---|---|---|---|
+| Northrop Grumman | Software Engineer Intern | 2026-07-25 | — | [Apply](https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10239275) |
 | Google | Software Engineering Intern | 2026-07-24 | — | [Apply](https://www.google.com/about/careers/applications/jobs/results/85564713261245126-software-engineering-intern-bs-summer-2027) |
 | Astranis | Software Engineer Intern, Enterprise Systems | 2026-07-24 | — | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4699071006) |
 | Netic | Software Engineer Intern | 2026-07-24 | — | [Apply](https://jobs.ashbyhq.com/netic/b0ea7aab-8eea-4d31-96f9-278364180ae7) |
