@@ -1,16 +1,21 @@
 # 2027 SWE / Software-Adjacent Internships
 
-_**Pulled:** 2026-07-24 22:32 UTC  —  348 matching roles found this run._
+_**Pulled:** 2026-07-25 09:18 UTC  —  346 matching roles found this run._
 
 **[Open live LinkedIn search](https://www.linkedin.com/jobs/search/?keywords=software%20engineer%20intern%202027&f_E=1&f_JT=I)** (LinkedIn can't be scraped reliably from CI, so this is a one-tap live link instead.)
 
-## Simplify/pittcsc (239)
+## Simplify/pittcsc (237)
 
 | Company | Role | Posted | Applied | Link |
 |---|---|---|---|---|
 | Quadrillion | Software Engineering Intern | 2026-07-24 | — | [Apply](https://jobs.ashbyhq.com/quadrillion-labs/a4acc44c-31ce-41a0-ab44-2500487b4d05/application?embed=true) |
 | Mistral AI | AI Data Solutions Intern - Data Partnerships | 2026-07-24 | — | [Apply](https://jobs.ashbyhq.com/mistral.ai/60fcc44d-4d96-469d-a96c-d6a9bbfe8edd/application?embed=true) |
 | Northwell Health | Data Analytics / Data Science Intern | 2026-07-24 | — | [Apply](https://eppr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/192734) |
+| BlackEdge Capital | Quantitative Developer Intern | 2026-07-24 | — | [Apply](https://job-boards.greenhouse.io/blackedgecapital/jobs/4703821005) |
+| Nextiva | Forward Deployed Engineer Intern - AI Implementation | 2026-07-24 | — | [Apply](https://www.nextiva.com/company/careers-listing?gh_jid=8639480002) |
+| PDT Partners | Software Engineer Intern | 2026-07-24 | — | [Apply](https://job-boards.greenhouse.io/pdtpartners/jobs/8077685) |
+| Magna | R&D-Computer Vision Engineer Intern | 2026-07-24 | — | [Apply](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Troy-Michigan-US/R-D--Computer-Vision-Engineering-Intern_R00253444-1) |
+| International Rescue Committee (IRC) | Data Integration & Reporting Intern | 2026-07-24 | — | [Apply](https://theirc.wd1.myworkdayjobs.com/en-US/External_Careers/job/San-Diego-CA-USA/Fall-2026--Data-Integration---Reporting-Intern--Unpaid-_JR00004327) |
 | Red Bull | Data Science Intern - Data Science | 2026-07-23 | — | [Apply](https://jobs.smartrecruiters.com/RedBull/744000139168339) |
 | Rantec Power Systems Inc. | PCB Design Engineer Intern | 2026-07-23 | — | [Apply](https://rantecpowersystemsinc.applytojob.com/apply/C88xK8WZio/PCB-Design-Engineering-Intern) |
 | Warner Bros. | Sports Growth Strategy and Data Intern | 2026-07-23 | — | [Apply](https://warnerbros.wd5.myworkdayjobs.com/global/job/GA-Atlanta-1050-Techwood-Drive-NW/Sports-Growth-Strategy-and-Data-Internships--ATL---Fall-2026_R000107173) |
@@ -33,7 +38,6 @@ _**Pulled:** 2026-07-24 22:32 UTC  —  348 matching roles found this run._
 | Denari | Product & Software Internship | 2026-07-21 | — | [Apply](https://ats.rippling.com/denari/jobs/8aca4674-f7de-4afa-b031-41c77c533282) |
 | Zuru | Data Analyst Intern | 2026-07-21 | — | [Apply](https://jobs.ashbyhq.com/zuru/750dea66-6f5a-4622-80d6-b6289954d3d0/application?embed=true) |
 | Mistral AI | Applied Scientist / Research Engineer Intern | 2026-07-21 | — | [Apply](https://jobs.ashbyhq.com/mistral.ai/de46ba8b-00cb-4618-83df-66e15a78434e/application?embed=true) |
-| Onware | Full Stack Developer-Intern Opportunity | 2026-07-21 | — | [Apply](https://ats.rippling.com/onware/jobs/1b9d59b6-1ab0-4c40-8429-39b5b62f019a) |
 | SpreeAI  | Software Engineer Intern | 2026-07-21 | — | [Apply](https://ats.rippling.com/spreeai/jobs/d34aed29-7a11-4e37-b5bc-e9317f82f0b1) |
 | SpreeAI  | Machine Learning Engineer Intern - Computer Vision/Multimodal/Generative AI | 2026-07-21 | — | [Apply](https://ats.rippling.com/spreeai/jobs/aa087086-dd4b-42be-a499-051546655e97) |
 | SpreeAI  | Mobile Software Engineer Intern - Flagship Apps - iOS / Android / Web | 2026-07-21 | — | [Apply](https://ats.rippling.com/spreeai/jobs/c52472cb-2671-45d7-b666-17196dc3df25) |
@@ -219,7 +223,6 @@ _**Pulled:** 2026-07-24 22:32 UTC  —  348 matching roles found this run._
 | TikTok | Data Scientist Intern - TikTok Shop User Product DS | 2026-06-15 | — | [Apply](https://lifeattiktok.com/search/7532254890627696903) |
 | TikTok | Backend Software Engineer Intern - Media Platform | 2026-06-15 | — | [Apply](https://lifeattiktok.com/search/7538301580093720840) |
 | TikTok | Software Engineer Intern - Monetization Technology | 2026-06-15 | — | [Apply](https://lifeattiktok.com/search/7561941583777941813) |
-| TikTok | Machine Learning Engineer Intern | 2026-06-15 | — | [Apply](https://lifeattiktok.com/search/7534855949620119815) |
 | TikTok | Machine Learning Engineer Intern - Tiktok-Recommendation | 2026-06-15 | — | [Apply](https://lifeattiktok.com/search/7527065936093858055) |
 | TikTok | Software Engineer/Mobile Engineer Intern - Monetization Technology - Ads Core Demonstration | 2026-06-15 | — | [Apply](https://lifeattiktok.com/search/7532444719809628424) |
 | TikTok | Machine Learning Engineer Intern - Global E-Commerce Content Recommendation | 2026-06-15 | — | [Apply](https://lifeattiktok.com/search/7527077153591675154) |
@@ -241,18 +244,13 @@ _**Pulled:** 2026-07-24 22:32 UTC  —  348 matching roles found this run._
 | Rivian and Volkswagen Group Technologies | Software Engineer Intern Co-op - Vehicle Controls | 2026-06-11 | — | [Apply](https://jobs.ashbyhq.com/rivianvw.tech/a706bc73-8c3d-41b0-8bc5-874926a4af3e/application) |
 | Rivian and Volkswagen Group Technologies | Android Developer Intern | 2026-06-11 | — | [Apply](https://jobs.ashbyhq.com/rivianvw.tech/5633bb03-cc16-47fc-af02-db9dc355eddd/application) |
 | Rivian and Volkswagen Group Technologies | Software Engineer Intern Co-op - Android Connectivity | 2026-06-11 | — | [Apply](https://jobs.ashbyhq.com/rivianvw.tech/75874976-540a-4e5c-aa72-1b23669c5211/application) |
-| Zipline | Enterprise Systems Software Engineer Intern | 2026-06-10 | — | [Apply](https://www.zipline.com/careers?gh_jid=7767667003#open-roles) |
-| Walleye Capital | Volatility Trading Developer Intern | 2026-06-10 | — | [Apply](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679434006) |
-| SHEIN | Data Analysis Intern | 2026-06-10 | — | [Apply](https://fa-exjq-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/SHEIN/job/USA87554940) |
-| Walleye Capital | Quantitative Developer Intern | 2026-06-10 | — | [Apply](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679168006) |
-| Evolver | Applied Data Science Intern | 2026-06-10 | — | [Apply](https://job-boards.greenhouse.io/evolver/jobs/4254540009) |
 | Mindsmith | Software Engineering Intern | 2026-06-24 | ✅ | [Apply](https://app.dover.com/apply/mindsmith/e0ca8149-6811-4de9-ba38-65a0244a2b7e) |
 
-## 🏆 Most Influential Tech Companies — 2027 Internships (135)
+## 🏆 Most Influential Tech Companies — 2027 Internships (134)
 
 _Open roles at companies on our curated **Most Influential Tech Companies** list (TIME100 Most Influential Companies 2025 — tech subset — plus the largest tech companies by market cap; see [`TOP_COMPANIES.md`](TOP_COMPANIES.md)). These roles also appear in the per-source lists below._
 
-_135 role(s) across 36 influential companies._
+_134 role(s) across 36 influential companies._
 
 | Company | Role | Posted | Applied | Link |
 |---|---|---|---|---|
@@ -365,7 +363,6 @@ _135 role(s) across 36 influential companies._
 | TikTok | Data Scientist Intern - TikTok Shop User Product DS | 2026-06-15 | — | [Apply](https://lifeattiktok.com/search/7532254890627696903) |
 | TikTok | Backend Software Engineer Intern - Media Platform | 2026-06-15 | — | [Apply](https://lifeattiktok.com/search/7538301580093720840) |
 | TikTok | Software Engineer Intern - Monetization Technology | 2026-06-15 | — | [Apply](https://lifeattiktok.com/search/7561941583777941813) |
-| TikTok | Machine Learning Engineer Intern | 2026-06-15 | — | [Apply](https://lifeattiktok.com/search/7534855949620119815) |
 | TikTok | Machine Learning Engineer Intern - Tiktok-Recommendation | 2026-06-15 | — | [Apply](https://lifeattiktok.com/search/7527065936093858055) |
 | TikTok | Software Engineer/Mobile Engineer Intern - Monetization Technology - Ads Core Demonstration | 2026-06-15 | — | [Apply](https://lifeattiktok.com/search/7532444719809628424) |
 | TikTok | Machine Learning Engineer Intern - Global E-Commerce Content Recommendation | 2026-06-15 | — | [Apply](https://lifeattiktok.com/search/7527077153591675154) |
