@@ -1,9 +1,11 @@
 # 🔥 Priority — Fresh Summer 2027 Roles
 
-_**Updated:** 2026-07-25  —  48 role(s) explicitly tagged Summer 2027 and posted within the last 14 days._
+_**Updated:** 2026-07-27  —  44 role(s) explicitly tagged Summer 2027 and posted within the last 14 days._
 
 | Company | Role | Location | Posted | Link |
 |---|---|---|---|---|
+| Quadrillion Labs | Software Engineering Intern | New York, NY | 2026-07-27 | [Apply](https://jobs.ashbyhq.com/quadrillion-labs/a4acc44c-31ce-41a0-ab44-2500487b4d05) |
+| Northrop Grumman | Software Engineer Intern | Melbourne, FL | 2026-07-25 | [Apply](https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10239275) |
 | Old Mission | Software Engineer Intern (Summer 2027, June Start) | Chicago, IL | 2026-07-24 | [Apply](https://job-boards.greenhouse.io/oldmissioncapital/jobs/7796180003) |
 | Google | Software Engineering Intern | Mountain View, CA, Atlanta, GA, Austin, TX, Boulder, CO, Cambridge, MA, Bellevue, WA, Chicago, IL, Houston, TX, Irvine, CA, Kirkland, WA, Los Angeles, CA, Madison, WI, New York, NY, Palo Alto, CA, Portland, OR, Pittsburgh, PA, Raleigh, NC, Durham, NC, Reston, VA, Redmond, WA, Redwood City, CA, San Diego, CA, Goleta, CA, San Bruno, CA, Seattle, WA, San Francisco, CA, San Jose, CA, Santa Cruz, CA, South San Francisco, CA, Sunnyvale, CA | 2026-07-24 | [Apply](https://www.google.com/about/careers/applications/jobs/results/85564713261245126-software-engineering-intern-bs-summer-2027) |
 | Akuna Capital | Hardware Engineer Intern | Chicago, IL | 2026-07-24 | [Apply](https://akunacapital.com/careers/job/8018880/?gh_jid=8018880) |
@@ -46,12 +48,6 @@ _**Updated:** 2026-07-25  —  48 role(s) explicitly tagged Summer 2027 and post
 | The Trade Desk | 2027 North America Software Engineering Internship | Bellevue; Boulder; Denver; Irvine; New York; Seattle | 2026-07-15 | [Apply](https://job-boards.greenhouse.io/thetradedesk/jobs/5187605007) |
 | Tencent | Research Intern – Video World Models (Research & ML Systems) | US-California-Palo Alto | 2026-07-15 | [Apply](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Research-Intern---Video-World-Models--Research---ML-Systems-_R107752-1) |
 | Five Rings | Summer Intern 2027 - Software Developer | New York | 2026-07-14 | [Apply](https://job-boards.greenhouse.io/fiveringsllc/jobs/5349707008) |
-| Hudson River Trading | Software Engineer Intern - C++ or Python | Austin, TX, Chicago, IL, NYC | 2026-07-13 | [Apply](https://www.hudsonrivertrading.com/careers/job/?gh_jid=8052083) |
-| Akuna Capital | Software Engineer Intern - C++, Summer 2027 | Chicago, IL | 2026-07-13 | [Apply](https://www.akunacapital.com/careers/job/8018847/?gh_jid=8018847) |
-| Akuna Capital | Software Engineer Intern - Python, Summer 2027 | Chicago, IL | 2026-07-13 | [Apply](https://www.akunacapital.com/careers/job/8018853/?gh_jid=8018853) |
-| Akuna Capital | Platform Engineer Intern, Summer 2027 | Chicago, IL | 2026-07-13 | [Apply](https://www.akunacapital.com/careers/job/8018856/?gh_jid=8018856) |
-| Akuna Capital | Software Engineer Intern - C# .NET Desktop, Summer 2027 | Chicago, IL | 2026-07-13 | [Apply](https://www.akunacapital.com/careers/job/8018886/?gh_jid=8018886) |
-| Akuna Capital | Software Engineer Intern - Full Stack Web, Summer 2027 | Chicago, IL | 2026-07-13 | [Apply](https://www.akunacapital.com/careers/job/8018893/?gh_jid=8018893) |
 
 ---
 _Auto-generated from `aggregate.json`. Window: 14 days (edit `PRIORITY_DAYS` in `search.py`). See `README.md` for everything._
