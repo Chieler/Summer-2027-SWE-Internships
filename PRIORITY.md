@@ -1,6 +1,6 @@
 # 🔥 Priority — Fresh Summer 2027 Roles
 
-_**Pulled:** 2026-07-28 02:26 UTC  —  48 role(s) explicitly tagged Summer 2027 and posted within the last 14 days._
+_**Pulled:** 2026-07-28 11:39 UTC  —  47 role(s) explicitly tagged Summer 2027 and posted within the last 14 days._
 
 | Company | Role | Posted | Applied | Link |
 |---|---|---|---|---|
@@ -10,7 +10,6 @@ _**Pulled:** 2026-07-28 02:26 UTC  —  48 role(s) explicitly tagged Summer 2027
 | HyperLight | Software Engineer Intern | 2026-07-27 | — | [Apply](https://apply.workable.com/hyperlight/j/5581EA0668/) |
 | Appian | Information Security Engineer Intern | 2026-07-27 | — | [Apply](https://job-boards.greenhouse.io/appian/jobs/8088496) |
 | Intel Corporation | AI Software Engineering PhD Intern | 2026-07-27 | — | [Apply](https://intel.wd1.myworkdayjobs.com/external/job/US-Oregon-Hillsboro/AI-Applied-intern_JR0285916) |
-| RTX | Software Engineer Intern | 2026-07-27 | — | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-PA-STATE-COLLEGE-5A--302-Science-Park-Rd--BLDG-5A/Software-Engineering-Intern--On-site-_01860801) |
 | Northrop Grumman | 2027 Returning Intern Software Engineer | 2026-07-27 | — | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Returning-Intern-Software-Engineer_R10242378) |
 | Northrop Grumman | Software Engineer Intern | 2026-07-25 | — | [Apply](https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10239275) |
 | Google | Software Engineering Intern | 2026-07-24 | — | [Apply](https://www.google.com/about/careers/applications/jobs/results/85564713261245126-software-engineering-intern-bs-summer-2027) |

@@ -1,6 +1,6 @@
 # 2027 SWE / Software-Adjacent Internships
 
-_**Pulled:** 2026-07-28 02:26 UTC  —  353 matching roles found this run._
+_**Pulled:** 2026-07-28 11:39 UTC  —  353 matching roles found this run._
 
 **[Open live LinkedIn search](https://www.linkedin.com/jobs/search/?keywords=software%20engineer%20intern%202027&f_E=1&f_JT=I)** (LinkedIn can't be scraped reliably from CI, so this is a one-tap live link instead.)
 
@@ -9,7 +9,6 @@ _**Pulled:** 2026-07-28 02:26 UTC  —  353 matching roles found this run._
 | Company | Role | Posted | Applied | Link |
 |---|---|---|---|---|
 | Chanel | Data Intern - Global Data Program | 2026-07-27 | — | [Apply](https://cc.wd3.myworkdayjobs.com/ChanelCareers/job/London/Data-Intern---Global-Data-Program--H-F-X----September-2026_JOBREQ00115336) |
-| RTX | Software Engineer Intern | 2026-07-27 | — | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-PA-STATE-COLLEGE-5A--302-Science-Park-Rd--BLDG-5A/Software-Engineering-Intern--On-site-_01860801) |
 | Copart | Data Engineer Intern | 2026-07-27 | — | [Apply](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Data-Engineering-Intern_JR110075) |
 |  CCC Intelligent Solutions | Applied AI Engineer Intern | 2026-07-27 | — | [Apply](https://cccis.wd1.myworkdayjobs.com/broadbean_external/job/Chicago-Green-St-IL/Applied-AI-Engineering-Intern_0014827) |
 | GlobalFoundries | Device Engineer Intern - Ulp Cmos | 2026-07-27 | — | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Product-Business-Unit-Finance-Intern--Summer-2026-_JR-2502830) |
@@ -79,7 +78,6 @@ _**Pulled:** 2026-07-28 02:26 UTC  —  353 matching roles found this run._
 | Castleton Commodities International | Data Engineering Intern | 2026-07-21 | — | [Apply](https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/London/Data-Engineering-Internship--Summer-2027-_R1348) |
 | Castleton Commodities International | Full-Stack Software Engineer Intern | 2026-07-21 | — | [Apply](https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/Stamford-CT/Full-Stack-Software-Engineer-Internship--Summer-2027-_R1350) |
 | Axon | Firmware Engineering Internship | 2026-07-21 | — | [Apply](https://job-boards.greenhouse.io/axontalentcommunity/jobs/7800628003) |
-| Xsolla | AI-First Engineer Intern | 2026-07-20 | — | [Apply](https://jobs.lever.co/xsolla/7a8f8d4c-10fc-4c64-bc9d-167ba1e367c4/apply) |
 | Western Digital | Software Engineer Intern | 2026-07-20 | — | [Apply](https://jobs.smartrecruiters.com/WesternDigital/744000138727213) |
 | Ensemble Health Partners | Data Scientist Intern | 2026-07-17 | — | [Apply](https://ensemblehp.wd5.myworkdayjobs.com/ensemblehealthpartnerscareers/job/Remote---Nationwide/Data-Scientist--AI_R048077) |
 | Cybernetic Labs | Forward Deployed Engineer Intern | 2026-07-16 | — | [Apply](https://jobs.ashbyhq.com/netic/ffd6af1a-cebb-41f5-ac1d-e695adfd067c/application?embed=true) |
@@ -114,7 +112,8 @@ _**Pulled:** 2026-07-28 02:26 UTC  —  353 matching roles found this run._
 | Persona AI | Teleoperation Software Engineering Internship | 2026-07-13 | — | [Apply](https://jobs.ashbyhq.com/persona.ai/6078fafd-ba34-4c89-b260-7eb15be3cb9c/application) |
 | Microchip Technology | Equipment Engineering Technician Intern - Metrology | 2026-07-13 | — | [Apply](https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/OR---Gresham/Intern-Equipment-Engineering-Technician--Metrology-_R3077-26) |
 | Tesla | Software Engineer Intern - Energy Engineering | 2026-07-10 | — | [Apply](https://www.tesla.com/careers/search/job/276333) |
-| LexisNexis Risk Solutions | Editorial Data Reporting Intern | 2026-07-10 | — | [Apply](https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Home-based-Washington-DC/Editorial-Data-Reporting-Intern_R112971-1) |
+| Xsolla | AI-First Engineer Intern | 2026-07-10 | — | [Apply](https://jobs.lever.co/xsolla/1c0e5375-2352-4a2c-a816-48ddebbdd3d6/apply) |
+| Xsolla | AI Engineer Intern | 2026-07-10 | — | [Apply](https://jobs.lever.co/xsolla/5ec8e8f7-ed75-4697-a1c0-28a026f2e571/apply) |
 | Pylon | Software Engineer Intern | 2026-07-09 | — | [Apply](https://jobs.ashbyhq.com/pylon-labs/fcea8b52-81f1-4b0c-b575-d7b180faec4d/application) |
 | Vital Lyfe | Software Engineer Intern | 2026-07-09 | — | [Apply](https://jobs.ashbyhq.com/vital-lyfe/43a79d8f-a8bb-4c57-a411-1bac946128af/application) |
 | Democratic Governors Association | Data and Coding Intern | 2026-07-08 | — | [Apply](https://jobs.lever.co/dga/cc41da12-5af0-41b6-b85e-301af4868bca/apply) |
@@ -215,6 +214,7 @@ _**Pulled:** 2026-07-28 02:26 UTC  —  353 matching roles found this run._
 | iHerb | Software Development Intern | 2026-06-18 | — | [Apply](https://job-boards.greenhouse.io/iherb/jobs/7776154003) |
 | Autodesk | Cloud Developer Intern | 2026-06-18 | — | [Apply](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Quebec-CAN---Remote/Stagiaire-en-Dveloppement-Cloud--Intern-Cloud-Developer_26WD99464-2) |
 | Nelnet | AI Engineer Intern | 2026-06-18 | — | [Apply](https://nelnet.wd1.myworkdayjobs.com/MyNelnet/job/Lincoln-NE/Intern---AI-Engineer_R22763) |
+| Copart | Software Engineer Intern | 2026-06-18 | — | [Apply](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109441) |
 | Viridien | Software Engineer Intern | 2026-06-17 | — | [Apply](https://cgg.wd103.myworkdayjobs.com/viridiencareers/job/Crawley-United-Kingdom/Software-Engineering-Intern_JR101336-1) |
 | Sony | Software Engineer Intern | 2026-06-17 | — | [Apply](https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/San-Diego/Software-Engineer-Intern_JR-119282) |
 | United Parcel Service (UPS) | Buildings and Systems Engineering Intern | 2026-06-17 | — | [Apply](https://hcmportal.wd5.myworkdayjobs.com/en-US/Search/job/US---UPS-CORPORATE-OFFICES-GACOR/Summer-2026-Buildings---Systems-Engineering--BaSE--Intern---Information-Systems-Intern_R26015318) |
