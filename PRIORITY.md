@@ -1,6 +1,6 @@
 # 🔥 Priority — Fresh Summer 2027 Roles
 
-_**Pulled:** 2026-07-30 12:12 UTC  —  49 role(s) explicitly tagged Summer 2027 and posted within the last 14 days._
+_**Pulled:** 2026-07-30 15:10 UTC  —  45 role(s) explicitly tagged Summer 2027 and posted within the last 14 days._
 
 | Company | Role | Posted | Applied | Link |
 |---|---|---|---|---|
@@ -24,9 +24,7 @@ _**Pulled:** 2026-07-30 12:12 UTC  —  49 role(s) explicitly tagged Summer 2027
 | Akuna Capital | Software Engineer Intern, Full Stack Web | 2026-07-24 | — | [Apply](https://akunacapital.com/careers/job/8018893/?gh_jid=8018893) |
 | Akuna Capital | Software Engineer Intern, C# .NET Desktop | 2026-07-24 | — | [Apply](https://akunacapital.com/careers/job/8018886/?gh_jid=8018886) |
 | Hudson River Trading | Software Engineer Intern | 2026-07-24 | — | [Apply](https://www.hudsonrivertrading.com/hrt-job/software-engineering-internship-c-or-python-summer-2027/?gh_src=) |
-| Copart | Software Engineering Intern | 2026-07-24 | — | [Apply](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR110011) |
 | Deepgram | Software Engineering Intern | 2026-07-24 | — | [Apply](https://jobs.ashbyhq.com/deepgram/dc8693b5-72ce-4ca3-ab15-9c8434d35da1) |
-| Schweitzer Engineering Laboratories | Software Engineer Intern | 2026-07-24 | — | [Apply](https://selinc.wd1.myworkdayjobs.com/SEL/job/Idaho---Boise/Software-Engineer-Intern_2026-22321) |
 | Jane Street | Machine Learning Engineer Intern | 2026-07-24 | — | [Apply](https://www.janestreet.com/join-jane-street/position/8611307002/) |
 | Jane Street | Data Engineer Intern | 2026-07-24 | — | [Apply](https://www.janestreet.com/join-jane-street/position/8631973002/) |
 | Jane Street | Hardware Engineer (FPGA/ASIC) Intern | 2026-07-24 | — | [Apply](https://www.janestreet.com/join-jane-street/position/8624440002/) |
@@ -50,8 +48,6 @@ _**Pulled:** 2026-07-30 12:12 UTC  —  49 role(s) explicitly tagged Summer 2027
 | Castleton Commodities International | Data Science Machine Learning Intern | 2026-07-21 | — | [Apply](https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/Stamford-CT/Data-Science-Machine-Learning-Internship--Summer-2027-_R1344) |
 | Castleton Commodities International | Data Engineering Intern | 2026-07-21 | — | [Apply](https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/London/Data-Engineering-Internship--Summer-2027-_R1348) |
 | Castleton Commodities International | Full-Stack Software Engineer Intern | 2026-07-21 | — | [Apply](https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/Stamford-CT/Full-Stack-Software-Engineer-Internship--Summer-2027-_R1350) |
-| GE Healthcare | Engineering Development Program Intern - Hardware | 2026-07-20 | — | [Apply](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Waukesha/Edison-Engineering-Development-Program-Internship---Hardware_R4043923-1) |
-| GE Healthcare | Engineering Development Program Intern - Software | 2026-07-20 | — | [Apply](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Waukesha/Edison-Engineering-Development-Program-Intern---Software_R4043933-2) |
 | Western Digital | Software Engineer Intern | 2026-07-20 | — | [Apply](https://jobs.smartrecruiters.com/WesternDigital/744000138727213) |
 
 ---
