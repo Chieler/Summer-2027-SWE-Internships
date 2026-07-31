@@ -1,9 +1,10 @@
 # 🔥 Priority — Fresh Summer 2027 Roles
 
-_**Pulled:** 2026-07-30 23:40 UTC  —  48 role(s) explicitly tagged Summer 2027 and posted within the last 14 days._
+_**Pulled:** 2026-07-31 15:18 UTC  —  48 role(s) explicitly tagged Summer 2027 and posted within the last 14 days._
 
 | Company | Role | Posted | Applied | Link |
 |---|---|---|---|---|
+| Heliux | Software Engineer Intern | 2026-07-31 | — | [Apply](https://jobs.ashbyhq.com/heliux/ff2b6f4b-00d0-4afe-b4f5-2dbf443409ef/application?embed=true) |
 | General Dynamics Information Technology | Systems Engineer Intern | 2026-07-30 | — | [Apply](https://www.gd.com/careers/systems-engineer-intern-albany-ny-us-rq225289-gdit-opportunity) |
 | Virtu Financial | Frontend & User Experience Intern | 2026-07-30 | — | [Apply](https://job-boards.greenhouse.io/virtu/jobs/8657500002) |
 | GoDaddy | Software Development Engineer Intern | 2026-07-30 | — | [Apply](https://job-boards.greenhouse.io/eventsandinterns/jobs/7820942003) |
@@ -50,7 +51,6 @@ _**Pulled:** 2026-07-30 23:40 UTC  —  48 role(s) explicitly tagged Summer 2027
 | Castleton Commodities International | Data Science Machine Learning Intern | 2026-07-21 | — | [Apply](https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/Stamford-CT/Data-Science-Machine-Learning-Internship--Summer-2027-_R1344) |
 | Castleton Commodities International | Data Engineering Intern | 2026-07-21 | — | [Apply](https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/London/Data-Engineering-Internship--Summer-2027-_R1348) |
 | Castleton Commodities International | Full-Stack Software Engineer Intern | 2026-07-21 | — | [Apply](https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/Stamford-CT/Full-Stack-Software-Engineer-Internship--Summer-2027-_R1350) |
-| GE Healthcare | Engineering Development Program Intern - Software | 2026-07-20 | — | [Apply](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Waukesha/Edison-Engineering-Development-Program-Intern---Software_R4043933-2) |
 | Western Digital | Software Engineer Intern | 2026-07-20 | — | [Apply](https://jobs.smartrecruiters.com/WesternDigital/744000138727213) |
 
 ---
