@@ -1,15 +1,24 @@
 # 🔥 Priority — Fresh Summer 2027 Roles
 
-_**Pulled:** 2026-07-31 15:18 UTC  —  48 role(s) explicitly tagged Summer 2027 and posted within the last 14 days._
+_**Pulled:** 2026-08-01 14:25 UTC  —  49 role(s) explicitly tagged Summer 2027 and posted within the last 14 days._
 
 | Company | Role | Posted | Applied | Link |
 |---|---|---|---|---|
-| Heliux | Software Engineer Intern | 2026-07-31 | — | [Apply](https://jobs.ashbyhq.com/heliux/ff2b6f4b-00d0-4afe-b4f5-2dbf443409ef/application?embed=true) |
+| Castleton Commodities International | Full-Stack Software Engineer Intern | 2026-07-31 | — | [Apply](https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/Stamford-CT/Full-Stack-Software-Engineer-Internship--Summer-2027-_R1350) |
+| DRW | AI/ML Research Intern | 2026-07-31 | — | [Apply](https://www.drw.com/work-at-drw/listings/aiml-research-intern-3466679) |
+| DRW | Platform Engineer Intern | 2026-07-31 | — | [Apply](https://www.drw.com/work-at-drw/listings/platform-engineer-intern-3468737) |
+| DRW | Software Developer Intern | 2026-07-31 | — | [Apply](https://www.drw.com/work-at-drw/listings/software-developer-intern-3466687) |
+| Castleton Commodities International | Data Science Machine Learning Intern | 2026-07-31 | — | [Apply](https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/Stamford-CT/Data-Science-Machine-Learning-Internship--Summer-2027-_R1344) |
+| Castleton Commodities International | Data Engineering Intern | 2026-07-31 | — | [Apply](https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/Stamford-CT/Data-Engineering-Internship--Summer-2027-_R1346) |
+| SK Hynix Memory Solution | Software Engineer Intern | 2026-07-31 | — | [Apply](https://job-boards.greenhouse.io/skhynixmemorysolutionsamericainc/jobs/4342038009) |
+| Western Digital | Hardware Engineering Intern | 2026-07-31 | — | [Apply](https://jobs.smartrecruiters.com/WesternDigital/744000140949875) |
+| Virtu Financial | Hardware Engineer Intern - FPGA | 2026-07-31 | — | [Apply](https://job-boards.greenhouse.io/virtu/jobs/8657286002) |
+| Melius | Software Engineering Intern [Spring/Summer 2027] | 2026-07-31 | — | [Apply](https://jobs.ashbyhq.com/melius/b61f063a-4f94-4e50-a4ef-05aaab552280) |
+| Heliux | Software Engineer (Internship, Summer 2027) | 2026-07-31 | — | [Apply](https://jobs.ashbyhq.com/heliux/ff2b6f4b-00d0-4afe-b4f5-2dbf443409ef) |
 | General Dynamics Information Technology | Systems Engineer Intern | 2026-07-30 | — | [Apply](https://www.gd.com/careers/systems-engineer-intern-albany-ny-us-rq225289-gdit-opportunity) |
 | Virtu Financial | Frontend & User Experience Intern | 2026-07-30 | — | [Apply](https://job-boards.greenhouse.io/virtu/jobs/8657500002) |
 | GoDaddy | Software Development Engineer Intern | 2026-07-30 | — | [Apply](https://job-boards.greenhouse.io/eventsandinterns/jobs/7820942003) |
 | Leidos | Software Developer Intern | 2026-07-29 | — | [Apply](https://leidos.wd5.myworkdayjobs.com/External/job/Annapolis-Junction-MD/Software-Developer-Intern_R-00188311) |
-| RTX | Software Engineer Intern | 2026-07-29 | — | [Apply](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-PA-STATE-COLLEGE-5A--302-Science-Park-Rd--BLDG-5A/Software-Engineering-Intern--Summer-2027-_01862842) |
 | Nightwing | Software / Hardware Engineering Intern | 2026-07-28 | — | [Apply](https://nwis.wd12.myworkdayjobs.com/en-US/NW/job/Annapolis-Junction-MD/Software---Hardware-Engineering---Intern_JR101733) |
 | PDT Partners | Software Engineering Intern | 2026-07-27 | — | [Apply](https://job-boards.greenhouse.io/pdtpartners/jobs/8077685) |
 | Quadrillion Labs | Software Engineering Intern | 2026-07-27 | — | [Apply](https://jobs.ashbyhq.com/quadrillion-labs/a4acc44c-31ce-41a0-ab44-2500487b4d05) |
@@ -41,16 +50,8 @@ _**Pulled:** 2026-07-31 15:18 UTC  —  48 role(s) explicitly tagged Summer 2027
 | Old Mission | Software Engineer Intern | 2026-07-24 | — | [Apply](https://www.oldmissioncapital.com/careers/?gh_jid=7796180003) |
 | IMC | Hardware Engineer Intern | 2026-07-24 | — | [Apply](https://www.imc.com/us/careers/jobs/4823945101) |
 | Appian | Software Engineering Intern | 2026-07-24 | — | [Apply](https://careers.appian.com/jobs/8041237-software-engineering-intern) |
-| Quadrillion | Software Engineering Intern | 2026-07-24 | — | [Apply](https://jobs.ashbyhq.com/quadrillion-labs/a4acc44c-31ce-41a0-ab44-2500487b4d05/application?embed=true) |
-| G-Research | Data Science Intern | 2026-07-23 | — | [Apply](https://gresearch.wd103.myworkdayjobs.com/G-Research/job/London-UK/Data-Science-Internship_R3679) |
-| Gitar, Inc. | Software Engineer Intern | 2026-07-21 | — | [Apply](https://ats.rippling.com/gitar-careers/jobs/76868d2c-10f0-4c43-8f47-c541f1d41e49) |
 | Optiver | FPGA Engineer Intern | 2026-07-21 | — | [Apply](https://www.optiver.com/join-us/jobs/8641352002/?gh_jid=8641352002) |
 | Axon | Software Engineering Intern | 2026-07-21 | — | [Apply](https://job-boards.greenhouse.io/axontalentcommunity/jobs/7800617003) |
-| Ciena | Software Engineer Intern | 2026-07-21 | — | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/UK--Edinburgh---19A-Canning-St/Software-Engineering-Intern--3-12-Months-_R031332) |
-| Castleton Commodities International | Front Office Software Engineer Intern | 2026-07-21 | — | [Apply](https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/London-UK/Front-Office-Software-Engineer-Internship--Summer-2027-_R1347) |
-| Castleton Commodities International | Data Science Machine Learning Intern | 2026-07-21 | — | [Apply](https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/Stamford-CT/Data-Science-Machine-Learning-Internship--Summer-2027-_R1344) |
-| Castleton Commodities International | Data Engineering Intern | 2026-07-21 | — | [Apply](https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/London/Data-Engineering-Internship--Summer-2027-_R1348) |
-| Castleton Commodities International | Full-Stack Software Engineer Intern | 2026-07-21 | — | [Apply](https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/Stamford-CT/Full-Stack-Software-Engineer-Internship--Summer-2027-_R1350) |
 | Western Digital | Software Engineer Intern | 2026-07-20 | — | [Apply](https://jobs.smartrecruiters.com/WesternDigital/744000138727213) |
 
 ---
