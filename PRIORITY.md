@@ -1,12 +1,14 @@
 # 🔥 Priority — Fresh Summer 2027 Roles
 
-_**Pulled:** 2026-08-03 15:42 UTC  —  91 role(s) explicitly tagged Summer 2027 and posted within the last 14 days._
+_**Pulled:** 2026-08-03 22:33 UTC  —  90 role(s) explicitly tagged Summer 2027 and posted within the last 14 days._
 
 | Company | Role | Posted | Applied | Link |
 |---|---|---|---|---|
 | Medtronic | Software Engineering Intern | 2026-08-03 | — | [Apply](https://medtronic.wd1.myworkdayjobs.com/en-US/medtroniccareers/job/Fridley-Minnesota-United-States-of-America/Software-Engineering-Intern---Summer-2027_R73630-1) |
 | HPR | Software Engineering Intern | 2026-08-03 | — | [Apply](https://job-boards.greenhouse.io/hyannisportresearch/jobs/7822989003) |
 | Heliux | Software Engineer Intern | 2026-08-03 | — | [Apply](https://jobs.ashbyhq.com/heliux/ff2b6f4b-00d0-4afe-b4f5-2dbf443409ef) |
+| Capital One | Software Engineer Intern | 2026-08-03 | — | [Apply](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Technology-Internship-Program---Summer-2027_R244387-1) |
+| Microsoft | Software Engineer Intern, CoreAI | 2026-08-03 | — | [Apply](https://apply.careers.microsoft.com/careers?query=intern&start=0&location=untied+states&sort_by=relevance&filter_include_remote=1&filter_include_relocation=0) |
 | TikTok | Machine Learning Engineer Intern - Basic Ranking | 2026-08-03 | — | [Apply](https://lifeattiktok.com/search/7667339583362025781) |
 | TikTok | Machine Learning Engineer Intern - Recommendation | 2026-08-03 | — | [Apply](https://lifeattiktok.com/search/7662653087863081221) |
 | TikTok | Software Engineer Intern - Creative Intelligence and Brand Innovation | 2026-08-03 | — | [Apply](https://lifeattiktok.com/search/7668642761473902901) |
@@ -36,10 +38,10 @@ _**Pulled:** 2026-08-03 15:42 UTC  —  91 role(s) explicitly tagged Summer 2027
 | ByteDance | Software Engineer Intern - AI Infrastructure Compute | 2026-08-03 | — | [Apply](https://jobs.bytedance.com/en/position/7667377525182662965/detail) |
 | ByteDance | Software Engineer Intern | 2026-08-03 | — | [Apply](https://jobs.bytedance.com/en/position/7668373268886161669/detail) |
 | ByteDance | Software Engineer Intern - Distributed NoSQL Database Systems | 2026-08-03 | — | [Apply](https://jobs.bytedance.com/en/position/7668374190764050741/detail) |
-| Microsoft | Software Engineer Intern - CoreAI | 2026-08-03 | — | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556951950) |
+| Chicago Trading Company | Software Engineering Internship - Summer 2027 | 2026-08-03 | — | [Apply](https://job-boards.greenhouse.io/chicagotradingcampus/jobs/4716932005) |
+| Netsmart | Software Engineer Intern (Summer 2027 Internship) | 2026-08-03 | — | [Apply](https://ntst.wd1.myworkdayjobs.com/careers/job/Overland-Park-KS/Software-Engineer-Intern--Summer-2027-Internship-_R015667) |
 | JPMorganChase | 2027 Code for Good Hackathon - Software Engineer Program - Summer Internship – United States | 2026-08-03 | — | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210773759) |
 | JPMorganChase | 2027 Data & AI Program - Summer Internship - Analyst - United States | 2026-08-03 | — | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210773869) |
-| JPMorganChase | 2027 Data for Good Hackathon - Data & AI Program - Summer Internship | 2026-08-03 | — | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210775223) |
 | HPR (Hyannis Port Research) | FPGA Engineer Intern | 2026-08-01 | — | [Apply](https://job-boards.greenhouse.io/hyannisportresearch/jobs/7822801003) |
 | Medtronic | Software Engineer Intern | 2026-08-01 | — | [Apply](https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Fridley-Minnesota-United-States-of-America/Software-Engineering-Intern---Summer-2027_R73630) |
 | Castleton Commodities International | Full-Stack Software Engineer Intern | 2026-07-31 | — | [Apply](https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/Stamford-CT/Full-Stack-Software-Engineer-Internship--Summer-2027-_R1350) |
@@ -48,7 +50,6 @@ _**Pulled:** 2026-08-03 15:42 UTC  —  91 role(s) explicitly tagged Summer 2027
 | DRW | Software Developer Intern | 2026-07-31 | — | [Apply](https://www.drw.com/work-at-drw/listings/software-developer-intern-3466687) |
 | Castleton Commodities International | Data Science Machine Learning Intern | 2026-07-31 | — | [Apply](https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/Stamford-CT/Data-Science-Machine-Learning-Internship--Summer-2027-_R1344) |
 | Castleton Commodities International | Data Engineering Intern | 2026-07-31 | — | [Apply](https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/Stamford-CT/Data-Engineering-Internship--Summer-2027-_R1346) |
-| SK Hynix Memory Solution | Software Engineer Intern | 2026-07-31 | — | [Apply](https://job-boards.greenhouse.io/skhynixmemorysolutionsamericainc/jobs/4342038009) |
 | Western Digital | Hardware Engineering Intern | 2026-07-31 | — | [Apply](https://jobs.smartrecruiters.com/WesternDigital/744000140949875) |
 | Virtu Financial | Hardware Engineer Intern - FPGA | 2026-07-31 | — | [Apply](https://job-boards.greenhouse.io/virtu/jobs/8657286002) |
 | Melius | Software Engineering Intern [Spring/Summer 2027] | 2026-07-31 | — | [Apply](https://jobs.ashbyhq.com/melius/b61f063a-4f94-4e50-a4ef-05aaab552280) |
@@ -56,7 +57,6 @@ _**Pulled:** 2026-08-03 15:42 UTC  —  91 role(s) explicitly tagged Summer 2027
 | Virtu Financial | Frontend & User Experience Intern | 2026-07-30 | — | [Apply](https://job-boards.greenhouse.io/virtu/jobs/8657500002) |
 | RTX | Software Engineer Intern | 2026-07-30 | — | [Apply](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/Software-Engineering-Intern--Summer-2027-_01863072) |
 | GoDaddy | Software Development Engineer Intern | 2026-07-30 | — | [Apply](https://job-boards.greenhouse.io/eventsandinterns/jobs/7820942003) |
-| Leidos | Software Developer Intern | 2026-07-29 | — | [Apply](https://leidos.wd5.myworkdayjobs.com/External/job/Annapolis-Junction-MD/Software-Developer-Intern_R-00188311) |
 | Nightwing | Software / Hardware Engineering Intern | 2026-07-28 | — | [Apply](https://nwis.wd12.myworkdayjobs.com/en-US/NW/job/Annapolis-Junction-MD/Software---Hardware-Engineering---Intern_JR101733) |
 | PDT Partners | Software Engineering Intern | 2026-07-27 | — | [Apply](https://job-boards.greenhouse.io/pdtpartners/jobs/8077685) |
 | Quadrillion Labs | Software Engineering Intern | 2026-07-27 | — | [Apply](https://jobs.ashbyhq.com/quadrillion-labs/a4acc44c-31ce-41a0-ab44-2500487b4d05) |
@@ -84,7 +84,6 @@ _**Pulled:** 2026-08-03 15:42 UTC  —  91 role(s) explicitly tagged Summer 2027
 | Jane Street | Windows Engineer Intern | 2026-07-24 | — | [Apply](https://www.janestreet.com/join-jane-street/position/8628843002/) |
 | Palantir Technologies | Software Engineer Intern | 2026-07-24 | — | [Apply](https://jobs.lever.co/palantir/e27af7ab-41fc-40c9-b31d-02c6cb1c505c) |
 | Palantir Technologies | Software Engineer Intern, Infrastructure | 2026-07-24 | — | [Apply](https://jobs.lever.co/palantir/b229baac-494b-4a0d-9a13-2e38806e06f3) |
-| Walleye Capital | Investment Data Science Intern | 2026-07-24 | — | [Apply](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4676587006) |
 | Old Mission | Software Engineer Intern | 2026-07-24 | — | [Apply](https://www.oldmissioncapital.com/careers/?gh_jid=7796180003) |
 | IMC | Hardware Engineer Intern | 2026-07-24 | — | [Apply](https://www.imc.com/us/careers/jobs/4823945101) |
 | Appian | Software Engineering Intern | 2026-07-24 | — | [Apply](https://careers.appian.com/jobs/8041237-software-engineering-intern) |
