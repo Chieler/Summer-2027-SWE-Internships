@@ -1,6 +1,6 @@
 # 🔥 Priority — Fresh Summer 2027 Roles
 
-_**Pulled:** 2026-08-05 13:52 UTC  —  183 role(s) explicitly tagged Summer 2027 and posted within the last 14 days._
+_**Pulled:** 2026-08-05 15:12 UTC  —  184 role(s) explicitly tagged Summer 2027 and posted within the last 14 days._
 
 | Company | Role | Posted | Applied | Link |
 |---|---|---|---|---|
@@ -12,6 +12,7 @@ _**Pulled:** 2026-08-05 13:52 UTC  —  183 role(s) explicitly tagged Summer 202
 | TikTok | Machine Learning Engineer Intern - Search | 2026-08-05 | — | [Apply](https://lifeattiktok.com/search/7668396597746862341) |
 | TikTok | Backend Software Engineer Intern - Creation Platform | 2026-08-05 | — | [Apply](https://lifeattiktok.com/search/7670289874020993285) |
 | TikTok | Data Engineer Intern - Ads Targeting | 2026-08-05 | — | [Apply](https://lifeattiktok.com/search/7668533140146817333) |
+| Maven Securities | Trader Intern - Summer | 2026-08-05 | — | [Apply](https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/8051937) |
 | Microsoft | Software Engineer Intern, Data Platform/Analytics | 2026-08-04 | — | [Apply](https://apply.careers.microsoft.com/careers?query=intern&start=0&location=untied+states&sort_by=relevance&filter_include_remote=1&filter_include_relocation=0&pid=1970393556922931) |
 | Microsoft | Software Engineer Intern, Security & Identity | 2026-08-04 | — | [Apply](https://apply.careers.microsoft.com/careers?query=intern&start=0&location=untied+states&sort_by=relevance&filter_include_remote=1&filter_include_relocation=0&pid=1970393556922930) |
 | Microsoft | Software Engineer Intern, AI/ML & LLM | 2026-08-04 | — | [Apply](https://apply.careers.microsoft.com/careers?query=intern&start=0&location=untied+states&sort_by=relevance&filter_include_remote=1&filter_include_relocation=0&pid=1970393556922929) |

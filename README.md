@@ -1,10 +1,10 @@
 # 2027 SWE / Software-Adjacent Internships
 
-_**Pulled:** 2026-08-05 13:52 UTC  —  708 matching roles found this run._
+_**Pulled:** 2026-08-05 15:12 UTC  —  711 matching roles found this run._
 
 **[Open live LinkedIn search](https://www.linkedin.com/jobs/search/?keywords=software%20engineer%20intern%202027&f_E=1&f_JT=I)** (LinkedIn can't be scraped reliably from CI, so this is a one-tap live link instead.)
 
-## Simplify/pittcsc (530)
+## Simplify/pittcsc (533)
 
 | Company | Role | Posted | Applied | Link |
 |---|---|---|---|---|
@@ -20,6 +20,10 @@ _**Pulled:** 2026-08-05 13:52 UTC  —  708 matching roles found this run._
 | TikTok | Backend Software Engineer Intern - Creation Platform | 2026-08-05 | — | [Apply](https://lifeattiktok.com/search/7670289874020993285) |
 | TikTok | Data Engineer Intern - Ads Targeting | 2026-08-05 | — | [Apply](https://lifeattiktok.com/search/7668533140146817333) |
 | ByteDance | Student Researcher Intern - AI Foundation Models Infrastructure - Seed Infra | 2026-08-05 | — | [Apply](https://jobs.bytedance.com/en/position/7670330161462364421/detail) |
+| Swift | Industry Engagement Research Analyst Intern | 2026-08-05 | — | [Apply](https://swift.wd3.myworkdayjobs.com/join-swift/job/London-United-Kingdom/Industry-Engagement---Intern-Research-Analyst_2026-16321) |
+| US Acute Care Solutions | People Analytics Intern | 2026-08-05 | — | [Apply](https://usacs.wd1.myworkdayjobs.com/usacscareers/job/Virtual-OH/People-Analytics-Intern_R0002363) |
+| General Dynamics Information Technology | Artificial Intelligence/Machine Learning Intern | 2026-08-05 | — | [Apply](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Falls-Church---3150-Fairview-Park-Dr-VAS095/GDIT-2027-Summer-AI---ML-Internship_RQ225401) |
+| Maven Securities | Trader Intern - Summer | 2026-08-05 | — | [Apply](https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/8051937) |
 | Tesla | Cell Engineering Intern - Cell Qualification | 2026-08-04 | — | [Apply](https://www.tesla.com/careers/search/job/278620) |
 | Tesla | Data Engineer Intern - Cell Engineering | 2026-08-04 | — | [Apply](https://www.tesla.com/careers/search/job/278622) |
 | American Express | Product Management Intern | 2026-08-04 | — | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011916) |
@@ -210,7 +214,6 @@ _**Pulled:** 2026-08-05 13:52 UTC  —  708 matching roles found this run._
 | East Penn Manufacturing Company | Product Engineer Intern | 2026-07-27 | — | [Apply](https://careers-eastpennmanufacturing.icims.com/jobs/30021/job?mobile=true&needsRedirect=false) |
 | East Penn Manufacturing Company | Power BI & Analytics Intern | 2026-07-27 | — | [Apply](https://careers-eastpennmanufacturing.icims.com/jobs/30020/job?mobile=true&needsRedirect=false) |
 | Excel Sports Management | Football Coaches Intern | 2026-07-27 | — | [Apply](https://job-boards.greenhouse.io/excelsportsmanagement/jobs/4718768005) |
-| Bank of Montreal | Data and AI Operations Analyst Intern/Co-op - Cloud - 8 months | 2026-07-27 | — | [Apply](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Data-and-AI-Operations-Analyst--Cloud---Fall-2026--Co-op-Internship----8-months_R260021724) |
 | Bosch Home Comfort | Powertrain Controls Software Engineer Intern | 2026-07-27 | — | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000140089589) |
 | Tesla | Vehicle Software Intern - Vehicle Controls | 2026-07-27 | — | [Apply](https://www.tesla.com/careers/search/job/278203) |
 | FTI Consulting | Technology Intern - Technology | 2026-07-27 | — | [Apply](https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareersPrivate/job/United-States/XMLNAME-2027-Intern---Technology_JR260339) |
