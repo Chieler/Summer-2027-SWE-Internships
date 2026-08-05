@@ -223,6 +223,23 @@ def detect_season(season_field, terms_field, title):
     return ""
 
 
+# Simplify/pittcsc-style feeds tag each listing with a `category` field
+# (e.g. "Software", "AI/ML/Data", "Quant", "Product", plus older-named
+# variants). KEYWORDS/matches() is title-keyword-based and silently drops most
+# Quant and Product listings, since titles like "Quant Research Intern" or
+# "Product Analyst Intern" don't contain any SWE-ish keyword. For categories we
+# recognize, trust the category instead of the keyword filter — still require
+# "intern" as a whole word — so every section (SWE, Data, Quant, Product) makes
+# it through. Feeds without a `category` field (e.g. vanshb03) fall back to the
+# keyword filter unchanged.
+_SIMPLIFY_ADMIT_CATEGORIES = {
+    "software", "software engineering",
+    "ai/ml/data", "data science, ai & machine learning",
+    "quant", "quantitative finance",
+    "product", "product management",
+}
+
+
 def parse_simplify_schema(data):
     """Extract matching rows from a Simplify-schema listings.json blob."""
     rows = []
@@ -231,7 +248,12 @@ def parse_simplify_schema(data):
             continue
         title = job.get("title", "")
         company = job.get("company_name", "")
-        if not matches(title):
+        category = (job.get("category") or "").strip().lower()
+        if category in _SIMPLIFY_ADMIT_CATEGORIES:
+            admitted = bool(_INTERN_RE.search(title.lower()))
+        else:
+            admitted = matches(title)
+        if not admitted:
             continue
         url = job.get("url", "")
         if url:
