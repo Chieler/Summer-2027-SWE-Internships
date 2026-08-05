@@ -1,10 +1,10 @@
 # 2027 SWE / Software-Adjacent Internships
 
-_**Pulled:** 2026-08-05 10:39 UTC  —  706 matching roles found this run._
+_**Pulled:** 2026-08-05 13:52 UTC  —  708 matching roles found this run._
 
 **[Open live LinkedIn search](https://www.linkedin.com/jobs/search/?keywords=software%20engineer%20intern%202027&f_E=1&f_JT=I)** (LinkedIn can't be scraped reliably from CI, so this is a one-tap live link instead.)
 
-## Simplify/pittcsc (529)
+## Simplify/pittcsc (530)
 
 | Company | Role | Posted | Applied | Link |
 |---|---|---|---|---|
@@ -45,6 +45,7 @@ _**Pulled:** 2026-08-05 10:39 UTC  —  706 matching roles found this run._
 | PNC Financial Services | Data and Analytics Intern - Modeling | 2026-08-04 | — | [Apply](https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Data--Modeling--and-Analytics-Undergraduate-Intern_R231526-1) |
 | American Express | Product Innovation Intern - Credit & Fraud Risk | 2026-08-04 | — | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011994) |
 | Microsoft | Research Intern - Firmware Security | 2026-08-04 | — | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556955518) |
+| RTX | Software Engineer Intern - Summer 2027 | 2026-08-04 | — | [Apply](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Software-Engineering-Intern--Summer-2027-_01863980-1) |
 | Keysight Technologies | Software Engineer Intern - R&D - FPGA | 2026-08-04 | — | [Apply](https://jobs.keysight.com/jobs/53636?icims=1) |
 | General Dynamics Information Technology | Software Developer Intern | 2026-08-04 | — | [Apply](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Annapolis-Junction/Summer-2027-Software-Developer-Internship_RQ225717-1) |
 | The Federal Reserve System | Graduate Statistical Analysis Intern - Regional & Community Outreach | 2026-08-04 | — | [Apply](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Boston-MA/Graduate-Intern---Statistical-Analysis_R-0000032931) |
@@ -81,7 +82,6 @@ _**Pulled:** 2026-08-05 10:39 UTC  —  706 matching roles found this run._
 | TikTok | Research Scientist Intern - Recommendation | 2026-08-03 | — | [Apply](https://lifeattiktok.com/search/7662661203281447221) |
 | TikTok | Generative AI Researcher Intern - Intelligent Creation-Vision and Graphics | 2026-08-03 | — | [Apply](https://lifeattiktok.com/search/7668183035989281029) |
 | JP Morgan Chase | Quantitative Research Intern - Markets - Analyst | 2026-08-03 | — | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774038) |
-| JP Morgan Chase | Data Internship - Data & AI Program | 2026-08-03 | — | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210775223) |
 | JP Morgan Chase | Quantitative Research Intern - Risk and Treasury | 2026-08-03 | — | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773978) |
 | JP Morgan Chase | Software Engineer Intern - Software Engineer Program | 2026-08-03 | — | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773759) |
 | JP Morgan Chase | Quantitative Research Summer Analyst Intern - Asset Management | 2026-08-03 | — | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774074) |
@@ -139,6 +139,7 @@ _**Pulled:** 2026-08-05 10:39 UTC  —  706 matching roles found this run._
 | TikTok | Research Engineer Intern - Agentic Systems & AI Infrastructure - Generalized Architecture | 2026-08-03 | — | [Apply](https://lifeattiktok.com/search/7667934792727906565) |
 | McKesson | Associate Business Systems Analyst Intern - Data Hub Canada | 2026-08-03 | — | [Apply](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/CAN-QC-Montreal-Ville-Saint-Laurent/Stagiaire-associ-e---analyste-des-systmes-d-affaires---Automne-2026---Associate-Business-Systems-Analyst-Intern---Fall-2026_JR0150830) |
 | Chicago Trading Company | Software Engineering Internship - Summer 2027 | 2026-08-03 | — | [Apply](https://job-boards.greenhouse.io/chicagotradingcampus/jobs/4716932005) |
+| Samsara | Software Engineering Internship - London | 2026-08-03 | — | [Apply](https://www.samsara.com/company/careers/roles/8082093?gh_jid=8082093) |
 | Two Sigma | Quantitative Researcher Intern | 2026-08-02 | — | [Apply](https://twosigma.avature.net/careers/JobDetail/13945) |
 | Two Sigma | AI Research Scientist Intern - 2027 Summer | 2026-08-02 | — | [Apply](https://twosigma.avature.net/careers/JobDetail/14096) |
 | Yotta Labs | Research Engineer Intern - AI Systems | 2026-08-02 | — | [Apply](https://jobs.ashbyhq.com/yotta/09821a51-fbe6-42a7-a566-0d2b5d40fae3/application?embed=true) |
@@ -538,11 +539,11 @@ _**Pulled:** 2026-08-05 10:39 UTC  —  706 matching roles found this run._
 | Tencent | Data Product Intern | 2026-06-22 | — | [Apply](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/United-Kingdom-London/Data-Product-Intern_R107644-1) |
 | Mindsmith | Software Engineering Intern | 2026-06-24 | ✅ | [Apply](https://app.dover.com/apply/mindsmith/e0ca8149-6811-4de9-ba38-65a0244a2b7e) |
 
-## 🏆 Most Influential Tech Companies — 2027 Internships (258)
+## 🏆 Most Influential Tech Companies — 2027 Internships (260)
 
 _Open roles at companies on our curated **Most Influential Tech Companies** list (TIME100 Most Influential Companies 2025 — tech subset — plus the largest tech companies by market cap; see [`TOP_COMPANIES.md`](TOP_COMPANIES.md)). These roles also appear in the per-source lists below._
 
-_258 role(s) across 44 influential companies._
+_260 role(s) across 45 influential companies._
 
 | Company | Role | Posted | Applied | Link |
 |---|---|---|---|---|
@@ -704,6 +705,7 @@ _258 role(s) across 44 influential companies._
 | Tencent | Research Intern – Video World Models (Research & ML Systems) | 2026-07-15 | — | [Apply](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Research-Intern---Video-World-Models--Research---ML-Systems-_R107752-1) |
 | Jane Street | Data Engineering Intern | 2026-07-14 | — | [Apply](https://job-boards.greenhouse.io/janestreet/jobs/8631973002) |
 | Rivian | Machine Learning Compiler Intern - Machine Learning Compiler | 2026-07-14 | — | [Apply](https://careers.rivian.com/jobs/29851?icims=1) |
+| Cloudflare | Software Engineer Intern (Fall 2026) - Austin, TX | 2026-07-14 | — | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8052785?gh_jid=8052785) |
 | Jump Trading | Campus Quantitative Researcher M1/M2 Intern | 2026-07-13 | — | [Apply](https://boards.greenhouse.io/embed/job_app?token=8059384) |
 | DRW | Quantitative Trading Analyst Intern | 2026-07-13 | — | [Apply](https://job-boards.greenhouse.io/drweng/jobs/7957243) |
 | DRW | Quantitative Research Intern | 2026-07-13 | — | [Apply](https://job-boards.greenhouse.io/drweng/jobs/7957756) |
@@ -721,6 +723,7 @@ _258 role(s) across 44 influential companies._
 | Jump Trading | Campus Systems Engineer Intern | 2026-07-10 | — | [Apply](https://www.jumptrading.com/hr/job?gh_jid=8007788) |
 | Tesla | Software Engineer Intern - Energy Engineering | 2026-07-10 | — | [Apply](https://www.tesla.com/careers/search/job/276333) |
 | Meta | Research Scientist Intern - Monetization Computer Vision | 2026-07-10 | — | [Apply](https://www.metacareers.com/jobs/2281218542616482) |
+| Stripe | Software Engineer, Intern | 2026-07-10 | — | [Apply](https://stripe.com/jobs/search?gh_jid=8031833) |
 | Jump Trading | Software Engineer Intern | 2026-07-09 | — | [Apply](https://www.jumptrading.com/hr/job?gh_jid=8002989) |
 | Jump Trading Group | Campus UI Software Engineer Intern | 2026-07-09 | — | [Apply](https://www.jumptrading.com/hr/job?gh_jid=8003019) |
 | Jump Trading | Campus UI Software Engineer Intern | 2026-07-08 | — | [Apply](https://boards.greenhouse.io/embed/job_app?token=8003019) |
@@ -805,7 +808,7 @@ _258 role(s) across 44 influential companies._
 | Susquehanna | Quantitative Strategy Developer Intern (Summer 2027, June start) | — | — | [Apply](https://careers.sig.com/jobs/10838) |
 | Salesforce | Software Engineer Intern (Futureforce) | — | — | [Apply](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer_JR340771-1) |
 
-## vanshb03 2027 (136)
+## vanshb03 2027 (135)
 
 | Company | Role | Posted | Applied | Link |
 |---|---|---|---|---|
@@ -873,7 +876,6 @@ _258 role(s) across 44 influential companies._
 | SK Hynix Memory Solution | Software Engineer Intern | 2026-07-31 | — | [Apply](https://job-boards.greenhouse.io/skhynixmemorysolutionsamericainc/jobs/4342038009) |
 | General Dynamics Information Technology | Systems Engineer Intern | 2026-07-30 | — | [Apply](https://www.gd.com/careers/systems-engineer-intern-albany-ny-us-rq225289-gdit-opportunity) |
 | Virtu Financial | Frontend & User Experience Intern | 2026-07-30 | — | [Apply](https://job-boards.greenhouse.io/virtu/jobs/8657500002) |
-| RTX | Software Engineer Intern | 2026-07-30 | — | [Apply](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/Software-Engineering-Intern--Summer-2027-_01863072) |
 | Cloudflare | Software Engineer Intern | 2026-07-28 | — | [Apply](https://job-boards.greenhouse.io/cloudflare/jobs/8052785?gh_jid=8052785) |
 | Gemini | Software Engineering Intern | 2026-07-28 | — | [Apply](https://job-boards.greenhouse.io/embed/job_app?for=gemini&token=7875125) |
 | Rendezvous Robotics | Software Engineering Intern | 2026-07-28 | — | [Apply](https://job-boards.greenhouse.io/rendezvousrobotics/jobs/4328555009?gh_src=kpek4mqz9us) |
@@ -996,6 +998,13 @@ _258 role(s) across 44 influential companies._
 | Jump Trading | Campus AI Research Engineer – Research Automation (Intern) | 2026-07-08 | — | [Apply](https://www.jumptrading.com/hr/job?gh_jid=8052351) |
 | Copart | DevOps Engineering Intern | 2026-07-08 | — | [Apply](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/DevOps-Engineering-Intern_JR109490) |
 | Junior | Software Engineering Intern — Fall 2026 | 2026-06-30 | — | [Apply](https://jobs.ashbyhq.com/junior/23ee686b-d305-4ac9-860d-16c99ddb4891) |
+
+## Greenhouse boards (2)
+
+| Company | Role | Posted | Applied | Link |
+|---|---|---|---|---|
+| Cloudflare | Software Engineer Intern (Fall 2026) - Austin, TX | 2026-07-14 | — | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8052785?gh_jid=8052785) |
+| Stripe | Software Engineer, Intern | 2026-07-10 | — | [Apply](https://stripe.com/jobs/search?gh_jid=8031833) |
 
 ---
 _✅ = applied (tracked in `applied.txt`). Postings older than 45 days are auto-hidden as likely-filled. Pulled from multiple community lists and company boards, deduplicated. Add filled roles to `blacklist.txt` to hide them. Generated automatically by GitHub Actions._

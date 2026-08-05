@@ -1,6 +1,6 @@
 # 🔥 Priority — Fresh Summer 2027 Roles
 
-_**Pulled:** 2026-08-05 10:39 UTC  —  184 role(s) explicitly tagged Summer 2027 and posted within the last 14 days._
+_**Pulled:** 2026-08-05 13:52 UTC  —  183 role(s) explicitly tagged Summer 2027 and posted within the last 14 days._
 
 | Company | Role | Posted | Applied | Link |
 |---|---|---|---|---|
@@ -70,6 +70,7 @@ _**Pulled:** 2026-08-05 10:39 UTC  —  184 role(s) explicitly tagged Summer 202
 | TikTok | Data Science Intern - Integrity and Safety | 2026-08-04 | — | [Apply](https://lifeattiktok.com/search/7669682935444900149) |
 | TikTok | Data Science Intern - TikTok Live | 2026-08-04 | — | [Apply](https://lifeattiktok.com/search/7669700822370945333) |
 | American Express | Product Innovation Intern - Credit & Fraud Risk | 2026-08-04 | — | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011994) |
+| RTX | Software Engineer Intern - Summer 2027 | 2026-08-04 | — | [Apply](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Software-Engineering-Intern--Summer-2027-_01863980-1) |
 | General Dynamics Information Technology | Software Developer Intern | 2026-08-04 | — | [Apply](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Annapolis-Junction/Summer-2027-Software-Developer-Internship_RQ225717-1) |
 | GE Vernova | Digital Technology Intern | 2026-08-04 | — | [Apply](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Atlanta/GE-Vernova-Digital-Technology-Internship---Summer-2027_R5049176-3) |
 | DV Trading | Quantitative Risk Intern | 2026-08-04 | — | [Apply](https://job-boards.greenhouse.io/dvtrading/jobs/4719118005) |
@@ -100,7 +101,6 @@ _**Pulled:** 2026-08-05 10:39 UTC  —  184 role(s) explicitly tagged Summer 202
 | TikTok | Research Scientist Intern - Recommendation | 2026-08-03 | — | [Apply](https://lifeattiktok.com/search/7662661203281447221) |
 | TikTok | Generative AI Researcher Intern - Intelligent Creation-Vision and Graphics | 2026-08-03 | — | [Apply](https://lifeattiktok.com/search/7668183035989281029) |
 | JP Morgan Chase | Quantitative Research Intern - Markets - Analyst | 2026-08-03 | — | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774038) |
-| JP Morgan Chase | Data Internship - Data & AI Program | 2026-08-03 | — | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210775223) |
 | JP Morgan Chase | Quantitative Research Intern - Risk and Treasury | 2026-08-03 | — | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773978) |
 | JP Morgan Chase | Software Engineer Intern - Software Engineer Program | 2026-08-03 | — | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773759) |
 | JP Morgan Chase | Quantitative Research Summer Analyst Intern - Asset Management | 2026-08-03 | — | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774074) |
@@ -145,7 +145,6 @@ _**Pulled:** 2026-08-05 10:39 UTC  —  184 role(s) explicitly tagged Summer 202
 | Maven Securities | Quant Trader Intern | 2026-07-31 | — | [Apply](https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/8043552) |
 | General Dynamics Information Technology | Systems Engineer Intern | 2026-07-30 | — | [Apply](https://www.gd.com/careers/systems-engineer-intern-albany-ny-us-rq225289-gdit-opportunity) |
 | Virtu Financial | Frontend & User Experience Intern | 2026-07-30 | — | [Apply](https://job-boards.greenhouse.io/virtu/jobs/8657500002) |
-| RTX | Software Engineer Intern | 2026-07-30 | — | [Apply](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/Software-Engineering-Intern--Summer-2027-_01863072) |
 | University of Virginia Investment Management Company (UVIMCO) | Investment Analyst Intern | 2026-07-29 | — | [Apply](https://job-boards.greenhouse.io/uvimco/jobs/5300713008) |
 | Nightwing | Software / Hardware Engineering Intern | 2026-07-28 | — | [Apply](https://nwis.wd12.myworkdayjobs.com/en-US/NW/job/Annapolis-Junction-MD/Software---Hardware-Engineering---Intern_JR101733) |
 | PDT Partners | Software Engineering Intern | 2026-07-27 | — | [Apply](https://job-boards.greenhouse.io/pdtpartners/jobs/8077685) |
