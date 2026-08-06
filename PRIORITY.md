@@ -1,9 +1,12 @@
 # 🔥 Priority — Fresh Summer 2027 Roles
 
-_**Pulled:** 2026-08-06 12:54 UTC  —  197 role(s) explicitly tagged Summer 2027 and posted within the last 14 days._
+_**Pulled:** 2026-08-06 15:12 UTC  —  200 role(s) explicitly tagged Summer 2027 and posted within the last 14 days._
 
 | Company | Role | Posted | Applied | Link |
 |---|---|---|---|---|
+| ByteDance | AI Network Automation Engineer Intern, Global Physical Network Infra | 2026-08-06 | — | [Apply](https://joinbytedance.com/search/7670690923748870405) |
+| ByteDance | GPU/AI Application System Software Engineer Intern | 2026-08-06 | — | [Apply](https://joinbytedance.com/search/7668464504736876853) |
+| ByteDance | Applied Machine Learning Production Engineer Intern | 2026-08-06 | — | [Apply](https://joinbytedance.com/search/7670009669494704437) |
 | Sargent & Lundy | AI & Automation Intern - Summer 2027 | 2026-08-06 | — | [Apply](https://careers-sargentlundy.icims.com/jobs/25857/job?mobile=true&needsRedirect=false) |
 | TikTok | Software Engineer Intern - Media Engine | 2026-08-06 | — | [Apply](https://lifeattiktok.com/search/7670295535077427509) |
 | TikTok | Product Manager Intern - Product Infrastructure - Account | 2026-08-06 | — | [Apply](https://lifeattiktok.com/search/7670009830602721589) |
@@ -30,7 +33,7 @@ _**Pulled:** 2026-08-06 12:54 UTC  —  197 role(s) explicitly tagged Summer 202
 | Susquehanna International Group (SIG) | Derivatives Sales Trader Intern - Summer 2027 | 2026-08-05 | — | [Apply](https://careers-sig.icims.com/jobs/10626/job?mobile=true&needsRedirect=false) |
 | Winland Foods | Product Development Intern | 2026-08-05 | — | [Apply](https://winlandfoods.wd1.myworkdayjobs.com/external/job/USA-IL-Oak-Brook/Product-Development-Intern_R28807) |
 | American Express | Product Management Intern - Global Merchant & Network Services | 2026-08-05 | — | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012152) |
-| Northrop Grumman | Software Engineer Intern - Aeronautics Systems | 2026-08-05 | — | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10243573) |
+| Northrop Grumman | 2027 Intern Software Engineer | 2026-08-05 | — | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10243573) |
 | Microsoft | Software Engineer Intern, Data Platform/Analytics | 2026-08-04 | — | [Apply](https://apply.careers.microsoft.com/careers?query=intern&start=0&location=untied+states&sort_by=relevance&filter_include_remote=1&filter_include_relocation=0&pid=1970393556922931) |
 | Microsoft | Software Engineer Intern, Security & Identity | 2026-08-04 | — | [Apply](https://apply.careers.microsoft.com/careers?query=intern&start=0&location=untied+states&sort_by=relevance&filter_include_remote=1&filter_include_relocation=0&pid=1970393556922930) |
 | Microsoft | Software Engineer Intern, AI/ML & LLM | 2026-08-04 | — | [Apply](https://apply.careers.microsoft.com/careers?query=intern&start=0&location=untied+states&sort_by=relevance&filter_include_remote=1&filter_include_relocation=0&pid=1970393556922929) |
