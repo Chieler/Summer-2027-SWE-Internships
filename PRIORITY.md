@@ -1,6 +1,6 @@
 # 🔥 Priority — Fresh Summer 2027 Roles
 
-_**Pulled:** 2026-08-08 07:02 UTC  —  192 role(s) explicitly tagged Summer 2027 and posted within the last 14 days._
+_**Pulled:** 2026-08-08 13:44 UTC  —  191 role(s) explicitly tagged Summer 2027 and posted within the last 14 days._
 
 | Company | Role | Posted | Applied | Link |
 |---|---|---|---|---|
@@ -166,7 +166,6 @@ _**Pulled:** 2026-08-08 07:02 UTC  —  192 role(s) explicitly tagged Summer 202
 | Uline | Software Development Intern | 2026-08-03 | — | [Apply](https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Software-Development-Internship---Summer-2027_R265684) |
 | CNO Financial Group  | Artificial Intelligence Information Technology Intern - AI | 2026-08-03 | — | [Apply](https://cnoinc.wd5.myworkdayjobs.com/Careers/job/Carmel-IN/Artificial-Intelligence--AI--IT-Intern-2027---REMOTE_JR170389) |
 | TikTok | Research Engineer Intern - Agentic Systems & AI Infrastructure - Generalized Architecture | 2026-08-03 | — | [Apply](https://lifeattiktok.com/search/7667934792727906565) |
-| Netsmart | Cloud Engineer Future  (Summer 2027 Internship) | 2026-08-03 | — | [Apply](https://ntst.wd1.myworkdayjobs.com/careers/job/Overland-Park-KS/Cloud-Engineer-Future---Summer-2027-Internship-_R015668) |
 | JPMorganChase | 2027 Code for Good Hackathon - Software Engineer Program - Summer Internship – United States | 2026-08-03 | — | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210773759) |
 | JPMorganChase | 2027 Data & AI Program - Summer Internship - Analyst - United States | 2026-08-03 | — | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210773869) |
 | JPMorganChase | 2027 Data for Good Hackathon - Data & AI Program - Summer Internship | 2026-08-03 | — | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210775223) |
