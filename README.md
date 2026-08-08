@@ -1,10 +1,10 @@
 # 2027 SWE / Software-Adjacent Internships
 
-_**Pulled:** 2026-08-08 02:07 UTC  —  780 matching roles found this run._
+_**Pulled:** 2026-08-08 07:02 UTC  —  779 matching roles found this run._
 
 **[Open live LinkedIn search](https://www.linkedin.com/jobs/search/?keywords=software%20engineer%20intern%202027&f_E=1&f_JT=I)** (LinkedIn can't be scraped reliably from CI, so this is a one-tap live link instead.)
 
-## Simplify/pittcsc (588)
+## Simplify/pittcsc (587)
 
 | Company | Role | Posted | Applied | Link |
 |---|---|---|---|---|
@@ -112,7 +112,6 @@ _**Pulled:** 2026-08-08 02:07 UTC  —  780 matching roles found this run._
 | General Dynamics Information Technology | Artificial Intelligence/Machine Learning Intern | 2026-08-05 | — | [Apply](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Falls-Church---3150-Fairview-Park-Dr-VAS095/GDIT-2027-Summer-AI---ML-Internship_RQ225401) |
 | Maven Securities | Trader Intern - Summer | 2026-08-05 | — | [Apply](https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/8051937) |
 | Vertiv | Thermal Application Engineer Intern - Summer 2027 | 2026-08-05 | — | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278512) |
-| Bank of Montreal | Database Operations Co-op Intern | 2026-08-05 | — | [Apply](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Database-Operations-Co-op--Fall-2026--Co-op-Internship----4-months_R260022911) |
 | Deloitte | Consultative Offerings Summer Scholar Intern - Technology Transformation | 2026-08-05 | — | [Apply](https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Summer-Scholar-Technology-Transformation/360655) |
 | NVIDIA | Software Engineer Intern - Dynamo | 2026-08-05 | — | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineering-Intern--Dynamo---Fall-2026_JR2022295) |
 | Point Blue Conservation Science | Data Science Intern - Ecoinformatics | 2026-08-05 | — | [Apply](https://pointblueconservationscience.applytojob.com/apply/mcXovIM1zn/Data-Science-Graduate-Student-Intern) |
