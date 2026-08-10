@@ -1,13 +1,14 @@
 # 2027 SWE / Software-Adjacent Internships
 
-_**Pulled:** 2026-08-09 13:48 UTC  —  769 matching roles found this run._
+_**Pulled:** 2026-08-10 00:00 UTC  —  764 matching roles found this run._
 
 **[Open live LinkedIn search](https://www.linkedin.com/jobs/search/?keywords=software%20engineer%20intern%202027&f_E=1&f_JT=I)** (LinkedIn can't be scraped reliably from CI, so this is a one-tap live link instead.)
 
-## Simplify/pittcsc (578)
+## Simplify/pittcsc (573)
 
 | Company | Role | Posted | Applied | Link |
 |---|---|---|---|---|
+| HNTB | Strategic Technology Intern - SED Division | 2026-08-09 | — | [Apply](https://hntb.wd5.myworkdayjobs.com/hntb_university_careers/job/Tallahassee-FL/Strategic-Technology-Intern---Summer-2027--SED-Division--For-Current-Former-HNTB-Interns-Only-_R-31092) |
 | ProNexus | Software Engineer Intern | 2026-08-08 | — | [Apply](https://apply.workable.com/pronexus-1/j/AF8C34AC6D/apply) |
 | Capula | Trading and Research Intern | 2026-08-08 | — | [Apply](https://apply.workable.com/capula-investment-management-ltd/j/A15A62A8BE/apply) |
 | Flexion Robotics | Research Intern | 2026-08-08 | — | [Apply](https://apply.workable.com/flexion-robotics/j/8FF540773C/apply) |
@@ -579,12 +580,6 @@ _**Pulled:** 2026-08-09 13:48 UTC  —  769 matching roles found this run._
 | Ivy Tech Community College | Federal Work Study Website Development Intern | 2026-06-27 | — | [Apply](https://ivytech.wd1.myworkdayjobs.com/ivy_tech_careers/job/Anderson-IN/Federal-Work-Study---Website-Development-Intern_JR0000105569) |
 | Nexstar | Media Archivist Intern | 2026-06-27 | — | [Apply](https://nexstar.wd5.myworkdayjobs.com/nexstar/job/AL-Mobile/Media-Archivist-Intern--In--Person--Fall-2026_REQ-41978) |
 | University of Nevada, Reno | Web Development Intern - Marketing & Communications | 2026-06-27 | — | [Apply](https://nshe.wd1.myworkdayjobs.com/UNR-external/job/University-of-Nevada-Reno---Main-Campus/Student-Worker---Web-Development-Intern--Marketing---Communications_R0152288) |
-| Virtu Financial | Quantitative Research Intern - Quant Research - Undergrad | 2026-06-26 | — | [Apply](https://job-boards.greenhouse.io/virtu/jobs/8142539002) |
-| Maxima | Software Engineer Intern | 2026-06-26 | — | [Apply](https://jobs.ashbyhq.com/maxima/c0204f04-af26-4a57-9658-64ee6d4beb74/application) |
-| kos.ai | Software Engineer Intern | 2026-06-26 | — | [Apply](https://jobs.ashbyhq.com/kos.ai/efab6ffb-9658-47f7-8b5f-a295c55957d3/application) |
-| Lawrence Livermore National Laboratory (LLNL) | Computing Undergraduate Student Intern | 2026-06-26 | — | [Apply](https://jobs.smartrecruiters.com/LLNL/3743990013801386) |
-| Lawrence Livermore National Laboratory (LLNL) | Computing Graduate Student Intern | 2026-06-26 | — | [Apply](https://jobs.smartrecruiters.com/LLNL/3743990013801396) |
-| Espa AI | Software Engineer Intern | 2026-06-26 | — | [Apply](https://jobs.ashbyhq.com/espa/6fa2d441-971f-44c4-9a4e-3304ea041cc8/application) |
 | Mindsmith | Software Engineering Intern | 2026-06-24 | ✅ | [Apply](https://app.dover.com/apply/mindsmith/e0ca8149-6811-4de9-ba38-65a0244a2b7e) |
 
 ## 🏆 Most Influential Tech Companies — 2027 Internships (290)
