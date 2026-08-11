@@ -1,10 +1,10 @@
 # 2027 SWE / Software-Adjacent Internships
 
-_**Pulled:** 2026-08-11 13:25 UTC  —  804 matching roles found this run._
+_**Pulled:** 2026-08-11 14:19 UTC  —  803 matching roles found this run._
 
 **[Open live LinkedIn search](https://www.linkedin.com/jobs/search/?keywords=software%20engineer%20intern%202027&f_E=1&f_JT=I)** (LinkedIn can't be scraped reliably from CI, so this is a one-tap live link instead.)
 
-## Simplify/pittcsc (609)
+## Simplify/pittcsc (608)
 
 | Company | Role | Posted | Applied | Link |
 |---|---|---|---|---|
@@ -384,7 +384,6 @@ _**Pulled:** 2026-08-11 13:25 UTC  —  804 matching roles found this run._
 | OpusClip | AI Research Intern | 2026-07-22 | — | [Apply](https://jobs.ashbyhq.com/opusclip/1966160d-8b4a-40f8-96c5-39a6d81122c2/application?embed=true) |
 | Adtheorant | Enterprise AI Intern | 2026-07-22 | — | [Apply](https://careers-cadent.icims.com/jobs/1406/job?mobile=true&needsRedirect=false) |
 | Virtu Financial | Quantitative Researcher Internship | 2026-07-22 | — | [Apply](https://job-boards.greenhouse.io/virtu/jobs/8624424002) |
-| Pennsylvania State University | Research Engineering Intern | 2026-07-22 | — | [Apply](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Research-Engineering-Interns_REQ_0000080335-1) |
 | Trend Micro | Malware Research Intern | 2026-07-22 | — | [Apply](https://trendmicro.wd3.myworkdayjobs.com/External/job/Toronto/Malware-Research-Intern_R0009997) |
 | Louisiana Blue | Operational Reporting & Data Analyst Intern - CW | 2026-07-22 | — | [Apply](https://bcbsla.wd1.myworkdayjobs.com/Generation_Blue/job/Corporate---Baton-Rouge-LA/CW-Operational-Reporting---Data-Analyst-Intern_R11907) |
 | Odin Dynamics, Inc | Engineering Intern | 2026-07-21 | — | [Apply](https://jobs.ashbyhq.com/odin-dynamics/db6fe6ed-3517-423d-a757-3b6edea4b51d/application?embed=true) |
