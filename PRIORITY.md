@@ -1,6 +1,6 @@
 # 🔥 Priority — Fresh Summer 2027 Roles
 
-_**Pulled:** 2026-08-11 02:40 UTC  —  215 role(s) explicitly tagged Summer 2027 and posted within the last 14 days._
+_**Pulled:** 2026-08-11 08:56 UTC  —  214 role(s) explicitly tagged Summer 2027 and posted within the last 14 days._
 
 | Company | Role | Posted | Applied | Link |
 |---|---|---|---|---|
@@ -10,7 +10,6 @@ _**Pulled:** 2026-08-11 02:40 UTC  —  215 role(s) explicitly tagged Summer 202
 | TikTok | Data Engineer Intern - Monetization Data | 2026-08-10 | — | [Apply](https://lifeattiktok.com/search/7671232204182276405) |
 | TikTok | Software Engineer Intern - Global E-commerce-Search | 2026-08-10 | — | [Apply](https://lifeattiktok.com/search/7670839727059339525) |
 | Vertiv | Product Management Intern | 2026-08-10 | — | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278933) |
-| Vertiv | Software Engineer Intern | 2026-08-10 | — | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278777) |
 | Vertiv | Thermal Engineer Intern - Summer 2027 | 2026-08-10 | — | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278813) |
 | ING | Technology Intern - Innovation | 2026-08-10 | — | [Apply](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/New-York/Summer-2027-Internship---Tech--Innovation-_REQ-10119619) |
 | ByteDance | Data Lake Infrastructure and Data Analytics Research Engineer Intern - Applied Machine Learning Ark | 2026-08-10 | — | [Apply](https://jobs.bytedance.com/en/position/7671109787509213445/detail) |
@@ -144,6 +143,7 @@ _**Pulled:** 2026-08-11 02:40 UTC  —  215 role(s) explicitly tagged Summer 202
 | TikTok | Data Science Intern - Integrity and Safety | 2026-08-04 | — | [Apply](https://lifeattiktok.com/search/7669682935444900149) |
 | TikTok | Data Science Intern - TikTok Live | 2026-08-04 | — | [Apply](https://lifeattiktok.com/search/7669700822370945333) |
 | American Express | Product Innovation Intern - Credit & Fraud Risk | 2026-08-04 | — | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011994) |
+| RTX | Software Engineer Intern - Summer 2027 | 2026-08-04 | — | [Apply](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Software-Engineering-Intern--Summer-2027-_01863980-1) |
 | GE Vernova | Digital Technology Intern | 2026-08-04 | — | [Apply](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Atlanta/GE-Vernova-Digital-Technology-Internship---Summer-2027_R5049176-3) |
 | DV Trading | Quantitative Risk Intern | 2026-08-04 | — | [Apply](https://job-boards.greenhouse.io/dvtrading/jobs/4719118005) |
 | American Express | Product Development Intern - US Consumer Services | 2026-08-04 | — | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012174) |
@@ -197,7 +197,6 @@ _**Pulled:** 2026-08-11 02:40 UTC  —  215 role(s) explicitly tagged Summer 202
 | Uline | Operations Analyst Intern | 2026-08-03 | — | [Apply](https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Operations-Analyst-Internship---Summer-2027_R265822) |
 | Uline | Product Management Intern | 2026-08-03 | — | [Apply](https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Product-Management-Internship---Summer-2027_R265939) |
 | Uline | Software Development Intern | 2026-08-03 | — | [Apply](https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Software-Development-Internship---Summer-2027_R265684) |
-| RTX | Software Engineer Intern | 2026-08-03 | — | [Apply](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-TX-REMOTE/Software-Engineering--Intern--Summer-2027-_01863749) |
 | TikTok | Research Engineer Intern - Agentic Systems & AI Infrastructure - Generalized Architecture | 2026-08-03 | — | [Apply](https://lifeattiktok.com/search/7667934792727906565) |
 | JPMorganChase | 2027 Code for Good Hackathon - Software Engineer Program - Summer Internship – United States | 2026-08-03 | — | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210773759) |
 | JPMorganChase | 2027 Data & AI Program - Summer Internship - Analyst - United States | 2026-08-03 | — | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210773869) |
