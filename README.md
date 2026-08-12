@@ -1,10 +1,10 @@
 # 2027 SWE / Software-Adjacent Internships
 
-_**Pulled:** 2026-08-12 12:51 UTC  —  826 matching roles found this run._
+_**Pulled:** 2026-08-12 14:19 UTC  —  825 matching roles found this run._
 
 **[Open live LinkedIn search](https://www.linkedin.com/jobs/search/?keywords=software%20engineer%20intern%202027&f_E=1&f_JT=I)** (LinkedIn can't be scraped reliably from CI, so this is a one-tap live link instead.)
 
-## Simplify/pittcsc (628)
+## Simplify/pittcsc (627)
 
 | Company | Role | Posted | Applied | Link |
 |---|---|---|---|---|
@@ -505,7 +505,6 @@ _**Pulled:** 2026-08-12 12:51 UTC  —  826 matching roles found this run._
 | Voloridge | Quantitative Developer Intern | 2026-07-14 | — | [Apply](https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4224862009) |
 | Rivian | Machine Learning Compiler Intern - Machine Learning Compiler | 2026-07-14 | — | [Apply](https://careers.rivian.com/jobs/29851?icims=1) |
 | National Laboratory of the Rockies | Graduate Intern - Transportation Systems Analysis | 2026-07-14 | — | [Apply](https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Graduate--Year-Round--Intern---Transportation-Systems-Analysis_R14153) |
-| McKesson | AI & Strategic Analytics Intern | 2026-07-14 | — | [Apply](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/CAN-ON-Mississauga/AI---Strategic-Analytics-Intern---Fall-2026_JR0150114) |
 | Jump Trading | Campus Quantitative Researcher M1/M2 Intern | 2026-07-13 | — | [Apply](https://boards.greenhouse.io/embed/job_app?token=8059384) |
 | DRW | Quantitative Trading Analyst Intern | 2026-07-13 | — | [Apply](https://job-boards.greenhouse.io/drweng/jobs/7957243) |
 | DRW | Quantitative Research Intern | 2026-07-13 | — | [Apply](https://job-boards.greenhouse.io/drweng/jobs/7957756) |
