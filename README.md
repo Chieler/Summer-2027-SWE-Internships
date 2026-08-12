@@ -1,14 +1,15 @@
 # 2027 SWE / Software-Adjacent Internships
 
-_**Pulled:** 2026-08-12 02:16 UTC  —  832 matching roles found this run._
+_**Pulled:** 2026-08-12 06:24 UTC  —  833 matching roles found this run._
 
 **[Open live LinkedIn search](https://www.linkedin.com/jobs/search/?keywords=software%20engineer%20intern%202027&f_E=1&f_JT=I)** (LinkedIn can't be scraped reliably from CI, so this is a one-tap live link instead.)
 
-## Simplify/pittcsc (635)
+## Simplify/pittcsc (636)
 
 | Company | Role | Posted | Applied | Link |
 |---|---|---|---|---|
 | Léger | Research Intern | 2026-08-12 | — | [Apply](https://jobs.smartrecruiters.com/Leger2/744000141569336) |
+| Tesla | Software Engineer Intern - AI Inference Co Design | 2026-08-12 | — | [Apply](https://www.tesla.com/careers/search/job/279600) |
 | DV Trading | Software Engineer Intern | 2026-08-11 | — | [Apply](https://job-boards.greenhouse.io/dvtrading/jobs/4719119005) |
 | DV Trading | Software Engineer Intern - DV Commodities | 2026-08-11 | — | [Apply](https://job-boards.greenhouse.io/dvtrading/jobs/4719125005) |
 | Caddi Workflow Automation | Software Engineer Intern | 2026-08-11 | — | [Apply](https://apply.workable.com/trycaddi/j/9D1291C697/apply) |
@@ -323,7 +324,6 @@ _**Pulled:** 2026-08-12 02:16 UTC  —  832 matching roles found this run._
 | HPR (Hyannis Port Research) | FPGA Engineer Intern | 2026-08-01 | — | [Apply](https://job-boards.greenhouse.io/hyannisportresearch/jobs/7822801003) |
 | Medtronic | Software Engineer Intern | 2026-08-01 | — | [Apply](https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Fridley-Minnesota-United-States-of-America/Software-Engineering-Intern---Summer-2027_R73630) |
 | ConocoPhillips | Geosciences Intern | 2026-08-01 | — | [Apply](https://conocophillips.wd1.myworkdayjobs.com/External/job/Houston-TX/Intern--Geosciences-2027_REQ-006385) |
-| TMX Group | Analyst Student Intern - Market Insights | 2026-08-01 | — | [Apply](https://tmx.wd3.myworkdayjobs.com/TMX_Careers/job/Toronto---100-Adelaide-St-W/Analyst--Market-Insights--Student-Intern_R-6125) |
 | PPL | Research & Development PhD Engineer Intern | 2026-08-01 | — | [Apply](https://careers.pplweb.com/jobs/14149?icims=1) |
 | Clyde Companies | Business Intelligence Intern | 2026-08-01 | — | [Apply](https://careers.clydeinc.com/jobs/22659?icims=1) |
 | Melius | Software Engineer Intern | 2026-07-31 | — | [Apply](https://jobs.ashbyhq.com/melius/6a944911-dbbf-44c7-ba52-7866f7b433cf/application?embed=true) |
@@ -565,6 +565,7 @@ _**Pulled:** 2026-08-12 02:16 UTC  —  832 matching roles found this run._
 | EquipmentShare | Uptime Management Center Intern | 2026-07-07 | — | [Apply](https://www.equipmentshare.com/careers/openings/?gh_jid=7623013) |
 | Citadel | Trader: Fixed Income & Macro Intern | 2026-07-06 | — | [Apply](https://www.citadel.com/careers/details/trader-fixed-income-macro-intern-us/) |
 | Citadel Securities | Software Engineer Intern | 2026-07-06 | — | [Apply](https://www.citadelsecurities.com/careers/details/software-engineer-intern-us/) |
+| Susquehanna International Group (SIG) | Quantitative Strategy Developer Intern | 2026-07-06 | — | [Apply](https://careers-sig.icims.com/jobs/11170/job?mobile=true&needsRedirect=false) |
 | Citadel Securities | Quantitative Research Analyst Bachelor's or master's degree Intern | 2026-07-06 | — | [Apply](https://www.citadelsecurities.com/careers/details/quantitative-research-analyst-intern-bs-ms-europe/) |
 | Cloudflare | AI Builder Intern - Global Customer Engineering - Service Sales | 2026-07-06 | — | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8044395) |
 | AlixPartners | Data Scientist Intern | 2026-07-06 | — | [Apply](https://www.alixpartners.com/careers/7725335003?gh_jid=7725335003) |
@@ -644,14 +645,15 @@ _**Pulled:** 2026-08-12 02:16 UTC  —  832 matching roles found this run._
 | Hendrick Motorsports | Project and Race Support Engineer Intern | 2026-06-29 | — | [Apply](https://hendrick.wd5.myworkdayjobs.com/HMSCareers/job/Hendrick-Motorsports/Project-and-Race-Support-Engineer-Spring-2027---Internship_R-81647) |
 | Mindsmith | Software Engineering Intern | 2026-06-24 | ✅ | [Apply](https://app.dover.com/apply/mindsmith/e0ca8149-6811-4de9-ba38-65a0244a2b7e) |
 
-## 🏆 Most Influential Tech Companies — 2027 Internships (302)
+## 🏆 Most Influential Tech Companies — 2027 Internships (304)
 
 _Open roles at companies on our curated **Most Influential Tech Companies** list (TIME100 Most Influential Companies 2025 — tech subset — plus the largest tech companies by market cap; see [`TOP_COMPANIES.md`](TOP_COMPANIES.md)). These roles also appear in the per-source lists below._
 
-_302 role(s) across 50 influential companies._
+_304 role(s) across 50 influential companies._
 
 | Company | Role | Posted | Applied | Link |
 |---|---|---|---|---|
+| Tesla | Software Engineer Intern - AI Inference Co Design | 2026-08-12 | — | [Apply](https://www.tesla.com/careers/search/job/279600) |
 | Tesla | Applied AI Engineer Intern - AI Hardware | 2026-08-11 | — | [Apply](https://www.tesla.com/careers/search/job/279603) |
 | TikTok | AI Safety Evaluation & Governance Product Manager Intern - Multiple Teams | 2026-08-11 | — | [Apply](https://lifeattiktok.com/search/7670529537944766773) |
 | ByteDance | Machine Learning Engineer Intern - AML-Engine-Orchestration | 2026-08-11 | — | [Apply](https://jobs.bytedance.com/en/position/7672382828525832501/detail) |
@@ -903,6 +905,7 @@ _302 role(s) across 50 influential companies._
 | Citadel | Quantitative Trader: Equity Quantitative Research Intern | 2026-07-07 | — | [Apply](https://www.citadel.com/careers/details/quantitative-trader-equity-quantitative-research-intern-us/) |
 | Citadel | Trader: Fixed Income & Macro Intern | 2026-07-06 | — | [Apply](https://www.citadel.com/careers/details/trader-fixed-income-macro-intern-us/) |
 | Citadel Securities | Software Engineer Intern | 2026-07-06 | — | [Apply](https://www.citadelsecurities.com/careers/details/software-engineer-intern-us/) |
+| Susquehanna International Group (SIG) | Quantitative Strategy Developer Intern | 2026-07-06 | — | [Apply](https://careers-sig.icims.com/jobs/11170/job?mobile=true&needsRedirect=false) |
 | Citadel Securities | Quantitative Research Analyst Bachelor's or master's degree Intern | 2026-07-06 | — | [Apply](https://www.citadelsecurities.com/careers/details/quantitative-research-analyst-intern-bs-ms-europe/) |
 | Cloudflare | AI Builder Intern - Global Customer Engineering - Service Sales | 2026-07-06 | — | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8044395) |
 | Jane Street | Quantitative Researcher Intern | 2026-07-06 | — | [Apply](https://job-boards.greenhouse.io/janestreet/jobs/8498547002) |
