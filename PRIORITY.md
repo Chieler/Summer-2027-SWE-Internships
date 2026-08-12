@@ -1,6 +1,6 @@
 # 🔥 Priority — Fresh Summer 2027 Roles
 
-_**Pulled:** 2026-08-12 06:24 UTC  —  229 role(s) explicitly tagged Summer 2027 and posted within the last 14 days._
+_**Pulled:** 2026-08-12 12:51 UTC  —  227 role(s) explicitly tagged Summer 2027 and posted within the last 14 days._
 
 | Company | Role | Posted | Applied | Link |
 |---|---|---|---|---|
@@ -13,7 +13,6 @@ _**Pulled:** 2026-08-12 06:24 UTC  —  229 role(s) explicitly tagged Summer 202
 | Quantbot Technologies | Machine Learning Research Engineer Intern | 2026-08-11 | — | [Apply](https://www.quantbot.com/careers/4340833009?gh_jid=4340833009) |
 | Quantbot Technologies | Quantitative Researcher Intern | 2026-08-11 | — | [Apply](https://www.quantbot.com/careers/4299496009?gh_jid=4299496009) |
 | Quantbot Technologies | Data Trading Analyst Intern | 2026-08-11 | — | [Apply](https://www.quantbot.com/careers/4299767009?gh_jid=4299767009) |
-| RTX | Enterprise Extended Reality Intern | 2026-08-11 | — | [Apply](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-NY-REMOTE/Enterprise-Extended-Reality--XR--Intern--Summer-2027---Remote-_01865894) |
 | RTX | Software Development Intern - Summer 2027 | 2026-08-11 | — | [Apply](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Software-Development-Intern--Summer-2027-_01865635) |
 | RTX | Software Engineering Intern | 2026-08-11 | — | [Apply](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CA-EL-SEGUNDO-R01--2000-E-Imperial-Hwy--BLDG-R01/Software-Engineering-Intern--Summer-2027-_01865025) |
 | ByteDance | Machine Learning Engineer Intern - AML-Engine-Orchestration | 2026-08-11 | — | [Apply](https://jobs.bytedance.com/en/position/7672382828525832501/detail) |
@@ -39,7 +38,6 @@ _**Pulled:** 2026-08-12 06:24 UTC  —  229 role(s) explicitly tagged Summer 202
 | Montenson | System Administrator Intern | 2026-08-10 | — | [Apply](https://fa-esgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/23368) |
 | Montenson | Data Analytics Intern - Insights | 2026-08-10 | — | [Apply](https://fa-esgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/23342) |
 | Montenson | Artificial Intelligence Intern | 2026-08-10 | — | [Apply](https://fa-esgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/23339) |
-| Sargent & Lundy | AI & Automation Intern - Enterprise Data & Analytics | 2026-08-10 | — | [Apply](https://careers-sargentlundy.icims.com/jobs/25986/job?mobile=true&needsRedirect=false) |
 | PEAK6 | Trading Bootcamp Micro-Internship - Summer 2027 | 2026-08-10 | — | [Apply](https://peak6group.wd1.myworkdayjobs.com/CapMan/job/Chicago-IL/Trading-Bootcamp-Micro-Internship---Summer-2027_JR105057) |
 | McKesson | Technology Intern | 2026-08-10 | — | [Apply](https://mckesson.wd3.myworkdayjobs.com/sourcer_on_req/job/USA-OH-Columbus/CMM-Technology-Intern---Summer-2027_JR0151979) |
 | Chamberlain Group | Community Product Management Intern - Summer 2027 | 2026-08-10 | — | [Apply](https://chamberlain.wd1.myworkdayjobs.com/Chamberlain_Group/job/Oak-Brook-IL/Intern--Community-Product-Management--Summer-2026-_JR31309) |
@@ -159,6 +157,7 @@ _**Pulled:** 2026-08-12 06:24 UTC  —  229 role(s) explicitly tagged Summer 202
 | TikTok | Data Science Intern - Integrity and Safety | 2026-08-04 | — | [Apply](https://lifeattiktok.com/search/7669682935444900149) |
 | TikTok | Data Science Intern - TikTok Live | 2026-08-04 | — | [Apply](https://lifeattiktok.com/search/7669700822370945333) |
 | American Express | Product Innovation Intern - Credit & Fraud Risk | 2026-08-04 | — | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011994) |
+| RTX | Software Engineer Intern - Summer 2027 | 2026-08-04 | — | [Apply](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Software-Engineering-Intern--Summer-2027-_01863980-1) |
 | GE Vernova | Digital Technology Intern | 2026-08-04 | — | [Apply](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Atlanta/GE-Vernova-Digital-Technology-Internship---Summer-2027_R5049176-3) |
 | DV Trading | Quantitative Risk Intern | 2026-08-04 | — | [Apply](https://job-boards.greenhouse.io/dvtrading/jobs/4719118005) |
 | American Express | Product Development Intern - US Consumer Services | 2026-08-04 | — | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012174) |
@@ -171,6 +170,7 @@ _**Pulled:** 2026-08-12 06:24 UTC  —  229 role(s) explicitly tagged Summer 202
 | American Express | Product Management Intern - Product Innovation - Credit & Fraud Risk | 2026-08-03 | — | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011992) |
 | American Express | Digital Product Analyst Intern | 2026-08-03 | — | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011918) |
 | American Express | Undergraduate Intern - Strategy & Analytics | 2026-08-03 | — | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011990) |
+| TikTok | Research Scientist Intern - Trust and Safety | 2026-08-03 | — | [Apply](https://lifeattiktok.com/search/7662672903447988485) |
 | TikTok | Research Scientist Intern - Foundations & Intelligence Service | 2026-08-03 | — | [Apply](https://lifeattiktok.com/search/7662677746436524293) |
 | TikTok | Machine Learning Engineer Intern - Basic Ranking | 2026-08-03 | — | [Apply](https://lifeattiktok.com/search/7667339583362025781) |
 | TikTok | Machine Learning Engineer Intern - Recommendation | 2026-08-03 | — | [Apply](https://lifeattiktok.com/search/7662653087863081221) |
@@ -187,7 +187,6 @@ _**Pulled:** 2026-08-12 06:24 UTC  —  229 role(s) explicitly tagged Summer 202
 | TikTok | Research Scientist Intern - Recommendation | 2026-08-03 | — | [Apply](https://lifeattiktok.com/search/7662661203281447221) |
 | TikTok | Generative AI Researcher Intern - Intelligent Creation-Vision and Graphics | 2026-08-03 | — | [Apply](https://lifeattiktok.com/search/7668183035989281029) |
 | JP Morgan Chase | Quantitative Research Intern - Markets - Analyst | 2026-08-03 | — | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774038) |
-| JP Morgan Chase | Data & AI Intern - Analyst | 2026-08-03 | — | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773869) |
 | JP Morgan Chase | Data Internship - Data & AI Program | 2026-08-03 | — | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210775223) |
 | JP Morgan Chase | Quantitative Research Intern - Risk and Treasury | 2026-08-03 | — | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773978) |
 | JP Morgan Chase | Software Engineer Intern - Software Engineer Program | 2026-08-03 | — | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773759) |
@@ -212,7 +211,6 @@ _**Pulled:** 2026-08-12 06:24 UTC  —  229 role(s) explicitly tagged Summer 202
 | Uline | Operations Analyst Intern | 2026-08-03 | — | [Apply](https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Operations-Analyst-Internship---Summer-2027_R265822) |
 | Uline | Product Management Intern | 2026-08-03 | — | [Apply](https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Product-Management-Internship---Summer-2027_R265939) |
 | Uline | Software Development Intern | 2026-08-03 | — | [Apply](https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Software-Development-Internship---Summer-2027_R265684) |
-| RTX | Software Engineer Intern | 2026-08-03 | — | [Apply](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-TX-REMOTE/Software-Engineering--Intern--Summer-2027-_01863749) |
 | TikTok | Research Engineer Intern - Agentic Systems & AI Infrastructure - Generalized Architecture | 2026-08-03 | — | [Apply](https://lifeattiktok.com/search/7667934792727906565) |
 | JPMorganChase | 2027 Code for Good Hackathon - Software Engineer Program - Summer Internship – United States | 2026-08-03 | — | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210773759) |
 | JPMorganChase | 2027 Data & AI Program - Summer Internship - Analyst - United States | 2026-08-03 | — | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210773869) |
