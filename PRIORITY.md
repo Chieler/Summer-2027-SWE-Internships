@@ -1,11 +1,16 @@
 # 🔥 Priority — Fresh Summer 2027 Roles
 
-_**Pulled:** 2026-08-13 02:03 UTC  —  241 role(s) explicitly tagged Summer 2027 and posted within the last 14 days._
+_**Pulled:** 2026-08-13 10:17 UTC  —  246 role(s) explicitly tagged Summer 2027 and posted within the last 14 days._
 
 | Company | Role | Posted | Applied | Link |
 |---|---|---|---|---|
 | ByteDance | Self-Built Engineer Intern - CDN Platform | 2026-08-13 | — | [Apply](https://jobs.bytedance.com/en/position/7670364362450733317/detail) |
 | TikTok | Product Operations Intern - TikTok Shop Apps and API | 2026-08-13 | — | [Apply](https://lifeattiktok.com/search/7669705525866383621) |
+| RRS Group | Investment Analyst Intern | 2026-08-13 | — | [Apply](https://jobs.smartrecruiters.com/RRSGroup/744000133857769) |
+| RRS Group | Software Engineer Intern - Placement Year | 2026-08-13 | — | [Apply](https://jobs.smartrecruiters.com/RRSGroup/744000142513209) |
+| Wells Fargo | Quantitative Analytics Intern - Multiple Teams | 2026-08-13 | — | [Apply](https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/XMLNAME-2027-Quantitative-Analytics-Summer-Internship-Capital-Markets--PhD----Early-Careers_R-568279) |
+| Wells Fargo | Quantitative Analytics Intern - Capital Markets - Masters | 2026-08-13 | — | [Apply](https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/XMLNAME-2027-Quantitative-Analytics-Summer-Internship-Capital-Markets--Masters----Early-Careers_R-568270) |
+| TikTok | Data Science Intern - Advertisement Team | 2026-08-13 | — | [Apply](https://lifeattiktok.com/search/7673226686054107445) |
 | TikTok | Product Manager Intern - Signal and Identity Product | 2026-08-12 | — | [Apply](https://lifeattiktok.com/search/7672554809555192117) |
 | TikTok | Product Manager Intern - Ads Interface and Platform | 2026-08-12 | — | [Apply](https://lifeattiktok.com/search/7672562486917286149) |
 | TikTok | Machine Learning Engineer Intern - E-Commerce Recommendation Foundation | 2026-08-12 | — | [Apply](https://lifeattiktok.com/search/7672883129493948677) |
