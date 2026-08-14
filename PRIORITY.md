@@ -1,6 +1,6 @@
 # 🔥 Priority — Fresh Summer 2027 Roles
 
-_**Pulled:** 2026-08-13 23:05 UTC  —  251 role(s) explicitly tagged Summer 2027 and posted within the last 14 days._
+_**Pulled:** 2026-08-14 02:21 UTC  —  240 role(s) explicitly tagged Summer 2027 and posted within the last 14 days._
 
 | Company | Role | Posted | Applied | Link |
 |---|---|---|---|---|
@@ -30,9 +30,9 @@ _**Pulled:** 2026-08-13 23:05 UTC  —  251 role(s) explicitly tagged Summer 202
 | TMEIC Corporation Americas | Applications Intern - AI and Machine Learning | 2026-08-12 | — | [Apply](https://apply.workable.com/tmeic-corporation-americas/j/6FDBF2FD32/apply) |
 | RTX | Software Engineering Intern - Summer 2027 | 2026-08-12 | — | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Software-Engineering-Intern--Summer-2027-_01865875) |
 | GE Vernova | Engineering Intern | 2026-08-12 | — | [Apply](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Niskayuna/Engineering-Intern---Power-Conversion---Storage-AI-Tool-Developer--2027_R5049957-2) |
-| RTX | Modeling, Simulation & Analysis Intern | 2026-08-12 | — | [Apply](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-AZ-TUCSON-9020--9020-S-Rita-Rd--BLDG-9020/Modeling--Simulation---Analysis-Intern_01866254) |
 | Western Digital | Summer 2027 Intern - Software Engineering | 2026-08-12 | — | [Apply](https://jobs.smartrecruiters.com/WesternDigital/744000143171017) |
 | Northrop Grumman | 2027 Intern Software Engineer | 2026-08-12 | — | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10245255) |
+| General Dynamics Information Technology | Summer 2027 Software Developer Internship | 2026-08-12 | — | [Apply](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Annapolis-Junction/Summer-2027-Software-Developer-Internship_RQ225717-1) |
 | DV Trading | Software Engineer Intern | 2026-08-11 | — | [Apply](https://job-boards.greenhouse.io/dvtrading/jobs/4719119005) |
 | DV Trading | Software Engineer Intern - DV Commodities | 2026-08-11 | — | [Apply](https://job-boards.greenhouse.io/dvtrading/jobs/4719125005) |
 | TikTok | AI Safety Evaluation & Governance Product Manager Intern - Multiple Teams | 2026-08-11 | — | [Apply](https://lifeattiktok.com/search/7670529537944766773) |
@@ -183,7 +183,6 @@ _**Pulled:** 2026-08-13 23:05 UTC  —  251 role(s) explicitly tagged Summer 202
 | TikTok | Data Science Intern - TikTok Live | 2026-08-04 | — | [Apply](https://lifeattiktok.com/search/7669700822370945333) |
 | American Express | Product Innovation Intern - Credit & Fraud Risk | 2026-08-04 | — | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011994) |
 | RTX | Software Engineer Intern - Summer 2027 | 2026-08-04 | — | [Apply](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Software-Engineering-Intern--Summer-2027-_01863980-1) |
-| General Dynamics Information Technology | Software Developer Intern | 2026-08-04 | — | [Apply](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Annapolis-Junction/Summer-2027-Software-Developer-Internship_RQ225717-1) |
 | GE Vernova | Digital Technology Intern | 2026-08-04 | — | [Apply](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Atlanta/GE-Vernova-Digital-Technology-Internship---Summer-2027_R5049176-3) |
 | DV Trading | Quantitative Risk Intern | 2026-08-04 | — | [Apply](https://job-boards.greenhouse.io/dvtrading/jobs/4719118005) |
 | American Express | Product Development Intern - US Consumer Services | 2026-08-04 | — | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012174) |
@@ -245,16 +244,6 @@ _**Pulled:** 2026-08-13 23:05 UTC  —  251 role(s) explicitly tagged Summer 202
 | Two Sigma | AI Research Scientist Intern - 2027 Summer | 2026-08-02 | — | [Apply](https://twosigma.avature.net/careers/JobDetail/14096) |
 | HPR (Hyannis Port Research) | FPGA Engineer Intern | 2026-08-01 | — | [Apply](https://job-boards.greenhouse.io/hyannisportresearch/jobs/7822801003) |
 | Medtronic | Software Engineer Intern | 2026-08-01 | — | [Apply](https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Fridley-Minnesota-United-States-of-America/Software-Engineering-Intern---Summer-2027_R73630) |
-| Castleton Commodities International | Full-Stack Software Engineer Intern | 2026-07-31 | — | [Apply](https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/Stamford-CT/Full-Stack-Software-Engineer-Internship--Summer-2027-_R1350) |
-| DRW | AI/ML Research Intern | 2026-07-31 | — | [Apply](https://www.drw.com/work-at-drw/listings/aiml-research-intern-3466679) |
-| DRW | Platform Engineer Intern | 2026-07-31 | — | [Apply](https://www.drw.com/work-at-drw/listings/platform-engineer-intern-3468737) |
-| DRW | Software Developer Intern | 2026-07-31 | — | [Apply](https://www.drw.com/work-at-drw/listings/software-developer-intern-3466687) |
-| Castleton Commodities International | Data Science Machine Learning Intern | 2026-07-31 | — | [Apply](https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/Stamford-CT/Data-Science-Machine-Learning-Internship--Summer-2027-_R1344) |
-| Castleton Commodities International | Data Engineering Intern | 2026-07-31 | — | [Apply](https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/Stamford-CT/Data-Engineering-Internship--Summer-2027-_R1346) |
-| Genworth Financial | IT Development Program Intern - IT Development Program | 2026-07-31 | — | [Apply](https://gnw.wd1.myworkdayjobs.com/GNW/job/Richmond-Virginia/Genworth-IT-Development-Program-Intern---Summer-2027_REQ-260269-1) |
-| Western Digital | Hardware Engineering Intern | 2026-07-31 | — | [Apply](https://jobs.smartrecruiters.com/WesternDigital/744000140949875) |
-| Virtu Financial | Hardware Engineer Intern - FPGA | 2026-07-31 | — | [Apply](https://job-boards.greenhouse.io/virtu/jobs/8657286002) |
-| Maven Securities | Quant Trader Intern | 2026-07-31 | — | [Apply](https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/8043552) |
 
 ---
 _Auto-generated. Window: 14 days (edit `PRIORITY_DAYS` in `search.py`). See `README.md` for everything._
