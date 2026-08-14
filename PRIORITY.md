@@ -1,6 +1,6 @@
 # 🔥 Priority — Fresh Summer 2027 Roles
 
-_**Pulled:** 2026-08-14 06:43 UTC  —  247 role(s) explicitly tagged Summer 2027 and posted within the last 14 days._
+_**Pulled:** 2026-08-14 14:14 UTC  —  250 role(s) explicitly tagged Summer 2027 and posted within the last 14 days._
 
 | Company | Role | Posted | Applied | Link |
 |---|---|---|---|---|
@@ -9,6 +9,10 @@ _**Pulled:** 2026-08-14 06:43 UTC  —  247 role(s) explicitly tagged Summer 202
 | KPMG | Technical Consultant Intern Co-op - Global Compliance and Transformation | 2026-08-14 | — | [Apply](https://careers.kpmg.ca/jobs/33307?icims=1) |
 | Analysis Group | Research Professional Intern - Generalist | 2026-08-14 | — | [Apply](https://analystcareers-analysisgroup.icims.com/jobs/3007/job?mobile=true&needsRedirect=false) |
 | KeyBank | Analytics and Quantitative Modeling Intern - Analytics & Quantitative Modeling | 2026-08-14 | — | [Apply](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Cleveland-OH/XMLNAME-2027-Summer-Analytics-and-Quantitative-Modeling-Internship--Cleveland_R-41380) |
+| TikTok | Product Manager Intern - Content and Services | 2026-08-14 | — | [Apply](https://lifeattiktok.com/search/7673337777708550405) |
+| TikTok | Product Manager Intern - Scaled Growth | 2026-08-14 | — | [Apply](https://lifeattiktok.com/search/7673559305519794437) |
+| TikTok | Mobile Software Engineer Intern - Global E-Commerce | 2026-08-14 | — | [Apply](https://lifeattiktok.com/search/7673663349758675205) |
+| TikTok | Product Solutions and Operations Intern - Commerce Ads | 2026-08-14 | — | [Apply](https://lifeattiktok.com/search/7673340525029673221) |
 | ByteDance | Self-Built Engineer Intern - CDN Platform | 2026-08-13 | — | [Apply](https://jobs.bytedance.com/en/position/7670364362450733317/detail) |
 | TikTok | Product Operations Intern - TikTok Shop Apps and API | 2026-08-13 | — | [Apply](https://lifeattiktok.com/search/7669705525866383621) |
 | RRS Group | Investment Analyst Intern | 2026-08-13 | — | [Apply](https://jobs.smartrecruiters.com/RRSGroup/744000133857769) |
@@ -35,9 +39,9 @@ _**Pulled:** 2026-08-14 06:43 UTC  —  247 role(s) explicitly tagged Summer 202
 | Northwestern Mutual | Quantitative Analyst Intern - Public Investments | 2026-08-12 | — | [Apply](https://northwesternmutual.wd5.myworkdayjobs.com/corporate-careers/job/Milwaukee-WI-Corporate/Public-Investments-Quantitative-Analyst-Intern--Summer-2027_JR-45807) |
 | TMEIC Corporation Americas | Engineer Intern - Spring 2027 | 2026-08-12 | — | [Apply](https://apply.workable.com/tmeic-corporation-americas/j/68E556E5CA/apply) |
 | TMEIC Corporation Americas | Applications Intern - AI and Machine Learning | 2026-08-12 | — | [Apply](https://apply.workable.com/tmeic-corporation-americas/j/6FDBF2FD32/apply) |
-| RTX | Software Engineering Intern - Summer 2027 | 2026-08-12 | — | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Software-Engineering-Intern--Summer-2027-_01865875) |
 | GE Vernova | Engineering Intern | 2026-08-12 | — | [Apply](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Niskayuna/Engineering-Intern---Power-Conversion---Storage-AI-Tool-Developer--2027_R5049957-2) |
 | Western Digital | Summer 2027 Intern - Software Engineering | 2026-08-12 | — | [Apply](https://jobs.smartrecruiters.com/WesternDigital/744000143171017) |
+| RTX | Software Engineering Intern (Summer 2027) | 2026-08-12 | — | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Software-Engineering-Intern--Summer-2027-_01865875) |
 | Northrop Grumman | 2027 Intern Software Engineer | 2026-08-12 | — | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10245255) |
 | General Dynamics Information Technology | Summer 2027 Software Developer Internship | 2026-08-12 | — | [Apply](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Annapolis-Junction/Summer-2027-Software-Developer-Internship_RQ225717-1) |
 | DV Trading | Software Engineer Intern | 2026-08-11 | — | [Apply](https://job-boards.greenhouse.io/dvtrading/jobs/4719119005) |
@@ -74,7 +78,6 @@ _**Pulled:** 2026-08-14 06:43 UTC  —  247 role(s) explicitly tagged Summer 202
 | McKesson | Technology Intern | 2026-08-10 | — | [Apply](https://mckesson.wd3.myworkdayjobs.com/sourcer_on_req/job/USA-OH-Columbus/CMM-Technology-Intern---Summer-2027_JR0151979) |
 | Chamberlain Group | Community Product Management Intern - Summer 2027 | 2026-08-10 | — | [Apply](https://chamberlain.wd1.myworkdayjobs.com/Chamberlain_Group/job/Oak-Brook-IL/Intern--Community-Product-Management--Summer-2026-_JR31309) |
 | Atoms | Machine Learning PhD Software Engineer Intern | 2026-08-10 | — | [Apply](https://job-boards.greenhouse.io/cssmerge/jobs/8693034002) |
-| Gulfstream | Computer Science Intern - Advanced Structures and Materials | 2026-08-10 | — | [Apply](https://careers.gulfstream.com/job/Savannah-Summer-2027-IEF-Advanced-Structures-and-Materials-(ASMI)-College-Associate-Intern-GA-31401/1417869000/?ats=successfactors) |
 | TikTok | Issue Discovery Operations Intern - Content Ecosystem | 2026-08-10 | — | [Apply](https://lifeattiktok.com/search/7667582040108222773) |
 | ByteDance | Software Engineer Intern - AML-Engine-Orchestration | 2026-08-10 | — | [Apply](https://jobs.bytedance.com/en/position/7671162985123907845/detail) |
 | Citadel | Sector Data Scientist Intern | 2026-08-10 | — | [Apply](https://www.citadel.com/careers/details/sector-data-scientist-2027-intern-us/) |
