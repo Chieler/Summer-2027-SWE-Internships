@@ -1,6 +1,6 @@
 # 🔥 Priority — Fresh Summer 2027 Roles
 
-_**Pulled:** 2026-08-16 00:28 UTC  —  262 role(s) explicitly tagged Summer 2027 and posted within the last 14 days._
+_**Pulled:** 2026-08-16 13:29 UTC  —  268 role(s) explicitly tagged Summer 2027 and posted within the last 14 days._
 
 | Company | Role | Posted | Applied | Link |
 |---|---|---|---|---|
@@ -8,6 +8,12 @@ _**Pulled:** 2026-08-16 00:28 UTC  —  262 role(s) explicitly tagged Summer 202
 | ByteDance | Software Engineer Intern - Global Traffic Architecture | 2026-08-15 | — | [Apply](https://jobs.bytedance.com/en/position/7672557061679483189/detail) |
 | ByteDance | Software Engineer Intern - Traffic Infrastructure | 2026-08-15 | — | [Apply](https://jobs.bytedance.com/en/position/7672626707586746629/detail) |
 | Freeform | Software Engineer Intern - Summer 2027 | 2026-08-15 | — | [Apply](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7872198003) |
+| Goldman Sachs | Quantitative Strategist Intern - Multiple Teams | 2026-08-15 | — | [Apply](https://higher.gs.com/roles/175424?type=students) |
+| Goldman Sachs | Summer Associate Intern - Multiple Teams | 2026-08-15 | — | [Apply](https://higher.gs.com/roles/171566?type=students) |
+| Goldman Sachs | Summer Analyst Intern - Wealth Management - Product Management and Design | 2026-08-15 | — | [Apply](https://higher.gs.com/roles/170935?type=students) |
+| Goldman Sachs | Quantitative Strategist Associate Intern - The Core Quantitative Strats | 2026-08-15 | — | [Apply](https://higher.gs.com/roles/171535?type=students) |
+| Goldman Sachs | Summer Analyst Intern - FICC & Equities - Sales & Trading | 2026-08-15 | — | [Apply](https://higher.gs.com/roles/170675?type=students) |
+| Goldman Sachs | Summer Analyst Intern - FICC and Equities - Sales and Trading | 2026-08-15 | — | [Apply](https://higher.gs.com/roles/181628?type=students) |
 | Replit | Software Engineer Intern - Summer 2027 | 2026-08-15 | — | [Apply](https://jobs.ashbyhq.com/replit/7e0dafe8-3eec-442e-aa76-a4d84d779fb1/application?embed=true) |
 | Replit | Software Engineering Intern (Summer 2027) | 2026-08-15 | — | [Apply](https://jobs.ashbyhq.com/replit/7e0dafe8-3eec-442e-aa76-a4d84d779fb1) |
 | KPMG | Software Developer Intern Co-op - Asset Management Digital Solutions - Software Developer | 2026-08-14 | — | [Apply](https://careers.kpmg.ca/jobs/33306?icims=1) |
