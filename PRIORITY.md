@@ -1,6 +1,6 @@
 # 🔥 Priority — Fresh Summer 2027 Roles
 
-_**Pulled:** 2026-08-17 07:51 UTC  —  216 role(s) explicitly tagged Summer 2027 and posted within the last 14 days._
+_**Pulled:** 2026-08-17 12:32 UTC  —  215 role(s) explicitly tagged Summer 2027 and posted within the last 14 days._
 
 | Company | Role | Posted | Applied | Link |
 |---|---|---|---|---|
@@ -101,7 +101,6 @@ _**Pulled:** 2026-08-17 07:51 UTC  —  216 role(s) explicitly tagged Summer 202
 | Montenson | System Administrator Intern | 2026-08-10 | — | [Apply](https://fa-esgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/23368) |
 | Montenson | Data Analytics Intern - Insights | 2026-08-10 | — | [Apply](https://fa-esgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/23342) |
 | Montenson | Artificial Intelligence Intern | 2026-08-10 | — | [Apply](https://fa-esgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/23339) |
-| McKesson | Technology Intern | 2026-08-10 | — | [Apply](https://mckesson.wd3.myworkdayjobs.com/sourcer_on_req/job/USA-OH-Columbus/CMM-Technology-Intern---Summer-2027_JR0151979) |
 | Chamberlain Group | Community Product Management Intern - Summer 2027 | 2026-08-10 | — | [Apply](https://chamberlain.wd1.myworkdayjobs.com/Chamberlain_Group/job/Oak-Brook-IL/Intern--Community-Product-Management--Summer-2026-_JR31309) |
 | Atoms | Machine Learning PhD Software Engineer Intern | 2026-08-10 | — | [Apply](https://job-boards.greenhouse.io/cssmerge/jobs/8693034002) |
 | TikTok | Issue Discovery Operations Intern - Content Ecosystem | 2026-08-10 | — | [Apply](https://lifeattiktok.com/search/7667582040108222773) |

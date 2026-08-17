@@ -1,14 +1,13 @@
 # 2027 SWE / Software-Adjacent Internships
 
-_**Pulled:** 2026-08-17 07:51 UTC  —  893 matching roles found this run._
+_**Pulled:** 2026-08-17 12:32 UTC  —  890 matching roles found this run._
 
 **[Open live LinkedIn search](https://www.linkedin.com/jobs/search/?keywords=software%20engineer%20intern%202027&f_E=1&f_JT=I)** (LinkedIn can't be scraped reliably from CI, so this is a one-tap live link instead.)
 
-## Simplify/pittcsc (691)
+## Simplify/pittcsc (687)
 
 | Company | Role | Posted | Applied | Link |
 |---|---|---|---|---|
-| Photon | Software Engineering Intern - AI | 2026-08-16 | — | [Apply](https://fa-ertb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/26738) |
 | Boom Supersonic | Engineering and Tech Intern | 2026-08-16 | — | [Apply](https://ats.rippling.com/boom-supersonic/jobs/4053f749-3d30-4d71-a64c-5fa79e162bbf) |
 | Unify | GTM Engineering Intern | 2026-08-15 | — | [Apply](https://jobs.ashbyhq.com/unify/6a5b351f-8893-435f-951f-2458b24b6d3c/application?embed=true) |
 | Vendelux | Data Intern | 2026-08-15 | — | [Apply](https://jobs.ashbyhq.com/vendelux/ec44a794-9622-444e-a789-491fa12726dd/application?embed=true) |
@@ -86,7 +85,6 @@ _**Pulled:** 2026-08-17 07:51 UTC  —  893 matching roles found this run._
 | Crowe | ServiceNow Implementation Intern - ServiceNow Cloud Solutions | 2026-08-14 | — | [Apply](https://crowe.wd12.myworkdayjobs.com/en-US/external_careers/job/Chicago-IL-USA/ServiceNow-Implementation-Intern_R-71036) |
 | Crowe | Data Analytics Developer Intern - Consulting Practice | 2026-08-14 | — | [Apply](https://crowe.wd12.myworkdayjobs.com/en-US/external_careers/job/Chicago-IL-USA/Data-Analytics-Developer-Intern_R-71041) |
 | Crowe | NetSuite Implementation Intern - Consulting Practice | 2026-08-14 | — | [Apply](https://crowe.wd12.myworkdayjobs.com/en-US/external_careers/job/Chicago-IL-USA/NetSuite-Implementation-Intern_R-71040) |
-| Dallas College | SAS Intern | 2026-08-14 | — | [Apply](https://dallascollege.wd1.myworkdayjobs.com/Dallas_College_Careers/job/El-Centro-Campus-R-Building/SAS-Intern_R13709) |
 | ByteDance | Self-Built Engineer Intern - CDN Platform | 2026-08-13 | — | [Apply](https://jobs.bytedance.com/en/position/7670364362450733317/detail) |
 | TikTok | Product Operations Intern - TikTok Shop Apps and API | 2026-08-13 | — | [Apply](https://lifeattiktok.com/search/7669705525866383621) |
 | Epic Games | Gameplay Programmer Intern | 2026-08-13 | — | [Apply](https://epicgames.com/careers/jobs/6141180004?gh_jid=6141180004) |
@@ -218,7 +216,6 @@ _**Pulled:** 2026-08-17 07:51 UTC  —  893 matching roles found this run._
 | Montenson | Data Analytics Intern - Insights | 2026-08-10 | — | [Apply](https://fa-esgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/23342) |
 | Montenson | Artificial Intelligence Intern | 2026-08-10 | — | [Apply](https://fa-esgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/23339) |
 | ExxonMobil | Trading Intern/Co-op | 2026-08-10 | — | [Apply](https://jobs.exxonmobil.com/job/Spring-Students-Seeking-InternshipCo-op-Opportunities-in-Trading-TX-77389/1417886900/?ats=successfactors) |
-| McKesson | Technology Intern | 2026-08-10 | — | [Apply](https://mckesson.wd3.myworkdayjobs.com/sourcer_on_req/job/USA-OH-Columbus/CMM-Technology-Intern---Summer-2027_JR0151979) |
 | Chamberlain Group | Community Product Management Intern - Summer 2027 | 2026-08-10 | — | [Apply](https://chamberlain.wd1.myworkdayjobs.com/Chamberlain_Group/job/Oak-Brook-IL/Intern--Community-Product-Management--Summer-2026-_JR31309) |
 | Tesla | Electronic Design Engineer Intern - Electronic Systems | 2026-08-10 | — | [Apply](https://www.tesla.com/careers/search/job/279760) |
 | Atoms | Machine Learning PhD Software Engineer Intern | 2026-08-10 | — | [Apply](https://job-boards.greenhouse.io/cssmerge/jobs/8693034002) |
@@ -391,7 +388,6 @@ _**Pulled:** 2026-08-17 07:51 UTC  —  893 matching roles found this run._
 | TikTok | Research Scientist Intern - Recommendation | 2026-08-03 | — | [Apply](https://lifeattiktok.com/search/7662661203281447221) |
 | TikTok | Generative AI Researcher Intern - Intelligent Creation-Vision and Graphics | 2026-08-03 | — | [Apply](https://lifeattiktok.com/search/7668183035989281029) |
 | JP Morgan Chase | Quantitative Research Intern - Markets - Analyst | 2026-08-03 | — | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774038) |
-| JP Morgan Chase | Data & AI Intern - Analyst | 2026-08-03 | — | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773869) |
 | JP Morgan Chase | Data Internship - Data & AI Program | 2026-08-03 | — | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210775223) |
 | JP Morgan Chase | Quantitative Research Intern - Risk and Treasury | 2026-08-03 | — | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773978) |
 | JP Morgan Chase | Software Engineer Intern - Software Engineer Program | 2026-08-03 | — | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773759) |
@@ -1177,12 +1173,13 @@ _287 role(s) across 50 influential companies._
 | Salesforce | Software Engineer Intern (Futureforce) | — | — | [Apply](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer_JR340771-1) |
 | Kudu Dynamics | Software Engineer Intern (1) | — | — | [Apply](https://leidos.wd5.myworkdayjobs.com/External/job/Chantilly-VA/Software-Engineer-Intern_R-00183707) |
 
-## zshah101 (2027 + Fall 2026) (29)
+## zshah101 (2027 + Fall 2026) (30)
 
 | Company | Role | Posted | Applied | Link |
 |---|---|---|---|---|
 | American Express | Campus Graduate Masters Summer Internship Program - 2027 Software Engineer, Enterprise Technology Services- New York, NY | 2026-08-17 | — | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011082) |
 | American Express | Campus Graduate Masters Summer Internship Program - 2027 Software Engineer, Enterprise Technology Services- Charlotte, NC | 2026-08-17 | — | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011987) |
+| Photon | Software Engineering / AI Intern - US - Remote | 2026-08-15 | — | [Apply](https://fa-ertb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/26738) |
 | Replit | Software Engineering Intern (Summer 2027) | 2026-08-15 | — | [Apply](https://jobs.ashbyhq.com/replit/7e0dafe8-3eec-442e-aa76-a4d84d779fb1) |
 | First American | Software Engineering Intern | 2026-08-14 | — | [Apply](https://firstam.wd1.myworkdayjobs.com/firstamericancareers/job/USA-California-Remote/Software-Engineering-Intern_R058260) |
 | Crowe | Data Analytics Developer Intern | 2026-08-14 | — | [Apply](https://crowe.wd12.myworkdayjobs.com/external_careers/job/Chicago-IL-USA/Data-Analytics-Developer-Intern_R-71041) |
