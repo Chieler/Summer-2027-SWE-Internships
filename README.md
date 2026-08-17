@@ -1,10 +1,10 @@
 # 2027 SWE / Software-Adjacent Internships
 
-_**Pulled:** 2026-08-17 12:32 UTC  —  890 matching roles found this run._
+_**Pulled:** 2026-08-17 13:37 UTC  —  891 matching roles found this run._
 
 **[Open live LinkedIn search](https://www.linkedin.com/jobs/search/?keywords=software%20engineer%20intern%202027&f_E=1&f_JT=I)** (LinkedIn can't be scraped reliably from CI, so this is a one-tap live link instead.)
 
-## Simplify/pittcsc (687)
+## Simplify/pittcsc (688)
 
 | Company | Role | Posted | Applied | Link |
 |---|---|---|---|---|
@@ -85,6 +85,7 @@ _**Pulled:** 2026-08-17 12:32 UTC  —  890 matching roles found this run._
 | Crowe | ServiceNow Implementation Intern - ServiceNow Cloud Solutions | 2026-08-14 | — | [Apply](https://crowe.wd12.myworkdayjobs.com/en-US/external_careers/job/Chicago-IL-USA/ServiceNow-Implementation-Intern_R-71036) |
 | Crowe | Data Analytics Developer Intern - Consulting Practice | 2026-08-14 | — | [Apply](https://crowe.wd12.myworkdayjobs.com/en-US/external_careers/job/Chicago-IL-USA/Data-Analytics-Developer-Intern_R-71041) |
 | Crowe | NetSuite Implementation Intern - Consulting Practice | 2026-08-14 | — | [Apply](https://crowe.wd12.myworkdayjobs.com/en-US/external_careers/job/Chicago-IL-USA/NetSuite-Implementation-Intern_R-71040) |
+| Dallas College | SAS Intern | 2026-08-14 | — | [Apply](https://dallascollege.wd1.myworkdayjobs.com/Dallas_College_Careers/job/El-Centro-Campus-R-Building/SAS-Intern_R13709) |
 | ByteDance | Self-Built Engineer Intern - CDN Platform | 2026-08-13 | — | [Apply](https://jobs.bytedance.com/en/position/7670364362450733317/detail) |
 | TikTok | Product Operations Intern - TikTok Shop Apps and API | 2026-08-13 | — | [Apply](https://lifeattiktok.com/search/7669705525866383621) |
 | Epic Games | Gameplay Programmer Intern | 2026-08-13 | — | [Apply](https://epicgames.com/careers/jobs/6141180004?gh_jid=6141180004) |
