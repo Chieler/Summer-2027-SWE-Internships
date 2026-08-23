@@ -1,12 +1,20 @@
 # 🔥 Priority — Fresh Summer 2027 Roles
 
-_**Pulled:** 2026-08-22 13:30 UTC  —  246 role(s) explicitly tagged Summer 2027 and posted within the last 14 days._
+_**Pulled:** 2026-08-23 01:14 UTC  —  248 role(s) explicitly tagged Summer 2027 and posted within the last 14 days._
 
 | Company | Role | Posted | Applied | Link |
 |---|---|---|---|---|
 | TikTok | AI Product Manager Intern - Product Social | 2026-08-22 | — | [Apply](https://lifeattiktok.com/search/7675616554318596357) |
 | TikTok | Product Manager Intern - Content and Service Ads | 2026-08-22 | — | [Apply](https://lifeattiktok.com/search/7676283436713593093) |
 | Hitachi | Engineering Intern | 2026-08-22 | — | [Apply](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Raleigh-North-Carolina-United-States/XMLNAME-2027-Summer-Engineering-Intern---Raleigh_R0142571) |
+| Springs Window Fashions | Product Management Intern | 2026-08-22 | — | [Apply](https://careers-springswindowfashions.icims.com/jobs/12892/job?mobile=true&needsRedirect=false) |
+| Springs Window Fashions | Dealer Business Operations & Analytics Intern - Summer 2027 | 2026-08-22 | — | [Apply](https://careers-springswindowfashions.icims.com/jobs/12886/job?mobile=true&needsRedirect=false) |
+| Springs Window Fashions | Application Engineering Intern - Summer 2027 | 2026-08-22 | — | [Apply](https://careers-springswindowfashions.icims.com/jobs/12893/job?mobile=true&needsRedirect=false) |
+| Springs Window Fashions | Data Analyst Intern - Consumer Business Unit | 2026-08-22 | — | [Apply](https://careers-springswindowfashions.icims.com/jobs/12874/job?mobile=true&needsRedirect=false) |
+| Springs Window Fashions | Textile Engineering Intern - Summer 2027 | 2026-08-22 | — | [Apply](https://careers-springswindowfashions.icims.com/jobs/12881/job?mobile=true&needsRedirect=false) |
+| Springs Window Fashions | AI Analyst Intern - Consumer Business Unit | 2026-08-22 | — | [Apply](https://careers-springswindowfashions.icims.com/jobs/12875/job?mobile=true&needsRedirect=false) |
+| Springs Window Fashions | Product Management Competitive Product Assessment Intern - Summer 2027 | 2026-08-22 | — | [Apply](https://careers-springswindowfashions.icims.com/jobs/12883/job?mobile=true&needsRedirect=false) |
+| Springs Window Fashions | Product Management Dashboard Analytics Intern | 2026-08-22 | — | [Apply](https://careers-springswindowfashions.icims.com/jobs/12882/job?mobile=true&needsRedirect=false) |
 | Teledyne Technologies Incorporated | Software Engineer Intern | 2026-08-21 | — | [Apply](https://flir.wd1.myworkdayjobs.com/en-US/flircareers/job/US---Huntsville-AL/NHRC-Software-Engineering-Internship--Summer-2027-_REQ36193) |
 | HPR | FPGA Engineering Intern | 2026-08-21 | — | [Apply](https://job-boards.greenhouse.io/hyannisportresearch/jobs/7822801003) |
 | Copart | QA Engineering Intern | 2026-08-21 | — | [Apply](https://copart.wd12.myworkdayjobs.com/en-US/copart/job/Dallas-TX---Headquarters/QA-Engineering-Intern_JR109671) |
@@ -89,13 +97,12 @@ _**Pulled:** 2026-08-22 13:30 UTC  —  246 role(s) explicitly tagged Summer 202
 | InfiniteQuant | Quantitative Developer Internship - Summer 2027 | 2026-08-19 | — | [Apply](https://jobs.smartrecruiters.com/InfiniteQuant/744000144281579) |
 | TikTok | Machine Learning MLOps Intern - Global Site Reliability Engineering | 2026-08-19 | — | [Apply](https://lifeattiktok.com/search/7670875283026053381) |
 | GE Vernova | Application Engineer Co-op/Intern - PCS | 2026-08-19 | — | [Apply](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Findlay-Township/PCS-Application-Engineering-Co-Op-Intern---Summer-2027_R5050417-2) |
+| RTX | Software Engineer Intern - Summer 2027 | 2026-08-19 | — | [Apply](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CO-AURORA-S75--16800-E-Centretech-Pkwy--BLDG-S75/Software-Engineering-Intern--Summer-2027-_01867892) |
 | Regions Bank | Technology, Operations, Digital, and Data Analytics Intern | 2026-08-19 | — | [Apply](https://regions.wd5.myworkdayjobs.com/regions_careers/job/Hoover-AL---Riverchase-Operations-Center-Birmingham-AL/XMLNAME-2027-ETP-Intern---Technology--Operations--Digital--and-Data---Analytics_R105426) |
 | Humana | Technology Intern - Early ID Participants | 2026-08-19 | — | [Apply](https://humana.wd5.myworkdayjobs.com/humana_external_career_site/job/Louisville-KY/Humana-Technology-Internship---Summer-2027--Early-ID-Participants-_R-427451) |
 | Zipline | Computational Physics Intern - Summer 2027 | 2026-08-19 | — | [Apply](https://www.zipline.com/open-roles?gh_jid=7904720003) |
 | Verition Fund Management | Technology Intern | 2026-08-19 | — | [Apply](https://www.verition.com/open-positions?gh_jid=5214784007) |
 | Allegheny County | Business Analytics Intern | 2026-08-19 | — | [Apply](https://alleghenycounty.bamboohr.com/careers/663/) |
-| Goldman Sachs | Summer Analyst Intern - Americas - AWM Product Management | 2026-08-19 | — | [Apply](https://higher.gs.com/roles/182389?type=students) |
-| Goldman Sachs | AWM Product Management Analyst Intern | 2026-08-19 | — | [Apply](https://higher.gs.com/roles/171513?type=students) |
 | RTX | Software Engineer Intern - Intelligent Software & Systems | 2026-08-18 | — | [Apply](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-CAMBRIDGE-BBN01--10--50-Moulton-St--MOULTON-B2/XMLNAME-2027-Software-Engineer-Intern--Onsite-_01866914) |
 | RTX | Software Engineering Intern | 2026-08-18 | — | [Apply](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-CAMBRIDGE-BBN01--10--50-Moulton-St--MOULTON-B2/XMLNAME-2027-Software-Engineering-Intern--Onsite-_01864698) |
 | Deloitte | Forensic Analytics Summer Scholar Intern - Forensic Analytics | 2026-08-18 | — | [Apply](https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Summer-Scholar-Forensic-Analytics/363251) |
@@ -138,7 +145,6 @@ _**Pulled:** 2026-08-22 13:30 UTC  —  246 role(s) explicitly tagged Summer 202
 | DV Trading | Trading Intern - Summer 2027 - DV Commodities | 2026-08-17 | — | [Apply](https://job-boards.greenhouse.io/dvtrading/jobs/4719134005) |
 | Arthur J. Gallagher & Co. | Data Analytics Intern | 2026-08-17 | — | [Apply](https://jobs.ajg.com/jobs/57701?icims=1) |
 | Google | Research Scientist PhD Intern | 2026-08-17 | — | [Apply](https://www.google.com/about/careers/applications/jobs/results/134795423167455942) |
-| RTX | Software Engineer Intern - Summer 2027 | 2026-08-17 | — | [Apply](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-192--1205-Continental-Place-NE--BLDG-192/Software-Engineering-Intern--Summer-2027-_01867324) |
 | RTX | Modeling, Simulation & Analysis Intern - Summer 2027 | 2026-08-17 | — | [Apply](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-AZ-TUCSON-9020--9020-S-Rita-Rd--BLDG-9020/Modeling--Simulation---Analysis-Intern--Summer-2027-_01867118) |
 | American Express | Campus Undergraduate Summer Internship Program - 2027 Software Engineer, Enterprise Technology Services- Phoenix, AZ | 2026-08-17 | — | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011781) |
 | American Express | Campus Graduate Masters Summer Internship Program - 2027 AI Engineer, Enterprise Technology Services- Atlanta, GA | 2026-08-17 | — | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012000) |
@@ -161,11 +167,8 @@ _**Pulled:** 2026-08-22 13:30 UTC  —  246 role(s) explicitly tagged Summer 202
 | ByteDance | Software Engineer Intern - Traffic Infrastructure | 2026-08-15 | — | [Apply](https://jobs.bytedance.com/en/position/7672626707586746629/detail) |
 | Goldman Sachs | Quantitative Strategist Intern - Multiple Teams | 2026-08-15 | — | [Apply](https://higher.gs.com/roles/175424?type=students) |
 | Goldman Sachs | Summer Associate Intern - Multiple Teams | 2026-08-15 | — | [Apply](https://higher.gs.com/roles/171566?type=students) |
-| Goldman Sachs | Summer Analyst Intern - Wealth Management - Product Management and Design | 2026-08-15 | — | [Apply](https://higher.gs.com/roles/170935?type=students) |
 | Goldman Sachs | Quantitative Strategist Associate Intern - Asset and Wealth Management | 2026-08-15 | — | [Apply](https://higher.gs.com/roles/175423?type=students) |
-| Goldman Sachs | Quantitative Strategist Associate Intern - The Core Quantitative Strats | 2026-08-15 | — | [Apply](https://higher.gs.com/roles/175427?type=students) |
 | Goldman Sachs | Summer Analyst Intern - FICC & Equities - Sales & Trading | 2026-08-15 | — | [Apply](https://higher.gs.com/roles/170675?type=students) |
-| Goldman Sachs | Summer Analyst Intern - FICC and Equities - Sales and Trading | 2026-08-15 | — | [Apply](https://higher.gs.com/roles/181628?type=students) |
 | Replit | Software Engineer Intern - Summer 2027 | 2026-08-15 | — | [Apply](https://jobs.ashbyhq.com/replit/7e0dafe8-3eec-442e-aa76-a4d84d779fb1/application?embed=true) |
 | KPMG | Software Developer Intern Co-op - Asset Management Digital Solutions - Software Developer | 2026-08-14 | — | [Apply](https://careers.kpmg.ca/jobs/33306?icims=1) |
 | KPMG | Product Specialist Intern Co-op - Asset Management Digital Solutions | 2026-08-14 | — | [Apply](https://careers.kpmg.ca/jobs/33301?icims=1) |
@@ -249,7 +252,6 @@ _**Pulled:** 2026-08-22 13:30 UTC  —  246 role(s) explicitly tagged Summer 202
 | LPL Financial Holdings | Product Intern - Product | 2026-08-10 | — | [Apply](https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/Summer-Intern-2027--Product_R-052918) |
 | LPL Financial Holdings | Data Engineer Intern - Data | 2026-08-10 | — | [Apply](https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/Summer-Intern-2027---Data_R-052914) |
 | ING | Summer 2027 Internship - Tech (Infrastructure) | 2026-08-10 | — | [Apply](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/New-York/Summer-2027-Internship---Tech--Infrastructure-_REQ-10119621) |
-| HNTB | Strategic Technology Intern - SED Division | 2026-08-09 | — | [Apply](https://hntb.wd5.myworkdayjobs.com/hntb_university_careers/job/Tallahassee-FL/Strategic-Technology-Intern---Summer-2027--SED-Division--For-Current-Former-HNTB-Interns-Only-_R-31092) |
 
 ---
 _Auto-generated. Window: 14 days (edit `PRIORITY_DAYS` in `search.py`). See `README.md` for everything._
