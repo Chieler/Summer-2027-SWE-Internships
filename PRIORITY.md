@@ -1,18 +1,20 @@
 # 🔥 Priority — Fresh Summer 2027 Roles
 
-_**Pulled:** 2026-08-25 02:28 UTC  —  265 role(s) explicitly tagged Summer 2027 and posted within the last 14 days._
+_**Pulled:** 2026-08-25 13:48 UTC  —  266 role(s) explicitly tagged Summer 2027 and posted within the last 14 days._
 
 | Company | Role | Posted | Applied | Link |
 |---|---|---|---|---|
 | Rystad Energy | Analyst Intern - Summer 2027 | 2026-08-25 | — | [Apply](https://apply.workable.com/rystad-energy/j/74A4CBBC6B/apply) |
+| AMD | ASIC Package Engineering Intern Co-op | 2026-08-25 | — | [Apply](https://careers.amd.com/jobs/91466?icims=1) |
+| AMD | ASIC Package Engineer Intern Co-op | 2026-08-25 | — | [Apply](https://careers.amd.com/jobs/91469?icims=1) |
+| Northrop Grumman | 2027 Software Engineering Intern- Huntsville AL | 2026-08-25 | — | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/XMLNAME-2027-Software-Engineering-Intern--Huntsville-AL_R10247486) |
+| Northrop Grumman | 2027 Software Test Engineering Intern- Huntsville AL | 2026-08-25 | — | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/XMLNAME-2027-Software-Test-Engineering-Intern--Huntsville-AL_R10247483) |
 | BNY | Engineering Developer Intern - Engineering | 2026-08-24 | — | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81252) |
 | Ontario Teachers' Pension Plan | Total Fund Risk Intern - Months | 2026-08-24 | — | [Apply](https://otppb.wd3.myworkdayjobs.com/OntarioTeachers_Careers/job/Toronto-Canada/Intern---Total-Risk-Fund--May-2027---12-months-_7212) |
 | Gulfstream | Software Engineer Intern - IEF | 2026-08-24 | — | [Apply](https://careers.gulfstream.com/job/Savannah-Summer-2027-IEF-Software-Engineer-Collegiate-Associate-Intern-GA-31401/1421863200/?ats=successfactors) |
 | Cigna Group | Healthcare Policy & Regulated Markets Intern | 2026-08-24 | — | [Apply](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/St-Louis-MO/Healthcare-Policy---Regulated-Markets-Intern_26006403) |
 | Mastercard | Software Engineer Intern | 2026-08-24 | — | [Apply](https://mastercard.wd1.myworkdayjobs.com/Campus/job/OFallon-Missouri/Software-Engineer-Intern--Summer-2027---United-States_R-287618-1) |
 | Medpace | Python Intern - Summer 2027 | 2026-08-24 | — | [Apply](https://careers.medpace.com/jobs/12962?icims=1) |
-| Google | Software Developer Intern | 2026-08-24 | — | [Apply](https://www.google.com/about/careers/applications/jobs/results/112518690523488966) |
-| Google | Research Intern - PhD | 2026-08-24 | — | [Apply](https://www.google.com/about/careers/applications/jobs/results/86701057991680710) |
 | BNY | Software Engineer Intern - Engineering - Developer | 2026-08-24 | — | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81251) |
 | BNY | Data Science Intern - Engineering | 2026-08-24 | — | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81238) |
 | BNY | Engineering Intern - Data Science | 2026-08-24 | — | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81322) |
@@ -53,7 +55,6 @@ _**Pulled:** 2026-08-25 02:28 UTC  —  265 role(s) explicitly tagged Summer 202
 | TikTok | Client Solutions Intern | 2026-08-24 | — | [Apply](https://lifeattiktok.com/search/7677467052537776437) |
 | TikTok | Product Operations Intern | 2026-08-24 | — | [Apply](https://lifeattiktok.com/search/7673361736079329541) |
 | Advanced Space | 2027 Software Engineering Summer Internship | 2026-08-24 | — | [Apply](https://job-boards.greenhouse.io/advancedspace/jobs/4324855009) |
-| The Hartford | Tech & Data Summer Program 2027 - Software Engineer Intern (Columbus) | 2026-08-24 | — | [Apply](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Columbus-OH/Tech---Data-Summer-Program-2027---Software-Engineer-Intern--Columbus-_R2626609) |
 | BNY | 2027 BNY Summer Internship Program - Engineering (Data Science) - Lake Mary, FL | 2026-08-24 | — | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81239) |
 | BNY | 2027 BNY Summer Internship Program - Engineering (Data Science) - New York, NY | 2026-08-24 | — | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81240) |
 | BNY | 2027 BNY Summer Internship Program - Engineering (Data Science) - Pittsburgh, PA | 2026-08-24 | — | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81241) |
@@ -116,7 +117,8 @@ _**Pulled:** 2026-08-25 02:28 UTC  —  265 role(s) explicitly tagged Summer 202
 | Diamondback Energy | Geoscience Intern | 2026-08-21 | — | [Apply](https://diamondbackenergy.wd12.myworkdayjobs.com/DBE/job/Midland-TX/Summer-2027-Geoscience-Intern_R100829) |
 | Marsh | Government Health Consulting Informatics Intern - College Program | 2026-08-21 | — | [Apply](https://mmc.wd1.myworkdayjobs.com/en-US/MMC/job/Phoenix---E-Camelback/Government-Health-Consulting-Informatics-Summer-Intern---College-Program-2027_R_362073) |
 | Ecolab | Digital & AI Technology Intern | 2026-08-21 | — | [Apply](https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/USA---Minnesota---Saint-Paul/Digital---AI-Technology-Intern_R00303249) |
-| Hewlett Packard (HP) | Software Internship Roles - HP Solutions (HPS) | 2026-08-21 | — | [Apply](https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/Spring-Texas-United-States-of-America/Software-Internship-Roles---HP-Solutions--HPS-_3167906) |
+| AMD | Research Engineering Intern/Co-op - AMD Research | 2026-08-21 | — | [Apply](https://careers.amd.com/jobs/90926?icims=1) |
+| Hewlett Packard (HP) | Software Internship Roles - HP Solutions (HPS) | 2026-08-21 | — | [Apply](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Spring-Texas-United-States-of-America/Software-Internship-Roles---HP-Solutions--HPS-_3167906-1) |
 | General Matter | Software Engineering Intern | 2026-08-20 | — | [Apply](https://job-boards.greenhouse.io/generalmatter/jobs/5377118008) |
 | TikTok | Software Engineer Intern - Recommendation Infra - Performance Efficiency | 2026-08-20 | — | [Apply](https://lifeattiktok.com/search/7675159726676101381) |
 | TikTok | Software Engineer Intern - Recommendation Architecture - Feeds Infrastructure | 2026-08-20 | — | [Apply](https://lifeattiktok.com/search/7672926068681951493) |
@@ -125,7 +127,6 @@ _**Pulled:** 2026-08-25 02:28 UTC  —  265 role(s) explicitly tagged Summer 202
 | TikTok | Machine Learning Engineer Intern - E-Commerce Supply Chain & Logistics-LLM/Agent - PhD | 2026-08-20 | — | [Apply](https://lifeattiktok.com/search/7675845333947812149) |
 | Fannie Mae | Data Science Intern - Analytics & Modeling Program | 2026-08-20 | — | [Apply](https://fanniemae.wd1.myworkdayjobs.com/FannieMaeCareers/job/Washington-DC/Campus---Data-Science-Intern--Analytics---Modeling-Program-_JR2815) |
 | AbbVie | Business Technology Solutions Intern - Data & Software Engineering - Undergraduate | 2026-08-20 | — | [Apply](https://jobs.smartrecruiters.com/AbbVie/3743990014697918) |
-| Freeform | Materials Engineer Intern | 2026-08-20 | — | [Apply](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7907965003) |
 | Devon Energy | Technology Intern - Data Engineering | 2026-08-20 | — | [Apply](https://wd5.myworkdaysite.com/en-US/recruiting/devonenergy/Careers/job/Oklahoma-City-OK/Technology-Summer-Intern-2027_R26264-1) |
 | PIMCO | Trading Analyst Intern | 2026-08-20 | — | [Apply](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2027-Summer-Intern---Trading-Analyst--US_R106763) |
 | CNO Financial Group | Reporting Analyst Intern | 2026-08-20 | — | [Apply](https://cnoinc.wd5.myworkdayjobs.com/Careers/job/Carmel-IN/Summer-2027-Reporting-Analyst-Intern-2027---REMOTE-from-any-US-based-location_JR170455) |
