@@ -1,6 +1,6 @@
 # 🔥 Priority — Fresh Summer 2027 Roles
 
-_**Pulled:** 2026-09-03 16:56 UTC  —  525 role(s) explicitly tagged Summer 2027 and posted within the last 14 days._
+_**Pulled:** 2026-09-03 23:43 UTC  —  536 role(s) explicitly tagged Summer 2027 and posted within the last 14 days._
 
 | Company | Role | Posted | Applied | Link |
 |---|---|---|---|---|
@@ -50,6 +50,17 @@ _**Pulled:** 2026-09-03 16:56 UTC  —  525 role(s) explicitly tagged Summer 202
 | Momentive | Software Development Intern | 2026-09-03 | — | [Apply](https://momentive.wd1.myworkdayjobs.com/MC/job/US-NY-Niskayuna/Summer-2027-Intern---Software-Development_R9756) |
 | Crum & Forster Insurance | Actuarial, Data Science or Product Services Intern - Commercial Lines | 2026-09-03 | — | [Apply](https://careers-cfins.icims.com/jobs/5108/job?mobile=true&needsRedirect=false) |
 | AMD | Diagnostics Design Engineering Intern/Co-op | 2026-09-03 | — | [Apply](https://careers.amd.com/jobs/91308?icims=1) |
+| Transcard Payments | Artificial Intelligence Intern | 2026-09-03 | — | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4476416) |
+| Intel | System Technology PhD Intern - Research Engineer | 2026-09-03 | — | [Apply](https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/System-Technology---Research-Engineer--PhD-Intern-_JR0286791) |
+| Transcard Payments | Software Engineer Intern | 2026-09-03 | — | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4476288) |
+| Susquehanna International Group | FPGA Engineer Intern | 2026-09-03 | — | [Apply](https://careers-sig.icims.com/jobs/11446/job?mobile=true&needsRedirect=false) |
+| Hermeus | GNC & Flight Software Intern - Spring/Summer 2027 | 2026-09-03 | — | [Apply](https://jobs.lever.co/hermeus/555263f6-c5ec-4489-ab07-1aea546b70e7) |
+| The Exploration Company | Summer 2027 Internship (Software) | 2026-09-03 | — | [Apply](https://jobs.ashbyhq.com/the-exploration-company/86270058-8eec-4692-b49d-97ce59fd54ac) |
+| Mastercard | Site Reliability Engineering Intern, Summer 2027 – St. Louis, MO, US | 2026-09-03 | — | [Apply](https://mastercard.wd1.myworkdayjobs.com/Campus/job/OFallon-Missouri/Site-Reliability-Engineering-Intern--Summer-2027---St-Louis--MO--US_R-287654) |
+| Motorola | Android Platform Software Engineering Intern - Summer 2027 | 2026-09-03 | — | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Plantation-FL/Android-Platform-Software-Engineering-Intern---Summer-2027_R68363) |
+| Sierra Nevada Corporation | Software Engineering Intern (Summer 2027) | 2026-09-03 | — | [Apply](https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Folsom-CA/Software-Engineering-Intern--Summer-2027-_R0030761-1) |
+| Waymo | 2027 Summer Intern, MS, Software Engineering, Behavior Test | 2026-09-03 | — | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8174504) |
+| Skyward | Software Engineer - Intern | 2026-09-03 | — | [Apply](https://jobs.smartrecruiters.com/Skyward1/744000147320799) |
 | Waymo | 2027 Summer Intern, BS, SysEng Software Engineer | 2026-09-03 | — | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8174099) |
 | Hermeus | Software Engineering Intern (Command & Control) - Spring/Summer 2027 | 2026-09-03 | — | [Apply](https://jobs.lever.co/hermeus/5b08e2df-c9db-4831-aece-67d89e744796) |
 | Textron | Aftermarket Analyst Intern | 2026-09-02 | — | [Apply](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=343153) |
@@ -70,8 +81,6 @@ _**Pulled:** 2026-09-03 16:56 UTC  —  525 role(s) explicitly tagged Summer 202
 | McKesson | Software Engineer Intern | 2026-09-02 | — | [Apply](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-GA-Atlanta/Software-Engineer-Intern---Summer-2027_JR0153235) |
 | McKesson | Software Development Intern - Summer 2027 | 2026-09-02 | — | [Apply](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-TX-Irving/Software-Development-Intern---Summer-2027_JR0152635) |
 | McKesson | Data Analyst Intern | 2026-09-02 | — | [Apply](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-OH-Columbus/Data-Analyst-Intern---Summer-2027_JR0150844) |
-| Xcel Energy | Damage Prevention Intern | 2026-09-02 | — | [Apply](https://xcelenergy.wd1.myworkdayjobs.com/External/job/St-Paul-MN-55117/Damage-Prevention-Intern---MN_JR115636-1) |
-| Xcel Energy | Geospatial Data Validation Intern | 2026-09-02 | — | [Apply](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Minneapolis-MN-55418/Geospatial-Tech---Data---Vendor-Mgmt-Intern---MN--CO_JR115634-2) |
 | Intel | Platform Hardware and Systems Engineering Intern - Bachelor's | 2026-09-02 | — | [Apply](https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Platform-Hardware-and-Systems-Engineering---Intern--Bachelor-s_JR0286827) |
 | Intel | Software Engineer Intern | 2026-09-02 | — | [Apply](https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Software-Engineering---Intern--Graduate_JR0286836) |
 | Intel | Silicon Hardware Engineering Intern - Bachelor's | 2026-09-02 | — | [Apply](https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Silicon-Hardware-Engineering---Intern--Bachelor-s_JR0286829) |
@@ -134,6 +143,7 @@ _**Pulled:** 2026-09-03 16:56 UTC  —  525 role(s) explicitly tagged Summer 202
 | Textron | Software Engineer Intern - Sea Systems | 2026-09-01 | — | [Apply](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=342935) |
 | Textron | Software Engineer Intern - Crewed Land | 2026-09-01 | — | [Apply](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=342915) |
 | Textron | Firmware Engineer Intern - Weapons | 2026-09-01 | — | [Apply](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=342606) |
+| Maven Securities | Software Developer Intern | 2026-09-01 | — | [Apply](https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/7806987) |
 | Vermeer | Embedded Software Engineer Intern | 2026-09-01 | — | [Apply](https://vermeer.wd5.myworkdayjobs.com/externalcareersite/job/Pella-Iowa-USA---Corporate-Office/Embedded-Software-Engineer-Internship-Summer-2027_REQ-22165) |
 | AMD | Firmware Engineer Intern/Co-op - Long Term | 2026-09-01 | — | [Apply](https://careers.amd.com/jobs/90297?icims=1) |
 | IAT Insurance Group | Data & Integration Intern | 2026-09-01 | — | [Apply](https://iatinsurancegroup.wd1.myworkdayjobs.com/iat/job/Milwaukee-WI/Data---Integration-Internship_JR100404) |
@@ -243,9 +253,10 @@ _**Pulled:** 2026-09-03 16:56 UTC  —  525 role(s) explicitly tagged Summer 202
 | First National Bank | Enterprise Operations Intern - Multiple Teams | 2026-09-01 | — | [Apply](https://fnbcorp.wd501.myworkdayjobs.com/FNBCORP/job/Pittsburgh-PA/Summer-2027-Enterprise-Operations-Intern_2026-01839) |
 | Williams-Sonoma | Merchandising Intern | 2026-09-01 | — | [Apply](https://ehac.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/20062) |
 | AMD | AGS Libraries Intern/Co-op | 2026-09-01 | — | [Apply](https://careers.amd.com/jobs/90427?icims=1) |
+| FOTH | Civil Engineering Intern-Coastal Infrastructure (Summer 2027) | 2026-09-01 | — | [Apply](https://jobs.lever.co/foth/072d5e17-c095-49bc-ac02-4cd558bb5d64) |
+| FOTH | Civil Engineering Intern-Waterfront Infrastructure (Summer 2027) | 2026-09-01 | — | [Apply](https://jobs.lever.co/foth/95f75d08-ec27-48ff-8c60-dcf2d5720885) |
 | Tarrant Regional Water District | Summer 2027 Infrastructure Engineering Intern (T036) | 2026-09-01 | — | [Apply](https://trwd.wd1.myworkdayjobs.com/TRWDCareers/job/Fort-Worth-TX/Summer-2027-Infrastructure-Engineering-Intern--T036-_JR100218) |
 | DraftKings | Software Engineer Intern-Referral (Summer 2027) | 2026-09-01 | — | [Apply](https://draftkings.wd1.myworkdayjobs.com/Employee_Referral_Portal/job/Boston-MA/Software-Engineer-Intern-Referral--Summer-2027-_JR14932) |
-| RTX | Cyber Engineering Intern (Summer 2027) | 2026-09-01 | — | [Apply](https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-166--855-35Th-St-NE--BLDG-166/Cyber-Engineering-Intern--Summer-2027-_01871442) |
 | CACI | AWS Cloud Engineering Intern - Summer 2027 | 2026-09-01 | — | [Apply](https://caci.wd1.myworkdayjobs.com/external/job/Sarasota-FL-US/AWS-Cloud-Engineering-Intern---Summer-2027_331437) |
 | Mastercard | Platform Engineering Intern, Summer 2027 – St. Louis, MO, US | 2026-09-01 | — | [Apply](https://mastercard.wd1.myworkdayjobs.com/Campus/job/OFallon-Missouri/Platform-Engineering-Intern--Summer-2027---St-Louis--MO--US_R-284873) |
 | Stanley Black & Decker | Embedded Engineering Summer Intern 2027 | 2026-09-01 | — | [Apply](https://sbdinc.wd1.myworkdayjobs.com/Stanley_Black_Decker_Career_Site/job/Towson-MD-United-States/Embedded-Engineering-Summer-Intern-2027_REQ-1000052019) |
