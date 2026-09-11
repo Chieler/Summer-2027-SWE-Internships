@@ -1,6 +1,6 @@
 # 🔥 Priority — Fresh Summer 2027 Roles
 
-_**Pulled:** 2026-09-11 15:29 UTC  —  753 role(s) explicitly tagged Summer 2027 and posted within the last 14 days._
+_**Pulled:** 2026-09-11 16:04 UTC  —  761 role(s) explicitly tagged Summer 2027 and posted within the last 14 days._
 
 | Company | Role | Posted | Applied | Link |
 |---|---|---|---|---|
@@ -22,6 +22,9 @@ _**Pulled:** 2026-09-11 15:29 UTC  —  753 role(s) explicitly tagged Summer 202
 | Citizens Financial Group | Business Insights Intern - Multiple Teams | 2026-09-11 | — | [Apply](https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49283) |
 | Citizens Financial Group | Data Analyst Intern - Multiple Teams | 2026-09-11 | — | [Apply](https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49282) |
 | Citizens Financial Group | Data Engineer Intern - Enterprise Technology & Security | 2026-09-11 | — | [Apply](https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49285) |
+| Citizens Financial Group | Cloud Engineer Summer 2027 Intern \| Enterprise Technology & Security Summer Internship Program | 2026-09-11 | — | [Apply](https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49284) |
+| Citizens Financial Group | Data Science Undergraduate 2027 Summer Intern | 2026-09-11 | — | [Apply](https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49276) |
+| DV Trading | Software Developer Intern - Summer 2027 (DV Equities) | 2026-09-11 | — | [Apply](https://job-boards.greenhouse.io/dvtrading/jobs/4733138005) |
 | Tradeweb | Software Developer Intern - STP | 2026-09-10 | — | [Apply](https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301914) |
 | Tradeweb | AI Software Engineer Intern | 2026-09-10 | — | [Apply](https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301902) |
 | Tradeweb | Market Data Developer Intern | 2026-09-10 | — | [Apply](https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301910) |
@@ -87,6 +90,11 @@ _**Pulled:** 2026-09-11 15:29 UTC  —  753 role(s) explicitly tagged Summer 202
 | Procter & Gamble | Intern | 2026-09-10 | — | [Apply](https://pg.wd5.myworkdayjobs.com/1000/job/WHBC---WINTON-HILL-BUS-CENTER/PhD-Intern---Data-Scientist---Generative-AI-in-Femcare_R000158406) |
 | Procter & Gamble | Research and Development PhD Intern - Life Cycle Assessment - Data Science | 2026-09-10 | — | [Apply](https://pg.wd5.myworkdayjobs.com/1000/job/MASON-BUS-AND-INNOVATION-CTR/R-D-PhD-Summer-Intern--Life-Cycle-Assessment--LCA--Data-Science_R000158787) |
 | Repsol | Middle Office Risk and Valuation Intern | 2026-09-10 | — | [Apply](https://repsol.wd3.myworkdayjobs.com/Repsol/job/Houston/Middle-Office--Risk-and-Valuation-Intern_83841) |
+| AllianceBernstein | Infrastructure Engineering Summer Intern | 2026-09-10 | — | [Apply](https://abglobal.wd1.myworkdayjobs.com/abcampuscareers/job/Nashville-Tennessee/Infrastructure-Engineering-Summer-Intern_R0019749) |
+| Cox | Infrastructure Operations Intern - Summer 2027 | 2026-09-10 | — | [Apply](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Infrastructure-Operations-Intern---Summer-2027_R202682357) |
+| Cox | Infrastructure Automation Intern - Summer 2027 | 2026-09-10 | — | [Apply](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Infrastructure-Automation-Intern---Summer-2027_R202682338) |
+| Hudl | Software Quality Assurance Engineering Intern | 2026-09-10 | — | [Apply](https://job-boards.greenhouse.io/hudl/jobs/8155102) |
+| Ketjen | Ketjen Summer 2027 Data Science Internship | 2026-09-10 | — | [Apply](https://albemarle.wd5.myworkdayjobs.com/ketjenexternal/job/Houston-Texas-United-States-of-America/Ketjen-Summer-2027-Data-Science-Internship_REQ-31411) |
 | Cigna Group | The Cigna Group's Technology Development Program  -  Infrastructure & Cloud Engineering Track Summer Internship | 2026-09-10 | — | [Apply](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/CT-Bloomfield-900-Cottage-Grove-Rd-Wilde-Bldg/The-Cigna-Group-s-Technology-Development-Program-----Infrastructure---Cloud-Engineering-Track_26009529) |
 | Schonfeld | 2027 Platform Engineering Intern | 2026-09-10 | — | [Apply](https://job-boards.greenhouse.io/schonfeld/jobs/8171699) |
 | CACI | Software Engineering Intern - Summer 2027 | 2026-09-10 | — | [Apply](https://caci.wd1.myworkdayjobs.com/external/job/Denver-CO-US/Software-Engineering-Intern---Summer-2027_331543-1) |
@@ -106,7 +114,6 @@ _**Pulled:** 2026-09-11 15:29 UTC  —  753 role(s) explicitly tagged Summer 202
 | Gallup | Artificial Intelligence/Machine Learning Research Intern | 2026-09-09 | — | [Apply](https://job-boards.greenhouse.io/gallup/jobs/4395921009) |
 | Gallup | Software Engineer Intern - Summer 2027 | 2026-09-09 | — | [Apply](https://job-boards.greenhouse.io/gallup/jobs/4395897009) |
 | Gallup | Data Engineering Intern | 2026-09-09 | — | [Apply](https://job-boards.greenhouse.io/gallup/jobs/4395454009) |
-| Allen Control Systems | Systems Engineering Intern | 2026-09-09 | — | [Apply](https://jobs.ashbyhq.com/allen-control-systems/9945f76d-6d03-45f0-b431-fc69d31f5476/application?embed=true) |
 | Wells Fargo | Quantitative Analytics Intern - Applied Computational Intelligence | 2026-09-09 | — | [Apply](https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/XMLNAME-2027-Quantitative-Analytics-Summer-Internship-Applied-Computational-Intelligence--ACI-Masters----Early-Careers_R-574030) |
 | Moog | Hardware Design Engineering Intern | 2026-09-09 | — | [Apply](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Mineral-Wells-TX/Intern--Hardware-Design-Engineering_R-26-19887) |
 | Moog | Software Engineer Intern - Military Aircraft | 2026-09-09 | — | [Apply](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Mineral-Wells-TX/Intern--Software-Engineering_R-26-19888-1) |
@@ -197,6 +204,7 @@ _**Pulled:** 2026-09-11 15:29 UTC  —  753 role(s) explicitly tagged Summer 202
 | USAA | Quantitative Risk Analyst Intern | 2026-09-09 | — | [Apply](https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/San-Antonio-Home-Office-I/Quantitative-Risk-Analyst-Intern_R0120753) |
 | The Aerospace Corporation | Machine Learning Engineering Intern | 2026-09-09 | — | [Apply](https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Machine-Learning-Engineering-Graduate-Intern_R016432) |
 | RTX | Software Engineering Intern | 2026-09-09 | — | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AL-HUNTSVILLE-382--420-Jan-Davis-Dr--DAVIS-382/Software-Engineering-Intern--Summer-2027-_01872655) |
+| Hypertherm | Summer Intern - Software Engineering | 2026-09-09 | — | [Apply](https://hypertherm.wd503.myworkdayjobs.com/hypertherm-careers/job/West-Lebanon-NH/Summer-Intern---Software-Engineering_R4005) |
 | CACI | DevOps/Software Engineering Intern - Summer 2027 | 2026-09-09 | — | [Apply](https://caci.wd1.myworkdayjobs.com/external/job/Denver-CO-US/DevOps-Software-Engineering-Intern---Summer-2027_331798) |
 | Immuta | Platform & Site Reliability Engineering Internship - Summer 2027 | 2026-09-09 | — | [Apply](https://jobs.lever.co/immuta/3c4cb235-6138-4a50-add2-666a5216427e) |
 | Pilot Company | Program Intern, Infrastructure Support | 2026-09-09 | — | [Apply](https://jobs.smartrecruiters.com/PilotCompany/744000148577368) |

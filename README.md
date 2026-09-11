@@ -1,10 +1,10 @@
 # 2027 SWE / Software-Adjacent Internships
 
-_**Pulled:** 2026-09-11 15:29 UTC  —  2222 matching roles found this run._
+_**Pulled:** 2026-09-11 16:04 UTC  —  2251 matching roles found this run._
 
 **[Open live LinkedIn search](https://www.linkedin.com/jobs/search/?keywords=software%20engineer%20intern%202027&f_E=1&f_JT=I)** (LinkedIn can't be scraped reliably from CI, so this is a one-tap live link instead.)
 
-## Simplify/pittcsc (1967)
+## Simplify/pittcsc (1988)
 
 | Company | Role | Posted | Applied | Link |
 |---|---|---|---|---|
@@ -38,6 +38,8 @@ _**Pulled:** 2026-09-11 15:29 UTC  —  2222 matching roles found this run._
 | Tesla | Vehicle Accessories & Merchandise Product Intern - Global Merchandise | 2026-09-11 | — | [Apply](https://www.tesla.com/careers/search/job/283137) |
 | Tesla | Software Engineer Intern - Data Platforms | 2026-09-11 | — | [Apply](https://www.tesla.com/careers/search/job/283117) |
 | Tesla | Robotics Physics Modeling Engineer Intern - Model Based Design - Optimus | 2026-09-11 | — | [Apply](https://www.tesla.com/careers/search/job/283128) |
+| DiligenceVault | AI Engineer Intern | 2026-09-11 | — | [Apply](https://diligencevault.applytojob.com/apply/Yo3RhxiDyM/AI-Engineer-Intern) |
+| Citizens Financial Group | Data Science Undergraduate 2027 Summer Intern | 2026-09-11 | — | [Apply](https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49276) |
 | Tradeweb | Software Developer Intern - STP | 2026-09-10 | — | [Apply](https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301914) |
 | Tradeweb | AI Software Engineer Intern | 2026-09-10 | — | [Apply](https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301902) |
 | Tradeweb | Market Data Developer Intern | 2026-09-10 | — | [Apply](https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301910) |
@@ -169,7 +171,6 @@ _**Pulled:** 2026-09-11 15:29 UTC  —  2222 matching roles found this run._
 | Gallup | Artificial Intelligence/Machine Learning Research Intern | 2026-09-09 | — | [Apply](https://job-boards.greenhouse.io/gallup/jobs/4395921009) |
 | Gallup | Software Engineer Intern - Summer 2027 | 2026-09-09 | — | [Apply](https://job-boards.greenhouse.io/gallup/jobs/4395897009) |
 | Gallup | Data Engineering Intern | 2026-09-09 | — | [Apply](https://job-boards.greenhouse.io/gallup/jobs/4395454009) |
-| Allen Control Systems | Systems Engineering Intern | 2026-09-09 | — | [Apply](https://jobs.ashbyhq.com/allen-control-systems/9945f76d-6d03-45f0-b431-fc69d31f5476/application?embed=true) |
 | TikTok | Global Customer Experience Business Analytics Intern | 2026-09-09 | — | [Apply](https://lifeattiktok.com/search/7681633701767612677) |
 | Wells Fargo | Quantitative Analytics Intern - Applied Computational Intelligence | 2026-09-09 | — | [Apply](https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/XMLNAME-2027-Quantitative-Analytics-Summer-Internship-Applied-Computational-Intelligence--ACI-Masters----Early-Careers_R-574030) |
 | TikTok | Product Manager Intern | 2026-09-09 | — | [Apply](https://lifeattiktok.com/search/7649673091993454853) |
@@ -1579,6 +1580,8 @@ _**Pulled:** 2026-09-11 15:29 UTC  —  2222 matching roles found this run._
 | Autodesk | AI Developer Intern - Creative Technology | 2026-08-19 | — | [Apply](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Intern--AI-Developer--Stagiaire-en-dveloppement-IA_26WD100523-2) |
 | Allegheny County | Business Analytics Intern | 2026-08-19 | — | [Apply](https://alleghenycounty.bamboohr.com/careers/663/) |
 | Specialisterne | Software Engineer Intern - Neurodiversity Hiring Initiative | 2026-08-19 | — | [Apply](https://specialisterne.applytojob.com/apply/gOkVN8zGTL/Software-Engineer-Intern-Neurodiversity-Hiring-Initiative) |
+| Goldman Sachs | Summer Analyst Intern - Americas - AWM Product Management | 2026-08-19 | — | [Apply](https://higher.gs.com/roles/182389?type=students) |
+| Goldman Sachs | AWM Product Management Analyst Intern | 2026-08-19 | — | [Apply](https://higher.gs.com/roles/171513?type=students) |
 | Zipline | Electrical Engineer Intern - Summer 2027 | 2026-08-19 | — | [Apply](https://www.zipline.com/open-roles/7903711003?gh_jid=7903711003) |
 | Zipline | Electrical Engineer Intern - Electrical Engineering Team | 2026-08-19 | — | [Apply](https://www.zipline.com/open-roles/7903708003?gh_jid=7903708003) |
 | Humanscale | Electrical Design Engineer Intern | 2026-08-19 | — | [Apply](https://careers-humanscale.icims.com/jobs/4395/job?mobile=true&needsRedirect=false) |
@@ -1659,8 +1662,26 @@ _**Pulled:** 2026-09-11 15:29 UTC  —  2222 matching roles found this run._
 | Vendelux | Data Intern | 2026-08-15 | — | [Apply](https://jobs.ashbyhq.com/vendelux/ec44a794-9622-444e-a789-491fa12726dd/application?embed=true) |
 | ByteDance | Software Engineer Intern - Global Payment Infra and SRE | 2026-08-15 | — | [Apply](https://jobs.bytedance.com/en/position/7668315137242351925/detail) |
 | ByteDance | Software Engineer Intern - Global Traffic Architecture | 2026-08-15 | — | [Apply](https://jobs.bytedance.com/en/position/7672557061679483189/detail) |
+| Goldman Sachs | Quantitative Strategist Intern - Multiple Teams | 2026-08-15 | — | [Apply](https://higher.gs.com/roles/175424?type=students) |
+| Goldman Sachs | Summer Associate Intern - Multiple Teams | 2026-08-15 | — | [Apply](https://higher.gs.com/roles/171566?type=students) |
+| Goldman Sachs | Quantitative Strategist Associate Intern - Asset and Wealth Management | 2026-08-15 | — | [Apply](https://higher.gs.com/roles/175423?type=students) |
 | Dedalus Labs | Product Manager Intern | 2026-08-15 | — | [Apply](https://jobs.ashbyhq.com/dedalus-labs/ca4245ff-0dee-4f16-80ca-24912d72079c/application?embed=true) |
 | Dedalus Labs | Design Engineer Intern | 2026-08-15 | — | [Apply](https://jobs.ashbyhq.com/dedalus-labs/bcd6db2e-400b-4ffa-aef3-0948a7b558c2/application?embed=true) |
+| Goldman Sachs | Quantitative Strategist Associate Intern - The Core Quantitative Strats | 2026-08-15 | — | [Apply](https://higher.gs.com/roles/175427?type=students) |
+| Goldman Sachs | Summer Analyst Intern - FICC and Equities - Sales and Trading | 2026-08-15 | — | [Apply](https://higher.gs.com/roles/181628?type=students) |
+| Goldman Sachs | Summer Associate Intern | 2026-08-15 | — | [Apply](https://higher.gs.com/roles/171552?type=students) |
+| Goldman Sachs | Associate Intern - The Core Quantitative Strats | 2026-08-15 | — | [Apply](https://higher.gs.com/roles/171546?type=students) |
+| Goldman Sachs | Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats | 2026-08-15 | — | [Apply](https://higher.gs.com/roles/175421?type=students) |
+| Goldman Sachs | Quantitative Strategist Intern - Americas - The Core Quantitative Strats | 2026-08-15 | — | [Apply](https://higher.gs.com/roles/171551?type=students) |
+| Goldman Sachs | Summer Analyst Intern | 2026-08-15 | — | [Apply](https://higher.gs.com/roles/171550?type=students) |
+| Goldman Sachs | Quantitative Strats Analyst Intern - Americas - Investment Banking | 2026-08-15 | — | [Apply](https://higher.gs.com/roles/171548?type=students) |
+| Goldman Sachs | Summer Analyst Intern - Wealth Management - Quantitative Finance | 2026-08-15 | — | [Apply](https://higher.gs.com/roles/170860?type=students) |
+| Goldman Sachs | Summer Analyst Intern - The Core Quantitative Strats | 2026-08-15 | — | [Apply](https://higher.gs.com/roles/175426?type=students) |
+| Goldman Sachs | Summer Analyst Intern - Americas - Engineering | 2026-08-15 | — | [Apply](https://higher.gs.com/roles/171564?type=students) |
+| Goldman Sachs | Quantitative Strategist Intern - Americas | 2026-08-15 | — | [Apply](https://higher.gs.com/roles/171532?type=students) |
+| Goldman Sachs | Quantitative Strategist Intern - Investment Banking | 2026-08-15 | — | [Apply](https://higher.gs.com/roles/175428?type=students) |
+| Goldman Sachs | Summer Analyst Intern - Americas - Investment Banking Quantitative Strats | 2026-08-15 | — | [Apply](https://higher.gs.com/roles/171547?type=students) |
+| Goldman Sachs | Summer Analyst Intern - Engineering | 2026-08-15 | — | [Apply](https://higher.gs.com/roles/170644?type=students) |
 | Bank of China USA | Risk Data Aggregation Intern - Enterprise Risk Management Department | 2026-08-14 | — | [Apply](https://careers-bocusa.icims.com/jobs/4470/job?mobile=true&needsRedirect=false) |
 | AARP | Data Science and Advanced Analytics Intern | 2026-08-14 | — | [Apply](https://careers.aarp.org/jobs/7437?icims=1) |
 | Composio | Fullstack Engineer Intern - Product Team | 2026-08-14 | — | [Apply](https://jobs.ashbyhq.com/composio/eea3c0be-8589-4e3d-a684-de29a9eada0d/application?embed=true) |
@@ -2578,15 +2599,23 @@ _435 role(s) across 53 influential companies._
 | Kudu Dynamics | Software Engineer Intern (1) | — | — | [Apply](https://leidos.wd5.myworkdayjobs.com/External/job/Chantilly-VA/Software-Engineer-Intern_R-00183707) |
 | Cubist Systematic Strategies | Quantitative Developer Intern | — | — | [Apply](https://job-boards.greenhouse.io/point72/jobs/7297613002) |
 
-## zshah101 (2027 + Fall 2026) (111)
+## zshah101 (2027 + Fall 2026) (119)
 
 | Company | Role | Posted | Applied | Link |
 |---|---|---|---|---|
+| Citizens Financial Group | Cloud Engineer Summer 2027 Intern \| Enterprise Technology & Security Summer Internship Program | 2026-09-11 | — | [Apply](https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49284) |
+| DV Trading | Software Developer Intern - Summer 2027 (DV Equities) | 2026-09-11 | — | [Apply](https://job-boards.greenhouse.io/dvtrading/jobs/4733138005) |
+| AllianceBernstein | Infrastructure Engineering Summer Intern | 2026-09-10 | — | [Apply](https://abglobal.wd1.myworkdayjobs.com/abcampuscareers/job/Nashville-Tennessee/Infrastructure-Engineering-Summer-Intern_R0019749) |
+| Cox | Infrastructure Operations Intern - Summer 2027 | 2026-09-10 | — | [Apply](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Infrastructure-Operations-Intern---Summer-2027_R202682357) |
+| Cox | Infrastructure Automation Intern - Summer 2027 | 2026-09-10 | — | [Apply](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Infrastructure-Automation-Intern---Summer-2027_R202682338) |
+| Hudl | Software Quality Assurance Engineering Intern | 2026-09-10 | — | [Apply](https://job-boards.greenhouse.io/hudl/jobs/8155102) |
+| Ketjen | Ketjen Summer 2027 Data Science Internship | 2026-09-10 | — | [Apply](https://albemarle.wd5.myworkdayjobs.com/ketjenexternal/job/Houston-Texas-United-States-of-America/Ketjen-Summer-2027-Data-Science-Internship_REQ-31411) |
 | Cigna Group | The Cigna Group's Technology Development Program  -  Infrastructure & Cloud Engineering Track Summer Internship | 2026-09-10 | — | [Apply](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/CT-Bloomfield-900-Cottage-Grove-Rd-Wilde-Bldg/The-Cigna-Group-s-Technology-Development-Program-----Infrastructure---Cloud-Engineering-Track_26009529) |
 | Magna International | Intern - Engineering Software | 2026-09-10 | — | [Apply](https://magna.wd3.myworkdayjobs.com/Magna/job/Southfield-Michigan-US/Intern---Engineering-Software_R00260232) |
 | Schonfeld | 2027 Platform Engineering Intern | 2026-09-10 | — | [Apply](https://job-boards.greenhouse.io/schonfeld/jobs/8171699) |
 | Ameriprise Financial | Data Analytics & AI Intern - RiverSource | 2026-09-10 | — | [Apply](https://ameriprise.wd5.myworkdayjobs.com/Ameriprise/job/Minneapolis-Minnesota/Data-Analytics---AI-Intern---RiverSource_R26_3595) |
 | LabCorp | Intern - Data Science - Oncology | 2026-09-10 | — | [Apply](https://labcorp.wd1.myworkdayjobs.com/external/job/Baltimore-MD/Intern---Data-Science---Oncology_2630590) |
+| Hypertherm | Summer Intern - Software Engineering | 2026-09-09 | — | [Apply](https://hypertherm.wd503.myworkdayjobs.com/hypertherm-careers/job/West-Lebanon-NH/Summer-Intern---Software-Engineering_R4005) |
 | CACI | DevOps/Software Engineering Intern - Summer 2027 | 2026-09-09 | — | [Apply](https://caci.wd1.myworkdayjobs.com/external/job/Denver-CO-US/DevOps-Software-Engineering-Intern---Summer-2027_331798) |
 | Immuta | Platform & Site Reliability Engineering Internship - Summer 2027 | 2026-09-09 | — | [Apply](https://jobs.lever.co/immuta/3c4cb235-6138-4a50-add2-666a5216427e) |
 | Pilot Company | Program Intern, Infrastructure Support | 2026-09-09 | — | [Apply](https://jobs.smartrecruiters.com/PilotCompany/744000148577368) |
