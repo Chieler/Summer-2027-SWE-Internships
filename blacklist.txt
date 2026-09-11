@@ -1,0 +1,24 @@
+# Blacklist — postings to permanently hide (e.g. ones you found already filled).
+#
+# HOW TO USE (phone-only):
+#   1. When you spot a dead/filled posting in your README, copy its Apply link.
+#   2. Open this file on GitHub, tap edit (pencil), and paste the link on its
+#      own new line below.
+#   3. Commit. The next run will skip it.
+#
+# Notes:
+#   - One entry per line.
+#   - Lines starting with # are comments and are ignored.
+#   - Matching is "contains", so you can paste the whole URL OR just a unique
+#     piece of it (like the job ID). Example: both of these would work for the
+#     same posting:
+#
+# Add your entries below this line:
+https://jobs.ashbyhq.com/applied/5bb0567a-8d07-4cc4-be7c-c06b31361883
+https://careers.dovercorporation.com/job/Keene-Software-Engineer-Intern-NH-03431/1404722033
+https://vetsez.breezy.hr/
+https://jobs.ashbyhq.com/hiverge/ea6edea4-5216-4cdc-b368-909ba91c78a3/application
+https://job-boards.greenhouse.io/aircapture/jobs/4687916006
+https://interac.wd3.myworkdayjobs.com/Interac/job/Toronto/Software-Development-Intern_REQ-227
+https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/Database-Analyst--Fall-2026--Co-op-Internship----4-months_R260018622-1
+https://job-boards.greenhouse.io/bugcrowd/jobs/8016582
