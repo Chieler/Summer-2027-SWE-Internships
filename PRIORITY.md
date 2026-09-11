@@ -1,6 +1,6 @@
 # 🔥 Priority — Fresh Summer 2027 Roles
 
-_**Pulled:** 2026-09-11 16:04 UTC  —  761 role(s) explicitly tagged Summer 2027 and posted within the last 14 days._
+_**Pulled:** 2026-09-11 16:55 UTC  —  763 role(s) explicitly tagged Summer 2027 and posted within the last 14 days._
 
 | Company | Role | Posted | Applied | Link |
 |---|---|---|---|---|
@@ -22,6 +22,8 @@ _**Pulled:** 2026-09-11 16:04 UTC  —  761 role(s) explicitly tagged Summer 202
 | Citizens Financial Group | Business Insights Intern - Multiple Teams | 2026-09-11 | — | [Apply](https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49283) |
 | Citizens Financial Group | Data Analyst Intern - Multiple Teams | 2026-09-11 | — | [Apply](https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49282) |
 | Citizens Financial Group | Data Engineer Intern - Enterprise Technology & Security | 2026-09-11 | — | [Apply](https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49285) |
+| Westinghouse Electric Company | Finance Analyst Intern | 2026-09-11 | — | [Apply](https://careers.westinghousenuclear.com/job/Madison-Summer-Intern-Finance-Analyst-PA-15663/1427820800/?ats=successfactors) |
+| Johns Hopkins Applied Physics Laboratory | Decision Science Intern - Software Engineer | 2026-09-11 | — | [Apply](https://careers.jhuapl.edu/jobs/60040?icims=1) |
 | Citizens Financial Group | Cloud Engineer Summer 2027 Intern \| Enterprise Technology & Security Summer Internship Program | 2026-09-11 | — | [Apply](https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49284) |
 | Citizens Financial Group | Data Science Undergraduate 2027 Summer Intern | 2026-09-11 | — | [Apply](https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49276) |
 | DV Trading | Software Developer Intern - Summer 2027 (DV Equities) | 2026-09-11 | — | [Apply](https://job-boards.greenhouse.io/dvtrading/jobs/4733138005) |

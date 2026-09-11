@@ -1,6 +1,6 @@
 # 2027 SWE / Software-Adjacent Internships
 
-_**Pulled:** 2026-09-11 16:04 UTC  —  2251 matching roles found this run._
+_**Pulled:** 2026-09-11 16:55 UTC  —  2251 matching roles found this run._
 
 **[Open live LinkedIn search](https://www.linkedin.com/jobs/search/?keywords=software%20engineer%20intern%202027&f_E=1&f_JT=I)** (LinkedIn can't be scraped reliably from CI, so this is a one-tap live link instead.)
 
@@ -39,6 +39,8 @@ _**Pulled:** 2026-09-11 16:04 UTC  —  2251 matching roles found this run._
 | Tesla | Software Engineer Intern - Data Platforms | 2026-09-11 | — | [Apply](https://www.tesla.com/careers/search/job/283117) |
 | Tesla | Robotics Physics Modeling Engineer Intern - Model Based Design - Optimus | 2026-09-11 | — | [Apply](https://www.tesla.com/careers/search/job/283128) |
 | DiligenceVault | AI Engineer Intern | 2026-09-11 | — | [Apply](https://diligencevault.applytojob.com/apply/Yo3RhxiDyM/AI-Engineer-Intern) |
+| Westinghouse Electric Company | Finance Analyst Intern | 2026-09-11 | — | [Apply](https://careers.westinghousenuclear.com/job/Madison-Summer-Intern-Finance-Analyst-PA-15663/1427820800/?ats=successfactors) |
+| Johns Hopkins Applied Physics Laboratory | Decision Science Intern - Software Engineer | 2026-09-11 | — | [Apply](https://careers.jhuapl.edu/jobs/60040?icims=1) |
 | Citizens Financial Group | Data Science Undergraduate 2027 Summer Intern | 2026-09-11 | — | [Apply](https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49276) |
 | Tradeweb | Software Developer Intern - STP | 2026-09-10 | — | [Apply](https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301914) |
 | Tradeweb | AI Software Engineer Intern | 2026-09-10 | — | [Apply](https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301902) |
@@ -1305,7 +1307,6 @@ _**Pulled:** 2026-09-11 16:04 UTC  —  2251 matching roles found this run._
 | Micron Technology | Marketing Analytics Intern - Global Communications & Marketing | 2026-08-27 | — | [Apply](https://micron.wd1.myworkdayjobs.com/External/job/Meridian-ID/Intern---Marketing-Analytics_JR109458) |
 | Vertiv | Innovation Lab Engineer Intern 1 | 2026-08-27 | — | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20280112) |
 | Vertiv | Business Analytics Intern - Summer 2027 | 2026-08-27 | — | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278794) |
-| RTX | Work Transfer Analyst Intern - Global Work Transfer Analyst | 2026-08-27 | — | [Apply](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage-Hiver-2027---Analyste-de-Transfert-du-Travail---Internship-Winter-2027---Global-Work-Transfer-Analyst_01867505) |
 | Metropolitan Transportation Authority | Technology Support Intern - Emerging Talent | 2026-08-27 | — | [Apply](https://jobs.jobvite.com/metropolitantransportationauthority/job/oQsIAfwk?nl=1&nl=1&fr=false) |
 | Clyde Companies | Finance Intern | 2026-08-27 | — | [Apply](https://careers.clydeinc.com/jobs/35824?icims=1) |
 | Clyde Companies | Accounting Intern | 2026-08-27 | — | [Apply](https://careers.clydeinc.com/jobs/23980?icims=1) |
@@ -1800,7 +1801,6 @@ _**Pulled:** 2026-09-11 16:04 UTC  —  2251 matching roles found this run._
 | LPL Financial Holdings | Data Engineer Intern - Data | 2026-08-10 | — | [Apply](https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/Summer-Intern-2027---Data_R-052914) |
 | Micron Technology | DRAM IP Circuits Design Engineer Intern - IP Development | 2026-08-10 | — | [Apply](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---DRAM-IP-Circuits-Design-Engineer_JR108471) |
 | Micron Technology | DRAM Design Engineer Intern | 2026-08-10 | — | [Apply](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---DRAM-Design-Engineer_JR108468) |
-| Teledyne | Electrical Engineer Intern | 2026-08-10 | — | [Apply](https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Miamisburg-OH/Electrical-Engineering-Intern_REQ35563) |
 | Commercial Metals | AI Intern | 2026-08-10 | — | [Apply](https://jobs.cmc.com/job/Irving-AI-Intern-SIOP-TX-75039/1417644400/?ats=successfactors) |
 | Capula | Trading and Research Intern | 2026-08-08 | — | [Apply](https://apply.workable.com/capula-investment-management-ltd/j/A15A62A8BE/apply) |
 | WallStreetQuants | Quantitative Trading Intern | 2026-08-08 | — | [Apply](https://apply.workable.com/wallstreetquants/j/8CB119E789/apply) |
