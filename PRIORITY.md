@@ -1,6 +1,6 @@
 # 🔥 Priority — Fresh Summer 2027 Roles
 
-_**Pulled:** 2026-09-12 15:59 UTC  —  825 role(s) explicitly tagged Summer 2027 and posted within the last 14 days._
+_**Pulled:** 2026-09-13 16:50 UTC  —  821 role(s) explicitly tagged Summer 2027 and posted within the last 14 days._
 
 | Company | Role | Posted | Applied | Link |
 |---|---|---|---|---|
@@ -9,6 +9,8 @@ _**Pulled:** 2026-09-12 15:59 UTC  —  825 role(s) explicitly tagged Summer 202
 | Constellation Energy | Information Technology Software Development Intern | 2026-09-12 | — | [Apply](https://jobs.constellationenergy.com/jobs/138708?icims=1) |
 | Constellation Energy | IT Data Engineering Intern | 2026-09-12 | — | [Apply](https://jobs.constellationenergy.com/jobs/138716?icims=1) |
 | Energy Transfer Partners | Power Optimization Intern | 2026-09-12 | — | [Apply](https://energytransfer.taleo.net/careersection/etp_ext/jobdetail.ftl?job=2610003535) |
+| Klaviyo | Software Engineer Intern - Summer 2027 | 2026-09-12 | — | [Apply](https://job-boards.greenhouse.io/klaviyocampus/jobs/7989364003) |
+| AnaVation | Computer Science Intern - Summer 2027 | 2026-09-12 | — | [Apply](https://jobs.lever.co/anavationllc/4a82ae00-30f0-410c-bf3c-f1cdd18739e7/apply) |
 | Bedrock Robotics | Hardware Engineer Intern | 2026-09-11 | — | [Apply](https://jobs.ashbyhq.com/bedrock-robotics/949feb1b-c60f-43c5-94de-7dd9cd70ba4a/application?embed=true) |
 | Vertiv | Innovation Lab Intern | 2026-09-11 | — | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20280126) |
 | Tanium | Software Engineer Intern - Summer 2027 | 2026-09-11 | — | [Apply](https://job-boards.greenhouse.io/tanium/jobs/8181017) |
@@ -97,7 +99,6 @@ _**Pulled:** 2026-09-12 15:59 UTC  —  825 role(s) explicitly tagged Summer 202
 | Leidos | Artificial Intelligence/Machine Learning Intern | 2026-09-11 | — | [Apply](https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/AI-ML-Intern_R-00192042) |
 | Qualcomm | Machine Learning Compiler & Performance Engineering Intern - Systems | 2026-09-11 | — | [Apply](https://qualcomm.eightfold.ai/careers/job/446721064018) |
 | USAA | Product Management Analyst Intern - Property and Casualty | 2026-09-11 | — | [Apply](https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/San-Antonio-Home-Office-I/P-C-Product-Management-Analyst-Intern_R0120949) |
-| Klaviyo | Software Engineer Intern (Summer 2027) | 2026-09-11 | — | [Apply](https://job-boards.greenhouse.io/klaviyocampus/jobs/7989364003) |
 | Amgen | Undergrad Intern – Data Engineer – Amgen’s Technology & Medical Organizations (Summer 2027) | 2026-09-11 | — | [Apply](https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Undergrad-Intern---Data-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255708) |
 | Commure | Software Engineering Intern, Summer 2027 | 2026-09-11 | — | [Apply](https://jobs.ashbyhq.com/commure/62841aa1-3ee5-4547-8380-637b737b2cb3) |
 | Citizens Financial Group | Data Science Undergraduate 2027 Summer Intern | 2026-09-11 | — | [Apply](https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49276) |
@@ -235,7 +236,6 @@ _**Pulled:** 2026-09-12 15:59 UTC  —  825 role(s) explicitly tagged Summer 202
 | Xcel Energy | Residential Energy Product Strategy Intern | 2026-09-09 | — | [Apply](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Denver-CO-80205/Residential-Energy-Product-Strategy-Intern--CO_JR115817-1) |
 | Cigna Group | AI Engineer Intern | 2026-09-09 | — | [Apply](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/TX-Austin-11501-Alterra-Pkwy-STE-500/The-Cigna-Group-s-Technology-Development-Program---AI-Engineering-Track-Summer-Internship_26009535) |
 | Cigna Group | Data & Analytics Engineering Intern - Technology Development Program | 2026-09-09 | — | [Apply](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Bloomfield-CT/The-Cigna-Group-s-Technology-Development-Program---Data---Analytics-Engineering-Track-Summer-Internship_26009533) |
-| Northrop Grumman | Data Analytics Intern | 2026-09-09 | — | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Data-Analytics-Intern---Clearfield-UT_R10250086) |
 | General Dynamics Mission Systems | Payload Control System Software/Systems Engineering Intern - Summer 2027 | 2026-09-09 | — | [Apply](https://careers-gdms.icims.com/jobs/74848/job?mobile=true&needsRedirect=false) |
 | Barnes & Thornburg | Information Technology AI Intern | 2026-09-09 | — | [Apply](https://jobs.ashbyhq.com/barnes/af9258a6-b6e6-4714-92dc-a9952c0590a7/application?embed=true) |
 | Saronic | Forward Deployed Engineer Intern - Summer 2027 | 2026-09-09 | — | [Apply](https://jobs.ashbyhq.com/saronic/cffe4bc2-5f34-45bf-904d-e9a6c8a8e5ce/application?embed=true) |
@@ -420,7 +420,6 @@ _**Pulled:** 2026-09-12 15:59 UTC  —  825 role(s) explicitly tagged Summer 202
 | Ragle Inc | Data Analytics Intern | 2026-09-04 | — | [Apply](https://ragleinc.applytojob.com/apply/H0xLKtFZlq/Data-Analytics-Intern-Summer-2027) |
 | Westinghouse Electric Company | Enovia PLM Developer Intern - Enovia PLM | 2026-09-04 | — | [Apply](https://careers.westinghousenuclear.com/job/Cranberry-Township-Summer-Intern-Enovia-PLM-NC/1426858600/?ats=successfactors) |
 | Westinghouse Electric Company | Application Development Intern | 2026-09-04 | — | [Apply](https://careers.westinghousenuclear.com/job/Cranberry-Township-Summer-Intern-Application-Development-NC/1426859800/?ats=successfactors) |
-| Ecolab | Research and Development Intern | 2026-09-04 | — | [Apply](https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/USA---Minnesota---Eagan/Research-and-Development-Intern_R00304540) |
 | Perry Homes | Options Analyst Intern | 2026-09-04 | — | [Apply](https://apply.workable.com/perryhomes/j/D309E69A5B/apply) |
 | GE Vernova | Project Engineer Intern - Summer 2027 | 2026-09-04 | — | [Apply](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Bellevue/GE-Vernova---Project-Engineer-Intern---Summer-2027_R5050026-1) |
 | Clarios | Category Analyst Intern | 2026-09-04 | — | [Apply](https://clarios.wd5.myworkdayjobs.com/clarioscareers/job/United-States-Wisconsin-Milwaukee/Category-Analyst-Intern--Summer-2027-_WD50036) |
@@ -818,7 +817,6 @@ _**Pulled:** 2026-09-12 15:59 UTC  —  825 role(s) explicitly tagged Summer 202
 | Manulife Financial | Reporting Analyst Intern | 2026-08-31 | — | [Apply](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Toronto-Ontario/XMLNAME-2027-Canada-Summer-Co-op---Reporting-Analyst_JR26080667) |
 | Stryten | Electrical Engineer Intern | 2026-08-31 | — | [Apply](https://jobs.stryten.com/jobs/5800?icims=1) |
 | Stryten | Industrial or Mechanical Engineering Intern | 2026-08-31 | — | [Apply](https://jobs.stryten.com/jobs/5809?icims=1) |
-| TD Bank | Software Engineer Intern - Software Engineering Rotational Program | 2026-08-31 | — | [Apply](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/New-York-New-York/XMLNAME-2027-Summer-Analyst---Software-Engineering-Rotational-Program--New-York-City-_R_1508053) |
 | NiSource | Change Management Analytics Intern | 2026-08-31 | — | [Apply](https://nisource.wd1.myworkdayjobs.com/NiSource/job/Columbus-OH---Arena-District/Intern-People-Analytics---Change-Management_R00943378) |
 | Sierra | Software Engineer Intern, Agent (Summer 2027) | 2026-08-31 | — | [Apply](https://jobs.ashbyhq.com/sierra/34b31b67-268c-4270-b48f-72e59064c96e) |
 | HP IQ | Software Engineering Intern, Product Security (Summer 2027) | 2026-08-31 | — | [Apply](https://job-boards.greenhouse.io/hpiq/jobs/6116398004) |
@@ -827,8 +825,6 @@ _**Pulled:** 2026-09-12 15:59 UTC  —  825 role(s) explicitly tagged Summer 202
 | Oshkosh | Engineer Intern - Software (Summer 2027) | 2026-08-31 | — | [Apply](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Dodge-Center-Minnesota-United-States/Engineer-Intern---Software--Summer-2026-_R49786) |
 | Awetomaton | Platform Engineering Intern | 2026-08-31 | — | [Apply](https://job-boards.greenhouse.io/awetomaton/jobs/5394046008) |
 | Stryker | Summer 2027 Internship - Software Engineering - Michigan | 2026-08-31 | — | [Apply](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Portage-Michigan/Summer-2027-Internship---Software-Engineering---Michigan_R572632-1) |
-| GE Vernova | Product Management Intern - Controls Lifecare Services | 2026-08-30 | — | [Apply](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Longmont/Product-Management-Intern---Controls-Lifecare-Services_R5050801-2) |
-| Equifax | Site Reliability Engineer Intern | 2026-08-30 | — | [Apply](https://equifax.wd5.myworkdayjobs.com/UR_External/job/USA---Missouri---St-Louis---Lackland/Site-Reliability-Engineer-Intern_J00178674) |
 
 ---
 _Auto-generated. Window: 14 days (edit `PRIORITY_DAYS` in `search.py`). See `README.md` for everything._
