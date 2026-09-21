@@ -1,6 +1,6 @@
 # 🔥 Priority — Fresh Summer 2027 Roles
 
-_**Pulled:** 2026-09-21 15:39 UTC  —  732 role(s) explicitly tagged Summer 2027 and posted within the last 14 days._
+_**Pulled:** 2026-09-21 18:28 UTC  —  729 role(s) explicitly tagged Summer 2027 and posted within the last 14 days._
 
 | Company | Role | Posted | Applied | Link |
 |---|---|---|---|---|
@@ -73,7 +73,6 @@ _**Pulled:** 2026-09-21 15:39 UTC  —  732 role(s) explicitly tagged Summer 202
 | American Express | Marketing Analyst Intern - Undergraduate ICS | 2026-09-17 | — | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013825) |
 | Visa | Software Engineer Intern | 2026-09-17 | — | [Apply](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Denver-CO/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Highlands-Ranch_REF088597W-1) |
 | Visa | Software Engineer Intern - Sophomore Internship Program | 2026-09-17 | — | [Apply](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Austin_REF088596W-1) |
-| Howmet Aerospace | Artificial Intelligence Intern - AI | 2026-09-17 | — | [Apply](https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/119494) |
 | Rothesay | Quantitative Strategist Intern | 2026-09-17 | — | [Apply](https://job-boards.greenhouse.io/rothesaygraduates/jobs/8811533002) |
 | Invesco | ETF Product Development Intern - Early Career | 2026-09-17 | — | [Apply](https://invesco.wd1.myworkdayjobs.com/en-US/IVZ/job/New-York-New-York/Early-Career-Intern-ETF-Product_R-15572-1) |
 | Avis Budget Group | Data Analytics Intern | 2026-09-17 | — | [Apply](https://avisbudget.wd1.myworkdayjobs.com/abg_careers/job/379-Interpace-Pkwy-Parsippany-07054/Accelerate---Data-Analytics-Intern-Summer-2027_R0190389) |
@@ -293,7 +292,6 @@ _**Pulled:** 2026-09-21 15:39 UTC  —  732 role(s) explicitly tagged Summer 202
 | Ulta Beauty | Supply Chain Data & Analytics Intern | 2026-09-14 | — | [Apply](https://careers.ulta.com/jobs/527097?icims=1) |
 | Ulta Beauty | Digital Product Management Intern | 2026-09-14 | — | [Apply](https://careers.ulta.com/jobs/423575?icims=1) |
 | Raymond James Financial | Private Client Banking Strategy, Analytics & Sales Intern | 2026-09-14 | — | [Apply](https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesEarlyCareers/job/Saint-Petersburg-Florida---United-States/XMLNAME-2027-Summer-Internship-Program---Private-Client-Banking-Strategy--Analytics----Sales-Intern--St-Petersburg--FL-_R-0013001) |
-| Genworth Financial | Process Improvement Analyst Intern | 2026-09-14 | — | [Apply](https://gnw.wd1.myworkdayjobs.com/GNW/job/Raleigh-North-Carolina/Process-Improvement-Analyst-Intern_REQ-260360-1) |
 | Brevan Howard | Quantitative Analyst Intern - AI | 2026-09-14 | — | [Apply](https://wd3.myworkdaysite.com/recruiting/brevanhoward/BH_ExternalCareers/job/New-York/XMLNAME-2027-Summer-Internship-Program---AI---Quantitative-Analyst--New-York_JR101602) |
 | Johnson & Johnson | Technology and Digital Quality Intern | 2026-09-14 | — | [Apply](https://jj.wd5.myworkdayjobs.com/JJ/job/Raritan-New-Jersey-United-States-of-America/TDQ-Intern_R-098463) |
 | Clarios | People Analytics Intern - Summer 2027 | 2026-09-14 | — | [Apply](https://clarios.wd5.myworkdayjobs.com/clarioscareers/job/United-States-Wisconsin-Milwaukee/People-Analytics---AI-Intern--Summer-2027-_WD50216) |
@@ -339,7 +337,6 @@ _**Pulled:** 2026-09-21 15:39 UTC  —  732 role(s) explicitly tagged Summer 202
 | Wex | Software Engineer Intern - AI & Cloud | 2026-09-14 | — | [Apply](https://wexinc.wd5.myworkdayjobs.com/en-US/WEXInc/job/US---Remote/Software-Engineer-Intern---AI---Cloud--Graduate-Master-s-_R22546) |
 | Wex | Backend Software Engineer Intern - Cloud Security & AI - Undergraduate | 2026-09-14 | — | [Apply](https://wexinc.wd5.myworkdayjobs.com/en-US/WEXInc/job/US---Remote/Backend-Software-Engineer-Intern---C---Cloud-Security---AI--Undergraduate-_R22589) |
 | Awardco | Back-End Software Engineer Intern | 2026-09-14 | — | [Apply](https://award.co/position?gh_jid=4322220004) |
-| Awardco | Front-End Software Engineer Intern | 2026-09-14 | — | [Apply](https://award.co/position?gh_jid=4136562004) |
 | General Motors | Summer Intern - Performance Analysis | 2026-09-14 | — | [Apply](https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Concord-North-Carolina-United-States-of-America/XMLNAME-2027-Summer-Intern---Performance-Analysis_JR-202619985) |
 | General Motors | Race Strategy & Analytics Intern - IndyCar | 2026-09-14 | — | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Concord-North-Carolina-United-States-of-America/XMLNAME-2027-Summer-Intern---IndyCar-Race-Strategy---Analytics_JR-202619990) |
 | Xcel Energy | Energy Programs Strategy & Analytics Intern | 2026-09-14 | — | [Apply](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Minneapolis-MN-55401/Energy-Programs-Strategy---Analytics-Intern---MN_JR115669-1) |
@@ -495,7 +492,6 @@ _**Pulled:** 2026-09-21 15:39 UTC  —  732 role(s) explicitly tagged Summer 202
 | Danaher | Data Analytics Intern | 2026-09-10 | — | [Apply](https://danaher.wd1.myworkdayjobs.com/danaherjobs/job/Logan-Utah-United-States/Data-Analytics-Intern-Summer-2027_R1317525) |
 | Wellington Management | Technology Undergraduate Intern | 2026-09-10 | — | [Apply](https://wellington.wd5.myworkdayjobs.com/Campus/job/Boston-MA-United-States/Technology-Undergraduate-Summer-Internship_R94778) |
 | National Information Solutions Cooperative | Database Conversion Programming Intern | 2026-09-10 | — | [Apply](https://job-boards.greenhouse.io/nisc/jobs/8094408) |
-| Target | Software Engineer Intern | 2026-09-10 | — | [Apply](https://target.wd5.myworkdayjobs.com/targetcareers/job/7000-Target-Pkwy-NNCD-0375-Brooklyn-ParkMN-55445/Software-Engineering-Summer-Internship-Minneapolis--MN--Starting-June-2027-_R0000451082) |
 | Walmart | Senior Data Scientist Intern | 2026-09-10 | — | [Apply](https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-ISD-Office---DGTC-AR-BENTONVILLE-Home-Office/Summer-2027-Intern--Intern--Sr-Data-Science_R-2630032) |
 | Humana | Analytics Intern | 2026-09-10 | — | [Apply](https://humana.wd5.myworkdayjobs.com/humana_external_career_site/job/Louisville-KY/Graduate-Analytics-Internship---Summer-2027_R-429772) |
 | The Toro Company | Hardware and Software Engineering Intern | 2026-09-10 | — | [Apply](https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Perry-OK/Hardware-and-Software-Engineering-Intern---Ditch-Witch_JR17183) |
@@ -539,6 +535,7 @@ _**Pulled:** 2026-09-21 15:39 UTC  —  732 role(s) explicitly tagged Summer 202
 | Cox | Infrastructure Automation Intern - Summer 2027 | 2026-09-10 | — | [Apply](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Infrastructure-Automation-Intern---Summer-2027_R202682338) |
 | Cox | Infrastructure Operations Intern - Summer 2027 | 2026-09-10 | — | [Apply](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Infrastructure-Operations-Intern---Summer-2027_R202682357) |
 | Cigna Group | The Cigna Group's Technology Development Program  -  Infrastructure & Cloud Engineering Track Summer Internship | 2026-09-10 | — | [Apply](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/CT-Bloomfield-900-Cottage-Grove-Rd-Wilde-Bldg/The-Cigna-Group-s-Technology-Development-Program-----Infrastructure---Cloud-Engineering-Track_26009529) |
+| Target | Software Engineering Summer Internship-Minneapolis, MN (Starting June 2027) | 2026-09-10 | — | [Apply](https://target.wd5.myworkdayjobs.com/targetcareers/job/7000-Target-Pkwy-NNCD-0375-Brooklyn-ParkMN-55445/Software-Engineering-Summer-Internship-Minneapolis--MN--Starting-June-2027-_R0000451082) |
 | Schonfeld | 2027 Platform Engineering Intern | 2026-09-10 | — | [Apply](https://job-boards.greenhouse.io/schonfeld/jobs/8171699) |
 | CACI | Software Engineering Intern - Summer 2027 | 2026-09-10 | — | [Apply](https://caci.wd1.myworkdayjobs.com/external/job/Denver-CO-US/Software-Engineering-Intern---Summer-2027_331543-1) |
 | LabCorp | Intern - Data Science - Oncology | 2026-09-10 | — | [Apply](https://labcorp.wd1.myworkdayjobs.com/external/job/Baltimore-MD/Intern---Data-Science---Oncology_2630590) |
