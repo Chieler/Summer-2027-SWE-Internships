@@ -1,6 +1,6 @@
 # 🔥 Priority — Fresh Summer 2027 Roles
 
-_**Pulled:** 2026-09-21 18:28 UTC  —  729 role(s) explicitly tagged Summer 2027 and posted within the last 14 days._
+_**Pulled:** 2026-09-21 18:51 UTC  —  728 role(s) explicitly tagged Summer 2027 and posted within the last 14 days._
 
 | Company | Role | Posted | Applied | Link |
 |---|---|---|---|---|
@@ -43,7 +43,6 @@ _**Pulled:** 2026-09-21 18:28 UTC  —  729 role(s) explicitly tagged Summer 202
 | Qualcomm | IP Applications Engineering Intern - Interim Engineering Intern - HW | 2026-09-18 | — | [Apply](https://qualcomm.eightfold.ai/careers/job/446721156615) |
 | Qualcomm | MSIP Digital Design Verification Engineering Intern - HW | 2026-09-18 | — | [Apply](https://qualcomm.eightfold.ai/careers/job/446721156800) |
 | The Brattle Group | Energy Analyst Intern - Economics | 2026-09-18 | — | [Apply](https://job-boards.greenhouse.io/thebrattlegroup/jobs/4735999005) |
-| MetOx International | Data Science Intern - Spring 2027 | 2026-09-18 | — | [Apply](https://job-boards.greenhouse.io/metoxinternationalinc/jobs/5427064008) |
 | The Brattle Group | Energy Analyst Intern - Economics - Multiple Teams | 2026-09-18 | — | [Apply](https://job-boards.greenhouse.io/thebrattlegroup/jobs/4736066005) |
 | Eaton | R&D Engineer Intern - Research & Development Engineering | 2026-09-18 | — | [Apply](https://eaton.eightfold.ai/careers/job/687239185039) |
 | Qualcomm | Electrical and Optical Systems Intern - Silicon Validation Engineer - Interim Engineering Intern - Hardware | 2026-09-18 | — | [Apply](https://qualcomm.eightfold.ai/careers/job/446721156176) |

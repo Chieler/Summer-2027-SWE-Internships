@@ -1,10 +1,10 @@
 # 2027 SWE / Software-Adjacent Internships
 
-_**Pulled:** 2026-09-21 18:28 UTC  —  2588 matching roles found this run._
+_**Pulled:** 2026-09-21 18:51 UTC  —  2587 matching roles found this run._
 
 **[Open live LinkedIn search](https://www.linkedin.com/jobs/search/?keywords=software%20engineer%20intern%202027&f_E=1&f_JT=I)** (LinkedIn can't be scraped reliably from CI, so this is a one-tap live link instead.)
 
-## Simplify/pittcsc (2335)
+## Simplify/pittcsc (2334)
 
 | Company | Role | Posted | Applied | Link |
 |---|---|---|---|---|
@@ -90,7 +90,6 @@ _**Pulled:** 2026-09-21 18:28 UTC  —  2588 matching roles found this run._
 | Qualcomm | MSIP Digital Design Verification Engineering Intern - HW | 2026-09-18 | — | [Apply](https://qualcomm.eightfold.ai/careers/job/446721156800) |
 | The Brattle Group | Energy Analyst Intern - Economics | 2026-09-18 | — | [Apply](https://job-boards.greenhouse.io/thebrattlegroup/jobs/4735999005) |
 | Rundoo | Marketing Engineer Intern | 2026-09-18 | — | [Apply](https://jobs.ashbyhq.com/rundoo/72f01e6a-dcd1-4620-a915-374890bcacf7/application?embed=true) |
-| MetOx International | Data Science Intern - Spring 2027 | 2026-09-18 | — | [Apply](https://job-boards.greenhouse.io/metoxinternationalinc/jobs/5427064008) |
 | The Brattle Group | Energy Analyst Intern - Economics - Multiple Teams | 2026-09-18 | — | [Apply](https://job-boards.greenhouse.io/thebrattlegroup/jobs/4736066005) |
 | Eaton | R&D Engineer Intern - Research & Development Engineering | 2026-09-18 | — | [Apply](https://eaton.eightfold.ai/careers/job/687239185039) |
 | Qualcomm | Electrical and Optical Systems Intern - Silicon Validation Engineer - Interim Engineering Intern - Hardware | 2026-09-18 | — | [Apply](https://qualcomm.eightfold.ai/careers/job/446721156176) |
