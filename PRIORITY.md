@@ -1,10 +1,13 @@
 # 🔥 Priority — Fresh Summer 2027 Roles
 
-_**Pulled:** 2026-09-25 14:34 UTC  —  536 role(s) explicitly tagged Summer 2027 and posted within the last 14 days._
+_**Pulled:** 2026-09-25 17:10 UTC  —  535 role(s) explicitly tagged Summer 2027 and posted within the last 14 days._
 
 | Company | Role | Posted | Applied | Link |
 |---|---|---|---|---|
 | Electronic Arts | Gameplay Engineer Intern | 2026-09-25 | — | [Apply](https://jobs.ea.com/en_US/careers/JobDetail/Gameplay-Engineer-Intern/216245) |
+| Johns Hopkins Applied Physics Laboratory | Space Exploration Software Engineer Intern - Embedded Applications | 2026-09-25 | — | [Apply](https://careers.jhuapl.edu/jobs/60223?icims=1) |
+| First Citizens BancShares | IT Intern - Software Developer | 2026-09-25 | — | [Apply](https://firstcitizens.jibeapply.com/jobs/35709?icims=1) |
+| Barrios | Data and Computer Engineering/Computer Science Intern | 2026-09-25 | — | [Apply](https://careers-barrios.icims.com/jobs/2897/job?mobile=true&needsRedirect=false) |
 | Atlassian | Data Scientist Intern - Multiple Teams | 2026-09-24 | — | [Apply](https://globalcareers-atlassian.icims.com/jobs/26271/data-scientist-intern%2c-2027-summer-u.s./job) |
 | Enterprise Holdings | Data Engineer Intern - IT | 2026-09-24 | — | [Apply](https://us-erac.icims.com/jobs/567651/job?mobile=true&needsRedirect=false) |
 | Arconic | Software Developer Intern | 2026-09-24 | — | [Apply](https://hdnn.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/114233) |
@@ -198,7 +201,6 @@ _**Pulled:** 2026-09-25 14:34 UTC  —  536 role(s) explicitly tagged Summer 202
 | Bracco | Quality Analyst Intern (Software) | 2026-09-21 | — | [Apply](https://bracco.wd103.myworkdayjobs.com/braccocareers/job/USA-Eden-Prairie-Minnesota-55344/Quality-Analyst-Intern--Software-_JR100314) |
 | Stantec | Transportation Planning Intern- Infrastructure (Summer 2027) | 2026-09-21 | — | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1007905) |
 | Booz Allen | University - 2027 Summer Games Software Developer Intern - San Diego, CA | 2026-09-21 | — | [Apply](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/San-Diego-CA/University---2027-Summer-Games-Software-Developer-Intern---San-Diego--CA_R0249799) |
-| Commerce Bank | Intern - Data Analyst (Summer 2027) | 2026-09-21 | — | [Apply](https://commercebank.wd1.myworkdayjobs.com/CommerceJobs/job/MO---Kansas-City-DowntownPlaza---Kansas-City---KC-Downtown-Trust-Building-922-Walnut-64106/Intern-EABI---Data-Analyst-Summer-2027_38484) |
 | Live Oak Bank | Summer 2027 Intern: Software Engineering | 2026-09-21 | — | [Apply](https://liveoakbancshares.wd1.myworkdayjobs.com/Live_Oak/job/Wilmington-NC/Summer-2027-Intern--Software-Engineering_R-002643) |
 | The Aerospace Corporation | Reliability and Statistics Intern | 2026-09-20 | — | [Apply](https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Reliability-and-Statistics-Undergraduate-Intern_R016594) |
 | Qualcomm | Low Power AI Software Development Intern - Interim Engineering Intern - Software | 2026-09-18 | — | [Apply](https://qualcomm.eightfold.ai/careers/job/446721143440) |
@@ -294,10 +296,7 @@ _**Pulled:** 2026-09-25 14:34 UTC  —  536 role(s) explicitly tagged Summer 202
 | LabCorp | Intern – Network Infrastructure & Automation Engineering | 2026-09-17 | — | [Apply](https://labcorp.wd1.myworkdayjobs.com/external/job/Durham-NC/Intern---Network-Infrastructure---Automation-Engineering_2632795) |
 | Marvell | SRAM Software Engineer Intern, BS - Summer 2027 | 2026-09-17 | — | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Burlington-VT/SRAM-Software-Engineer-Intern--BS---Summer-2027_2603760-1) |
 | GM financial | Intern - Oracle Application Developer | 2026-09-17 | — | [Apply](https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260804) |
-| Visa | Software Engineer, Intern - 2027 Ashburn, VA | 2026-09-17 | — | [Apply](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Ashburn-VA/Software-Engineer--Intern---2027-Ashburn--VA_REF088577W-1) |
 | Visa | 2027 Sophomore Internship Program - Software Engineer Intern, Ashburn | 2026-09-17 | — | [Apply](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Ashburn-VA/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Ashburn_REF088599W-1) |
-| Visa | Software Engineer, Intern - 2027 Austin, TX | 2026-09-17 | — | [Apply](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/Software-Engineer--Intern---2027-Austin--TX_REF088544W-1) |
-| Visa | Software Engineer, Intern, Bellevue - 2027 | 2026-09-17 | — | [Apply](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Bellevue-WA/Software-Engineer--Intern--Bellevue---2027_REF088585W-2) |
 | Visa | Software Engineer, Intern - Foster City 2027 | 2026-09-17 | — | [Apply](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Foster-City-CA/Software-Engineer--Intern---Foster-City-2027_REF088587W-1) |
 | Visa | 2027 Sophomore Internship Program - Software Engineer Intern, Foster City | 2026-09-17 | — | [Apply](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Foster-City-CA/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Foster-City_REF088591W-1) |
 | Smith+Nephew | Intern AI Center of Excellence Data Science | 2026-09-17 | — | [Apply](https://smithnephew.wd5.myworkdayjobs.com/External/job/US---Pittsburgh-PA/Intern-AI-Center-of-Excellence-Data-Science_R92480-1) |
