@@ -1,9 +1,18 @@
 # 🔥 Priority — Fresh Summer 2027 Roles
 
-_**Pulled:** 2026-09-28 15:36 UTC  —  421 role(s) explicitly tagged Summer 2027 and posted within the last 14 days._
+_**Pulled:** 2026-09-28 19:59 UTC  —  428 role(s) explicitly tagged Summer 2027 and posted within the last 14 days._
 
 | Company | Role | Posted | Applied | Link |
 |---|---|---|---|---|
+| Blue Cross Blue Shield of Michigan | Summer 2027 Intern - Data Science / Biostatistician | 2026-09-28 | — | [Apply](https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/14837) |
+| Cencora | IT Software Development Intern | 2026-09-28 | — | [Apply](https://myhrabc.wd5.myworkdayjobs.com/Global/job/Conshohocken-PA/IT-Software-Development-Intern_R2614039) |
+| Cencora | IT Software Intern | 2026-09-28 | — | [Apply](https://myhrabc.wd5.myworkdayjobs.com/Global/job/Conshohocken-PA/IT-Software-Intern_R2614031) |
+| Formlabsinternships | Desktop Software Intern (Summer 2027) | 2026-09-28 | — | [Apply](https://job-boards.greenhouse.io/formlabsinternships/jobs/8223362) |
+| Lawrence Livermore National Laboratory (LLNL) | Data Science Institute Graduate Student Intern - Summer 2027 | 2026-09-28 | — | [Apply](https://jobs.smartrecruiters.com/LLNL/3743990015737586) |
+| RTX | Flight Control Software Engineering Intern (Summer 2027) | 2026-09-28 | — | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Flight-Control-Software-Engineering-Intern--Summer-2027-_01871040) |
+| RTX | Software Engineering Intern (Summer 2027) | 2026-09-28 | — | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-124--400-Collins-Rd-NE--BLDG-124/Software-Engineering-Intern--Summer-2027-_01874556) |
+| The Aerospace Corporation | 2027 Software Implementation and Integration Undergrad Cleared Intern | 2026-09-28 | — | [Apply](https://aero.wd5.myworkdayjobs.com/external/job/Chantilly-VA/XMLNAME-2027-Software-Implementation-and-Integration-Undergrad-Cleared-Intern_R016740) |
+| Veterans United | Intern - Software Engineer - Summer 2027 | 2026-09-28 | — | [Apply](https://veteransunited.wd1.myworkdayjobs.com/VUHL/job/Remote-MO/Intern---Software-Engineer---Summer-2027_R6249) |
 | Philips | Intern – Embedded Systems Test Automation Engineer – Bothell, WA – Summer 2027 | 2026-09-28 | — | [Apply](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bothell-Washington-United-States/Intern---Embedded-Systems-Test-Automation-Engineer---Bothell--WA---Summer-2027_592074) |
 | Waymo | Perception Intern - Multiple Teams | 2026-09-26 | — | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8227411) |
 | Atlassian | Research Intern | 2026-09-26 | — | [Apply](https://campus-americas.icims.com/jobs/26270/research-intern%2c-2027-summer-u.s./job) |
@@ -48,10 +57,8 @@ _**Pulled:** 2026-09-28 15:36 UTC  —  421 role(s) explicitly tagged Summer 202
 | Cerity Partners | Investment Data & Technology Intern - Central Solutions | 2026-09-25 | — | [Apply](https://ceritypartners.wd12.myworkdayjobs.com/ceritypartnerscareers/job/New-York-City-NY/Investment-Data---Technology-Analyst-Internship_R929) |
 | The Aerospace Corporation | Software Systems Engineer Intern - Acquisition | 2026-09-25 | — | [Apply](https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Software-Systems-Engineer-and-Acquisition-Intern_R016431) |
 | Philips | Electrical Engineer Intern | 2026-09-25 | — | [Apply](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Cambridge-US-Massachusetts-United-States/Intern---Electrical-Engineering---Cambridge--MA---Summer-2027_592605) |
-| RRS Group | 2027 Associate Software Engineer Intern - Sophomore Only | 2026-09-25 | — | [Apply](https://jobs.smartrecruiters.com/RRSGroup/744000151931819) |
 | Zurn Elkay Water Solutions | IT Infrastructure Intern (Summer 2027) | 2026-09-25 | — | [Apply](https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Milwaukee-WI/IT-Infrastructure-Intern--Summer-2027-_REQ-020160) |
 | AbbVie | 2027 Business Technology Solutions Intern - Cloud Engineering (Undergraduate) | 2026-09-25 | — | [Apply](https://jobs.smartrecruiters.com/AbbVie/3743990015679346) |
-| RTX | Software Engineering Intern (Summer 2027) | 2026-09-25 | — | [Apply](https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Software-Engineering-Intern--Summer-2027-_01878082) |
 | Enterprise Holdings | Data Engineer Intern - IT | 2026-09-24 | — | [Apply](https://us-erac.icims.com/jobs/567651/job?mobile=true&needsRedirect=false) |
 | Arconic | Software Developer Intern | 2026-09-24 | — | [Apply](https://hdnn.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/114233) |
 | Brevan Howard | Systematic Trading Intern - Systematic Trading | 2026-09-24 | — | [Apply](https://wd3.myworkdaysite.com/recruiting/brevanhoward/BH_ExternalCareers/job/London/XMLNAME-2027-Summer-Internship-Program---Systematic-Trading--London_JR101619) |
@@ -74,11 +81,11 @@ _**Pulled:** 2026-09-28 15:36 UTC  —  421 role(s) explicitly tagged Summer 202
 | iRhythm Technologies | Lifecycle Engineering Co-op Intern | 2026-09-24 | — | [Apply](https://irhythmtech.wd5.myworkdayjobs.com/irhythm/job/Orange-County-CA/Lifecycle-Engineering-Co-Op-Full-Time-Intern-Jan-June-2027_JR1784-1) |
 | Tradeweb | Market Data Product Management Intern | 2026-09-24 | — | [Apply](https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301932) |
 | Tradeweb | Quantitative Intern | 2026-09-24 | — | [Apply](https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301931) |
-| Radiance Technologies | Software Engineer Intern | 2026-09-24 | — | [Apply](https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Dayton-Office/Software-Engineer-Intern-Spring-Summer-2027_HR102442) |
 | ABB | Product Management Intern | 2026-09-24 | — | [Apply](https://abb.wd3.myworkdayjobs.com/external_career_page/job/New-Berlin-Wisconsin-United-States-of-America/Product-Management-Intern---Summer-2027_JR00047280) |
 | Radiance Technologies | Modeling Engineer Intern - Analytics, Simulation Sciences, Mass | 2026-09-24 | — | [Apply](https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Beavercreek-OH/XMLNAME-2027-Modeling--Analytics----Simulation-Sciences--MASS--Engineer-Intern_HR102440-1) |
 | Radiance Technologies | Modeling Engineer Intern - Analytics - Simulation Sciences | 2026-09-24 | — | [Apply](https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Beavercreek-OH/XMLNAME-2027-Modeling--Analytics----Simulation-Sciences--MASS--Engineer-Intern_HR102439) |
 | Radiance Technologies | Modeling Engineer Intern - Analytics and Simulation Sciences | 2026-09-24 | — | [Apply](https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Beavercreek-OH/XMLNAME-2027-Modeling--Analytics----Simulation-Sciences--MASS--Engineer-Intern_HR102438) |
+| Radiance Technologies | Software Engineer Intern | 2026-09-24 | — | [Apply](https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Dayton-Office/Software-Engineer-Intern-Spring-Summer-2027_HR102445) |
 | Marvell | Data Center Silicon Hardware Engineering Intern Co-op - BS | 2026-09-24 | — | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Ottawa-Canada/Data-Center-Silicon-Hardware-Engineering-Intern---BS---2027-Co-Op_2604525) |
 | Marathon Petroleum | Geographic Information Systems Intern/Co-op | 2026-09-24 | — | [Apply](https://mpc.wd1.myworkdayjobs.com/en-US/MPCCareers/job/Tulsa-Oklahoma/Intern-Co-op---Midstream-Natural-Gas-and-NGL-Services-Geography-GIS--Summer-2027-_00024411) |
 | LabCorp | Commercial Analytics Intern - ED/Chemistry Solutions Commercial Analytics Team | 2026-09-24 | — | [Apply](https://labcorp.wd1.myworkdayjobs.com/external/job/USA----WI---Milwaukee---3727-W-Wisconsin-Avenue/Intern---Commercial-Analytics_2633615) |
@@ -235,8 +242,8 @@ _**Pulled:** 2026-09-28 15:36 UTC  —  421 role(s) explicitly tagged Summer 202
 | Guardian Life | Summer Intern - Group Benefits Product Management | 2026-09-18 | — | [Apply](https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers/job/Boston/XMLNAME-2027-Guardian-Summer-Intern--Group-Benefits-Product-Management_R000110299) |
 | Publicis Groupe | Product Manager Intern - Class of 2028 | 2026-09-18 | — | [Apply](https://careers.publicisgroupe.com/jobs/172574?icims=1) |
 | AMD | PhD HPC & Sovereign AI Intern/Co-op | 2026-09-18 | — | [Apply](https://careers.amd.com/jobs/92636?icims=1) |
-| Thrivent | Associate Software Engineer Intern | 2026-09-18 | — | [Apply](https://thrivent.wd5.myworkdayjobs.com/external/job/Remote-Minnesota/Associate-Software-Engineer---Sophomore-Intern-Summer-2027_REQ-48457) |
 | CME Group | Software Engineering Intern - Summer 2027 | 2026-09-18 | — | [Apply](https://cmegroup.wd1.myworkdayjobs.com/en-US/cme_careers/job/Chicago---20-S-Wacker/Software-Engineering-Internship---Summer-2027_34821) |
+| Thrivent | Associate Software Engineer Intern | 2026-09-18 | — | [Apply](https://thrivent.wd5.myworkdayjobs.com/external/job/Remote-Minnesota/Associate-Software-Engineer---Junior-Intern-Summer-2027_REQ-48334) |
 | WTW | Data Scientist Intern - P&C Insurance | 2026-09-18 | — | [Apply](https://eedu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/202605997) |
 | Gordon Food Service | Category Insights Analyst Intern | 2026-09-18 | — | [Apply](https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Wyoming-Michigan/NA-Category-Insights-Analyst-Intern_R-57366-1) |
 | Gordon Food Service | Software Engineer Intern - Low Code | 2026-09-18 | — | [Apply](https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Wyoming-Michigan/Software-Engineer-Intern--Low-Code-_R-57375) |
@@ -256,7 +263,7 @@ _**Pulled:** 2026-09-28 15:36 UTC  —  421 role(s) explicitly tagged Summer 202
 | United Parcel Service | Industrial Engineering Intern - Americas Region | 2026-09-18 | — | [Apply](https://hcmportal.wd5.myworkdayjobs.com/en-US/Search/job/US---UPS-CORPORATE-OFFICES-GACOR/XMLNAME-2027-Americas-Region-Industrial-Engineering-Summer-Intern_R26032989) |
 | USAA | Digital/Technical Product Manager Intern - Digital and Omnichannel Servicing | 2026-09-18 | — | [Apply](https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/San-Antonio-Home-Office-I/Operations---Digital-Technical-Product-Manager-Intern_R0121101) |
 | Centene | Analytics Intern | 2026-09-18 | — | [Apply](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-FL/Centene-2027-Graduate-Summer-Intern_1660479) |
-| Thrivent | Associate Software Engineer - Junior Intern Summer 2027 | 2026-09-18 | — | [Apply](https://thrivent.wd5.myworkdayjobs.com/external/job/Remote-Minnesota/Associate-Software-Engineer---Junior-Intern-Summer-2027_REQ-48334) |
+| Thrivent | Associate Software Engineer - Sophomore Intern Summer 2027 | 2026-09-18 | — | [Apply](https://thrivent.wd5.myworkdayjobs.com/external/job/Remote-Minnesota/Associate-Software-Engineer---Sophomore-Intern-Summer-2027_REQ-48457) |
 | Stantec | Transportation Engineering Intern - Infrastructure (Summer 2027) | 2026-09-18 | — | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1007804) |
 | Mastercard | Platform Engineering Intern, Summer 2027 – St. Louis, MO, US | 2026-09-18 | — | [Apply](https://mastercard.wd1.myworkdayjobs.com/Campus/job/OFallon-Missouri/Platform-Engineering-Intern--Summer-2027---St-Louis--MO--US_R-284876) |
 | onsemi | Data and Visualization Intern | 2026-09-17 | — | [Apply](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506638) |
