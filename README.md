@@ -1,10 +1,10 @@
 # 2027 SWE / Software-Adjacent Internships
 
-_**Pulled:** 2026-10-13 19:45 UTC  —  2617 matching roles found this run._
+_**Pulled:** 2026-10-13 21:46 UTC  —  2617 matching roles found this run._
 
 **[Open live LinkedIn search](https://www.linkedin.com/jobs/search/?keywords=software%20engineer%20intern%202027&f_E=1&f_JT=I)** (LinkedIn can't be scraped reliably from CI, so this is a one-tap live link instead.)
 
-## Simplify/pittcsc (2337)
+## Simplify/pittcsc (2336)
 
 | Company | Role | Posted | Applied | Link |
 |---|---|---|---|---|
@@ -1255,7 +1255,6 @@ _**Pulled:** 2026-10-13 19:45 UTC  —  2617 matching roles found this run._
 | Charter Manufacturing | Automation & Analytics Intern | 2026-09-16 | — | [Apply](https://chartermfg.wd5.myworkdayjobs.com/Charter_Careers/job/Charter-Wire---Menomonee-Valley---Milwaukee-WI/Automation---Analytics-Intern--Year-Round-_R08112) |
 | Itron | Firmware Engineer Intern | 2026-09-16 | — | [Apply](https://itron.wd5.myworkdayjobs.com/Early_Careers/job/United-States-of-America-South-Carolina-West-Union/Intern----Firmware-Engineer--Spring-2027-_JR102920) |
 | Ensign-Bickford Industries | Development Engineer Intern | 2026-09-16 | — | [Apply](https://ebi.wd5.myworkdayjobs.com/ebicareers/job/Simsbury-CT/Development-Engineer-Intern_REQ107694-1) |
-| Vermeer | Data Engineer Intern - IT | 2026-09-16 | — | [Apply](https://vermeer.wd5.myworkdayjobs.com/externalcareersite/job/Pella-Iowa-USA---Corporate-Office/IT-Data-Engineer-Intern_REQ-22171) |
 | Mercor | Data Science Intern | 2026-09-16 | — | [Apply](https://jobs.ashbyhq.com/mercor/11516609-e54b-4087-87c2-e84a8bafbb5a/application?embed=true) |
 | Ciena | AI Engineer Intern - Winter 2027 | 2026-09-16 | — | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/AI-Engineer-Intern--Winter-2027-_R031667) |
 | Teledyne | Systems Engineering Intern - Summer 2027 | 2026-09-16 | — | [Apply](https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Huntsville-AL/EADSIM-MBSE-Intern--Summer-2027-_REQ36670-1) |
@@ -2885,7 +2884,7 @@ _498 role(s) across 64 influential companies._
 | Kudu Dynamics | Software Engineer Intern (1) | — | — | [Apply](https://leidos.wd5.myworkdayjobs.com/External/job/Chantilly-VA/Software-Engineer-Intern_R-00183707) |
 | Cubist Systematic Strategies | Quantitative Developer Intern | — | — | [Apply](https://job-boards.greenhouse.io/point72/jobs/7297613002) |
 
-## zshah101 (2027 + Fall 2026) (244)
+## zshah101 (2027 + Fall 2026) (245)
 
 | Company | Role | Posted | Applied | Link |
 |---|---|---|---|---|
@@ -3022,6 +3021,7 @@ _498 role(s) across 64 influential companies._
 | Gecko Robotics | Full Stack Software Engineering Intern | 2026-09-16 | — | [Apply](https://jobs.ashbyhq.com/gecko-robotics/01138338-ff3c-4982-8ba3-5401386bf082) |
 | Gecko Robotics | AI/Machine Learning Engineering Intern | 2026-09-16 | — | [Apply](https://jobs.ashbyhq.com/gecko-robotics/c097505b-0a28-4a33-a917-268f463641e8) |
 | Cartesian | IAP Software Engineering Intern 2027 | 2026-09-16 | — | [Apply](https://job-boards.greenhouse.io/cartesiansystems/jobs/4408204009) |
+| Vermeer | IT Data Engineer Intern | 2026-09-16 | — | [Apply](https://vermeer.wd5.myworkdayjobs.com/externalcareersite/job/Pella-Iowa-USA---Corporate-Office/IT-Data-Engineer-Intern_REQ-22171) |
 | RAVE Aerospace | Intern - Software Engineering (Summer 2027) | 2026-09-15 | — | [Apply](https://apply.workable.com/raveaerospace/j/739753C003/) |
 | PerkinElmer | Data Science Intern, Asset Intelligence | 2026-09-15 | — | [Apply](https://newperkinelmer.wd1.myworkdayjobs.com/External/job/US-Remote---NY/Data-Science-Intern--Asset-Intelligence_REQ-058421) |
 | Hitachi Energy | Intern - Onboard Software Developer | 2026-09-15 | — | [Apply](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Pittsburgh-Pennsylvania-United-States/Intern---Onboard-Software-Developer_R0145042) |
