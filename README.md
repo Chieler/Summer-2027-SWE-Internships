@@ -1,10 +1,10 @@
 # 2027 SWE / Software-Adjacent Internships
 
-_**Pulled:** 2026-10-18 16:20 UTC  —  2360 matching roles found this run._
+_**Pulled:** 2026-10-18 19:13 UTC  —  2359 matching roles found this run._
 
 **[Open live LinkedIn search](https://www.linkedin.com/jobs/search/?keywords=software%20engineer%20intern%202027&f_E=1&f_JT=I)** (LinkedIn can't be scraped reliably from CI, so this is a one-tap live link instead.)
 
-## Simplify/pittcsc (2056)
+## Simplify/pittcsc (2055)
 
 | Company | Role | Posted | Applied | Link |
 |---|---|---|---|---|
@@ -489,7 +489,6 @@ _**Pulled:** 2026-10-18 16:20 UTC  —  2360 matching roles found this run._
 | National Laboratory of the Rockies | Postdoctoral Researcher – Vision Machine Learning Intern | 2026-10-08 | — | [Apply](https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Postdoctoral-Researcher---Vision-Machine-Learning_R14557) |
 | Viget | Software Developer Intern | 2026-10-08 | — | [Apply](https://jobs.lever.co/viget/b18cc87d-fca2-485a-a0f2-ad6197db63f2/apply) |
 | Delta Dental | Government Programs Network Intern | 2026-10-08 | — | [Apply](https://rhsc.wd5.myworkdayjobs.com/delta_dental_of_michigan/job/Okemos-MI/Internship--Government-Programs-Network_JR101489-1) |
-| DocuSign | Software Engineer Intern - Observability - Platform | 2026-10-08 | — | [Apply](https://careers.docusign.com/jobs/30510?icims=1) |
 | IMC Trading | Machine Learning Engineer Intern | 2026-10-08 | — | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4962456101) |
 | Johns Hopkins Applied Physics Laboratory | Analyst/Researcher Intern - Analyst/Researcher | 2026-10-08 | — | [Apply](https://careers.jhuapl.edu/jobs/60433?icims=1) |
 | Hitachi Energy | Software Analyst Intern | 2026-10-08 | — | [Apply](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/Software-Analyst-Intern--Winter-2027--8-12months-_R0145679) |
@@ -915,7 +914,7 @@ _**Pulled:** 2026-10-18 16:20 UTC  —  2360 matching roles found this run._
 | Adobe | MBA Intern - Product Manager | 2026-09-30 | — | [Apply](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-MBA-Intern---Product-Manager_R172261) |
 | Muon Space | Flight Software Engineer Intern | 2026-09-30 | — | [Apply](https://job-boards.greenhouse.io/muonspace/jobs/5247725007) |
 | ITT | Data Analytics / AI Intern - Summer 2027 | 2026-09-30 | — | [Apply](https://careersenus-itt-inc.icims.com/jobs/17657/job?mobile=true&needsRedirect=false) |
-| Marvell | Test Engineer Intern | 2026-09-30 | — | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Test-Engineering-Intern--MS---Summer-2027_2604002-1) |
+| Marvell | Test Engineer Intern | 2026-09-30 | — | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Test-Engineering-Intern--MS---Summer-2027_2604002) |
 | Base Power | Electrical Engineering Intern | 2026-09-30 | — | [Apply](https://jobs.ashbyhq.com/base-power/7284737d-7e04-43e0-af1f-858103f64e97/application?embed=true) |
 | Ramp | Applied Scientist Intern | 2026-09-30 | — | [Apply](https://jobs.ashbyhq.com/ramp/b39ceb08-a0a7-4f8b-a760-2fb88e209956/application?embed=true) |
 | GenScript | AI Intern – Enterprise Agent Development | 2026-09-30 | — | [Apply](https://job-boards.greenhouse.io/genscript/jobs/5253581007) |
