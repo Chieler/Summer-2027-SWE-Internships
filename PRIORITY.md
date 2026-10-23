@@ -1,6 +1,6 @@
 # 🔥 Priority — Fresh Summer 2027 Roles
 
-_**Pulled:** 2026-10-23 17:42 UTC  —  529 role(s) explicitly tagged Summer 2027 and posted within the last 14 days._
+_**Pulled:** 2026-10-23 20:14 UTC  —  534 role(s) explicitly tagged Summer 2027 and posted within the last 14 days._
 
 | Company | Role | Posted | Applied | Link |
 |---|---|---|---|---|
@@ -32,6 +32,11 @@ _**Pulled:** 2026-10-23 17:42 UTC  —  529 role(s) explicitly tagged Summer 202
 | Citi | Technology Placement Analyst Intern - Application Development | 2026-10-23 | — | [Apply](https://citi.wd5.myworkdayjobs.com/2/job/Belfast--United-Kingdom/Technology---Application-Development--Placement-Analyst--Belfast-2027_261002927) |
 | Vertex Pharmaceuticals | International Insights Summer Intern - Analytics and Commercial Operations | 2026-10-23 | — | [Apply](https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/Paddington-United-Kingdom/International-Insights--Analytics-and-Commercial-Operations---Summer-Intern--10-weeks-_REQ-30453-1) |
 | PA Consulting | Industrial Placement Intern - Digital - Digital & Data | 2026-10-23 | — | [Apply](https://jobs.smartrecruiters.com/PAConsulting/744000157427038) |
+| Auto-Owners Insurance | Business Intelligence Developer Internship - Summer 2027 | 2026-10-23 | — | [Apply](https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Business-Intelligence-Developer-Internship---Summer-2027_R_14772) |
+| American Family Insurance Group | AI Platform Engineering Intern (Hybrid) | 2026-10-23 | — | [Apply](https://amfam.wd1.myworkdayjobs.com/Careers/job/WI-Madison/Product-Data-Engineering-Intern--Hybrid-_R39462) |
+| Merck | 2027 Future Talent Program - Data, AI, and Genome Sciences - Intern | 2026-10-23 | — | [Apply](https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Massachusetts---Cambridge-320-Bent-Street/XMLNAME-2027-Future-Talent-Program---Data--AI--and-Genome-Sciences---Intern_R423333) |
+| Merck | 2027 Future Talent Program - AI/ML Biomedical Imaging and Computational Pathology - Intern | 2026-10-23 | — | [Apply](https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Massachusetts---Cambridge-320-Bent-Street/XMLNAME-2027-Future-Talent-Program---AI-ML-Biomedical-Imaging-and-Computational-Pathology---Intern_R423515) |
+| Merck | 2027 Future Talent Program - Data, AI, and Genome Sciences, Foundation Models - Intern | 2026-10-23 | — | [Apply](https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Massachusetts---Cambridge-320-Bent-Street/XMLNAME-2027-Future-Talent-Program---Data--AI--and-Genome-Sciences--Foundation-Models---Intern_R423438) |
 | Cisco | Software Engineer Intern, Embedded Systems II | 2026-10-22 | — | [Apply](https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Software-Engineer-Embedded-Systems-II--Intern----United-States_2026805) |
 | Cisco | Software Engineer Intern, Full Stack / Backend I | 2026-10-22 | — | [Apply](https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Software-Engineer-Full-Stack---Backend-I--Intern----United-States_2025924) |
 | Cisco | Software Engineer Intern, Full Stack / Backend II | 2026-10-22 | — | [Apply](https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Software-Engineer-Full-Stack---Backend-II--Intern----United-States_2026800) |
