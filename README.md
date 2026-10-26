@@ -1,10 +1,10 @@
 # 2027 SWE / Software-Adjacent Internships
 
-_**Pulled:** 2026-10-26 19:01 UTC  —  2320 matching roles found this run._
+_**Pulled:** 2026-10-26 22:14 UTC  —  2322 matching roles found this run._
 
 **[Open live LinkedIn search](https://www.linkedin.com/jobs/search/?keywords=software%20engineer%20intern%202027&f_E=1&f_JT=I)** (LinkedIn can't be scraped reliably from CI, so this is a one-tap live link instead.)
 
-## Simplify/pittcsc (1681)
+## Simplify/pittcsc (1675)
 
 | Company | Role | Posted | Applied | Link |
 |---|---|---|---|---|
@@ -76,7 +76,6 @@ _**Pulled:** 2026-10-26 19:01 UTC  —  2320 matching roles found this run._
 | SOTI | Associate Product Manager Intern | 2026-10-23 | — | [Apply](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Associate-Product-Manager-Intern--SOTI-XSight---May-2027---12-Months-_R10614) |
 | Waymo | Software Engineer Intern - MS/PhD - ML Frameworks and Efficiency | 2026-10-23 | — | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8287385) |
 | Merck | Future Talent Program Intern - AI/ML Biomedical Imaging and Computational Pathology | 2026-10-23 | — | [Apply](https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Massachusetts---Cambridge-320-Bent-Street/XMLNAME-2027-Future-Talent-Program---AI-ML-Biomedical-Imaging-and-Computational-Pathology---Intern_R423515) |
-| Mayo Clinic | Undergraduate Intern - Neurology AI | 2026-10-23 | — | [Apply](https://fa-euwp-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/391876) |
 | Thales | Tools and Process Development Intern | 2026-10-23 | — | [Apply](https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Montreal/Stagiaire-en-dveloppement-outils---processus-outill_R0343987-1) |
 | American University | Imagery Analysis Research Assistant Intern | 2026-10-23 | — | [Apply](https://american.wd1.myworkdayjobs.com/au/job/Main-Campus-Washington-DC/Imagery-Analysis-Research-Assistant---Student-_R5120-1) |
 | Navy Federal | Data Analytics Intern | 2026-10-23 | — | [Apply](https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/33208) |
@@ -337,7 +336,6 @@ _**Pulled:** 2026-10-26 19:01 UTC  —  2320 matching roles found this run._
 | Waymo | Machine Learning Intern - Simulation & Closed-Loop Training | 2026-10-19 | — | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8283558) |
 | Microsoft | Applied Science PhD Internship | 2026-10-19 | — | [Apply](https://apply.careers.microsoft.com/careers/job/1970393557042487) |
 | General Dynamics Information Technology | Software Developer Intern | 2026-10-19 | — | [Apply](https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-NJ-Egg-Harbor-Township/GDIT-Summer-Internship-Program---Summer-2027-Software-Development-Internship--_RQ230643) |
-| Insomniac Games | Gameplay Programmer Intern | 2026-10-19 | — | [Apply](https://job-boards.greenhouse.io/insomniac/jobs/6226611004) |
 | Commonwealth of Massachusetts | Data Information and Project Support Intern | 2026-10-19 | — | [Apply](https://massanf.taleo.net/careersection/ex/jobdetail.ftl?job=26000721) |
 | Meta | Research Scientist Intern - Smart Glasses in Wearables AI | 2026-10-19 | — | [Apply](https://www.metacareers.com/jobs/1584033410435097) |
 | Meta | Research Scientist Intern - On-Device AI Model Optimization | 2026-10-19 | — | [Apply](https://www.metacareers.com/jobs/4455569504707135) |
@@ -534,7 +532,6 @@ _**Pulled:** 2026-10-26 19:01 UTC  —  2320 matching roles found this run._
 | Astera Labs | Analog/Mixed Signal System Test Engineer Intern | 2026-10-13 | — | [Apply](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4739769005) |
 | Astera Labs | Analog/Mixed-Signal IC Design Engineer Intern | 2026-10-13 | — | [Apply](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4739756005) |
 | Lake Michigan Credit Union | Business Intelligence Intern | 2026-10-13 | — | [Apply](https://lmcu.wd5.myworkdayjobs.com/lmcucareersite/job/Grand-Rapids-MI/Business-Intelligence-Intern_REQ-2026-6972) |
-| SOTI | Software Developer Intern | 2026-10-13 | — | [Apply](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern---SOTI-MobiControl-Apple-HQ--January-2027-12-Months-_R10551-2) |
 | Vertiv | Data Analytics Intern | 2026-10-13 | — | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278852) |
 | The Toro Company | IT Business Analyst Intern | 2026-10-13 | — | [Apply](https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Perry-OK/IT-Business-Analyst-Intern---Ditch-Witch_JR17608) |
 | CoStar Group | Product Intern | 2026-10-13 | — | [Apply](https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/US-VA-Richmond---CoStar-Tower/Product-Intern---Richmond--VA--Summer-2027-_R39900) |
@@ -875,7 +872,6 @@ _**Pulled:** 2026-10-26 19:01 UTC  —  2320 matching roles found this run._
 | Hewlett Packard Enterprise | Electrical Engineer Intern | 2026-10-06 | — | [Apply](https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Spring-Texas-United-States-of-America/Electrical-Engineering-Labs-Intern_1213083) |
 | Macy's | Data Systems Intern - Multiple Teams | 2026-10-06 | — | [Apply](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/93388) |
 | West Monroe | Market Research Associate Intern | 2026-10-06 | — | [Apply](https://westmonroe.com/careers/job-details-students?gh_jid=6166314004) |
-| Astera Labs | Product Applications Engineer Intern | 2026-10-06 | — | [Apply](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4728598005) |
 | Astera Labs | Platform Applications Engineer Intern Co-op - Tools & Validation Infrastructure | 2026-10-06 | — | [Apply](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4732319005) |
 | Leidos | Business Systems AI Intern | 2026-10-06 | — | [Apply](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Business-Systems-AI-Intern_R-00193327) |
 | Sigma Computing | Software Engineering Intern (Summer 2027) | 2026-10-06 | — | [Apply](https://job-boards.greenhouse.io/sigmacomputing/jobs/8001295003) |
@@ -996,7 +992,6 @@ _**Pulled:** 2026-10-26 19:01 UTC  —  2320 matching roles found this run._
 | Intuit | Marketing Intern - AI Tooling for Marketing Efficiency | 2026-10-02 | — | [Apply](https://jobs.intuit.com/job/mountain-view/summer-2027-marketing-intern-ai-tooling-for-marketing-efficiency/27595/101444103552) |
 | Intuit | Finance Transformation & Analytics Intern | 2026-10-02 | — | [Apply](https://jobs.intuit.com/job/mountain-view/summer-2027-finance-transformation-and-analytics-intern/27595/101444103184) |
 | Bedrock Robotics | Behavior ML Engineer Intern - Learned Manipulation Policies | 2026-10-02 | — | [Apply](https://jobs.ashbyhq.com/bedrock-robotics/96a6423e-7439-4cb4-9109-117b14e47f7c/application?embed=true) |
-| Montreal Institute for Learning Algorithms | AI Safety Research Intern - AI Safety | 2026-10-02 | — | [Apply](https://apply.workable.com/mila-2/j/1E81635604/apply) |
 | SpartanNash | IS Intern - IT Ecommerce & Marketing Developer | 2026-10-02 | — | [Apply](https://spartannash.wd1.myworkdayjobs.com/SpartanNash_Careers/job/Byron-Center-Michigan/IS-Internship---IT-Ecommerce---Marketing-Developer_R90110) |
 | Schweitzer Engineering Laboratories | Hardware Engineering Intern | 2026-10-02 | — | [Apply](https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Hardware-Engineering-Intern_2026-23159) |
 | Hewlett Packard | AI Applied Engineering Intern | 2026-10-02 | — | [Apply](https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/Vancouver-Washington-United-States-of-America/AI-Applied-Engineering-Intern_UNI4670-2) |
@@ -1015,7 +1010,6 @@ _**Pulled:** 2026-10-26 19:01 UTC  —  2320 matching roles found this run._
 | Keysight Technologies | R&D Electrical Engineering Intern | 2026-10-01 | — | [Apply](https://jobs.keysight.com/jobs/54664?icims=1) |
 | Cummins | Service Engineer Intern - Service Engineering - Digital and Data Analytics | 2026-10-01 | — | [Apply](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2438342) |
 | Varda Space | Avionics Engineering Intern | 2026-10-01 | — | [Apply](https://job-boards.greenhouse.io/vardaspace/jobs/8010158003) |
-| Space Dynamics Laboratory | FPGA Electrical Engineer Intern - Civil & Commercial Space Division | 2026-10-01 | — | [Apply](https://spacedynamicslaboratory.applytojob.com/apply/SznZA6uzbW/CVS-FPGA-Electrical-Engineer-Intern) |
 | Johns Hopkins Applied Physics Laboratory | Cyber Physical Systems Intern | 2026-10-01 | — | [Apply](https://careers.jhuapl.edu/jobs/60339?icims=1) |
 | Rubrik | Product Growth Intern - MBA | 2026-10-01 | — | [Apply](https://www.rubrik.com/company/careers/departments/job.8224424?gh_jid=8224424) |
 | Marvell | IC Validation Engineer Intern Co-op - BS/MS | 2026-10-01 | — | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Ottawa-Canada/IC-Validation-Engineer-Intern---BS-MS---2027-Co-Op_2603925) |
@@ -1034,7 +1028,6 @@ _**Pulled:** 2026-10-26 19:01 UTC  —  2320 matching roles found this run._
 | The Federal Reserve System | Statistics and Analysis Intern | 2026-10-01 | — | [Apply](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Cleveland-OH/SCS---Statistics-and-Analysis-Intern---2027_R-0000033645) |
 | BNY | Product Management Intern | 2026-10-01 | — | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/82784) |
 | Marvell | Firmware Engineer Intern - MS - Summer 2027 | 2026-10-01 | — | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Firmware-Engineer-Intern--MS---Summer-2027_2604513-1) |
-| Glean | Software Engineer Intern | 2026-10-01 | — | [Apply](https://job-boards.greenhouse.io/gleanwork/jobs/4595665005) |
 | Varda Space | Mission Operations Intern - Summer 2027 | 2026-10-01 | — | [Apply](https://job-boards.greenhouse.io/vardaspace/jobs/8010682003) |
 | Datacor | Data Science Intern - Summer 2027 - Program | 2026-10-01 | — | [Apply](https://job-boards.greenhouse.io/datacor/jobs/5242412007) |
 | PNC Financial Services | Economics Intern - Multiple Teams | 2026-10-01 | — | [Apply](https://pnc.wd5.myworkdayjobs.com/External/job/NY---New-York-10173/Graduate-Intern--Economics--Chief-Investment-Office--CIO---Non-Campus-_R237631) |
@@ -1130,6 +1123,7 @@ _**Pulled:** 2026-10-26 19:01 UTC  —  2320 matching roles found this run._
 | Tesla | AI Hardware Signal & Power Integrity Engineer Intern - AI Hardware | 2026-09-29 | — | [Apply](https://www.tesla.com/careers/search/job/285120) |
 | The Toro Company | Ecommerce Data Analytics Intern | 2026-09-29 | — | [Apply](https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Bloomington-MN/eCommerce-Data-Analytics-Intern---The-Toro-Company_JR17458) |
 | ibotta | Business Intelligence Intern | 2026-09-29 | — | [Apply](https://jobs.ashbyhq.com/ibotta/3a27a6fc-5d2c-4b88-8b19-8f9f7094f899/application?embed=true) |
+| Westinghouse Electric Company | Software Developer Intern - Tools & Apps | 2026-09-29 | — | [Apply](https://careers.westinghousenuclear.com/job/Warrendale-Summer-Intern-Tools-&-Apps-OR/1434869300/?ats=successfactors) |
 | Waymo | Planner Machine Learning Intern | 2026-09-29 | — | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8234876) |
 | Nike | AI/ML Engineer Intern | 2026-09-29 | — | [Apply](https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/NIKE--Inc-AI---Machine-Learning--Innovation-Graduate-Internship_R-94412) |
 | Acuity | Finance AI Engineering Intern | 2026-09-29 | — | [Apply](https://careers.acuityinc.com/job/Atlanta-Finance-AI-Engineering-Intern-Onsite-GA-30309/1434878900/?ats=successfactors) |
@@ -1690,17 +1684,18 @@ _**Pulled:** 2026-10-26 19:01 UTC  —  2320 matching roles found this run._
 | AnaVation | Computer Science Intern - Summer 2027 | 2026-09-12 | — | [Apply](https://jobs.lever.co/anavationllc/4a82ae00-30f0-410c-bf3c-f1cdd18739e7/apply) |
 | Mindsmith | Software Engineering Intern | 2026-06-24 | ✅ | [Apply](https://app.dover.com/apply/mindsmith/e0ca8149-6811-4de9-ba38-65a0244a2b7e) |
 
-## 🏆 Most Influential Tech Companies — 2027 Internships (575)
+## 🏆 Most Influential Tech Companies — 2027 Internships (576)
 
 _Open roles at companies on our curated **Most Influential Tech Companies** list (TIME100 Most Influential Companies 2025 — tech subset — plus the largest tech companies by market cap; see [`TOP_COMPANIES.md`](TOP_COMPANIES.md)). These roles also appear in the per-source lists below._
 
-_575 role(s) across 71 influential companies._
+_576 role(s) across 71 influential companies._
 
 | Company | Role | Posted | Applied | Link |
 |---|---|---|---|---|
 | Hewlett Packard (HP) | Software Intern | 2026-10-26 | — | [Apply](https://go.vansh.nyc/SM) |
 | Meta | Research Intern - Embedded AI on Wearables - PhD | 2026-10-26 | — | [Apply](https://www.metacareers.com/jobs/4070678619908522) |
 | Tencent | Game UI Intern - AI Focus | 2026-10-26 | — | [Apply](https://tencent.wd1.myworkdayjobs.com/OA_Huoshui_Platform/job/United-Kingdom-London/Game-UI---Tools-Intern--AI-Focus-_R108251) |
+| Northrop Grumman | 2027 Software Engineering Intern - Beavercreek OH | 2026-10-26 | — | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Ohio-Beavercreek/XMLNAME-2027-Software-Engineering-Intern---Beavercreek-OH_R10257656) |
 | Notion | Software Engineer Intern, Mobile | 2026-10-25 | — | [Apply](https://go.vansh.nyc/BF) |
 | Dell Technologies | Graduate Analytics Intern | 2026-10-25 | — | [Apply](https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/301412) |
 | Dell Technologies | Data Science Intern | 2026-10-25 | — | [Apply](https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/301413) |
@@ -2274,7 +2269,7 @@ _575 role(s) across 71 influential companies._
 | Susquehanna | Quantitative Strategy Developer Intern (Summer 2027, June start) | — | — | [Apply](https://careers.sig.com/jobs/10838) |
 | Susquehanna | Trading System Engineering Intern | — | — | [Apply](https://careers.sig.com/jobs/10837) |
 
-## vanshb03 2027 (412)
+## vanshb03 2027 (411)
 
 | Company | Role | Posted | Applied | Link |
 |---|---|---|---|---|
@@ -2293,6 +2288,10 @@ _575 role(s) across 71 influential companies._
 | SOTI | Performance Test Engineer Intern | 2026-10-26 | — | [Apply](https://go.vansh.nyc/SG) |
 | Hewlett Packard (HP) | Software Intern | 2026-10-26 | — | [Apply](https://go.vansh.nyc/SM) |
 | Highmark Health | Software Engineer Intern | 2026-10-26 | — | [Apply](https://go.vansh.nyc/SR) |
+| Glean | Software Engineer Intern | 2026-10-26 | — | [Apply](https://go.vansh.nyc/SV) |
+| Booz Allen Hamilton | Systems Engineer Intern | 2026-10-26 | — | [Apply](https://go.vansh.nyc/SX) |
+| Booz Allen Hamilton | Systems Engineer Intern, Games | 2026-10-26 | — | [Apply](https://go.vansh.nyc/T0) |
+| RTX | Software Engineering Intern | 2026-10-26 | — | [Apply](https://go.vansh.nyc/T2) |
 | Skydio | Wireless Hardware Engineer Intern | 2026-10-25 | — | [Apply](https://go.vansh.nyc/i) |
 | Notion | Software Engineer Intern, Mobile | 2026-10-25 | — | [Apply](https://go.vansh.nyc/BF) |
 | ConnectPrep | Data Analyst Intern | 2026-10-25 | — | [Apply](https://go.vansh.nyc/BG) |
@@ -2386,7 +2385,6 @@ _575 role(s) across 71 influential companies._
 | RTX | Software Engineer Intern | 2026-10-21 | — | [Apply](https://go.vansh.nyc/dr) |
 | Aerospace Corporation | Hardware Security Engineering Intern | 2026-10-21 | — | [Apply](https://go.vansh.nyc/dv) |
 | Smith+Nephew | Computer Vision Software Engineering Intern | 2026-10-21 | — | [Apply](https://go.vansh.nyc/dB) |
-| Light & Wonder | Software Engineer Intern | 2026-10-21 | — | [Apply](https://go.vansh.nyc/dF) |
 | ICF International | Full-Stack Developer Intern | 2026-10-21 | — | [Apply](https://go.vansh.nyc/dK) |
 | Zillow | Software Development Engineer Intern | 2026-10-21 | — | [Apply](https://go.vansh.nyc/dP) |
 | Safran | Software Engineering Intern | 2026-10-21 | — | [Apply](https://go.vansh.nyc/dQ) |
@@ -2409,6 +2407,7 @@ _575 role(s) across 71 influential companies._
 | AeroVironment | Machine Learning Engineering Intern | 2026-10-20 | — | [Apply](https://go.vansh.nyc/cz) |
 | General Dynamics Mission Systems | Software Engineer Intern | 2026-10-20 | — | [Apply](https://go.vansh.nyc/cC) |
 | Kinaxis | Cloud Developer Intern, Platform Engineering | 2026-10-20 | — | [Apply](https://go.vansh.nyc/cD) |
+| SOTI | Software Developer Intern | 2026-10-20 | — | [Apply](https://go.vansh.nyc/cJ) |
 | Illumio | Engineering Intern, Product Security | 2026-10-20 | — | [Apply](https://go.vansh.nyc/cO) |
 | American Electric Power | Data Scientist Intern | 2026-10-20 | — | [Apply](https://go.vansh.nyc/cW) |
 | Ryan | Application Engineering Intern | 2026-10-20 | — | [Apply](https://go.vansh.nyc/cX) |
@@ -2447,13 +2446,11 @@ _575 role(s) across 71 influential companies._
 | Paccar | Warranty Data Analyst Intern | 2026-10-19 | — | [Apply](https://go.vansh.nyc/cf) |
 | Inversion Space | AI & Internal Tools Software Engineer Intern | 2026-10-19 | — | [Apply](https://go.vansh.nyc/ch) |
 | Inversion Space | Vehicle Software Engineer Intern | 2026-10-19 | — | [Apply](https://go.vansh.nyc/ci) |
-| L3Harris Technologies | Software Engineering Intern | 2026-10-19 | — | [Apply](https://go.vansh.nyc/cj) |
 | Westinghouse Electric Company | Software Development Intern | 2026-10-19 | — | [Apply](https://go.vansh.nyc/ck) |
 | Patreon | Software Engineer Intern | 2026-10-19 | — | [Apply](https://go.vansh.nyc/cl) |
 | Nuovo Photography | Software Developer Intern | 2026-10-19 | — | [Apply](https://go.vansh.nyc/cm) |
 | Electronic Arts | Software Engineer Intern | 2026-10-19 | — | [Apply](https://go.vansh.nyc/cn) |
 | Interclypse | Junior Full Stack Software Engineer Intern | 2026-10-19 | — | [Apply](https://go.vansh.nyc/gn) |
-| General Dynamics Mission Systems, Inc. | Engineer Intern, Electrical or Firmware | 2026-10-19 | — | [Apply](https://go.vansh.nyc/D0) |
 | Booz Allen Hamilton | Games Data Scientist Intern | 2026-10-18 | — | [Apply](https://go.vansh.nyc/QN) |
 | LPL Financial Holdings | Platform Engineer Intern | 2026-10-18 | — | [Apply](https://go.vansh.nyc/QR) |
 | Alstom | Data Engineering Intern | 2026-10-18 | — | [Apply](https://go.vansh.nyc/QT) |
@@ -2590,7 +2587,6 @@ _575 role(s) across 71 influential companies._
 | Arcesium | Infrastructure Engineer Intern | 2026-10-09 | — | [Apply](https://go.vansh.nyc/ga) |
 | Workday | Cybersecurity Engineer Intern | 2026-10-09 | — | [Apply](https://go.vansh.nyc/gd) |
 | GlobalFoundries | Software Engineer Intern | 2026-10-09 | — | [Apply](https://go.vansh.nyc/Go) |
-| Itron | HR AI Data Science Intern | 2026-10-09 | — | [Apply](https://go.vansh.nyc/Gp) |
 | Rivian | Artificial Intelligence, Machine Learning, & Data Intern | 2026-10-09 | — | [Apply](https://go.vansh.nyc/Hj) |
 | AeroVironment | Autonomy & Robotics Engineer Intern | 2026-10-08 | — | [Apply](https://go.vansh.nyc/G2) |
 | TikTok | Machine Learning Engineer Intern, Monetization Technology, Ads Core Global | 2026-10-08 | — | [Apply](https://go.vansh.nyc/G8) |
@@ -2621,13 +2617,11 @@ _575 role(s) across 71 influential companies._
 | Arc | Software Engineer Intern | 2026-10-02 | — | [Apply](https://go.vansh.nyc/Eu) |
 | SAS | Software Development Intern | 2026-10-02 | — | [Apply](https://go.vansh.nyc/H3) |
 | Cisco | Software Consulting Engineer I Intern | 2026-10-01 | — | [Apply](https://go.vansh.nyc/fX) |
-| Space Dynamics Laboratory | FPGA Electrical Engineer Intern, Civil & Commercial Space | 2026-10-01 | — | [Apply](https://go.vansh.nyc/PU) |
 | Muon Space | Software Engineering Intern, GNC | 2026-09-30 | — | [Apply](https://go.vansh.nyc/fU) |
 | AMCA | Software Engineer Intern | 2026-09-30 | — | [Apply](https://go.vansh.nyc/E2) |
 | Muon Space | Flight Software Engineer Intern | 2026-09-30 | — | [Apply](https://go.vansh.nyc/E3) |
 | Quantum Signal AI | Embedded and Real-Time Software Intern | 2026-09-30 | — | [Apply](https://go.vansh.nyc/E6) |
 | MetLife | Data & Analytics Intern | 2026-09-30 | — | [Apply](https://go.vansh.nyc/E8) |
-| Westinghouse Electric Company | Software Developer Intern, Tools & Apps | 2026-09-29 | — | [Apply](https://go.vansh.nyc/DY) |
 | Enova | Software Engineer Intern | 2026-09-29 | — | [Apply](https://go.vansh.nyc/E0) |
 | UL Solutions | Data Science Intern | 2026-09-28 | — | [Apply](https://go.vansh.nyc/DO) |
 | Qualcomm | Soft IP ASIC Engineer Intern | 2026-09-28 | — | [Apply](https://go.vansh.nyc/DS) |
@@ -2691,16 +2685,25 @@ _575 role(s) across 71 influential companies._
 | Awardco | Back-End Software Engineer Intern | 2026-09-14 | — | [Apply](https://go.vansh.nyc/Ip) |
 | Constellation Energy | Information Technology Software Development Intern | 2026-09-12 | — | [Apply](https://go.vansh.nyc/MR) |
 
-## zshah101 (2027 + Fall 2026) (187)
+## zshah101 (2027 + Fall 2026) (196)
 
 | Company | Role | Posted | Applied | Link |
 |---|---|---|---|---|
+| Booz Allen | University - 2027 Summer Games Software Developer Intern - Lexington, MA | 2026-10-26 | — | [Apply](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Lexington-MA/University---2027-Summer-Games-Software-Developer-Intern---Lexington--MA_R0252274) |
+| Booz Allen | University - 2027 Summer Games Data Scientist Intern - Lexington, MA | 2026-10-26 | — | [Apply](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Lexington-MA/University---2027-Summer-Games-Data-Scientist-Intern---Lexington--MA_R0252275) |
+| Booz Allen | University - 2027 Summer Games Software Developer Intern - Albuquerque, NM | 2026-10-26 | — | [Apply](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Albuquerque-NM/University---2027-Summer-Games-Software-Developer-Intern---Albuquerque--NM_R0252335) |
+| Booz Allen | University - 2027 Summer Games Software Developer Intern - Dayton, OH | 2026-10-26 | — | [Apply](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Dayton-OH/University---2027-Summer-Games-Software-Developer-Intern---Dayton--OH_R0252345) |
+| Booz Allen | University - 2027 Summer Games Software Developer Intern - Royal Oaks, MI | 2026-10-26 | — | [Apply](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Detroit-MI/University---2027-Summer-Games-Software-Developer-Intern---Royal-Oaks--MI_R0252340) |
+| Highmark Health | Summer 2027 Software Engineer enGen Undergraduate Intern | 2026-10-26 | — | [Apply](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-Software-Engineer-enGen-Undergraduate-Intern_J289812) |
+| Highmark Health | Summer 2027 Data Analyst enGen Undergraduate Intern | 2026-10-26 | — | [Apply](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Pittsburgh-PA-15222-PAP-Penn-Avenue-Place/Summer-2027-Data-Analyst-enGen-Undergraduate-Intern_J286826) |
+| Highmark Health | Summer 2027 Enterprise Architecture Software Engineer & Architect enGen Undergradute Intern | 2026-10-26 | — | [Apply](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Pittsburgh-PA-15222-PAP-Penn-Avenue-Place/Summer-2027-Enterprise-Architecture-Software-Engineer---Architect-enGen-Undergradute-Intern_J289821) |
+| Northrop Grumman | 2027 Software Engineering Intern - Beavercreek OH | 2026-10-26 | — | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Ohio-Beavercreek/XMLNAME-2027-Software-Engineering-Intern---Beavercreek-OH_R10257656) |
+| Valmont | Operations Data Analyst Intern | 2026-10-26 | — | [Apply](https://valmont.wd1.myworkdayjobs.com/ValmontCareers/job/Valley-NE/Operations-Data-Analyst-Intern_R29224) |
 | Hive Financial Systems | Software Internship-2027 | 2026-10-26 | — | [Apply](https://job-boards.greenhouse.io/hivefinancialsystems/jobs/5274887007) |
 | Amperesand | AI/ML Engineering Intern | 2026-10-23 | — | [Apply](https://job-boards.greenhouse.io/amperesand/jobs/4465899009) |
 | ASML | Internship - Application Software QA Engineer | 2026-10-23 | — | [Apply](https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Jose-CA-USA/Internship---Application-Software-QA-Engineer_J-00354565) |
 | ASML | Internship - Software Engineer In Test (MOD) | 2026-10-23 | — | [Apply](https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Jose-CA-USA/Internship---Software-Engineer-In-Test--MOD-_J-00354568) |
 | ASML | Internship - Software Quality Assurance | 2026-10-23 | — | [Apply](https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Jose-CA-USA/Internship---Software-Quality-Assurance_J-00354562) |
-| RTX | Software Engineering Intern  (Summer 2027) | 2026-10-23 | — | [Apply](https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Software-Engineering-Intern---Summer-2027-_01884375) |
 | Koppers | Financial Data Analyst Intern | 2026-10-23 | — | [Apply](https://koppers.wd5.myworkdayjobs.com/Koppers/job/Peachtree-City-GA/Financial-Data-Analyst-Intern_REQ03221) |
 | Merck | 2027 Future Talent Program - Data, AI, and Genome Sciences - Intern | 2026-10-23 | — | [Apply](https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Massachusetts---Cambridge-320-Bent-Street/XMLNAME-2027-Future-Talent-Program---Data--AI--and-Genome-Sciences---Intern_R423333) |
 | Merck | 2027 Future Talent Program - Data, AI, and Genome Sciences, Foundation Models - Intern | 2026-10-23 | — | [Apply](https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Massachusetts---Cambridge-320-Bent-Street/XMLNAME-2027-Future-Talent-Program---Data--AI--and-Genome-Sciences--Foundation-Models---Intern_R423438) |
@@ -2709,10 +2712,9 @@ _575 role(s) across 71 influential companies._
 | SPS Commerce | Software Engineer Intern | 2026-10-22 | — | [Apply](https://spscommerce.wd108.myworkdayjobs.com/SPS/job/US-MN-Minneapolis-Office/Software-Engineer-Intern_R-001398) |
 | WSP | Transportation Data Analyst Intern - Summer 2027 | 2026-10-22 | — | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/97952) |
 | Sierra Nevada Corporation | Systems Security Engineer Intern - Summer 2027 (For SNC Summer 2026 Interns Only) | 2026-10-22 | — | [Apply](https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Hagerstown-MD/Systems-Security-Engineer-Intern---Summer-2027--For-SNC-Summer-2026-Interns-Only-_R0030540) |
-| STR | Data Analyst Intern - Summer 2027 | 2026-10-22 | — | [Apply](https://job-boards.greenhouse.io/systemstechnologyresearch/jobs/4723980006) |
 | AECOM | Digital Infrastructure / Telecommunications Engineering Intern | 2026-10-21 | — | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000156887619) |
 | Intel | Information Security Engineer Undergraduate Intern | 2026-10-21 | — | [Apply](https://intel.wd1.myworkdayjobs.com/external/job/US-California-Folsom/Information-Security-Engineer-Undergraduate-Intern_JR0287588) |
-| Sierra Space | Summer 2027 Flight Software Engineer Intern | 2026-10-21 | — | [Apply](https://sierraspace.wd1.myworkdayjobs.com/Sierra_Space_External_Career_Site/job/Louisville-CO/Summer-2027-Flight-Software-Engineer-Intern_R26456) |
+| Light & Wonder | Software Engineer - Intern | 2026-10-21 | — | [Apply](https://lnw.wd5.myworkdayjobs.com/lightwonderexternalcareers/job/Las-Vegas-NV/Software-Engineer---Intern_R323017) |
 | Light & Wonder | Intern Software Engineering | 2026-10-21 | — | [Apply](https://lnw.wd5.myworkdayjobs.com/lightwonderexternalcareers/job/Las-Vegas-NV/Intern-Software-Engineering_R322982) |
 | Smith+Nephew | Intern Embedded Software Engineering | 2026-10-21 | — | [Apply](https://smithnephew.wd5.myworkdayjobs.com/External/job/Andover-MA/Intern-Embedded-Software-Engineering_R92952) |
 | Mii | Data Scientist Intern | 2026-10-20 | — | [Apply](https://mii.wd5.myworkdayjobs.com/universityrecruiting/job/Earth-City-Missouri-USA/Data-Scientist-Intern_R06666-5) |
@@ -2743,7 +2745,6 @@ _575 role(s) across 71 influential companies._
 | Lawrence Livermore National Laboratory (LLNL) | Critical Infrastructure Analysis Graduate Intern - Cyber and Critical Infrastructure Summer Institute - Summer 2027 | 2026-10-15 | — | [Apply](https://jobs.smartrecruiters.com/LLNL/3743990016164366) |
 | Lawrence Livermore National Laboratory (LLNL) | Power Systems Undergraduate Intern - Cyber and Critical Infrastructure Summer Institute - Summer 2027 | 2026-10-15 | — | [Apply](https://jobs.smartrecruiters.com/LLNL/3743990016164416) |
 | Pattern | Data Science Intern | 2026-10-14 | — | [Apply](https://jobs.lever.co/pattern/ad978732-7171-473d-9400-0a6fc9e23cf7) |
-| LSEG | Intern - Software Engineer | 2026-10-14 | — | [Apply](https://lseg.wd3.myworkdayjobs.com/Graduate_Careers/job/New-York-City-United-States/Intern---Software-Engineer_R0124266-1) |
 | Wustl | Data Analyst - Emergency Management Intern (PRN) - Enterprise Physical Operations | 2026-10-14 | — | [Apply](https://wustl.wd1.myworkdayjobs.com/external/job/Washington-University-North-Campus-University-City-Missouri/Data-Analyst---Emergency-Management-Intern--PRN----Enterprise-Physical-Operations_JR98032-1) |
 | CACI | Software Engineering Intern - Summer 2027 | 2026-10-14 | — | [Apply](https://caci.wd1.myworkdayjobs.com/external/job/Florham-Park-NJ-US/Software-Engineering-Intern---Summer-2027_332543) |
 | Copart | DevOps Engineer Intern | 2026-10-14 | — | [Apply](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/DevOps-Engineer-Intern_JR111751) |
@@ -2760,6 +2761,7 @@ _575 role(s) across 71 influential companies._
 | AtkinsRéalis | Software Developer Intern - Summer 2027 | 2026-10-12 | — | [Apply](https://slihrms.wd3.myworkdayjobs.com/careers/job/USCODenver/Software-Developer-Intern---Summer-2027_R-161580-1) |
 | Aptiv | Linux Software Development Intern (Hybrid - San Antonio, TX) | 2026-10-09 | — | [Apply](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/USA-Home-Office---WR/Linux-Software-Development-Intern_J000704398) |
 | Paloaltonetworks | Intern - Software Engineer (Master's) EG | 2026-10-09 | — | [Apply](https://paloaltonetworks.wd5.myworkdayjobs.com/hidden-private-pawn-temp-gateway-147258369/job/Office---USA---CA---Headquarters/Intern---Software-Engineer--Master-s--EG_JR-022384) |
+| Itron | Intern - HR AI Data Science (Summer 2027) | 2026-10-09 | — | [Apply](https://itron.wd5.myworkdayjobs.com/Itron/job/United-States-of-America-Texas-Austin/Intern---HR-AI-Data-Science--Summer-2027-_JR103034-1) |
 | Alcon | Clinical Data Science Intern | 2026-10-09 | — | [Apply](https://alcon.wd5.myworkdayjobs.com/careers_alcon/job/Fort-Worth-Texas/Clinical-Data-Science-Intern_R-2026-50204) |
 | General Motors | 2027 Summer Intern,  Data Scaling, Embodied AI | 2026-10-09 | — | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Data-Scaling--Embodied-AI_JR-202622132) |
 | Texas Instruments | Software Engineering Intern (Longmont, CO) | 2026-10-09 | — | [Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25012948) |
@@ -2848,8 +2850,8 @@ _575 role(s) across 71 influential companies._
 | Booz Allen | University - 2027 Summer Games Software Developer Intern - San Diego, CA | 2026-09-21 | — | [Apply](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/San-Diego-CA/University---2027-Summer-Games-Software-Developer-Intern---San-Diego--CA_R0249799) |
 | Cambridge Investment Research | IT Operations Intern - Service Desk, Infrastructure, Prod Support | 2026-09-21 | — | [Apply](https://cir.wd108.myworkdayjobs.com/CIR_External_Career_Site/job/Fairfield-IA/IT-Operations-Intern---Service-Desk--Infrastructure--Prod-Support_R-2025-235) |
 | Leidos | Jr. Software Engineer Intern | 2026-09-21 | — | [Apply](https://leidos.wd5.myworkdayjobs.com/External/job/Tucson-AZ/Jr-Software-Engineer-Intern_R-00192184) |
-| Thrivent | Associate Software Engineer - Junior Intern Summer 2027 | 2026-09-18 | — | [Apply](https://thrivent.wd5.myworkdayjobs.com/external/job/Remote-Minnesota/Associate-Software-Engineer---Junior-Intern-Summer-2027_REQ-48334) |
-| Thrivent | Associate Software Engineer - Sophomore Intern Summer 2027 | 2026-09-18 | — | [Apply](https://thrivent.wd5.myworkdayjobs.com/external/job/Remote-Minnesota/Associate-Software-Engineer---Sophomore-Intern-Summer-2027_REQ-48457) |
+| Thrivent | Associate Software Engineer - Junior Intern Summer 2027 | 2026-09-18 | — | [Apply](https://thrivent.wd5.myworkdayjobs.com/privateexternal/job/Remote-Minnesota/Associate-Software-Engineer---Junior-Intern-Summer-2027_REQ-48334-2) |
+| Thrivent | Associate Software Engineer - Sophomore Intern Summer 2027 | 2026-09-18 | — | [Apply](https://thrivent.wd5.myworkdayjobs.com/privateexternal/job/Remote-Minnesota/Associate-Software-Engineer---Sophomore-Intern-Summer-2027_REQ-48457-2) |
 | Acron Aviation | Software Engineer Intern - St. Pete Site | 2026-09-18 | — | [Apply](https://jobs.lever.co/acronaviation/19dbac7d-b4fb-4d21-9247-dc610bf55fed) |
 | Ninjaholdings | Data Science Intern | 2026-09-17 | — | [Apply](https://ninjaholdings.breezy.hr/p/85be8c78a2ba-data-science-intern) |
 | LabCorp | Intern – Network Infrastructure & Automation Engineering | 2026-09-17 | — | [Apply](https://labcorp.wd1.myworkdayjobs.com/external/job/Durham-NC/Intern---Network-Infrastructure---Automation-Engineering_2632795) |
@@ -2870,6 +2872,7 @@ _575 role(s) across 71 influential companies._
 | Hitachi Energy | Intern - Onboard Software Developer | 2026-09-15 | — | [Apply](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Pittsburgh-Pennsylvania-United-States/Intern---Onboard-Software-Developer_R0145042) |
 | Intel | AI Solutions Engineering Undergraduate Intern | 2026-09-14 | — | [Apply](https://intel.wd1.myworkdayjobs.com/external/job/US-Oregon-Hillsboro/AI-Solutions-Engineering-Undergraduate-Intern_JR0286629) |
 | LabCorp | Intern - Software Developer | 2026-09-14 | — | [Apply](https://labcorp.wd1.myworkdayjobs.com/external/job/Durham-NC/Intern---Software-Developer_2632330) |
+| SingleStore | Software Engineer Intern- Engine-2027 | 2026-09-14 | — | [Apply](https://job-boards.greenhouse.io/singlestore/jobs/8154399) |
 | Oshkosh | Welding Engineering/Robotics Programming Intern | 2026-09-14 | — | [Apply](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Greencastle-Pennsylvania-United-States/Robotics-Programming-Engineer-Intern_R49597) |
 | AtkinsRéalis | Data Scientist Intern - Summer 2027 | 2026-09-14 | — | [Apply](https://slihrms.wd3.myworkdayjobs.com/careers/job/USAZTempe/Data-Scientist-Intern---Summer-2027_R-161183-1) |
 | AtkinsRéalis | Water Infrastructure Engineering Intern - Summer 2027 | 2026-09-14 | — | [Apply](https://slihrms.wd3.myworkdayjobs.com/careers/job/USNVHenderson/Water-Infrastructure-Engineering-Intern---Summer-2027_R-160500-2) |
