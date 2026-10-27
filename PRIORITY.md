@@ -1,6 +1,6 @@
 # 🔥 Priority — Fresh Summer 2027 Roles
 
-_**Pulled:** 2026-10-27 18:33 UTC  —  583 role(s) explicitly tagged Summer 2027 and posted within the last 14 days._
+_**Pulled:** 2026-10-27 20:02 UTC  —  588 role(s) explicitly tagged Summer 2027 and posted within the last 14 days._
 
 | Company | Role | Posted | Applied | Link |
 |---|---|---|---|---|
@@ -17,6 +17,11 @@ _**Pulled:** 2026-10-27 18:33 UTC  —  583 role(s) explicitly tagged Summer 202
 | CFS Energy | Scientific Software Engineer Intern | 2026-10-27 | — | [Apply](https://go.vansh.nyc/VW) |
 | Micron Technology | HBM Data Scientist Intern | 2026-10-27 | — | [Apply](https://go.vansh.nyc/VY) |
 | Cboe Global Markets | Linux Engineer Intern | 2026-10-27 | — | [Apply](https://go.vansh.nyc/W4) |
+| Workiva | Machine Learning Engineering Intern | 2026-10-27 | — | [Apply](https://go.vansh.nyc/W7) |
+| Sonos | Software Engineering Intern | 2026-10-27 | — | [Apply](https://go.vansh.nyc/W9) |
+| Sonos | Data Quality Intern | 2026-10-27 | — | [Apply](https://go.vansh.nyc/Wa) |
+| Amazon Development Center U.S., Inc. - B02 | Database Engineer Intern | 2026-10-27 | — | [Apply](https://go.vansh.nyc/Wb) |
+| National Interstate Insurance | Data Engineering Intern | 2026-10-27 | — | [Apply](https://go.vansh.nyc/Wd) |
 | Toyota Research Institute | Robotics Intern - Trustworthy Learning under Uncertainty | 2026-10-27 | — | [Apply](https://jobs.lever.co/tri/6f60ff79-c902-466a-912c-7ab849ce6424/apply) |
 | TikTok | Global Product Solutions and Operations Intern - Global Monetization Product and Technology | 2026-10-27 | — | [Apply](https://lifeattiktok.com/search/7701069870360627509) |
 | Saviynt | Research Scientist Intern | 2026-10-27 | — | [Apply](https://jobs.lever.co/saviynt/183188c3-c043-4f91-b3f0-30ec4961f4c7/apply) |
