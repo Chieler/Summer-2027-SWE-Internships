@@ -1,9 +1,11 @@
 # 🔥 Priority — Fresh Summer 2027 Roles
 
-_**Pulled:** 2026-10-28 00:52 UTC  —  583 role(s) explicitly tagged Summer 2027 and posted within the last 14 days._
+_**Pulled:** 2026-10-28 01:47 UTC  —  585 role(s) explicitly tagged Summer 2027 and posted within the last 14 days._
 
 | Company | Role | Posted | Applied | Link |
 |---|---|---|---|---|
+| FUTO | Software Engineer Intern | 2026-10-28 | — | [Apply](https://jobs.lever.co/futo-org/7dd9877a-9009-408d-aa50-623cd5153f70/apply) |
+| Paccar | Application Developer Intern | 2026-10-28 | — | [Apply](https://jobs.paccar.com/job/Kirkland-Summer-2027-Application-Developer-Intern-(OH)-WA-98033/1451927133/?ats=successfactors) |
 | Disney | Systems Engineer Intern, Data Services | 2026-10-27 | — | [Apply](https://go.vansh.nyc/Uz) |
 | Disney | Software Engineer Intern, Pipeline Infrastructure | 2026-10-27 | — | [Apply](https://go.vansh.nyc/UA) |
 | Lockheed Martin | Software Engineer Intern | 2026-10-27 | — | [Apply](https://go.vansh.nyc/UC) |
@@ -398,6 +400,7 @@ _**Pulled:** 2026-10-28 00:52 UTC  —  583 role(s) explicitly tagged Summer 202
 | Toyota | Data Science Intern | 2026-10-20 | — | [Apply](https://toyota.wd503.myworkdayjobs.com/tmna/job/Plano-Texas/XMLNAME-2027-TFS-Data-Science-Internship_10338545-1) |
 | NVIDIA | Applied Research Intern - Integrated Sensing and Communications | 2026-10-20 | — | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Research-Intern--Integrated-Sensing-and-Communications--ISAC--NVIDIA-Aerial---Summer-2027_JR2028027) |
 | The Federal Reserve System | Policy & Analysis Intern | 2026-10-20 | — | [Apply](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Dallas-TX/XMLNAME-2027-Intern---Policy---Analysis_R-0000033766) |
+| Integrate | Software Engineer Intern | 2026-10-20 | — | [Apply](https://jobs.ashbyhq.com/integrate/7681f59b-70c0-414b-96d9-ae8925cc2ed3/application?embed=true) |
 | Integrate | Software Engineering Intern (Summer 2027) | 2026-10-20 | — | [Apply](https://jobs.ashbyhq.com/integrate/7681f59b-70c0-414b-96d9-ae8925cc2ed3) |
 | Applied Materials | 2027 Summer Intern, Software Engineer, Bachelors Degree (Santa Clara) | 2026-10-20 | — | [Apply](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/XMLNAME-2027-Summer-Intern--Software-Engineer--Bachelors-Degree--Santa-Clara-_R2630672) |
 | Anduril | 2027 Finance Data Analyst Intern | 2026-10-20 | — | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5269977007?gh_jid=5269977007) |
@@ -446,7 +449,6 @@ _**Pulled:** 2026-10-28 00:52 UTC  —  583 role(s) explicitly tagged Summer 202
 | NVIDIA | Product Manager MBA Intern - Enterprise AI | 2026-10-19 | — | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Manager-MBA-Intern--Enterprise-AI---Summer-2027_JR2026707) |
 | Symbotic | Robot Manipulation Intern | 2026-10-19 | — | [Apply](https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington--MA---HQ/Intern--Robot-Manipulation_R8278) |
 | The Toro Company | Cloud Software Developer Intern | 2026-10-19 | — | [Apply](https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Frederick-CO/Cloud-Software-Development-Intern---The-Toro-Company_JR17498) |
-| QTS | People Services Data Analytics Intern | 2026-10-19 | — | [Apply](https://qtsdatacenters.wd5.myworkdayjobs.com/qts/job/US-VA-Ashburn-1-DC1/Summer-2027-Internship--People-Services-Data-Analytics_R2026-2307) |
 | Creative Artists Agency | Data Analytics Intern | 2026-10-19 | — | [Apply](https://caa.wd1.myworkdayjobs.com/en-US/Careers/job/Denver-CO/CAA-ICON-Data-Analytics-Intern---Summer-2027--Denver--CO-_JR9391) |
 | Amplify | Product Management Intern | 2026-10-19 | — | [Apply](https://jobs.ashbyhq.com/amplify/c95f690f-28af-42b1-8847-5dcf14c1155e/application?embed=true) |
 | Tyler Technologies | Software Developer Intern | 2026-10-19 | — | [Apply](https://jobs.jobvite.com/tylertech/job/ouQXAfwB?nl=1&nl=1&fr=false) |
