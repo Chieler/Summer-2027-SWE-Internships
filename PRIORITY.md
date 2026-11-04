@@ -1,9 +1,10 @@
 # 🔥 Priority — Fresh Summer 2027 Roles
 
-_**Pulled:** 2026-11-04 00:52 UTC  —  782 role(s) explicitly tagged Summer 2027 and posted within the last 14 days._
+_**Pulled:** 2026-11-04 03:22 UTC  —  784 role(s) explicitly tagged Summer 2027 and posted within the last 14 days._
 
 | Company | Role | Posted | Applied | Link |
 |---|---|---|---|---|
+| LLNL | Cybersecurity Undergraduate Intern, Cyber and Critical Infrastructure | 2026-11-04 | — | [Apply](https://go.vansh.nyc/1fR) |
 | Micron Technology | System Engineer Intern, HBM | 2026-11-03 | — | [Apply](https://go.vansh.nyc/1bI) |
 | Axos Bank | Software Development Intern | 2026-11-03 | — | [Apply](https://go.vansh.nyc/1bT) |
 | Alcon | Software, Data & AI Engineering Intern | 2026-11-03 | — | [Apply](https://go.vansh.nyc/1bZ) |
@@ -101,6 +102,8 @@ _**Pulled:** 2026-11-04 00:52 UTC  —  782 role(s) explicitly tagged Summer 202
 | JM Family | AI & Decision Science Intern | 2026-11-03 | — | [Apply](https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/AI---Decision-Science-Intern_JR105095) |
 | T-Mobile | T-Ads Software Engineer Intern | 2026-11-03 | — | [Apply](https://tmobile.wd1.myworkdayjobs.com/External/job/Philadelphia-Pennsylvania/Summer-2027-T-Ads-Software-Engineering-Internship_REQ381234) |
 | TruStage | Innovation & AI Technology Intern | 2026-11-03 | — | [Apply](https://trustage.wd1.myworkdayjobs.com/TruStage/job/Madison-WI/IT---Innovation---AI-Technology-Internship--Hybrid-_R-012293) |
+| Zurn Elkay Water Solutions | Electrical & Electronics Engineering Intern | 2026-11-03 | — | [Apply](https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Downers-Grove-IL/Electrical---Electronics-Engineering-Intern--Summer-2027-_REQ-020097) |
+| Samsung Research America | Generative AI based Imaging and Video R&D Intern | 2026-11-03 | — | [Apply](https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8927216002) |
 | Northrop Grumman | 2027 Ground Software Engineer Intern - Redondo Beach CA | 2026-11-03 | — | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/XMLNAME-2027-Ground-Software-Engineer-Intern---Redondo-Beach-CA_R10259057) |
 | Northrop Grumman | 2027 Flight Software Engineer Intern - Redondo Beach CA | 2026-11-03 | — | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Manhattan-Beach/XMLNAME-2027-Flight-Software-Engineer-Intern---Redondo-Beach-CA_R10259032) |
 | Nex | Summer 2027 \| Software Engineer Intern (Sports & Fitness) | 2026-11-03 | — | [Apply](https://job-boards.greenhouse.io/nex/jobs/5421056008) |
@@ -254,7 +257,6 @@ _**Pulled:** 2026-11-04 00:52 UTC  —  782 role(s) explicitly tagged Summer 202
 | TikTok | AI Software Engineer Project Intern, Transaction Platform | 2026-11-01 | — | [Apply](https://go.vansh.nyc/18t) |
 | TikTok | Data Scientist Intern, VOD Data | 2026-11-01 | — | [Apply](https://go.vansh.nyc/18w) |
 | Siemens Digital Industries Software | Strategic Student Program Digital Enterprise Software Applications Intern | 2026-11-01 | — | [Apply](https://go.vansh.nyc/18U) |
-| KnowBe4 | Associate Product Manager Intern | 2026-11-01 | — | [Apply](https://job-boards.greenhouse.io/knowbe4/jobs/8919274002) |
 | Firework | Data Engineer Intern | 2026-10-31 | — | [Apply](https://go.vansh.nyc/11I) |
 | Northrop Grumman | Data Scientist Intern, Product Support | 2026-10-31 | — | [Apply](https://go.vansh.nyc/125) |
 | NVIDIA | Enterprise Platform Technical Marketing Engineer Intern | 2026-10-31 | — | [Apply](https://go.vansh.nyc/12a) |
