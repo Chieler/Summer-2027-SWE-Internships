@@ -1,6 +1,6 @@
 # 🔥 Priority — Fresh Summer 2027 Roles
 
-_**Pulled:** 2026-11-07 17:56 UTC  —  813 role(s) explicitly tagged Summer 2027 and posted within the last 14 days._
+_**Pulled:** 2026-11-08 01:40 UTC  —  811 role(s) explicitly tagged Summer 2027 and posted within the last 14 days._
 
 | Company | Role | Posted | Applied | Link |
 |---|---|---|---|---|
@@ -11,6 +11,7 @@ _**Pulled:** 2026-11-07 17:56 UTC  —  813 role(s) explicitly tagged Summer 202
 | Springs Window Fashions | Textile Engineering Analytics & Software Intern | 2026-11-07 | — | [Apply](https://go.vansh.nyc/1me) |
 | Springs Window Fashions | Software Engineering Intern | 2026-11-07 | — | [Apply](https://go.vansh.nyc/1mf) |
 | empirical | Software Engineering Intern | 2026-11-07 | — | [Apply](https://go.vansh.nyc/1mg) |
+| West Bend Insurance | Data Solution Engineer Intern | 2026-11-07 | — | [Apply](https://go.vansh.nyc/1my) |
 | TikTok | GEO Content Product Manager Intern | 2026-11-07 | — | [Apply](https://lifeattiktok.com/search/7696000178264361269) |
 | TikTok | Data Operations Intern | 2026-11-07 | — | [Apply](https://lifeattiktok.com/search/7704912455690504453) |
 | Zoox | Safety Reporting & Benchmarking Intern | 2026-11-07 | — | [Apply](https://jobs.lever.co/zoox/614f35d6-a415-4f44-be38-cb38877df1db/apply) |
@@ -55,6 +56,7 @@ _**Pulled:** 2026-11-07 17:56 UTC  —  813 role(s) explicitly tagged Summer 202
 | L3Harris Technologies | Data Architect Intern | 2026-11-06 | — | [Apply](https://go.vansh.nyc/1lH) |
 | Enovation Controls | Manufacturing Software Engineer Intern | 2026-11-06 | — | [Apply](https://go.vansh.nyc/1lO) |
 | Zoox | Data Science Intern | 2026-11-06 | — | [Apply](https://go.vansh.nyc/1lQ) |
+| Axiom Consultants | AI Developer Intern | 2026-11-06 | — | [Apply](https://go.vansh.nyc/1mp) |
 | Zoox | Software Engineer Intern - Software Systems | 2026-11-06 | — | [Apply](https://jobs.lever.co/zoox/8b32157b-ab44-4078-85ea-1d8d7b747a20/apply) |
 | Zoox | Software Engineer Intern - Software Platforms & Product | 2026-11-06 | — | [Apply](https://jobs.lever.co/zoox/88f6cb68-1534-44af-80db-10e43c203520/apply) |
 | Zoox | Software Engineer Intern - Autonomy Software | 2026-11-06 | — | [Apply](https://jobs.lever.co/zoox/7b20b929-d9a4-4995-a472-16cd4925a877/apply) |
@@ -157,6 +159,7 @@ _**Pulled:** 2026-11-07 17:56 UTC  —  813 role(s) explicitly tagged Summer 202
 | Walmart | Data Science Intern, Last Mile Delivery | 2026-11-05 | — | [Apply](https://go.vansh.nyc/1jy) |
 | Versant | Technology, Product, Design & Engineering Intern, GolfNow, Full Swing, Rotten Tomatoes, Fandango | 2026-11-05 | — | [Apply](https://go.vansh.nyc/1jE) |
 | V2X | AI Engineer Intern | 2026-11-05 | — | [Apply](https://go.vansh.nyc/1jI) |
+| General Dynamics Mission Systems | Software Engineering Intern | 2026-11-05 | — | [Apply](https://go.vansh.nyc/1mz) |
 | DwyerOmega | Electrical Engineer Intern | 2026-11-05 | — | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4640810) |
 | Waymo | Depot Automation Intern | 2026-11-05 | — | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8350687) |
 | Berkshire Hathaway Energy | Renewable Generation Performance Intern | 2026-11-05 | — | [Apply](https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10006008) |
@@ -167,7 +170,6 @@ _**Pulled:** 2026-11-07 17:56 UTC  —  813 role(s) explicitly tagged Summer 202
 | PayPal | Machine Learning Engineer PhD Intern | 2026-11-05 | — | [Apply](https://paypal.eightfold.ai/careers/job/274922983152) |
 | Liberty Mutual | Analyst Development Intern | 2026-11-05 | — | [Apply](https://campus-libertymutual.icims.com/jobs/122764/job?mobile=true&needsRedirect=false) |
 | Peraton | Social Media & Marketing Analyst Intern | 2026-11-05 | — | [Apply](https://careers-peraton.icims.com/jobs/171546/job?mobile=true&needsRedirect=false) |
-| General Dynamics Mission Systems | Software Engineering Intern | 2026-11-05 | — | [Apply](https://careers-gdms.icims.com/jobs/75131/job?mobile=true&needsRedirect=false) |
 | Uline | Marketing Intern | 2026-11-05 | — | [Apply](https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Marketing-Internship---Summer-2027_R268946) |
 | NRDC | Donor Systems Intern | 2026-11-05 | — | [Apply](https://careers-nrdc.icims.com/jobs/6046/job?mobile=true&needsRedirect=false) |
 | NRDC | Knowledge Management Intern | 2026-11-05 | — | [Apply](https://careers-nrdc.icims.com/jobs/6066/job?mobile=true&needsRedirect=false) |
@@ -780,7 +782,6 @@ _**Pulled:** 2026-11-07 17:56 UTC  —  813 role(s) explicitly tagged Summer 202
 | Highmark Health | Data Analyst Intern | 2026-10-26 | — | [Apply](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Pittsburgh-PA-15222-PAP-Penn-Avenue-Place/Summer-2027-Data-Analyst-enGen-Undergraduate-Intern_J286826) |
 | Highmark Health | Enterprise Data Warehouse Systems Engineering Intern | 2026-10-26 | — | [Apply](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Pittsburgh-PA-15222-PAP-Penn-Avenue-Place/Summer-2027-Enterprise-Data-Warehouse-Systems-enGen-Undergraduate-Intern_J289826) |
 | Highmark Health | Software Engineer Graduate Intern | 2026-10-26 | — | [Apply](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-Software-Engineer-enGen-Graduate-Intern_J289845) |
-| The Federal Reserve System | Innovation Intern | 2026-10-26 | — | [Apply](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Atlanta-GA/XMLNAME-2027-Summer-Internship-Program---Innovation-Intern_R-0000033884) |
 | Toyota Research Institute | Robotics Intern - World Foundation Models | 2026-10-26 | — | [Apply](https://jobs.lever.co/tri/016bbb58-857a-4367-b1aa-0cdc9f818478/apply) |
 | Federal Home Loan Bank of Indianapolis | Business Intelligence Intern | 2026-10-26 | — | [Apply](https://fhlbi.wd1.myworkdayjobs.com/FHLBI_Careers/job/Indianapolis/Business-Intelligence-Intern_R637) |
 | AtkinsRéalis | Business Intelligence Intern - Digital | 2026-10-26 | — | [Apply](https://slihrms.wd3.myworkdayjobs.com/careers/job/CAQCMontral455-boul-Ren-Lvesque-Ouest/Stagiaire-en-intelligence-d-affaires--Digital_R-166691) |
@@ -814,9 +815,6 @@ _**Pulled:** 2026-11-07 17:56 UTC  —  813 role(s) explicitly tagged Summer 202
 | Highmark Health | Summer 2027 Enterprise Architecture Software Engineer & Architect enGen Undergradute Intern | 2026-10-26 | — | [Apply](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Pittsburgh-PA-15222-PAP-Penn-Avenue-Place/Summer-2027-Enterprise-Architecture-Software-Engineer---Architect-enGen-Undergradute-Intern_J289821) |
 | Hive Financial Systems | Software Internship-2027 | 2026-10-26 | — | [Apply](https://job-boards.greenhouse.io/hivefinancialsystems/jobs/5274887007) |
 | PTC | Onshape Software Engineer Intern (Summer 2027) | 2026-10-26 | — | [Apply](https://ptc.wd1.myworkdayjobs.com/ptc/job/Boston-MA-USA/Software-Engineer-Intern--Summer-2027-_JR112943) |
-| Skydio | Wireless Hardware Engineer Intern | 2026-10-25 | — | [Apply](https://go.vansh.nyc/i) |
-| ConnectPrep | Data Analyst Intern | 2026-10-25 | — | [Apply](https://go.vansh.nyc/BG) |
-| Skydio | Autonomy Engineer Intern, Deep Learning / Computer Vision | 2026-10-25 | — | [Apply](https://go.vansh.nyc/BL) |
 
 ---
 _Auto-generated. Window: 14 days (edit `PRIORITY_DAYS` in `search.py`). See `README.md` for everything._
