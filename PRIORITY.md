@@ -1,6 +1,6 @@
 # 🔥 Priority — Fresh Summer 2027 Roles
 
-_**Pulled:** 2026-11-08 16:49 UTC  —  814 role(s) explicitly tagged Summer 2027 and posted within the last 14 days._
+_**Pulled:** 2026-11-08 18:13 UTC  —  816 role(s) explicitly tagged Summer 2027 and posted within the last 14 days._
 
 | Company | Role | Posted | Applied | Link |
 |---|---|---|---|---|
@@ -716,6 +716,7 @@ _**Pulled:** 2026-11-08 16:49 UTC  —  814 role(s) explicitly tagged Summer 202
 | stealth-startup-community | Embedded Firmware and Controls Engineer Intern | 2026-10-27 | — | [Apply](https://go.vansh.nyc/X4) |
 | Sephora | AI Platform Infrastructure Intern, Technology | 2026-10-27 | — | [Apply](https://go.vansh.nyc/11N) |
 | Toshiba International Corporation | Firmware Engineer Intern | 2026-10-27 | — | [Apply](https://go.vansh.nyc/11O) |
+| Northrop Grumman | Software Engineer Intern | 2026-10-27 | — | [Apply](https://go.vansh.nyc/1mX) |
 | Toyota Research Institute | Robotics Intern - Trustworthy Learning under Uncertainty | 2026-10-27 | — | [Apply](https://jobs.lever.co/tri/6f60ff79-c902-466a-912c-7ab849ce6424/apply) |
 | TikTok | Global Product Solutions and Operations Intern - Global Monetization Product and Technology | 2026-10-27 | — | [Apply](https://lifeattiktok.com/search/7701069870360627509) |
 | Saviynt | Research Scientist Intern | 2026-10-27 | — | [Apply](https://jobs.lever.co/saviynt/183188c3-c043-4f91-b3f0-30ec4961f4c7/apply) |
@@ -771,6 +772,7 @@ _**Pulled:** 2026-11-08 16:49 UTC  —  814 role(s) explicitly tagged Summer 202
 | Space Dynamics Laboratory | Software Engineer Intern | 2026-10-26 | — | [Apply](https://go.vansh.nyc/Tf) |
 | General Dynamics Mission Systems, Inc. | Software Test Engineering Intern, Space and Embedded Crypto | 2026-10-26 | — | [Apply](https://go.vansh.nyc/W0) |
 | Shield AI | Software Engineer Intern | 2026-10-26 | — | [Apply](https://go.vansh.nyc/X7) |
+| Booz Allen Hamilton | Systems Engineer Intern | 2026-10-26 | — | [Apply](https://go.vansh.nyc/1mV) |
 | Federal Home Loan Bank of Indianapolis | Model Risk Intern | 2026-10-26 | — | [Apply](https://fhlbi.wd1.myworkdayjobs.com/FHLBI_Careers/job/Indianapolis/Model-Risk-Intern_R636) |
 | FTI Consulting | Data & Analytics Intern | 2026-10-26 | — | [Apply](https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareers/job/London-United-Kingdom/XMLNAME-2027-Summer-Internship--Data---Analytics_JR260771) |
 | Leonardo | Electronic Engineer Intern | 2026-10-26 | — | [Apply](https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Edinburgh/Summer-Placement-Electronic-Engineer_R0034554) |
