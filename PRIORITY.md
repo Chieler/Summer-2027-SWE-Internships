@@ -1,9 +1,10 @@
 # 🔥 Priority — Fresh Summer 2027 Roles
 
-_**Pulled:** 2026-11-08 18:13 UTC  —  816 role(s) explicitly tagged Summer 2027 and posted within the last 14 days._
+_**Pulled:** 2026-11-09 02:08 UTC  —  749 role(s) explicitly tagged Summer 2027 and posted within the last 14 days._
 
 | Company | Role | Posted | Applied | Link |
 |---|---|---|---|---|
+| National Interstate Insurance | Data Scientist Intern | 2026-11-09 | — | [Apply](https://go.vansh.nyc/1ni) |
 | Citizens Energy Group | Meter Services Data Analytics Intern | 2026-11-08 | — | [Apply](https://go.vansh.nyc/1mM) |
 | Highgate | Data Services Intern | 2026-11-07 | — | [Apply](https://go.vansh.nyc/1m0) |
 | IDEMIA | Service Platform Engineering Intern | 2026-11-07 | — | [Apply](https://go.vansh.nyc/1m1) |
@@ -487,7 +488,6 @@ _**Pulled:** 2026-11-08 18:13 UTC  —  816 role(s) explicitly tagged Summer 202
 | Intercontinental Exchange | Software Developer Intern | 2026-10-31 | — | [Apply](https://go.vansh.nyc/133) |
 | Intercontinental Exchange | Agentic AI Data Science Intern | 2026-10-31 | — | [Apply](https://go.vansh.nyc/134) |
 | Intercontinental Exchange | Software Development Engineer in Test Intern | 2026-10-31 | — | [Apply](https://go.vansh.nyc/135) |
-| Iridium Communications | Software Engineering Intern | 2026-10-31 | — | [Apply](https://go.vansh.nyc/137) |
 | Ixian Robotics | Software Intern | 2026-10-31 | — | [Apply](https://go.vansh.nyc/138) |
 | Keenfinity | Software Engineering Intern | 2026-10-31 | — | [Apply](https://go.vansh.nyc/139) |
 | KLA | Software Engineering Intern, C++ and Unix | 2026-10-31 | — | [Apply](https://go.vansh.nyc/13b) |
@@ -753,73 +753,6 @@ _**Pulled:** 2026-11-08 18:13 UTC  —  816 role(s) explicitly tagged Summer 202
 | CACI | Software Engineering Intern - Summer 2027 | 2026-10-27 | — | [Apply](https://caci.wd1.myworkdayjobs.com/external/job/Sarasota-FL-US/Software-Engineering-Intern---Summer-2027_332618) |
 | Visa | Business Strategy Intern, Data and AI Team - Summer 2027 | 2026-10-27 | — | [Apply](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Foster-City-CA/Business-Strategy-Intern--Data-and-AI-Team---Summer-2027_REF089884W-2) |
 | Visa | Data Science Intern, Data and AI Team – Summer 2027 | 2026-10-27 | — | [Apply](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Foster-City-CA/Data-Science-Intern--Data-and-AI-Team---Summer-2027_REF089883W-1) |
-| Hewlett Packard Enterprise | AI/ML Developer Intern | 2026-10-26 | — | [Apply](https://go.vansh.nyc/BM) |
-| RTX | Embedded Software Engineering Intern | 2026-10-26 | — | [Apply](https://go.vansh.nyc/BP) |
-| PTC | Software Engineer Intern | 2026-10-26 | — | [Apply](https://go.vansh.nyc/CS) |
-| Royal Bank of Canada | Data Engineer Intern | 2026-10-26 | — | [Apply](https://go.vansh.nyc/OF) |
-| Royal Bank of Canada | Developer Intern | 2026-10-26 | — | [Apply](https://go.vansh.nyc/OH) |
-| Skydio | Autonomy Engineer Intern, Simulation & Robotics | 2026-10-26 | — | [Apply](https://go.vansh.nyc/Si) |
-| Skydio | Autonomy Engineer Intern, Autonomy Infrastructure, Systems and Tools | 2026-10-26 | — | [Apply](https://go.vansh.nyc/Sj) |
-| BorgWarner | Systems Test Automation Engineering Intern | 2026-10-26 | — | [Apply](https://go.vansh.nyc/Sy) |
-| Cadence | CST Application Engineer Intern, Silicon | 2026-10-26 | — | [Apply](https://go.vansh.nyc/Sz) |
-| Cisive | Software Developer Intern | 2026-10-26 | — | [Apply](https://go.vansh.nyc/SB) |
-| Copart | Vulnerability Management Engineering Intern | 2026-10-26 | — | [Apply](https://go.vansh.nyc/SC) |
-| Hewlett Packard (HP) | Software Intern | 2026-10-26 | — | [Apply](https://go.vansh.nyc/SM) |
-| General Dynamics Mission Systems | Software Test Engineer Intern | 2026-10-26 | — | [Apply](https://go.vansh.nyc/T5) |
-| HCSC | Product Engineer Intern | 2026-10-26 | — | [Apply](https://go.vansh.nyc/T7) |
-| Hive Financial Systems | Software Engineer Intern | 2026-10-26 | — | [Apply](https://go.vansh.nyc/Ta) |
-| Cohesity | Software Engineering Intern | 2026-10-26 | — | [Apply](https://go.vansh.nyc/Tc) |
-| Space Dynamics Laboratory | Software Engineer Intern | 2026-10-26 | — | [Apply](https://go.vansh.nyc/Tf) |
-| General Dynamics Mission Systems, Inc. | Software Test Engineering Intern, Space and Embedded Crypto | 2026-10-26 | — | [Apply](https://go.vansh.nyc/W0) |
-| Shield AI | Software Engineer Intern | 2026-10-26 | — | [Apply](https://go.vansh.nyc/X7) |
-| Booz Allen Hamilton | Systems Engineer Intern | 2026-10-26 | — | [Apply](https://go.vansh.nyc/1mV) |
-| Federal Home Loan Bank of Indianapolis | Model Risk Intern | 2026-10-26 | — | [Apply](https://fhlbi.wd1.myworkdayjobs.com/FHLBI_Careers/job/Indianapolis/Model-Risk-Intern_R636) |
-| FTI Consulting | Data & Analytics Intern | 2026-10-26 | — | [Apply](https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareers/job/London-United-Kingdom/XMLNAME-2027-Summer-Internship--Data---Analytics_JR260771) |
-| Leonardo | Electronic Engineer Intern | 2026-10-26 | — | [Apply](https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Edinburgh/Summer-Placement-Electronic-Engineer_R0034554) |
-| Wells Fargo | Technology Intern - Early Careers - Data Engineering | 2026-10-26 | — | [Apply](https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/XMLNAME-2027-Technology-Summer-Internship---Early-Careers--Data-Engineering-_R-583066) |
-| Jabil | Validation Engineer Intern | 2026-10-26 | — | [Apply](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Austin-TX/Validation-Engineer-Intern_J2469310) |
-| Royal Bank of Canada | Developer Intern - RBC Amplify | 2026-10-26 | — | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/MONTRAL-Quebec-Canada/dveloppeur--RBC-amplifie-2027--Montral---Developer--RBC-Amplify-2027--Montreal_R-0000191206-1) |
-| Royal Bank of Canada | Data Engineer Intern - Amplify 2027 | 2026-10-26 | — | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/410-GEORGIA-ST-W-FLOOR-3VANCOUVER/Data-Engineer--RBC-Amplify-2027--Vancouver_R-0000191198) |
-| Highmark Health | Enterprise Data Governance Intern | 2026-10-26 | — | [Apply](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Pittsburgh-PA-15222-PAP-Penn-Avenue-Place/Summer-2027-Enterprise-Data-Governance-enGen-Undergraduate-Internship_J289807) |
-| The Federal Reserve System | Community and Economic Development Intern | 2026-10-26 | — | [Apply](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Atlanta-GA/XMLNAME-2027-Summer-Internship-Program---Community-and-Economic-Development-Intern_R-0000033895) |
-| Zebra Technologies | Product Management Intern | 2026-10-26 | — | [Apply](https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Lincolnshire-Illinois/XMLNAME-2027-Summer-Internship--US----Product-Management_JR103652) |
-| ABB | Product Management Intern | 2026-10-26 | — | [Apply](https://abb.wd3.myworkdayjobs.com/external_career_page/job/New-Berlin-Wisconsin-United-States-of-America/Product-Management-Intern-Drive-Products---Summer-2027_JR00047254) |
-| Highmark Health | Data Analyst Intern | 2026-10-26 | — | [Apply](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Pittsburgh-PA-15222-PAP-Penn-Avenue-Place/Summer-2027-Data-Analyst-enGen-Undergraduate-Intern_J286826) |
-| Highmark Health | Enterprise Data Warehouse Systems Engineering Intern | 2026-10-26 | — | [Apply](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Pittsburgh-PA-15222-PAP-Penn-Avenue-Place/Summer-2027-Enterprise-Data-Warehouse-Systems-enGen-Undergraduate-Intern_J289826) |
-| Highmark Health | Software Engineer Graduate Intern | 2026-10-26 | — | [Apply](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-Software-Engineer-enGen-Graduate-Intern_J289845) |
-| Toyota Research Institute | Robotics Intern - World Foundation Models | 2026-10-26 | — | [Apply](https://jobs.lever.co/tri/016bbb58-857a-4367-b1aa-0cdc9f818478/apply) |
-| Federal Home Loan Bank of Indianapolis | Business Intelligence Intern | 2026-10-26 | — | [Apply](https://fhlbi.wd1.myworkdayjobs.com/FHLBI_Careers/job/Indianapolis/Business-Intelligence-Intern_R637) |
-| AtkinsRéalis | Business Intelligence Intern - Digital | 2026-10-26 | — | [Apply](https://slihrms.wd3.myworkdayjobs.com/careers/job/CAQCMontral455-boul-Ren-Lvesque-Ouest/Stagiaire-en-intelligence-d-affaires--Digital_R-166691) |
-| AltaLink | Summer Student Intern - CRU Project Support | 2026-10-26 | — | [Apply](https://apply.workable.com/altalink/j/3FB9DD016F/apply) |
-| Scout Clean Energy | Renewable Energy Analyst Intern | 2026-10-26 | — | [Apply](https://apply.workable.com/scout-clean-energy/j/30CCB1602D/apply) |
-| Parallel Systems | Hardware Engineering Intern - Mechanical and Electrical | 2026-10-26 | — | [Apply](https://boards.greenhouse.io/parallel/jobs/5275660007) |
-| Hive Financial Systems | Product & Program Management Intern | 2026-10-26 | — | [Apply](https://job-boards.greenhouse.io/hivefinancialsystems/jobs/5274970007) |
-| Paccar | Product Planning Intern | 2026-10-26 | — | [Apply](https://jobs.paccar.com/job/Kirkland-Summer-2027-Product-Planning-Intern-WA-98033/1451437033/?ats=successfactors) |
-| Leonardo | Electronic Engineering MEng Intern | 2026-10-26 | — | [Apply](https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Edinburgh/Electronic-Engineering-MEng--Placement_R0034557) |
-| Booz Allen | Summer Games Software Developer Intern | 2026-10-26 | — | [Apply](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Detroit-MI/University---2027-Summer-Games-Software-Developer-Intern---Royal-Oaks--MI_R0252340) |
-| Booz Allen | Summer Games Systems Engineer Intern | 2026-10-26 | — | [Apply](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Lexington-MA/University---2027-Summer-Games-Systems-Engineer-Intern---Lexington--MA_R0252273) |
-| Booz Allen | 2027 Summer Games Data Scientist Intern | 2026-10-26 | — | [Apply](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Lexington-MA/University---2027-Summer-Games-Data-Scientist-Intern---Lexington--MA_R0252275) |
-| SOTI | Software Developer Intern - Server | 2026-10-26 | — | [Apply](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern---Server--May-2027---12-Months-_R10647) |
-| SOTI | Software Developer Intern - Android | 2026-10-26 | — | [Apply](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern---Android--May-2027---12-Months-_R10620) |
-| Hiya | Engineer Intern | 2026-10-26 | — | [Apply](https://jobs.ashbyhq.com/hiya/046212dd-41e3-46e7-a8ba-48cff5a7f947/application?embed=true) |
-| Cohesity | Software Engineer Intern | 2026-10-26 | — | [Apply](https://cohesity.wd5.myworkdayjobs.com/Cohesity_Careers/job/Santa-Clara-CA---USA-Office/Software-Engineering-Intern--Summer-2027-_R04791-2) |
-| JP Morgan Chase | Quant AI Associate Intern | 2026-10-26 | — | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210803936) |
-| Tradeweb | Human Resources Data & Analytics Intern | 2026-10-26 | — | [Apply](https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301987) |
-| The Allen Institute for AI | Research Intern - Open Ecosystem | 2026-10-26 | — | [Apply](https://job-boards.greenhouse.io/thealleninstitute/jobs/8319350) |
-| Highmark Health | Enterprise Master Data Management Analyst Graduate Intern | 2026-10-26 | — | [Apply](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-Enterprise-Master-Data-Management-Analyst-Graduate-Intern_J289856) |
-| Zillow | Data Science Intern | 2026-10-26 | — | [Apply](https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Seattle-WA-2nd-Ave/Data-Science-Intern_P751677-1) |
-| Qube Research & Technologies | Technology Intern | 2026-10-26 | — | [Apply](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8870423002) |
-| Burns Engineering | Software Engineer Intern | 2026-10-26 | — | [Apply](https://www.burns-group.com/careers/current-openings/?gh_jid=4467848009) |
-| Atlassian | AI Research Intern | 2026-10-26 | — | [Apply](https://campus-americas.icims.com/jobs/26269/ai-research-intern-%28phd%29%2c-2027-summer-u.s./job) |
-| Roche | Data Expert Intern - Compliance by Design - Data Capability | 2026-10-26 | — | [Apply](https://roche.wd3.myworkdayjobs.com/roche-ext/job/Welwyn/Industrial-Placement-Student---Data-Expert--Compliance-by-Design--Data-Capability--DDC--Computational-Sciences-Center-of-Excellence_202610-127533) |
-| onsemi | Summer 2027 - AI & Data Science Intern | 2026-10-26 | — | [Apply](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506468) |
-| Booz Allen | University - 2027 Summer Games Software Developer Intern - Albuquerque, NM | 2026-10-26 | — | [Apply](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Albuquerque-NM/University---2027-Summer-Games-Software-Developer-Intern---Albuquerque--NM_R0252335) |
-| Booz Allen | University - 2027 Summer Games Software Developer Intern - Dayton, OH | 2026-10-26 | — | [Apply](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Dayton-OH/University---2027-Summer-Games-Software-Developer-Intern---Dayton--OH_R0252345) |
-| Booz Allen | University - 2027 Summer Games Software Developer Intern - Lexington, MA | 2026-10-26 | — | [Apply](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Lexington-MA/University---2027-Summer-Games-Software-Developer-Intern---Lexington--MA_R0252274) |
-| Highmark Health | Summer 2027 Software Engineer enGen Undergraduate Intern | 2026-10-26 | — | [Apply](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-Software-Engineer-enGen-Undergraduate-Intern_J289812) |
-| Highmark Health | Summer 2027 Enterprise Architecture Software Engineer & Architect enGen Undergradute Intern | 2026-10-26 | — | [Apply](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Pittsburgh-PA-15222-PAP-Penn-Avenue-Place/Summer-2027-Enterprise-Architecture-Software-Engineer---Architect-enGen-Undergradute-Intern_J289821) |
-| Hive Financial Systems | Software Internship-2027 | 2026-10-26 | — | [Apply](https://job-boards.greenhouse.io/hivefinancialsystems/jobs/5274887007) |
-| PTC | Onshape Software Engineer Intern (Summer 2027) | 2026-10-26 | — | [Apply](https://ptc.wd1.myworkdayjobs.com/ptc/job/Boston-MA-USA/Software-Engineer-Intern--Summer-2027-_JR112943) |
 
 ---
 _Auto-generated. Window: 14 days (edit `PRIORITY_DAYS` in `search.py`). See `README.md` for everything._
