@@ -8,7 +8,7 @@ Reliability note:
   directly is unreliable. Instead we pull from sources that are stable and
   scraper-friendly:
     1. GitHub's own "Summer 2027 Internships" community list (Markdown table)
-    2. Greenhouse / Lever public job board APIs (clean JSON, no blocking)
+    2. Greenhouse / Lever / Ashby / BambooHR / Dover public job APIs (clean JSON)
     3. A LinkedIn *search URL* is included as a clickable link (not scraped),
        so you still get a one-tap way to view live LinkedIn results.
 """
@@ -464,6 +464,67 @@ def source_workable():
     return results
 
 
+# ---------- Source: BambooHR public careers pages ----------
+# https://{tenant}.bamboohr.com/careers/list
+# -> {"result": [{"id","jobOpeningName","location":{...}, ...}]}
+# The list has no posted date, so we hit /careers/{id}/detail (datePosted)
+# only for titles that already matched. Add tenant subdomains here.
+BAMBOOHR_BOARDS = {
+    "lucidsoftware": "Lucid Software", "neighbor": "Neighbor", "lendio": "Lendio",
+    "canopy": "Canopy", "strata": "Strata", "particle": "Particle",
+}
+
+
+def source_bamboohr():
+    results = []
+    for tenant, display in BAMBOOHR_BOARDS.items():
+        data = fetch(f"https://{tenant}.bamboohr.com/careers/list", is_json=True)
+        if not data or not isinstance(data.get("result"), list):
+            continue
+        for job in data["result"]:
+            title = job.get("jobOpeningName", "")
+            jid = job.get("id")
+            if not jid or not matches(title):
+                continue
+            detail = fetch(f"https://{tenant}.bamboohr.com/careers/{jid}/detail", is_json=True) or {}
+            opening = (detail.get("result") or {}).get("jobOpening") or {}
+            posted = _iso_to_date(opening.get("datePosted") or "")
+            url = f"https://{tenant}.bamboohr.com/careers/{jid}"
+            results.append((display, title, url, posted, detect_season("", "", title)))
+        time.sleep(0.3)
+    return results
+
+
+# ---------- Source: Dover job board (jobs.dover.com) ----------
+# One public paginated feed across all Dover startup clients:
+#   https://app.dover.com/api/v1/job-board/jobs/?limit=100
+# -> {"next": url|null, "results": [{"id","title","date_posted",
+#                                    "client":{"name","slug"}}]}
+DOVER_API_URL = "https://app.dover.com/api/v1/job-board/jobs/?limit=100"
+
+
+def source_dover():
+    results = []
+    url = DOVER_API_URL
+    while url:
+        data = fetch(url, is_json=True)
+        if not data:
+            break
+        for job in data.get("results") or []:
+            title = job.get("title", "")
+            jid = job.get("id")
+            if not jid or not matches(title):
+                continue
+            client = job.get("client") or {}
+            slug = (client.get("slug") or "").strip().lower()
+            link = f"https://jobs.dover.com/{slug}/{jid}" if slug else f"https://app.dover.com/{jid}"
+            posted = _iso_to_date(job.get("date_posted") or "")
+            results.append((client.get("name") or "Unknown", title, link, posted, detect_season("", "", title)))
+        url = data.get("next")
+        time.sleep(0.3)
+    return results
+
+
 # NOTE: Workday and Oracle Cloud recruiting have no universal public job API —
 # each employer is a separate tenant with its own host and site path, so a
 # generic connector isn't possible. Those roles still reach us via the
@@ -816,6 +877,12 @@ def main():
     for row in source_workable():
         labeled.append(("Workable boards", row))
     print(f"  [Workable] done")
+    for row in source_bamboohr():
+        labeled.append(("BambooHR boards", row))
+    print(f"  [BambooHR] done")
+    for row in source_dover():
+        labeled.append(("Dover", row))
+    print(f"  [Dover] done")
 
     raw_total = len(labeled)
 
