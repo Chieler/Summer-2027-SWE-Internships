@@ -878,10 +878,10 @@ def main():
         labeled.append(("Workable boards", row))
     print(f"  [Workable] done")
     for row in source_bamboohr():
-        labeled.append(("BambooHR boards", row))
+        labeled.append(("Simplify/pittcsc", row))  # merged into top section
     print(f"  [BambooHR] done")
     for row in source_dover():
-        labeled.append(("Dover", row))
+        labeled.append(("Simplify/pittcsc", row))  # merged into top section
     print(f"  [Dover] done")
 
     raw_total = len(labeled)
