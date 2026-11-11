@@ -23,7 +23,17 @@ from urllib.request import Request, urlopen
 from urllib.error import URLError, HTTPError
 
 YEAR = "2027"
-KEYWORDS = ("software", "swe", "engineer", "developer", "data", "ml", "infra", "backend", "frontend", "full stack", "full-stack", "fullstack")
+# Substring keywords (safe because they're long enough not to hit unrelated words).
+KEYWORDS = (
+    "software", "swe", "engineer", "developer", "data", "ml", "infra", "backend",
+    "frontend", "full stack", "full-stack", "fullstack", "programm", "coding",
+    "devops", "automation", "test", "analysis", "analyst", "analytics",
+    "machine learning", "computer vision", "robotics", "embedded", "firmware",
+    "cloud", "security", "cyber", "platform", "systems", "reliability", "quant",
+    "research",
+)
+# Short tokens matched as whole words only ("ai" must not hit "maintenance").
+_KW_WORD_RE = re.compile(r"\b(ai|qa|sre|ci/cd|cicd|ci|cd|nlp|llm)\b")
 
 # Hide postings older than this many days (auto-filter for likely-filled roles).
 # Set to 0 to disable the age cutoff entirely.
@@ -107,7 +117,7 @@ _INTERN_RE = re.compile(r"\bintern(ship)?s?\b")
 
 def matches(title):
     t = title.lower()
-    has_kw = any(k in t for k in KEYWORDS) or bool(re.search(r"\bai\b", t))
+    has_kw = any(k in t for k in KEYWORDS) or bool(_KW_WORD_RE.search(t))
     is_intern = bool(_INTERN_RE.search(t))
     return has_kw and is_intern
 
