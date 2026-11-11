@@ -1,9 +1,11 @@
 # 🔥 Priority — Fresh Summer 2027 Roles
 
-_**Pulled:** 2026-11-11 00:55 UTC  —  722 role(s) explicitly tagged Summer 2027 and posted within the last 14 days._
+_**Pulled:** 2026-11-11 02:58 UTC  —  721 role(s) explicitly tagged Summer 2027 and posted within the last 14 days._
 
 | Company | Role | Posted | Applied | Link |
 |---|---|---|---|---|
+| Cisco | Software Engineer Embedded Systems I Intern | 2026-11-11 | — | [Apply](https://go.vansh.nyc/1sE) |
+| Tesla | Software Developer Intern - IT Apps | 2026-11-11 | — | [Apply](https://www.tesla.com/careers/search/job/289683) |
 | General Dynamics Mission Systems | Ontology Data Analysis and Validation Intern | 2026-11-10 | — | [Apply](https://go.vansh.nyc/1pQ) |
 | Lockheed Martin | Software Development Intern | 2026-11-10 | — | [Apply](https://go.vansh.nyc/1pZ) |
 | General Dynamics Mission Systems | Linux Automation Intern, Linux Integration and Test Engineer | 2026-11-10 | — | [Apply](https://go.vansh.nyc/1qr) |
@@ -77,8 +79,9 @@ _**Pulled:** 2026-11-11 00:55 UTC  —  722 role(s) explicitly tagged Summer 202
 | Rambus | Product Engineer Intern | 2026-11-10 | — | [Apply](https://careers-rambus.icims.com/jobs/23119/job?mobile=true&needsRedirect=false) |
 | Art of Problem Solving | Data Science Intern | 2026-11-10 | — | [Apply](https://artofproblemsolving.com/careers/job/8201037003?gh_jid=8201037003) |
 | International | Artificial Intelligence/Machine Learning Intern | 2026-11-10 | — | [Apply](https://careers.international.com/jobs/60456?icims=1&lang=en-us) |
+| Visa | Software Engineer, Intern - 2027 Foster City, CA | 2026-11-10 | — | [Apply](https://visa.wd5.myworkdayjobs.com/visa_talent_portal/job/US---Foster-City-CA/Software-Engineer--Intern---2027-Foster-City--CA_REF085862W) |
 | Motorola | Software System Technologist Intern (Summer 2027 Internship) | 2026-11-10 | — | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Allen-TX-TX139/Software-System-Technologist-Intern--Summer-2027-Internship-_R70511) |
-| T-Mobile | Summer 2027 T-Ads Software Engineering Internship | 2026-11-10 | — | [Apply](https://tmobile.wd1.myworkdayjobs.com/External/job/Philadelphia-Pennsylvania/Summer-2027-T-Ads-Software-Engineering-Internship_REQ381225) |
+| T-Mobile | Summer 2027 T-Ads Software Engineering Internship | 2026-11-10 | — | [Apply](https://tmobile.wd1.myworkdayjobs.com/External/job/Philadelphia-Pennsylvania/Summer-2027-T-Ads-Software-Engineering-Internship_REQ381219) |
 | Celonis | Summernaut Program - AI & Management Consulting (Value Engineering) Summer Intern | 2026-11-10 | — | [Apply](https://job-boards.greenhouse.io/celonis/jobs/8198760003?gh_jid=8198760003) |
 | National Interstate Insurance | Data Scientist Intern | 2026-11-09 | — | [Apply](https://go.vansh.nyc/1ni) |
 | Cisco | Software Engineer Intern, Full-Stack / Backend I | 2026-11-09 | — | [Apply](https://go.vansh.nyc/1ok) |
@@ -320,7 +323,6 @@ _**Pulled:** 2026-11-11 00:55 UTC  —  722 role(s) explicitly tagged Summer 202
 | The Federal Reserve System | Knowledge and Information Management Intern | 2026-11-05 | — | [Apply](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Atlanta-GA/XMLNAME-2027-Summer-Internship---Knowledge-and-Information-Management-Intern_R-0000033908) |
 | Baringa | Solutions AI Lab Intern | 2026-11-05 | — | [Apply](https://job-boards.eu.greenhouse.io/baringa/jobs/5028472101) |
 | Qualcomm | Driver and Tools Developer Intern - Telemetry Firmware | 2026-11-05 | — | [Apply](https://qualcomm.eightfold.ai/careers/job/446721989047) |
-| CareSource | Data Analyst Intern | 2026-11-05 | — | [Apply](https://caresource.wd1.myworkdayjobs.com/caresource/job/Remote/XMLNAME-2027-Summer-Internship-Program---Data-Analyst_R14356) |
 | CareSource | Configuration and Automation Intern | 2026-11-05 | — | [Apply](https://caresource.wd1.myworkdayjobs.com/caresource/job/Remote/XMLNAME-2027-Summer-Internship-Program---Configuration-and-Automation_R14185) |
 | Vizient | Product Operations Intern | 2026-11-05 | — | [Apply](https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Irving-TX-75062-Vizient-Corporate-HQ/XMLNAME-2027-Summer-Internship---Product-Operations_36065R) |
 | Vizient | Product Operations Internship - Metrics & Reporting | 2026-11-05 | — | [Apply](https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Irving-TX-75062-Vizient-Corporate-HQ/XMLNAME-2027-Summer-Internship---Product-Operations-Metrics---Reporting_36053R-1) |
@@ -328,7 +330,6 @@ _**Pulled:** 2026-11-11 00:55 UTC  —  722 role(s) explicitly tagged Summer 202
 | Vizient | Research Analytics & Insights Intern | 2026-11-05 | — | [Apply](https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Chicago-IL-60607/XMLNAME-2027-Summer-Internship---Research-Analytics---Insights_36064R-2) |
 | JM Family | Data Engineer Intern | 2026-11-05 | — | [Apply](https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Data-Engineering-Intern_JR105086) |
 | Riverside Research | Software Applications Intern | 2026-11-05 | — | [Apply](https://careers-riversideresearch.icims.com/jobs/4461/job?mobile=true&needsRedirect=false) |
-| AMD | Masters High-Speed SerDes and Optical Interconnect Engineering Intern | 2026-11-05 | — | [Apply](https://careers.amd.com/jobs/91893?icims=1&lang=en-us) |
 | Shield AI | Software Engineer Co-op Intern | 2026-11-05 | — | [Apply](https://jobs.lever.co/shieldai/db8fc063-8856-4404-991c-f287712de949/apply) |
 | Public Service Enterprise Group | Staff Intern - Corporate Citizenship - Federal Affairs & Sustainability | 2026-11-05 | — | [Apply](https://jobs.pseg.com/job/Newark-Summer-2027-Intern-Corporate-Citizenship-Federal-Affairs-&-Sustainability-NJ-07101/1448352900/?ats=successfactors) |
 | J.M. Smucker | Data Science Intern | 2026-11-05 | — | [Apply](https://smucker.wd5.myworkdayjobs.com/US_External_Careers/job/Working-Remote-USA/Data-Science-Intern--Summer-2027_116118) |
@@ -515,9 +516,7 @@ _**Pulled:** 2026-11-11 00:55 UTC  —  722 role(s) explicitly tagged Summer 202
 | Costco | Costco Data Systems Intern - IT Product Owner | 2026-11-02 | — | [Apply](https://phf.tbe.taleo.net/phf02/ats/careers/v2/viewRequisition?org=COSTCO&cws=41&rid=11024) |
 | Costco | CDS Intern - Software Engineer - IT Retail Media | 2026-11-02 | — | [Apply](https://phf.tbe.taleo.net/phf02/ats/careers/v2/viewRequisition?org=COSTCO&cws=41&rid=11013) |
 | Tria Federal | Growth Operations Intern | 2026-11-02 | — | [Apply](https://triafed.com/jobs/?gh_jid=5470246008) |
-| Resideo | Mobile Software Engineer Intern | 2026-11-02 | — | [Apply](https://ehtl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/19816) |
 | Qualcomm | Deep Learning Research Intern | 2026-11-02 | — | [Apply](https://qualcomm.eightfold.ai/careers/job/446721913898) |
-| Resideo | Firmware Engineer Intern | 2026-11-02 | — | [Apply](https://ehtl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/19813) |
 | Signet Jewelers | Data Analytics Intern | 2026-11-02 | — | [Apply](https://signetjewelers.wd1.myworkdayjobs.com/SignetCorporateCareers/job/Support-Center---Akron-OH/Data-Analytics-Intern_REQ_84317) |
 | NVIDIA | Math Libraries Intern | 2026-11-02 | — | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Math-Libraries-Intern--cuEST---Summer-2027_JR2028449) |
 | NVIDIA | AI Compiler and Kernel Intern | 2026-11-02 | — | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-TX-Austin/AI-Compiler-and-Kernel-Intern---Summer-2027_JR2029220-1) |
