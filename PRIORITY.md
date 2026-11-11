@@ -1,6 +1,6 @@
 # 🔥 Priority — Fresh Summer 2027 Roles
 
-_**Pulled:** 2026-11-11 02:58 UTC  —  721 role(s) explicitly tagged Summer 2027 and posted within the last 14 days._
+_**Pulled:** 2026-11-11 03:35 UTC  —  723 role(s) explicitly tagged Summer 2027 and posted within the last 14 days._
 
 | Company | Role | Posted | Applied | Link |
 |---|---|---|---|---|
@@ -79,6 +79,7 @@ _**Pulled:** 2026-11-11 02:58 UTC  —  721 role(s) explicitly tagged Summer 202
 | Rambus | Product Engineer Intern | 2026-11-10 | — | [Apply](https://careers-rambus.icims.com/jobs/23119/job?mobile=true&needsRedirect=false) |
 | Art of Problem Solving | Data Science Intern | 2026-11-10 | — | [Apply](https://artofproblemsolving.com/careers/job/8201037003?gh_jid=8201037003) |
 | International | Artificial Intelligence/Machine Learning Intern | 2026-11-10 | — | [Apply](https://careers.international.com/jobs/60456?icims=1&lang=en-us) |
+| Northrop Grumman | Optics/Photonic Engineering Intern | 2026-11-10 | — | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Apopka/XMLNAME-2027-Optics-Photonic-Engineering-Intern---Apopka-FL_R10260049) |
 | Visa | Software Engineer, Intern - 2027 Foster City, CA | 2026-11-10 | — | [Apply](https://visa.wd5.myworkdayjobs.com/visa_talent_portal/job/US---Foster-City-CA/Software-Engineer--Intern---2027-Foster-City--CA_REF085862W) |
 | Motorola | Software System Technologist Intern (Summer 2027 Internship) | 2026-11-10 | — | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Allen-TX-TX139/Software-System-Technologist-Intern--Summer-2027-Internship-_R70511) |
 | T-Mobile | Summer 2027 T-Ads Software Engineering Internship | 2026-11-10 | — | [Apply](https://tmobile.wd1.myworkdayjobs.com/External/job/Philadelphia-Pennsylvania/Summer-2027-T-Ads-Software-Engineering-Internship_REQ381219) |
@@ -156,6 +157,7 @@ _**Pulled:** 2026-11-11 02:58 UTC  —  721 role(s) explicitly tagged Summer 202
 | Pivotal Software | Internship, Software Engineering (Summer 2027) | 2026-11-09 | — | [Apply](https://jobs.lever.co/pivotal/3a80913d-886a-4d22-bf5e-9a011b157ec4) |
 | Northrop Grumman | 2027 Software Testing Engineering Intern - Apopka FL | 2026-11-09 | — | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Apopka/XMLNAME-2027-Software-Testing-Engineering-Intern---Apopka-FL_R10259820-1) |
 | Citizens Energy Group | Meter Services Data Analytics Intern | 2026-11-08 | — | [Apply](https://go.vansh.nyc/1mM) |
+| Formulary Financial | Software Engineer Intern | 2026-11-08 | — | [Apply](https://jobs.ashbyhq.com/formulary/bbc4fef5-3cff-4879-89bc-65aba1214b04/application?embed=true) |
 | Highgate | Data Services Intern | 2026-11-07 | — | [Apply](https://go.vansh.nyc/1m0) |
 | Framatome | AI and Software Innovation Intern | 2026-11-07 | — | [Apply](https://go.vansh.nyc/1m6) |
 | Dayton Freight | Software Developer Intern | 2026-11-07 | — | [Apply](https://go.vansh.nyc/1m9) |
