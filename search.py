@@ -23,7 +23,7 @@ from urllib.request import Request, urlopen
 from urllib.error import URLError, HTTPError
 
 YEAR = "2027"
-KEYWORDS = ("software", "swe", "engineer", "developer", "data", "ml", "infra", "backend", "frontend", "full stack", "full-stack")
+KEYWORDS = ("software", "swe", "engineer", "developer", "data", "ml", "infra", "backend", "frontend", "full stack", "full-stack", "fullstack")
 
 # Hide postings older than this many days (auto-filter for likely-filled roles).
 # Set to 0 to disable the age cutoff entirely.
@@ -107,7 +107,7 @@ _INTERN_RE = re.compile(r"\bintern(ship)?s?\b")
 
 def matches(title):
     t = title.lower()
-    has_kw = any(k in t for k in KEYWORDS)
+    has_kw = any(k in t for k in KEYWORDS) or bool(re.search(r"\bai\b", t))
     is_intern = bool(_INTERN_RE.search(t))
     return has_kw and is_intern
 
@@ -170,6 +170,16 @@ def too_old(posted, max_age_days=MAX_AGE_DAYS):
     except ValueError:
         return False
     return (datetime.now(timezone.utc) - d) > timedelta(days=max_age_days)
+
+
+# Feeds that only ever return currently-open postings. Age says nothing about
+# whether these are filled (Dover re-dates many open roles to old dates), so
+# they skip the MAX_AGE_DAYS cutoff.
+LIVE_BOARD_HOSTS = ("jobs.dover.com", "app.dover.com", ".bamboohr.com")
+
+
+def is_live_board(url):
+    return any(h in (url or "").lower() for h in LIVE_BOARD_HOSTS)
 
 
 def fmt_date(ts):
@@ -917,7 +927,7 @@ def main():
         before = len(deduped)
         deduped = [
             r for r in deduped
-            if is_applied(r[2], applied) or not too_old(r[3])
+            if is_applied(r[2], applied) or is_live_board(r[2]) or not too_old(r[3])
         ]
         print(f"Age cutoff ({MAX_AGE_DAYS}d) removed {before - len(deduped)} listing(s)")
 
