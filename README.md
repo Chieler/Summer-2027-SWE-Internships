@@ -1,10 +1,10 @@
 # 2027 SWE / Software-Adjacent Internships
 
-_**Pulled:** 2026-11-11 00:15 UTC  —  2822 matching roles found this run._
+_**Pulled:** 2026-11-11 00:55 UTC  —  2823 matching roles found this run._
 
 **[Open live LinkedIn search](https://www.linkedin.com/jobs/search/?keywords=software%20engineer%20intern%202027&f_E=1&f_JT=I)** (LinkedIn can't be scraped reliably from CI, so this is a one-tap live link instead.)
 
-## Simplify/pittcsc (1710)
+## Simplify/pittcsc (1709)
 
 | Company | Role | Posted | Applied | Link |
 |---|---|---|---|---|
@@ -67,7 +67,6 @@ _**Pulled:** 2026-11-11 00:15 UTC  —  2822 matching roles found this run._
 | JMP Statistical Discovery | C++ Software Development Intern | 2026-11-10 | — | [Apply](https://jmp-sas.icims.com/jobs/46960/job?mobile=true&needsRedirect=false) |
 | Rambus | Product Engineer Intern | 2026-11-10 | — | [Apply](https://careers-rambus.icims.com/jobs/23119/job?mobile=true&needsRedirect=false) |
 | Rambus | Forward Deployed Engineer Intern - AI & Enterprise Systems | 2026-11-10 | — | [Apply](https://careers-rambus.icims.com/jobs/23109/job?mobile=true&needsRedirect=false) |
-| Rambus | CAD Engineer Intern | 2026-11-10 | — | [Apply](https://careers-rambus.icims.com/jobs/23121/job?mobile=true&needsRedirect=false) |
 | Samsung | 5G Network Intelligence and Automation Intern | 2026-11-10 | — | [Apply](https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/6555-Excellence-Way-Plano-TX-USA/XMLNAME-5G-Network-Intelligence-and-Automation-Intern_R121959) |
 | Art of Problem Solving | Data Science Intern | 2026-11-10 | — | [Apply](https://artofproblemsolving.com/careers/job/8201037003?gh_jid=8201037003) |
 | International | Artificial Intelligence/Machine Learning Intern | 2026-11-10 | — | [Apply](https://careers.international.com/jobs/60456?icims=1&lang=en-us) |
@@ -2481,7 +2480,7 @@ _749 role(s) across 83 influential companies._
 | Susquehanna | Quantitative Strategy Developer Intern (Summer 2027, June start) | — | — | [Apply](https://careers.sig.com/jobs/10838) |
 | Susquehanna | Trading System Engineering Intern | — | — | [Apply](https://careers.sig.com/jobs/10837) |
 
-## vanshb03 2027 (911)
+## vanshb03 2027 (913)
 
 | Company | Role | Posted | Applied | Link |
 |---|---|---|---|---|
@@ -2530,6 +2529,8 @@ _749 role(s) across 83 influential companies._
 | Altice USA | Developer Intern, Financial & People Systems | 2026-11-10 | — | [Apply](https://go.vansh.nyc/1sl) |
 | Altice USA | Operations Data Analyst Intern | 2026-11-10 | — | [Apply](https://go.vansh.nyc/1sn) |
 | Altice USA | Software Development Intern | 2026-11-10 | — | [Apply](https://go.vansh.nyc/1so) |
+| JMP Statistical Discovery | Software Development Intern, C++ | 2026-11-10 | — | [Apply](https://go.vansh.nyc/1sw) |
+| Rambus | CAD Engineer Intern | 2026-11-10 | — | [Apply](https://go.vansh.nyc/1sx) |
 | National Interstate Insurance | Data Scientist Intern | 2026-11-09 | — | [Apply](https://go.vansh.nyc/1ni) |
 | Cisco | Software Engineer Intern, Full-Stack / Backend I | 2026-11-09 | — | [Apply](https://go.vansh.nyc/1ok) |
 | General Dynamics Mission Systems | Full-Stack Software Engineer Intern | 2026-11-09 | — | [Apply](https://go.vansh.nyc/1om) |
