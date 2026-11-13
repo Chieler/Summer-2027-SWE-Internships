@@ -1,12 +1,16 @@
 # 🔥 Priority — Fresh Summer 2027 Roles
 
-_**Pulled:** 2026-11-13 02:18 UTC  —  818 role(s) explicitly tagged Summer 2027 and posted within the last 14 days._
+_**Pulled:** 2026-11-13 04:56 UTC  —  821 role(s) explicitly tagged Summer 2027 and posted within the last 14 days._
 
 | Company | Role | Posted | Applied | Link |
 |---|---|---|---|---|
 | ASML | Data Scientist Intern | 2026-11-13 | — | [Apply](https://go.vansh.nyc/1yl) |
 | TikTok | Machine Learning Engineer Intern, Data-Global E-Commerce-Search | 2026-11-13 | — | [Apply](https://go.vansh.nyc/1ym) |
 | E2 Consulting Engineers | Data Analyst Intern | 2026-11-13 | — | [Apply](https://go.vansh.nyc/1yp) |
+| Origin Bank | Cybersecurity Intern | 2026-11-13 | — | [Apply](https://go.vansh.nyc/1yr) |
+| Bask | Machine Learning Engineering Intern | 2026-11-13 | — | [Apply](https://go.vansh.nyc/1ys) |
+| Bask | AI Engineering Intern | 2026-11-13 | — | [Apply](https://go.vansh.nyc/1yt) |
+| Lightmatter | Quality & Reliability Intern | 2026-11-13 | — | [Apply](https://boards.greenhouse.io/lightmatter/jobs/5474812008) |
 | Bloom Energy | AI Solutions Engineer Intern | 2026-11-12 | — | [Apply](https://go.vansh.nyc/1vK) |
 | ServiceNow | Associate AI Engineering Intern, Cloud Security Automation | 2026-11-12 | — | [Apply](https://go.vansh.nyc/1vZ) |
 | ServiceNow | Associate Detection Engineering Intern | 2026-11-12 | — | [Apply](https://go.vansh.nyc/1w0) |
@@ -62,6 +66,7 @@ _**Pulled:** 2026-11-13 02:18 UTC  —  818 role(s) explicitly tagged Summer 202
 | CareSource | Clinical Operations Business Analyst Intern | 2026-11-12 | — | [Apply](https://caresource.wd1.myworkdayjobs.com/caresource/job/Remote/XMLNAME-2027-Summer-Internship-Program---Clinical-Operations-Business-Analyst_R14353) |
 | Vital Lyfe | Software Engineer Intern | 2026-11-12 | — | [Apply](https://jobs.ashbyhq.com/vital-lyfe/5b5e7e6d-d59e-410b-9a7f-619717c3c942/application?embed=true) |
 | General Dynamics Mission Systems | Software/Systems Engineering Intern | 2026-11-12 | — | [Apply](https://careers-gdms.icims.com/jobs/75808/job?mobile=true&needsRedirect=false) |
+| CoStar Group | Vision & Learning Intern | 2026-11-12 | — | [Apply](https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/Sunnyvale-US/Vision---Learning-Intern_R40196) |
 | AstraZeneca | Summer 2027 Innovation and AI Transformation Intern | 2026-11-12 | — | [Apply](https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/US---Boston---MA/Summer-2027-Innovation-and-AI-Transformation-Intern_R-264282-1) |
 | Entegris | Power Platform / Copilot Studio Intern – AI - Summer Intern | 2026-11-12 | — | [Apply](https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Aurora-IL/Power-Platform---Copilot-Studio-Intern---AI---Summer-Intern_REQ-15841) |
 | Muon Space | Software Engineering Intern-Information Systems (Summer 2027) | 2026-11-12 | — | [Apply](https://job-boards.greenhouse.io/muonspace/jobs/5293973007) |
@@ -226,7 +231,6 @@ _**Pulled:** 2026-11-13 02:18 UTC  —  818 role(s) explicitly tagged Summer 202
 | Blue Cross Blue Shield of Michigan | Digital Product Intern | 2026-11-10 | — | [Apply](https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/15151) |
 | JMP Statistical Discovery | C++ Software Development Intern | 2026-11-10 | — | [Apply](https://jmp-sas.icims.com/jobs/46960/job?mobile=true&needsRedirect=false) |
 | Rambus | Product Engineer Intern | 2026-11-10 | — | [Apply](https://careers-rambus.icims.com/jobs/23119/job?mobile=true&needsRedirect=false) |
-| Art of Problem Solving | Data Science Intern | 2026-11-10 | — | [Apply](https://artofproblemsolving.com/careers/job/8201037003?gh_jid=8201037003) |
 | Northrop Grumman | Optics/Photonic Engineering Intern | 2026-11-10 | — | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Apopka/XMLNAME-2027-Optics-Photonic-Engineering-Intern---Apopka-FL_R10260049) |
 | General Dynamics Information Technology | Data Analytics Associate Intern | 2026-11-10 | — | [Apply](https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-VA-Falls-Church/Summer-2027-Technical-Intern_RQ232200) |
 | Minitab | Cybersecurity Intern (Summer 2027) | 2026-11-10 | — | [Apply](https://job-boards.greenhouse.io/minitab/jobs/8200356003) |
@@ -292,7 +296,6 @@ _**Pulled:** 2026-11-13 02:18 UTC  —  818 role(s) explicitly tagged Summer 202
 | UiPath | Software Engineer Intern | 2026-11-09 | — | [Apply](https://jobs.ashbyhq.com/uipath/4983eab7-099d-4c77-9a5a-8dde72084c04/application?embed=true) |
 | NVIDIA | Product Management Space Compute MBA Intern | 2026-11-09 | — | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Management-Space-Compute-MBA-Intern---Summer-2027_JR2029628) |
 | Scout Motors | Products Intern | 2026-11-09 | — | [Apply](https://job-boards.greenhouse.io/scoutmotors/jobs/5287127007) |
-| UiPath | AI Engineer Intern | 2026-11-09 | — | [Apply](https://jobs.ashbyhq.com/uipath/f6857594-645c-4833-aa5b-763e9759b555/application?embed=true) |
 | Scout Motors | Digital Products Intern | 2026-11-09 | — | [Apply](https://job-boards.greenhouse.io/scoutmotors/jobs/5287137007) |
 | Highmark Health | Reporting and Analytics Undergraduate Intern | 2026-11-09 | — | [Apply](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-UCD-Reporting-and-Analytics-Undergraduate-Intern_J287987) |
 | Vizient | Data Management Intern | 2026-11-09 | — | [Apply](https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Irving-TX-75062-Vizient-Corporate-HQ/XMLNAME-2027-Summer-Internship---Data-Management_36162R) |
