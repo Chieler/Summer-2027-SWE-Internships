@@ -1,6 +1,6 @@
 # 2027 SWE / Software-Adjacent Internships
 
-_**Pulled:** 2026-11-15 16:29 UTC  —  3037 matching roles found this run._
+_**Pulled:** 2026-11-15 19:14 UTC  —  3038 matching roles found this run._
 
 **[Open live LinkedIn search](https://www.linkedin.com/jobs/search/?keywords=software%20engineer%20intern%202027&f_E=1&f_JT=I)** (LinkedIn can't be scraped reliably from CI, so this is a one-tap live link instead.)
 
@@ -1637,10 +1637,11 @@ _**Pulled:** 2026-11-15 16:29 UTC  —  3037 matching roles found this run._
 | Vilambo Private Limited | AI-Automation Engineer Intern | 2026-04-17 | — | [Apply](https://jobs.dover.com/vilambo/ecb84a3b-2655-415b-a23b-b4681da2e12e) |
 | Peakflo | Machine Learning (ML) Engineer Intern - (Paid - India/Remote) | 2026-04-17 | — | [Apply](https://jobs.dover.com/peakflo/f7345aa2-9bc2-4196-99e4-2c3f277f9bfb) |
 
-## Ashby boards (3)
+## Ashby boards (4)
 
 | Company | Role | Posted | Applied | Link |
 |---|---|---|---|---|
+| Eight Sleep | Field Service Engineer (Contract or Intern) | 2026-11-15 | — | [Apply](https://jobs.ashbyhq.com/eightsleep/aeff9ae3-ce36-49ba-916d-d8f07c75997f) |
 | Sierra | Research Intern | 2026-10-31 | — | [Apply](https://jobs.ashbyhq.com/Sierra/ef896ee9-e903-4a1f-84c2-537373cb9081) |
 | Mercor | Research Engineer Intern - Environments, Data and Post-Training | 2026-10-27 | — | [Apply](https://jobs.ashbyhq.com/mercor/049bd532-6fb7-4ae6-85a1-788dd31a14ca) |
 | Mercor | Research Intern | 2026-10-05 | — | [Apply](https://jobs.ashbyhq.com/mercor/e6502490-37c6-471a-9ffb-cf397764c518) |
