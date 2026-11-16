@@ -1,6 +1,6 @@
 # 2027 SWE / Software-Adjacent Internships
 
-_**Pulled:** 2026-11-16 00:23 UTC  —  3001 matching roles found this run._
+_**Pulled:** 2026-11-16 01:51 UTC  —  3001 matching roles found this run._
 
 **[Open live LinkedIn search](https://www.linkedin.com/jobs/search/?keywords=software%20engineer%20intern%202027&f_E=1&f_JT=I)** (LinkedIn can't be scraped reliably from CI, so this is a one-tap live link instead.)
 
@@ -3570,9 +3570,9 @@ _765 role(s) across 83 influential companies._
 | T-Mobile | Summer 2027 Software Engineer HR Data Products Internship | 2026-11-06 | — | [Apply](https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-Software-Engineer-HR-Data-Products-Internship_REQ380766) |
 | T-Mobile | Summer 2027 Software Engineering Internship | 2026-11-06 | — | [Apply](https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-Software-Engineering-Internship_REQ380757) |
 | Palantir | Software Engineer, Internship - Sovereign AI Systems | 2026-11-05 | — | [Apply](https://jobs.lever.co/palantir/cd64bcd4-50bb-4aeb-a135-4e0487ffd312) |
-| Raft | AI/ML Intern - Summer 2027 | 2026-11-05 | — | [Apply](https://job-boards.greenhouse.io/raft/jobs/6240555004) |
 | Raft | DevOps Engineering Intern - Summer 2027 | 2026-11-05 | — | [Apply](https://job-boards.greenhouse.io/raft/jobs/6239819004) |
 | Raft | Full Stack Engineering Intern - Summer 2027 | 2026-11-05 | — | [Apply](https://job-boards.greenhouse.io/raft/jobs/6240549004) |
+| Raft | AI/ML Intern - Summer 2027 | 2026-11-05 | — | [Apply](https://job-boards.greenhouse.io/raft/jobs/6240555004) |
 | Shield AI | June 2027 Co-Op - Software Engineer Intern | 2026-11-05 | — | [Apply](https://jobs.ashbyhq.com/shield/a28e047a-ee12-452c-883b-ecd995d1b6b2) |
 | NBCUniversal | NBC Sports Bay Area & California - Programming Intern - Summer 2027 | 2026-11-05 | — | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000159947792) |
 | BorgWarner | Software Test Intern | 2026-11-05 | — | [Apply](https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Auburn-Hills---Michigan---USA/Software-Test-Intern_R2026-4385-1) |
