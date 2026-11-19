@@ -1,6 +1,6 @@
 # 🔥 Priority — Fresh Summer 2027 Roles
 
-_**Pulled:** 2026-11-19 16:51 UTC  —  518 role(s) explicitly tagged Summer 2027 and posted within the last 14 days._
+_**Pulled:** 2026-11-19 21:05 UTC  —  516 role(s) explicitly tagged Summer 2027 and posted within the last 14 days._
 
 | Company | Role | Posted | Applied | Link |
 |---|---|---|---|---|
@@ -106,7 +106,6 @@ _**Pulled:** 2026-11-19 16:51 UTC  —  518 role(s) explicitly tagged Summer 202
 | Samsung Semiconductor | Compiler Engineer Intern | 2026-11-13 | — | [Apply](https://go.vansh.nyc/1yw) |
 | Valeo | Software Engineer Intern | 2026-11-13 | — | [Apply](https://go.vansh.nyc/1yC) |
 | Verisk | Data Science/AI Intern | 2026-11-13 | — | [Apply](https://go.vansh.nyc/1yF) |
-| WTW | Data Analyst Intern | 2026-11-13 | — | [Apply](https://go.vansh.nyc/1yK) |
 | Trace3 | Security Intern | 2026-11-13 | — | [Apply](https://go.vansh.nyc/1yN) |
 | ASML | EUV Data Science and Analytics Intern | 2026-11-13 | — | [Apply](https://go.vansh.nyc/1yZ) |
 | Samsung Semiconductor | SSD Firmware Development Intern | 2026-11-13 | — | [Apply](https://go.vansh.nyc/1z0) |
@@ -261,7 +260,6 @@ _**Pulled:** 2026-11-19 16:51 UTC  —  518 role(s) explicitly tagged Summer 202
 | Riot Games | Data Engineer Intern | 2026-11-11 | — | [Apply](https://www.riotgames.com/en/work-with-us/job/8356716?gh_jid=8356716) |
 | APEX Analytix | Product Management Intern | 2026-11-11 | — | [Apply](https://ats.rippling.com/apexanalytix-careers/jobs/116e13fe-7202-45ba-a119-a81af4fcb4b9) |
 | Hitachi | Component Engineering Intern | 2026-11-11 | — | [Apply](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Pittsburgh-Pennsylvania-United-States/Intern---Component-Engineering_R0149585) |
-| McDonald's | Global Tech Infrastructure & Operations Intern | 2026-11-11 | — | [Apply](https://jobs.mcdonalds.com/job/Chicago-Global-Tech-Infrastructure-&-Operations-Intern-IL-60607/1449562300/?ats=successfactors) |
 | Rubrik | Product Manager Intern - Managed Service Provider | 2026-11-11 | — | [Apply](https://www.rubrik.com/company/careers/departments/job.8346967?gh_jid=8346967) |
 | Brex | Software Engineer Intern | 2026-11-11 | — | [Apply](https://www.brex.com/careers/8936403002?gh_jid=8936403002) |
 | MSA Safety | Electrical Engineering Technology Intern Co-op | 2026-11-11 | — | [Apply](https://careers.msasafety.com/jobs/10392?icims=1&lang=en-us) |
