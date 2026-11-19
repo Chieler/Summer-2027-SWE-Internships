@@ -1,10 +1,11 @@
 # 🔥 Priority — Fresh Summer 2027 Roles
 
-_**Pulled:** 2026-11-19 01:48 UTC  —  519 role(s) explicitly tagged Summer 2027 and posted within the last 14 days._
+_**Pulled:** 2026-11-19 04:10 UTC  —  518 role(s) explicitly tagged Summer 2027 and posted within the last 14 days._
 
 | Company | Role | Posted | Applied | Link |
 |---|---|---|---|---|
 | HERE Technologies | Data Science Intern | 2026-11-19 | — | [Apply](https://go.vansh.nyc/1CB) |
+| Toyota Research Institute | Robotics Intern - Generalist Robot Learning | 2026-11-19 | — | [Apply](https://jobs.lever.co/tri/4cac9569-cc90-4dcd-96b8-d9777c35c943/apply) |
 | State Street | Data Scientist Intern | 2026-11-18 | — | [Apply](https://go.vansh.nyc/1C1) |
 | Syngenta Group | Data Science Intern | 2026-11-18 | — | [Apply](https://go.vansh.nyc/1Co) |
 | Samsung Semiconductor | SSD Firmware Engineer Intern | 2026-11-18 | — | [Apply](https://go.vansh.nyc/1Cu) |
@@ -76,7 +77,6 @@ _**Pulled:** 2026-11-19 01:48 UTC  —  519 role(s) explicitly tagged Summer 202
 | Bound | Engineering Intern | 2026-11-16 | — | [Apply](https://ats.rippling.com/bound/jobs/f489575d-5484-4c43-9b6d-a9dce9b29bcd) |
 | Bound | Product Management Intern | 2026-11-16 | — | [Apply](https://ats.rippling.com/bound/jobs/40a62113-cdcc-4fad-a3e6-008597702316) |
 | JMP Statistical Discovery | JMP Core User Interface Team R&D Intern - Master's/PhD | 2026-11-16 | — | [Apply](https://jmp-sas.icims.com/jobs/47455/job?mobile=true&needsRedirect=false) |
-| General Dynamics Information Technology | Engineering Intern | 2026-11-16 | — | [Apply](https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-VA-Falls-Church/Summer-2027-Engineering--General--Internship_RQ232323) |
 | Fanatics | Product Management Intern | 2026-11-15 | — | [Apply](https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4507819009) |
 | Fanatics | Product Intern - Physical Trading Cards | 2026-11-15 | — | [Apply](https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4507757009) |
 | Fanatics | People Intelligence Intern | 2026-11-15 | — | [Apply](https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4505998009) |
@@ -203,7 +203,6 @@ _**Pulled:** 2026-11-19 01:48 UTC  —  519 role(s) explicitly tagged Summer 202
 | Cardinal Health | Technology Intern | 2026-11-12 | — | [Apply](https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/OH-Dublin-Cardinal-Place/Technology-Internship--Summer-2027-_20189610-1) |
 | Vital Lyfe | Software Engineer Intern | 2026-11-12 | — | [Apply](https://jobs.ashbyhq.com/vital-lyfe/5b5e7e6d-d59e-410b-9a7f-619717c3c942/application?embed=true) |
 | General Dynamics Mission Systems | Software/Systems Engineering Intern | 2026-11-12 | — | [Apply](https://careers-gdms.icims.com/jobs/75808/job?mobile=true&needsRedirect=false) |
-| CoStar Group | Vision & Learning Intern | 2026-11-12 | — | [Apply](https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/Sunnyvale-US/Vision---Learning-Intern_R40196) |
 | Muon Space | Software Engineering Intern-Information Systems (Summer 2027) | 2026-11-12 | — | [Apply](https://job-boards.greenhouse.io/muonspace/jobs/5293973007) |
 | AstraZeneca | Summer 2027 Innovation and AI Transformation Intern | 2026-11-12 | — | [Apply](https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/US---Boston---MA/Summer-2027-Innovation-and-AI-Transformation-Intern_R-264282-1) |
 | Entegris | Power Platform / Copilot Studio Intern – AI - Summer Intern | 2026-11-12 | — | [Apply](https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Aurora-IL/Power-Platform---Copilot-Studio-Intern---AI---Summer-Intern_REQ-15841) |
