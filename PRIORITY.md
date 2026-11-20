@@ -1,9 +1,18 @@
 # 🔥 Priority — Fresh Summer 2027 Roles
 
-_**Pulled:** 2026-11-20 00:17 UTC  —  458 role(s) explicitly tagged Summer 2027 and posted within the last 14 days._
+_**Pulled:** 2026-11-20 02:47 UTC  —  468 role(s) explicitly tagged Summer 2027 and posted within the last 14 days._
 
 | Company | Role | Posted | Applied | Link |
 |---|---|---|---|---|
+| Lucid Motors | OTA Test and Validation Automation Intern | 2026-11-20 | — | [Apply](https://go.vansh.nyc/1DJ) |
+| Lawrence Livermore National Laboratory (LLNL) | Engineering Intern | 2026-11-20 | — | [Apply](https://jobs.smartrecruiters.com/LLNL/3743990016986011) |
+| Formlabs | API & Automation Intern | 2026-11-20 | — | [Apply](https://careers.formlabs.com/job/8400855/apply/?gh_jid=8400855) |
+| LinkedIn | AI/ML Engineer Intern - Generative AI | 2026-11-20 | — | [Apply](https://jobs.smartrecruiters.com/LinkedIn3/744000162623639) |
+| LinkedIn | AI/ML Engineer Intern | 2026-11-20 | — | [Apply](https://jobs.smartrecruiters.com/LinkedIn3/744000162628808) |
+| LinkedIn | Artificial Intelligence/Machine Learning Engineer Intern - Search and Recommender Systems | 2026-11-20 | — | [Apply](https://jobs.smartrecruiters.com/LinkedIn3/744000162623368) |
+| Lucid Motors | Embedded Software Intern - BSP/Platform - ADAS/Autonomous Driving | 2026-11-20 | — | [Apply](https://lucidmotors.com/careers/search/5290800007?gh_jid=5290800007) |
+| Lucid Motors | ADAS Systems Integration Intern | 2026-11-20 | — | [Apply](https://lucidmotors.com/careers/search/5290790007?gh_jid=5290790007) |
+| Lucid Motors | Infotainment Software Intern | 2026-11-20 | — | [Apply](https://lucidmotors.com/careers/search/5290921007?gh_jid=5290921007) |
 | HERE Technologies | Data Science Intern | 2026-11-19 | — | [Apply](https://go.vansh.nyc/1CB) |
 | Scout Space | Computer Vision Engineer Intern, AI/ML | 2026-11-19 | — | [Apply](https://go.vansh.nyc/1CQ) |
 | RTX | Software Security Intern | 2026-11-19 | — | [Apply](https://go.vansh.nyc/1CS) |
@@ -17,6 +26,7 @@ _**Pulled:** 2026-11-20 00:17 UTC  —  458 role(s) explicitly tagged Summer 202
 | Ralliant | Software Engineer Intern | 2026-11-19 | — | [Apply](https://go.vansh.nyc/1Du) |
 | Lucid Motors | Embedded Software Intern | 2026-11-19 | — | [Apply](https://go.vansh.nyc/1Dv) |
 | Lucid Motors | Software Engineer Intern, SDET | 2026-11-19 | — | [Apply](https://go.vansh.nyc/1Dw) |
+| Blue Cross Blue Shield of Michigan | Object Oriented Programming Intern | 2026-11-19 | — | [Apply](https://go.vansh.nyc/1DG) |
 | Toyota Research Institute | Robotics Intern - Generalist Robot Learning | 2026-11-19 | — | [Apply](https://jobs.lever.co/tri/4cac9569-cc90-4dcd-96b8-d9777c35c943/apply) |
 | MSA Safety | Electrical Engineering Intern/Co-op | 2026-11-19 | — | [Apply](https://careers.msasafety.com/jobs/10586?icims=1&lang=en-us) |
 | Atlantic Health System | Pharmacy Intern - Data Analytics | 2026-11-19 | — | [Apply](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/34551) |
@@ -30,7 +40,6 @@ _**Pulled:** 2026-11-20 00:17 UTC  —  458 role(s) explicitly tagged Summer 202
 | Georgian Partners Growth | Physical AI and Robotics Intern | 2026-11-19 | — | [Apply](https://jobs.ashbyhq.com/georgian/62da47ff-0424-4e28-bffa-cff0de8ca228/application?embed=true) |
 | Barry's | Undergraduate Summer Scholar Intern - Data Analyst | 2026-11-19 | — | [Apply](https://ats.rippling.com/barrys-careers/jobs/1205224b-cfd0-4b9e-afc1-fc041da94c7f) |
 | Microsoft | Research Intern - Deep Learning Group | 2026-11-19 | — | [Apply](https://apply.careers.microsoft.com/careers/job/1970393557076095) |
-| Blue Cross Blue Shield of Michigan | Object Oriented Programming Intern | 2026-11-19 | — | [Apply](https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/15160) |
 | Deliveroo | Software Engineer Intern | 2026-11-19 | — | [Apply](https://job-boards.greenhouse.io/deliveroo/jobs/8398982) |
 | Vertiv | AI Intern | 2026-11-19 | — | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20286620) |
 | Snowflake | Software Engineer Intern - AI / ML | 2026-11-19 | — | [Apply](https://jobs.ashbyhq.com/snowflake/185d165c-09c7-4b57-9281-ff7c2c541907/application?embed=true) |
@@ -38,6 +47,7 @@ _**Pulled:** 2026-11-20 00:17 UTC  —  458 role(s) explicitly tagged Summer 202
 | Scout Space | Embedded Firmware Engineer Intern | 2026-11-19 | — | [Apply](https://job-boards.greenhouse.io/scoutspace/jobs/5489232008) |
 | Pivotal Software | Autonomy Intern - Autonomy - Path Planning | 2026-11-19 | — | [Apply](https://jobs.lever.co/pivotal/092eb283-16ac-4f68-a6e9-b6a0a9564067/apply) |
 | Amperity | Software Development Engineer Intern | 2026-11-19 | — | [Apply](https://amperity.com/careers?gh_jid=8393990#openpositions) |
+| Lucid Motors | AI & Data Intern - Applied AI/Machine Learning | 2026-11-19 | — | [Apply](https://lucidmotors.com/careers/search/5290919007?gh_jid=5290919007) |
 | State Street | Data Scientist Intern | 2026-11-18 | — | [Apply](https://go.vansh.nyc/1C1) |
 | Samsung Semiconductor | SSD Firmware Engineer Intern | 2026-11-18 | — | [Apply](https://go.vansh.nyc/1Cu) |
 | Microsoft | Research Intern, Computer Vision and Deep Learning | 2026-11-18 | — | [Apply](https://go.vansh.nyc/1Cv) |
