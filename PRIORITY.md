@@ -1,6 +1,6 @@
 # 🔥 Priority — Fresh Summer 2027 Roles
 
-_**Pulled:** 2026-11-21 19:56 UTC  —  548 role(s) explicitly tagged Summer 2027 and posted within the last 14 days._
+_**Pulled:** 2026-11-21 22:25 UTC  —  551 role(s) explicitly tagged Summer 2027 and posted within the last 14 days._
 
 | Company | Role | Posted | Applied | Link |
 |---|---|---|---|---|
@@ -10,6 +10,8 @@ _**Pulled:** 2026-11-21 19:56 UTC  —  548 role(s) explicitly tagged Summer 202
 | Canadian Solar | Data Engineering Intern | 2026-11-21 | — | [Apply](https://go.vansh.nyc/1G8) |
 | NVIDIA | Technical Marketing Engineering Intern, Digital Biology and Scientific Computing | 2026-11-21 | — | [Apply](https://go.vansh.nyc/1Gd) |
 | Activision Blizzard | Data Platform Engineering Intern | 2026-11-21 | — | [Apply](https://go.vansh.nyc/1Ge) |
+| Advance Auto Parts | Data Science Intern | 2026-11-21 | — | [Apply](https://go.vansh.nyc/1Gi) |
+| Fabri | DevOps, IT & Cybersecurity Intern | 2026-11-21 | — | [Apply](https://go.vansh.nyc/1Gk) |
 | Acuity Insurance | Strategic Information Intern | 2026-11-21 | — | [Apply](https://recruiting2.ultipro.com/her1001acfin/JobBoard/ab33798a-3521-417b-8db8-a8e435c475fa/OpportunityDetail?opportunityId=3cb5586d-26d4-442b-9461-5c97f9b52cf7) |
 | Acuity Insurance | Data Analytics Intern - Data Science | 2026-11-21 | — | [Apply](https://recruiting2.ultipro.com/her1001acfin/JobBoard/ab33798a-3521-417b-8db8-a8e435c475fa/OpportunityDetail?opportunityId=3d8a72b0-b464-4ff8-bd58-555a1e640ef7) |
 | Acuity Insurance | Software Engineer Intern | 2026-11-21 | — | [Apply](https://recruiting2.ultipro.com/her1001acfin/JobBoard/ab33798a-3521-417b-8db8-a8e435c475fa/OpportunityDetail?opportunityId=57946ef1-ca27-4ef4-b48d-829da2dfd217) |
@@ -40,6 +42,7 @@ _**Pulled:** 2026-11-21 19:56 UTC  —  548 role(s) explicitly tagged Summer 202
 | Method | Engineering Resident Intern | 2026-11-20 | — | [Apply](https://go.vansh.nyc/1Fq) |
 | Southern Farm Bureau Life Insurance | Business Intelligence/Data Insights Intern | 2026-11-20 | — | [Apply](https://go.vansh.nyc/1Ft) |
 | Applied Research Associates | Software Engineer Intern | 2026-11-20 | — | [Apply](https://go.vansh.nyc/1Fx) |
+| Worthington Enterprises | AI Intern | 2026-11-20 | — | [Apply](https://go.vansh.nyc/1Gj) |
 | Lawrence Livermore National Laboratory (LLNL) | Engineering Intern | 2026-11-20 | — | [Apply](https://jobs.smartrecruiters.com/LLNL/3743990016986011) |
 | Formlabs | API & Automation Intern | 2026-11-20 | — | [Apply](https://careers.formlabs.com/job/8400855/apply/?gh_jid=8400855) |
 | LinkedIn | AI/ML Engineer Intern - Generative AI | 2026-11-20 | — | [Apply](https://jobs.smartrecruiters.com/LinkedIn3/744000162623639) |

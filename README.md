@@ -1,10 +1,10 @@
 # 2027 SWE / Software-Adjacent Internships
 
-_**Pulled:** 2026-11-21 19:56 UTC  —  2961 matching roles found this run._
+_**Pulled:** 2026-11-21 22:25 UTC  —  2962 matching roles found this run._
 
 **[Open live LinkedIn search](https://www.linkedin.com/jobs/search/?keywords=software%20engineer%20intern%202027&f_E=1&f_JT=I)** (LinkedIn can't be scraped reliably from CI, so this is a one-tap live link instead.)
 
-## Simplify/pittcsc (1579)
+## Simplify/pittcsc (1577)
 
 | Company | Role | Posted | Applied | Link |
 |---|---|---|---|---|
@@ -17,7 +17,6 @@ _**Pulled:** 2026-11-21 19:56 UTC  —  2961 matching roles found this run._
 | iA | Industrial Engineer Intern | 2026-11-21 | — | [Apply](https://workforcenow.adp.com/job?cid=93fdfc70-37a2-4cde-ba86-0da4925db4c8&jobId=9200936412681_1) |
 | Kentucky Science and Technology Corporation | Data Management Intern | 2026-11-21 | — | [Apply](https://thekentuckyscienceandtechnologycorporation.applytojob.com/apply/ISJX57K0S9/Data-Management-Intern) |
 | Vatic Outsourcing | Business Intelligence Analyst Intern | 2026-11-21 | — | [Apply](https://vaticoutsourcing.bamboohr.com/careers/152/) |
-| Fabri | DevOps, IT & Cybersecurity Intern | 2026-11-21 | — | [Apply](https://jobs.dover.com/fabri-usa/3d3ef9d6-40f3-47cf-ada4-a90a4e0744f5) |
 | Lawrence Livermore National Laboratory (LLNL) | Engineering Intern | 2026-11-20 | — | [Apply](https://jobs.smartrecruiters.com/LLNL/3743990016986011) |
 | Pathlabs | Software and AI Engineer Intern | 2026-11-20 | — | [Apply](https://pathlabs.applytojob.com/apply/qW73dwA0iS/Software-And-AI-Engineering-Intern) |
 | Tarana Wireless | Hardware Test Engineer Intern | 2026-11-20 | — | [Apply](https://taranawireless.applytojob.com/apply/qLnpfwLHew/Hardware-Test-Engineer-Intern) |
@@ -252,7 +251,6 @@ _**Pulled:** 2026-11-21 19:56 UTC  —  2961 matching roles found this run._
 | HexArmor | Software Engineer Intern | 2026-11-17 | — | [Apply](https://job-boards.greenhouse.io/hexarmor/jobs/8206200003) |
 | Research Innovations | Department of War SkillBridge Operations SME Intern | 2026-11-17 | — | [Apply](https://jobs.lever.co/researchinnovations.com/eeada042-c446-4723-81f4-b1607443fb4e/apply) |
 | Punchcut | Design Engineer Intern | 2026-11-17 | — | [Apply](https://punchcut.bamboohr.com/careers/65/) |
-| Angel Host | AI Product Engineer Intern Co-op | 2026-11-17 | — | [Apply](https://angelhost.bamboohr.com/careers/123/) |
 | ECM Tek | Developer Intern - Python Development | 2026-11-17 | — | [Apply](https://ecmtek.bamboohr.com/careers/51/) |
 | Birdseye Security Solutions | Software Developer Intern | 2026-11-17 | — | [Apply](https://birdseyeaccount.bamboohr.com/careers/286/) |
 | Birdseye Security Solutions | AI Systems Intern | 2026-11-17 | — | [Apply](https://birdseyeaccount.bamboohr.com/careers/287/) |
@@ -2365,7 +2363,7 @@ _762 role(s) across 85 influential companies._
 | Susquehanna | Quantitative Strategy Developer Intern (Summer 2027, June start) | — | — | [Apply](https://careers.sig.com/jobs/10838) |
 | Susquehanna | Trading System Engineering Intern | — | — | [Apply](https://careers.sig.com/jobs/10837) |
 
-## vanshb03 2027 (1061)
+## vanshb03 2027 (1064)
 
 | Company | Role | Posted | Applied | Link |
 |---|---|---|---|---|
@@ -2375,6 +2373,8 @@ _762 role(s) across 85 influential companies._
 | Canadian Solar | Data Engineering Intern | 2026-11-21 | — | [Apply](https://go.vansh.nyc/1G8) |
 | NVIDIA | Technical Marketing Engineering Intern, Digital Biology and Scientific Computing | 2026-11-21 | — | [Apply](https://go.vansh.nyc/1Gd) |
 | Activision Blizzard | Data Platform Engineering Intern | 2026-11-21 | — | [Apply](https://go.vansh.nyc/1Ge) |
+| Advance Auto Parts | Data Science Intern | 2026-11-21 | — | [Apply](https://go.vansh.nyc/1Gi) |
+| Fabri | DevOps, IT & Cybersecurity Intern | 2026-11-21 | — | [Apply](https://go.vansh.nyc/1Gk) |
 | Lucid Motors | OTA Test and Validation Automation Intern | 2026-11-20 | — | [Apply](https://go.vansh.nyc/1DJ) |
 | Lucid Motors | Infotainment SW Validation Automation Intern | 2026-11-20 | — | [Apply](https://go.vansh.nyc/1E2) |
 | Honeywell Aerospace | Semiconductor Engineer Intern | 2026-11-20 | — | [Apply](https://go.vansh.nyc/1E3) |
@@ -2401,6 +2401,7 @@ _762 role(s) across 85 influential companies._
 | Method | Engineering Resident Intern | 2026-11-20 | — | [Apply](https://go.vansh.nyc/1Fq) |
 | Southern Farm Bureau Life Insurance | Business Intelligence/Data Insights Intern | 2026-11-20 | — | [Apply](https://go.vansh.nyc/1Ft) |
 | Applied Research Associates | Software Engineer Intern | 2026-11-20 | — | [Apply](https://go.vansh.nyc/1Fx) |
+| Worthington Enterprises | AI Intern | 2026-11-20 | — | [Apply](https://go.vansh.nyc/1Gj) |
 | HERE Technologies | Data Science Intern | 2026-11-19 | — | [Apply](https://go.vansh.nyc/1CB) |
 | Scout Space | Computer Vision Engineer Intern, AI/ML | 2026-11-19 | — | [Apply](https://go.vansh.nyc/1CQ) |
 | RTX | Software Security Intern | 2026-11-19 | — | [Apply](https://go.vansh.nyc/1CS) |
