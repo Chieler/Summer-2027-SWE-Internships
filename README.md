@@ -1,10 +1,10 @@
 # 2027 SWE / Software-Adjacent Internships
 
-_**Pulled:** 2026-11-22 20:08 UTC  —  2915 matching roles found this run._
+_**Pulled:** 2026-11-22 23:16 UTC  —  2912 matching roles found this run._
 
 **[Open live LinkedIn search](https://www.linkedin.com/jobs/search/?keywords=software%20engineer%20intern%202027&f_E=1&f_JT=I)** (LinkedIn can't be scraped reliably from CI, so this is a one-tap live link instead.)
 
-## Simplify/pittcsc (1562)
+## Simplify/pittcsc (1558)
 
 | Company | Role | Posted | Applied | Link |
 |---|---|---|---|---|
@@ -360,7 +360,6 @@ _**Pulled:** 2026-11-22 20:08 UTC  —  2915 matching roles found this run._
 | Forterra | Software Engineer Intern | 2026-11-16 | — | [Apply](https://ats.rippling.com/forterra/jobs/988bc637-2b57-4e15-b594-b2bb4b545395) |
 | JMP Statistical Discovery | JMP Core User Interface Team R&D Intern - Master's/PhD | 2026-11-16 | — | [Apply](https://jmp-sas.icims.com/jobs/47455/job?mobile=true&needsRedirect=false) |
 | Noblis | Environmental Analyst Intern | 2026-11-16 | — | [Apply](https://careers.noblis.org/jobs/28139?icims=1&lang=en-us) |
-| HexArmor | Software Engineering Intern | 2026-11-16 | — | [Apply](https://job-boards.greenhouse.io/hexarmor/jobs/8206200003) |
 | KLA | Firmware Intern | 2026-11-16 | — | [Apply](https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Firmware-Intern_2642154) |
 | Carnegie Mellon University | AI Engineer Intern - Mission Innovation Lab | 2026-11-16 | — | [Apply](https://cmu.wd115.myworkdayjobs.com/SEI/job/Pittsburgh-PA/AI-Engineer-Intern---Mission-Innovation-Lab--Summer-2027-_2025364-1) |
 | Blizzard Entertainment | Applied Science Intern - PhD | 2026-11-16 | — | [Apply](https://xboxgaming.wd1.myworkdayjobs.com/Blizzard_External_Careers/job/Irvine---Blizzard---Blizzard-Way/Blizzard-2027-Summer-Internships---Applied-Science_R028347) |
@@ -763,7 +762,6 @@ _**Pulled:** 2026-11-22 20:08 UTC  —  2915 matching roles found this run._
 | Constellation Energy | Renewable Energy Intern | 2026-11-04 | — | [Apply](https://jobs.constellationenergy.com/jobs/141851?icims=1&lang=en-us) |
 | NVIDIA | Deep Learning Scientist Intern - LLM, Multimodal and Agentic AI | 2026-11-04 | — | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Deep-Learning-Scientist-Intern--LLM--Multimodal-and-Agentic-AI---Summer-2027_JR2027548) |
 | Meta | Research Scientist Intern - PAR Safety Evals and Red Teaming | 2026-11-03 | — | [Apply](https://www.metacareers.com/jobs/1903232531024141) |
-| Man Group | Systematic Quant Intern | 2026-11-03 | — | [Apply](https://job-boards.eu.greenhouse.io/mangroup/jobs/5012811101) |
 | onepot | Machine Learning Researcher Intern - Machine Learning | 2026-11-03 | — | [Apply](https://jobs.ashbyhq.com/onepot/5116ee20-adfa-4177-b120-e3f48354e7e8/application?embed=true) |
 | Meta | Research Scientist Intern - FM Quality ML | 2026-11-03 | — | [Apply](https://www.metacareers.com/jobs/1125383989877928) |
 | Robert Bosch Venture Capital | Quality Projects Intern | 2026-11-03 | — | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000159363644) |
@@ -1344,7 +1342,6 @@ _**Pulled:** 2026-11-22 20:08 UTC  —  2915 matching roles found this run._
 | Meta | Production Systems Engineer Intern | 2026-10-16 | — | [Apply](https://www.metacareers.com/jobs/4536253699919879) |
 | John Deere | Process Automation Student Intern - Process Automation - Data and Analytics | 2026-10-16 | — | [Apply](https://johndeere.eightfold.ai/careers/job/137483907415) |
 | Barclays | Client Data and Engineering Group Internship | 2026-10-16 | — | [Apply](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/Client-Data-and-Engineering-Group-Summer-Internship-Programme-2027-London_JR-0000135782) |
-| Thomson Reuters | Applied Science Intern | 2026-10-16 | — | [Apply](https://thomsonreuters.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/United-Kingdom-London/Applied-Science-Intern_JREQ204560) |
 | Scale AI | Safety Research Scholar Intern | 2026-10-16 | — | [Apply](https://job-boards.greenhouse.io/scaleai/jobs/4744402005) |
 | Lawrence Livermore National Laboratory (LLNL) | Astronomy & Astrophysics Intern - Postdoctoral Researcher | 2026-10-16 | — | [Apply](https://jobs.smartrecruiters.com/LLNL/3743990016166956) |
 | WGU | Data Governance Intern | 2026-10-16 | — | [Apply](https://wgu.wd5.myworkdayjobs.com/en-US/External/job/Salt-Lake-City-UT/Intern---Technical-Writing_JR-026370) |
@@ -1361,7 +1358,6 @@ _**Pulled:** 2026-11-22 20:08 UTC  —  2915 matching roles found this run._
 | NVIDIA | Product Management MBA Intern | 2026-10-15 | — | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Management-MBA-Intern--Laptop---Summer-2027_JR2025905) |
 | onsemi | Device Characterization Engineer Intern | 2026-10-15 | — | [Apply](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506970) |
 | Blue Origin | Terawave Product Management Intern - MBA | 2026-10-15 | — | [Apply](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Kent-WA/Summer-2027-Terawave-Product-Management-Internship---MBA_R74200) |
-| Wikimedia Foundation | Software Engineering Intern | 2026-10-15 | — | [Apply](https://job-boards.greenhouse.io/wikimedia/jobs/8268853) |
 | General Motors | Embodied AI Data Scaling Intern - Data Scaling - Embodied AI | 2026-10-15 | — | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Data-Scaling--Embodied-AI--Masters-_JR-202622540) |
 | Nissan | Cross Car Line Feature Strategy Intern | 2026-10-15 | — | [Apply](https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Franklin-Tennessee---United-States-of-America/Cross-Car-Line-Feature-Strategy-Intern---Summer-2027---Franklin--TN_R00214296) |
 | General Motors | AI/ML Engineer Intern - Mapping - Masters | 2026-10-15 | — | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern--AI-ML-Engineer--Mapping--Masters-_JR-202622539) |
@@ -3390,7 +3386,7 @@ _747 role(s) across 85 influential companies._
 | ProCogia | LLM Research Intern | 2026-10-09 | — | [Apply](https://go.vansh.nyc/1tb) |
 | SageSure | Data Operations Engineer Intern | 2026-10-09 | — | [Apply](https://go.vansh.nyc/1tc) |
 
-## zshah101 (2027 + Fall 2026) (252)
+## zshah101 (2027 + Fall 2026) (253)
 
 | Company | Role | Posted | Applied | Link |
 |---|---|---|---|---|
@@ -3405,6 +3401,7 @@ _747 role(s) across 85 influential companies._
 | Lawrence Livermore National Laboratory (LLNL) | Cybersecurity Undergraduate Intern - Cyber and Critical Infrastructure Summer Institute - Summer 2027 | 2026-11-19 | — | [Apply](https://jobs.smartrecruiters.com/LLNL/3743990016984696) |
 | Galaxy | 2027 Site Reliability Engineer Intern-Afton, Texas | 2026-11-18 | — | [Apply](https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6265138004) |
 | Clera | Full-Stack Software Engineering Intern | 2026-11-17 | — | [Apply](https://jobs.ashbyhq.com/Clera/42992916-9ca1-48ca-9378-f4a13ea3733d) |
+| HexArmor | Software Engineering Intern | 2026-11-16 | — | [Apply](https://job-boards.greenhouse.io/hexarmor/jobs/8206200003) |
 | Pacific Fusion | Summer 2027 HPC/DevOps Engineering Intern | 2026-11-16 | — | [Apply](https://job-boards.greenhouse.io/pacificfusion/jobs/4505668009) |
 | Northwell Health | Emerging Technology & AI Internship | 2026-11-15 | — | [Apply](https://eppr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/203746) |
 | Amazon | Data Center Infrastructure Engineer Intern, Summer 2027 - West Coast | 2026-11-14 | — | [Apply](https://www.amazon.jobs/en/jobs/10605132/data-center-infrastructure-engineer-intern-summer-2027-west-coast) |
