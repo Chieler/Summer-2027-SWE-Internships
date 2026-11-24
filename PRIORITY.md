@@ -1,6 +1,6 @@
 # 🔥 Priority — Fresh Summer 2027 Roles
 
-_**Pulled:** 2026-11-24 16:36 UTC  —  472 role(s) explicitly tagged Summer 2027 and posted within the last 14 days._
+_**Pulled:** 2026-11-24 21:07 UTC  —  478 role(s) explicitly tagged Summer 2027 and posted within the last 14 days._
 
 | Company | Role | Posted | Applied | Link |
 |---|---|---|---|---|
@@ -8,6 +8,11 @@ _**Pulled:** 2026-11-24 16:36 UTC  —  472 role(s) explicitly tagged Summer 202
 | Illumio | AI-Based Scale & Performance Test Automation Intern | 2026-11-24 | — | [Apply](https://go.vansh.nyc/1HK) |
 | ZOLL Medical Corporation | Software Automation Intern | 2026-11-24 | — | [Apply](https://go.vansh.nyc/1I1) |
 | BEUMER Group | AI Development Intern | 2026-11-24 | — | [Apply](https://go.vansh.nyc/1I9) |
+| Altera | AI Software Development Engineer Intern | 2026-11-24 | — | [Apply](https://go.vansh.nyc/1Ih) |
+| Altera | Embedded Solutions Intern | 2026-11-24 | — | [Apply](https://go.vansh.nyc/1Ii) |
+| QinetiQ | Software Engineer Intern | 2026-11-24 | — | [Apply](https://go.vansh.nyc/1Ip) |
+| General Motors | Software Verification Engineer Intern, AV/AI Platform | 2026-11-24 | — | [Apply](https://go.vansh.nyc/1Ir) |
+| Aptima Inc. (All Jobs) | Software Engineer Intern | 2026-11-24 | — | [Apply](https://go.vansh.nyc/1Is) |
 | SharkNinja | Firmware Engineer Intern - Advanced Development | 2026-11-24 | — | [Apply](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4721682006) |
 | Illumio | Engineering Intern - Architecture Platform | 2026-11-24 | — | [Apply](https://jobs.ashbyhq.com/illumio/a211377c-7db7-4c62-97ba-8176c5a61293/application?embed=true) |
 | Veolia | Manufacturing Software Engineer Intern | 2026-11-24 | — | [Apply](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000163377969) |
@@ -28,6 +33,8 @@ _**Pulled:** 2026-11-24 16:36 UTC  —  472 role(s) explicitly tagged Summer 202
 | Capital Technology Group | Data Engineering and Data Science Intern | 2026-11-23 | — | [Apply](https://go.vansh.nyc/1Hu) |
 | Artefact | AI Engineering Intern | 2026-11-23 | — | [Apply](https://go.vansh.nyc/1I4) |
 | Idaho National Laboratory | Infrastructure Data Integration & Risk-Informed Maintenance Pilot Intern | 2026-11-23 | — | [Apply](https://go.vansh.nyc/1I6) |
+| Philips | Embedded Software Development Intern, AI-Agentic | 2026-11-23 | — | [Apply](https://go.vansh.nyc/1Ij) |
+| T-Mobile | Site Reliability Engineering (SRE) Intern, Database Platform Engineering | 2026-11-23 | — | [Apply](https://go.vansh.nyc/1Ik) |
 | First Resonance | Product Management Intern | 2026-11-23 | — | [Apply](https://jobs.ashbyhq.com/first-resonance/56d901c8-ad63-4206-b5cb-b5691585b741/application?embed=true) |
 | First Resonance | Software Engineer Intern - Platform | 2026-11-23 | — | [Apply](https://jobs.ashbyhq.com/first-resonance/0c88b508-432d-442d-aa5f-486e08aaf5a7/application?embed=true) |
 | JP Morgan Chase | Machine Learning Intern - Time Series and Reinforcement Learning | 2026-11-23 | — | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210806784) |
@@ -83,6 +90,7 @@ _**Pulled:** 2026-11-24 16:36 UTC  —  472 role(s) explicitly tagged Summer 202
 | CAS | Technology Intern, Software Engineering | 2026-11-20 | — | [Apply](https://go.vansh.nyc/1E9) |
 | TransUnion | Data Science & Analytics Intern | 2026-11-20 | — | [Apply](https://go.vansh.nyc/1Ea) |
 | CAS | Infrastructure Engineer Intern, Technology | 2026-11-20 | — | [Apply](https://go.vansh.nyc/1Ej) |
+| Altera | FPGA Software Engineer Intern | 2026-11-20 | — | [Apply](https://go.vansh.nyc/1Et) |
 | The SilverLogic | AI Engineer/Consultant Intern | 2026-11-20 | — | [Apply](https://go.vansh.nyc/1EE) |
 | Cisco | Data Science Analyst II Intern | 2026-11-20 | — | [Apply](https://go.vansh.nyc/1F1) |
 | Rivian | Software Engineering Intern, AI Platform, Autonomy | 2026-11-20 | — | [Apply](https://go.vansh.nyc/1F3) |
@@ -179,7 +187,6 @@ _**Pulled:** 2026-11-24 16:36 UTC  —  472 role(s) explicitly tagged Summer 202
 | Blue Cross Blue Shield of Michigan | Object Oriented Programming Intern | 2026-11-19 | — | [Apply](https://go.vansh.nyc/1DG) |
 | Lawrence Livermore National Laboratory (LLNL) | Cybersecurity Undergraduate Intern, Cyber and Critical Infrastructure | 2026-11-19 | — | [Apply](https://go.vansh.nyc/1DP) |
 | Sezzle | A.I. Engineering Intern | 2026-11-19 | — | [Apply](https://go.vansh.nyc/1Es) |
-| Trimble | QA Engineer Intern | 2026-11-19 | — | [Apply](https://go.vansh.nyc/1G2) |
 | Toyota Research Institute | Robotics Intern - Generalist Robot Learning | 2026-11-19 | — | [Apply](https://jobs.lever.co/tri/4cac9569-cc90-4dcd-96b8-d9777c35c943/apply) |
 | MSA Safety | Electrical Engineering Intern/Co-op | 2026-11-19 | — | [Apply](https://careers.msasafety.com/jobs/10586?icims=1&lang=en-us) |
 | Atlantic Health System | Pharmacy Intern - Data Analytics | 2026-11-19 | — | [Apply](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/34551) |
@@ -205,7 +212,6 @@ _**Pulled:** 2026-11-24 16:36 UTC  —  472 role(s) explicitly tagged Summer 202
 | NVIDIA | Applied Research Scientist Intern - Agentic Biology | 2026-11-19 | — | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Research-Scientist-Intern--Agentic-Biology---Summer-2027_JR2029307) |
 | Schnucks | Data Science Generative AI Intern | 2026-11-19 | — | [Apply](https://schnucks.wd5.myworkdayjobs.com/SchnucksCareers/job/Schnucks-Store-Support-Center-Corporate-Office/XMLNAME-2027-Data-Science---Generative-AI-Internship_R-0043971) |
 | Genentech | AI for Drug Discovery Intern - AI for Drug Discovery - AIDD | 2026-11-19 | — | [Apply](https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/New-York-City/XMLNAME-2027-Summer-Intern---AI-for-Drug-Discovery--AIDD-_202611-129550-1) |
-| DraftKings | Data Engineer Intern | 2026-11-19 | — | [Apply](https://draftkings.wd1.myworkdayjobs.com/Campus_Career_Portal/job/Boston-MA/Data-Engineer-Intern--Summer-2027-_JR15464) |
 | Lucid Motors | Intern, Embedded Software – BSP/Platform (ADAS/Autonomous Driving), Summer 2027 | 2026-11-19 | — | [Apply](https://lucidmotors.com/careers/search/5290800007?gh_jid=5290800007) |
 | Lucid Motors | Intern, Software QA Engineer, Infotainment, Summer 2027 | 2026-11-19 | — | [Apply](https://lucidmotors.com/careers/search/5290925007?gh_jid=5290925007) |
 | Lucid Motors | Intern, Motor Control Software Development and Validation Engineer, Summer 2027 | 2026-11-19 | — | [Apply](https://lucidmotors.com/careers/search/5290947007?gh_jid=5290947007) |
