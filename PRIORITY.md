@@ -1,10 +1,12 @@
 # 🔥 Priority — Fresh Summer 2027 Roles
 
-_**Pulled:** 2026-11-24 00:35 UTC  —  457 role(s) explicitly tagged Summer 2027 and posted within the last 14 days._
+_**Pulled:** 2026-11-24 02:32 UTC  —  462 role(s) explicitly tagged Summer 2027 and posted within the last 14 days._
 
 | Company | Role | Posted | Applied | Link |
 |---|---|---|---|---|
-| Illumio | AI-Based Scale & Performance Test Automation Intern | 2026-11-24 | — | [Apply](https://jobs.ashbyhq.com/illumio/78a9e57d-c213-405b-9cf3-6e68109a4ce7) |
+| SharkNinja | Firmware Engineering Intern, Advanced Development | 2026-11-24 | — | [Apply](https://go.vansh.nyc/1HJ) |
+| Illumio | AI-Based Scale & Performance Test Automation Intern | 2026-11-24 | — | [Apply](https://go.vansh.nyc/1HK) |
+| SharkNinja | Firmware Engineer Intern - Advanced Development | 2026-11-24 | — | [Apply](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4721682006) |
 | MITRE | Generative and Agentic AI Intern | 2026-11-23 | — | [Apply](https://go.vansh.nyc/1GB) |
 | MITRE | Cybersecurity and Information Security Intern | 2026-11-23 | — | [Apply](https://go.vansh.nyc/1GC) |
 | Nintendo | IT Platform Engineer Intern | 2026-11-23 | — | [Apply](https://go.vansh.nyc/1GU) |
@@ -41,7 +43,6 @@ _**Pulled:** 2026-11-24 00:35 UTC  —  457 role(s) explicitly tagged Summer 202
 | Oscar Health | Software Engineer Intern | 2026-11-23 | — | [Apply](https://oscarhealth.com/careers/jobs?gh_jid=8407472) |
 | Shield AI | 2027 Summer Intern - Software Engineering - 5815 | 2026-11-23 | — | [Apply](https://jobs.ashbyhq.com/shield/f96617c2-a120-4b3b-844d-790fcda42503) |
 | Capital Technology Group | Summer Internship - Software Development | 2026-11-23 | — | [Apply](https://boards.greenhouse.io/capitaltg/jobs/5281563007?gh_jid=5281563007) |
-| SharkNinja | Summer 2027: Firmware Engineering Intern, Advanced Development (May to August) | 2026-11-23 | — | [Apply](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4721682006) |
 | Neros Technologies | Firmware/Embedded Software Engineer Intern | 2026-11-22 | — | [Apply](https://go.vansh.nyc/1Go) |
 | Neogen | Embedded Systems Engineer Intern | 2026-11-22 | — | [Apply](https://go.vansh.nyc/1Gp) |
 | MITRE | Embedded Security Intern, Electronics Prototype | 2026-11-22 | — | [Apply](https://go.vansh.nyc/1GA) |
@@ -145,7 +146,6 @@ _**Pulled:** 2026-11-24 00:35 UTC  —  457 role(s) explicitly tagged Summer 202
 | Resultant | Data & Analytics Consultant Intern | 2026-11-20 | — | [Apply](https://jobs.smartrecruiters.com/Resultant/744000162782371) |
 | Walmart | MBA Product Manager Intern - MBA | 2026-11-20 | — | [Apply](https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-Together-Building-AR-Bentonville-Home-Office/Summer-2027-MBA-Intern--APD-Product-Manager---MBA_R-2630166) |
 | Woodward Governor | AI Intern | 2026-11-20 | — | [Apply](https://woodward.wd5.myworkdayjobs.com/woodward/job/Fort-Collins---Lincoln-Campus-HQ/AI-Summer-2027-Internship_JR114291) |
-| AriensCo | Product Management Intern | 2026-11-20 | — | [Apply](https://arienscompany.wd5.myworkdayjobs.com/external/job/WI---Brillion/Product-Management-Intern_R-04305) |
 | Littelfuse | R&D Engineering Intern | 2026-11-20 | — | [Apply](https://littelfuse.wd1.myworkdayjobs.com/Littelfuse-University-Relations/job/Rapid-City/R-D-Engineering-Intern_JR-112833-1) |
 | NVIDIA | Technical Marketing Engineer Intern - Digital Biology and Scientific Computing | 2026-11-20 | — | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Technical-Marketing-Engineering-Intern--Digital-Biology-and-Scientific-Computing---Summer-2027_JR2029793) |
 | Draper | Operational Analysis Intern - Summer 2027 | 2026-11-20 | — | [Apply](https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Operational-Analysis-Intern--Summer-2027-_JR003182) |
@@ -345,6 +345,11 @@ _**Pulled:** 2026-11-24 00:35 UTC  —  457 role(s) explicitly tagged Summer 202
 | Camping World | Data Engineering Intern | 2026-11-13 | — | [Apply](https://campingworld.wd5.myworkdayjobs.com/en-US/Jobs/job/Chicago-IL/Data-Engineering-Intern_26_09297) |
 | Camping World | Data Analyst Intern - AI & Machine Learning Focus | 2026-11-13 | — | [Apply](https://campingworld.wd5.myworkdayjobs.com/en-US/Jobs/job/Chicago-IL/Data-Analyst-Intern_26_09300) |
 | Blizzard Entertainment | Animation & Cinematic Tools Engineering Intern - Animation & Cinematic Tools Engineering | 2026-11-13 | — | [Apply](https://xboxgaming.wd1.myworkdayjobs.com/Blizzard_External_Careers/job/Irvine---Blizzard---Blizzard-Way/Blizzard-2027-Summer-Internships---Animation---Cinematic-Tools-Engineering_R028350) |
+| Strava | Software Engineer Intern - Android - Subscriptions | 2026-11-13 | — | [Apply](https://jobs.ashbyhq.com/Strava/02999001-164a-45c2-a763-03dedf458f0c/application?embed=true) |
+| Strava | Software Engineer Intern - Server - Comms | 2026-11-13 | — | [Apply](https://jobs.ashbyhq.com/Strava/96968b02-dde9-4e0d-b6a8-d2363f550126/application?embed=true) |
+| Strava | Software Engineer Intern - Server - User Lifecycle | 2026-11-13 | — | [Apply](https://jobs.ashbyhq.com/Strava/12d85f67-5fac-4dfa-8fd7-a4f886b4a10a/application?embed=true) |
+| Strava | Machine Learning Engineer Intern - AI/ML Data Products | 2026-11-13 | — | [Apply](https://jobs.ashbyhq.com/Strava/e4e04f82-bc91-4bc1-b775-85b2b2549023/application?embed=true) |
+| Strava | Software Engineer Intern - Server - Next Sports | 2026-11-13 | — | [Apply](https://jobs.ashbyhq.com/Strava/0a1c94e3-c19c-47a4-9974-5cc86b74e3e9/application?embed=true) |
 | Rocket Companies | Data Analyst Intern - Summer 2027 | 2026-11-13 | — | [Apply](https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Detroit-MI/Data-Analyst-Intern---Summer-2027_R-083832) |
 | Bloom Energy | AI Solutions Engineer Intern | 2026-11-12 | — | [Apply](https://go.vansh.nyc/1vK) |
 | ServiceNow | Associate AI Engineering Intern, Cloud Security Automation | 2026-11-12 | — | [Apply](https://go.vansh.nyc/1vZ) |
