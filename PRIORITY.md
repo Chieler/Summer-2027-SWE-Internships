@@ -1,6 +1,6 @@
 # 🔥 Priority — Fresh Summer 2027 Roles
 
-_**Pulled:** 2026-11-25 18:48 UTC  —  436 role(s) explicitly tagged Summer 2027 and posted within the last 14 days._
+_**Pulled:** 2026-11-25 21:55 UTC  —  439 role(s) explicitly tagged Summer 2027 and posted within the last 14 days._
 
 | Company | Role | Posted | Applied | Link |
 |---|---|---|---|---|
@@ -10,6 +10,8 @@ _**Pulled:** 2026-11-25 18:48 UTC  —  436 role(s) explicitly tagged Summer 202
 | Saputo | Data Engineer Intern, Enterprise Analytics | 2026-11-25 | — | [Apply](https://go.vansh.nyc/1Jd) |
 | Apex Technology, Inc. | Flight Software Engineering Intern | 2026-11-25 | — | [Apply](https://go.vansh.nyc/1Jg) |
 | SambaNova | Compiler Engineer Intern | 2026-11-25 | — | [Apply](https://go.vansh.nyc/1Jk) |
+| Celestica | Engineering Data Analytics Intern | 2026-11-25 | — | [Apply](https://go.vansh.nyc/1Jm) |
+| Jabil | Data Scientist Intern | 2026-11-25 | — | [Apply](https://go.vansh.nyc/1Jo) |
 | Bandwidth | Software Engineer Intern | 2026-11-25 | — | [Apply](https://job-boards.greenhouse.io/bandwidth/jobs/8414452) |
 | Waters | IT Digital Intern | 2026-11-25 | — | [Apply](https://uscareers-waters.icims.com/jobs/30387/job?mobile=true&needsRedirect=false) |
 | SharkNinja | Firmware Engineering Intern, Advanced Development | 2026-11-24 | — | [Apply](https://go.vansh.nyc/1HJ) |
@@ -29,7 +31,6 @@ _**Pulled:** 2026-11-25 18:48 UTC  —  436 role(s) explicitly tagged Summer 202
 | Nasdaq | Data Engineering Intern | 2026-11-24 | — | [Apply](https://go.vansh.nyc/1Jl) |
 | SharkNinja | Firmware Engineer Intern - Advanced Development | 2026-11-24 | — | [Apply](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4721682006) |
 | Illumio | Engineering Intern - Architecture Platform | 2026-11-24 | — | [Apply](https://jobs.ashbyhq.com/illumio/a211377c-7db7-4c62-97ba-8176c5a61293/application?embed=true) |
-| Veolia | Manufacturing Software Engineer Intern | 2026-11-24 | — | [Apply](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000163377969) |
 | iCapital Network | SI and Annuities Intern | 2026-11-24 | — | [Apply](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8958714002) |
 | Fanatics | Product Management Intern - Card Tech | 2026-11-24 | — | [Apply](https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4519886009) |
 | WSP | Geographic Information Systems Science Intern | 2026-11-24 | — | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/99829) |
@@ -40,6 +41,7 @@ _**Pulled:** 2026-11-25 18:48 UTC  —  436 role(s) explicitly tagged Summer 202
 | Kimley-Horn | Data Science Intern | 2026-11-24 | — | [Apply](https://careers.kimley-horn.com/jobs/29737?icims=1&lang=en-us) |
 | Charles Schwab | Treasury Modeling Intern | 2026-11-24 | — | [Apply](https://career-schwab.icims.com/jobs/126255/job?mobile=true&needsRedirect=false) |
 | SambaNova Systems | Runtime Engineer Intern | 2026-11-24 | — | [Apply](https://sambanova.ai/sambanova-available-positions/?gh_jid=6270727004) |
+| Veolia | Manufacturing Software Engineer Intern | 2026-11-24 | — | [Apply](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000163377969) |
 | MITRE | Generative and Agentic AI Intern | 2026-11-23 | — | [Apply](https://go.vansh.nyc/1GB) |
 | MITRE | Cybersecurity and Information Security Intern | 2026-11-23 | — | [Apply](https://go.vansh.nyc/1GC) |
 | Nintendo | IT Platform Engineer Intern | 2026-11-23 | — | [Apply](https://go.vansh.nyc/1GU) |
@@ -197,6 +199,7 @@ _**Pulled:** 2026-11-25 18:48 UTC  —  436 role(s) explicitly tagged Summer 202
 | Scout Space | Computer Vision Engineer Intern, AI/ML | 2026-11-19 | — | [Apply](https://go.vansh.nyc/1CQ) |
 | Amperity | Software Development Engineer Intern | 2026-11-19 | — | [Apply](https://go.vansh.nyc/1CY) |
 | Piper Sandler | Data Engineering Intern | 2026-11-19 | — | [Apply](https://go.vansh.nyc/1D8) |
+| Lutron | Embedded Firmware Engineering Intern | 2026-11-19 | — | [Apply](https://go.vansh.nyc/1Db) |
 | Lutron | Software Engineering Intern | 2026-11-19 | — | [Apply](https://go.vansh.nyc/1Df) |
 | Lutron | Data Science and Machine Learning Intern | 2026-11-19 | — | [Apply](https://go.vansh.nyc/1Dl) |
 | HeartFlow | Platform Engineering Intern | 2026-11-19 | — | [Apply](https://go.vansh.nyc/1Ds) |
