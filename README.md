@@ -1,10 +1,10 @@
 # 2027 SWE / Software-Adjacent Internships
 
-_**Pulled:** 2026-11-25 21:55 UTC  —  2910 matching roles found this run._
+_**Pulled:** 2026-11-25 22:08 UTC  —  2909 matching roles found this run._
 
 **[Open live LinkedIn search](https://www.linkedin.com/jobs/search/?keywords=software%20engineer%20intern%202027&f_E=1&f_JT=I)** (LinkedIn can't be scraped reliably from CI, so this is a one-tap live link instead.)
 
-## Simplify/pittcsc (1534)
+## Simplify/pittcsc (1533)
 
 | Company | Role | Posted | Applied | Link |
 |---|---|---|---|---|
@@ -450,7 +450,6 @@ _**Pulled:** 2026-11-25 21:55 UTC  —  2910 matching roles found this run._
 | Adobe | Research Scientist Intern | 2026-11-13 | — | [Apply](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/London/XMLNAME-2027-Intern---Research-Scientist_R173345) |
 | Minitab | Research & Design Intern | 2026-11-13 | — | [Apply](https://job-boards.greenhouse.io/minitab/jobs/8200707003) |
 | Cantor Fitzgerald | Technology Summer Internship - Development | 2026-11-13 | — | [Apply](https://hdow.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/250537) |
-| Fonds de solidarité FTQ | Business Intelligence and M365 Solutions Intern | 2026-11-13 | — | [Apply](https://fondsftq.wd10.myworkdayjobs.com/sitecarriere_externe/job/Fonds-de-solidarit-FTQ--Sige-social---Montral-Canada/Stagiaire-en-intelligence-d-affaires-et-solutions-M365_DP5874) |
 | Entegris | Associate Product Manager Intern | 2026-11-13 | — | [Apply](https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Chaska-MN/Associate-Product-Manager-Intern_REQ-15844) |
 | Hiebing | AI Agent Developer Intern | 2026-11-13 | — | [Apply](https://hiebing.applytojob.com/apply/yIhDpeWv4F/AI-Agent-Developer-Intern) |
 | Koch Industries | Product Management Intern - Aerospace & Defense Solutions | 2026-11-13 | — | [Apply](https://koch.avature.net/en_US/careers/JobDetail/197821) |
