@@ -1,6 +1,6 @@
 # 🔥 Priority — Fresh Summer 2027 Roles
 
-_**Pulled:** 2026-11-26 17:50 UTC  —  419 role(s) explicitly tagged Summer 2027 and posted within the last 14 days._
+_**Pulled:** 2026-11-26 22:07 UTC  —  419 role(s) explicitly tagged Summer 2027 and posted within the last 14 days._
 
 | Company | Role | Posted | Applied | Link |
 |---|---|---|---|---|
@@ -57,6 +57,7 @@ _**Pulled:** 2026-11-26 17:50 UTC  —  419 role(s) explicitly tagged Summer 202
 | Draper | Simulation Engineering Intern | 2026-11-24 | — | [Apply](https://go.vansh.nyc/1J9) |
 | Nasdaq | Data Engineering Intern | 2026-11-24 | — | [Apply](https://go.vansh.nyc/1Jl) |
 | FormFactor | AI/ML Engineering Intern | 2026-11-24 | — | [Apply](https://go.vansh.nyc/1K1) |
+| BEUMERGroup1 | AI Development Intern | 2026-11-24 | — | [Apply](https://go.vansh.nyc/1Kn) |
 | SharkNinja | Firmware Engineer Intern - Advanced Development | 2026-11-24 | — | [Apply](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4721682006) |
 | Illumio | Engineering Intern - Architecture Platform | 2026-11-24 | — | [Apply](https://jobs.ashbyhq.com/illumio/a211377c-7db7-4c62-97ba-8176c5a61293/application?embed=true) |
 | iCapital Network | SI and Annuities Intern | 2026-11-24 | — | [Apply](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8958714002) |
@@ -64,7 +65,6 @@ _**Pulled:** 2026-11-26 17:50 UTC  —  419 role(s) explicitly tagged Summer 202
 | WSP | Geographic Information Systems Science Intern | 2026-11-24 | — | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/99829) |
 | Intuitive Surgical | Product Management MBA Intern | 2026-11-24 | — | [Apply](https://jobs.smartrecruiters.com/Intuitive/744000163546809) |
 | Amazon | Front-End Engineer Intern | 2026-11-24 | — | [Apply](https://amazon.jobs/en/jobs/10609992/front-end-engineer-internship-2027-us) |
-| Johns Hopkins Applied Physics Laboratory | Artificial Intelligence and Complex Systems Intern | 2026-11-24 | — | [Apply](https://careers.jhuapl.edu/jobs/60935?icims=1&lang=en-us) |
 | Medpace | Clinical Intelligence Intern | 2026-11-24 | — | [Apply](https://careers.medpace.com/jobs/13558?icims=1&lang=en-us) |
 | Kimley-Horn | Data Science Intern | 2026-11-24 | — | [Apply](https://careers.kimley-horn.com/jobs/29737?icims=1&lang=en-us) |
 | Charles Schwab | Treasury Modeling Intern | 2026-11-24 | — | [Apply](https://career-schwab.icims.com/jobs/126255/job?mobile=true&needsRedirect=false) |
