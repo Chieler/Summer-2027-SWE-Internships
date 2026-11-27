@@ -1,6 +1,6 @@
 # 🔥 Priority — Fresh Summer 2027 Roles
 
-_**Pulled:** 2026-11-27 17:15 UTC  —  382 role(s) explicitly tagged Summer 2027 and posted within the last 14 days._
+_**Pulled:** 2026-11-27 21:48 UTC  —  383 role(s) explicitly tagged Summer 2027 and posted within the last 14 days._
 
 | Company | Role | Posted | Applied | Link |
 |---|---|---|---|---|
@@ -261,6 +261,7 @@ _**Pulled:** 2026-11-27 17:15 UTC  —  382 role(s) explicitly tagged Summer 202
 | Sezzle | A.I. Engineering Intern | 2026-11-19 | — | [Apply](https://go.vansh.nyc/1Es) |
 | NinjaHoldings | Data Science Intern | 2026-11-19 | — | [Apply](https://go.vansh.nyc/1Kf) |
 | NinjaHoldings | Software Engineer Intern | 2026-11-19 | — | [Apply](https://go.vansh.nyc/1Kg) |
+| German American Bank | Information Security Intern | 2026-11-19 | — | [Apply](https://go.vansh.nyc/1Ls) |
 | Toyota Research Institute | Robotics Intern - Generalist Robot Learning | 2026-11-19 | — | [Apply](https://jobs.lever.co/tri/4cac9569-cc90-4dcd-96b8-d9777c35c943/apply) |
 | MSA Safety | Electrical Engineering Intern/Co-op | 2026-11-19 | — | [Apply](https://careers.msasafety.com/jobs/10586?icims=1&lang=en-us) |
 | Atlantic Health System | Pharmacy Intern - Data Analytics | 2026-11-19 | — | [Apply](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/34551) |
